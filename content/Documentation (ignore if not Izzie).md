@@ -28,6 +28,7 @@ Cloudflare link: https://dash.cloudflare.com/bf1eb94bee741869f5fdbdc16a96ed04/pa
 
 
 1. Go to the following folder and open *deploy.yml* in Notepad (run as administrator):
+> [!info] Remove the extra backslash before '.github'!
 >	C:\Windows\System32\quartz\\.github\workflows
 
 2. Add the following before the *permissions* section:

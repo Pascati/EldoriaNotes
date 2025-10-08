@@ -967,7 +967,7 @@ body {
   .page article p > strong > em,
   strong > em {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250)) !important;
     cursor: auto;
     filter: none;
     font-family:
