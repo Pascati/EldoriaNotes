@@ -1,0 +1,12 @@
+- Originally called the "forbidden forest"
+- Located between [[Lancaster]] and [[Crossroads]]
+- Absolutely FILLED with fey and druidic magic
+	- Those who walk through the forest unprepared will be tempted to stray from the path by illusions
+		- The illusions can be visual or auditory ([[The Party]] heard their own voices and saw [[Vallen the Immortal|Vallen's]] footprints straying from the path; [[Vallen the Immortal|Vallen]] heard [[The Party]]'s voices say things they shouldn't be able to know)
+	- One's perception of time while in the forest is warped (for [[The Party]], time passed extremely fast without us realizing it, and we spent an entire day trying and failing to make it through the woods)
+	- So long as one remains on the path and looks down during the entire trek through the woods, they can *pass through safely*. Those who don't are sent back to where they started (rather than being allowed to make it through the woods).
+		- When a traveler looks down in order to pass through safely, creatures might tug at their clothes in an attempt to make them look up.
+		- Creatures that are immune to being Charmed are immune to the "back-to-where-you-started" magical effect.
+- Skinwalkers reside in these woods
+	- DANGEROUS! SCARY!! CAN MIMIC PEOPLES' VOICES
+	- Likely that there is a brood mother or head honcho of some kind

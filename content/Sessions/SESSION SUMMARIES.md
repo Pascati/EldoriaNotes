@@ -1,0 +1,31 @@
+- [[Session 1]]
+	- Character introductions (Camille, Kaya, Cordelia)
+	- Investigating [[the Ritual]] and the missing children
+	- Interrogating and killing [[Burt Maclyn|"Burt"]]
+	- Cordelia has the first [[Dreams & Visions|dream/vision]]!
+- [[Session 2]]
+	- Going to the [[Clover Capital|Capital]] and meeting [[Captain Purah]] for the first time
+	- Being interviewed by [[The Keeper]]
+	- The party has its first group [[Dreams & Visions|dream/vision]]!
+- [[Session 3]]
+	- Shopping session
+	- Meeting Cal!
+	- Camille meets [[Nox|"Cory"]] and learns more about [[Changelings]]
+- [[Session 4]]
+	- Combat with [[Nox|"Cory"]]
+	- Encountering the [[Blue Man]] and meeting [[Vallen The Immortal|Vallen]] for the first time!!
+	- [[Dreams & Visions|Dream]] where the party witnessed the [[Pyramid]] for the first time
+		- Also Cal's first dream! Although his was separate from the party's
+	- Started the "Hillford woman was murdered by a vampire" storyline
+- [[Session 5]]
+	- Investigating the vampire-murdered woman and meeting [[Investigator Teasley]]
+	- Mini shopping session to prep for fighting vampires
+	- Defending Hillford from vampires (combat)
+- [[Session 6]]
+	- Interrogating a [[Dagen Coven]] vampire
+	- Assigned the "Vampire Masquerade Party" mission
+	- Snooping and finding Foo's secret cellar and learning that he's been working on a way for us to travel
+	- Camille tries to shape-change
+	- Begin travelling to [[Lancaster]]
+- [[Session 7]]
+	- Party has a [[Dreams & Visions|vision]] of [[Holden]] (specifically of the [[Dagen's Masquerade|masquerade]] and Dagon's basement)

@@ -1,0 +1,3 @@
+- Inn local to [[Lycoris]], which was run by the [[Xotli family]]
+- After it was burned down in [[Session 17]], it was revealed that one of [[Foo's doors]] was hidden somewhere in the house
+	- [[Camille Xotli|Camille]] was fully unaware of the door until after the building burned down (was it always there?)

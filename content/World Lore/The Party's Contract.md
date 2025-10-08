@@ -1,0 +1,9 @@
+- As part of our agreement with [[Captain Purah]], we:
+	- Each receive *100 GP per week*
+	- Must sign up with the Mercenary's Guild (to give a good excuse to the townsfolk as to why we've returned + sick around Hillford)
+	- Must insist that we know nothing of the orb + it never existed
+	- Must return to the capital and report to Captain Purah once every few months
+		- Summons will be sent via an unmarked courier leaving a message at our bedsides
+	- Are essentially contracted to [[Clover Military|the kingdom's military]]
+- **This contract lasts for a year**
+- Everyone in [[The Party|the party]] at the time ([[Kaya Avarice]], [[Cordelia Elysian|Cordelia]], and [[Camille Xotli|Camille]]) agreed to this contract
