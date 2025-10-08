@@ -880,7 +880,7 @@ body {
   .page article p > em,
   em {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250)) !important;
     cursor: auto;
     filter: none;
     font-family:
@@ -909,7 +909,7 @@ body {
   .page article p > i,
   i {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250)) !important;
     cursor: auto;
     filter: none;
     font-family:
