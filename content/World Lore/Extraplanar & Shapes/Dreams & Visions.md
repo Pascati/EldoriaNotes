@@ -44,9 +44,21 @@ banner-radius: 15
 - Cal dreamed of an abandoned, destroyed city, in which buildings were on fire and he was surrounded by bodies
 - He saw a cloaked figure floating in the sky
 - As Cal raised his hand, blood fell from the sky
+- As revealed in [[Session 6]], Cordelia realized that this dream is the very first one she had (that NO ONE ELSE HAD) from [[Session 1]]
 
 ## Dream 4
-- First instance of one of [[The Curator]]'s dreams!
+- Occurred during [[Session 6]]; the first instance of one of [[The Curator]]'s dreams!
+- The party found themselves in the same swamp, but then a white slash split through reality
+	- The party was then transported to a sunny meadow filled with pinkish-blueish flowers, with a the broken-down ruins of a chapel nearby
+	- Flowers that are picked regrow
+	- In this setting, the party can move freely and speak to each other
+- Within the chapel, the party meets [[The Curator]] for the first time, who reveals:
+	- That he curates dreams/visions created by the [[Orb]] and [[Pyramid]], and why we have been receiving dreams (the [[Orb]] wants to prepare us for the future, while the [[Pyramid]] is more enigmatic and acts of its own volition, moreso than the [[Orb]]. It is later revealed in [[Session 17]] that the [[Orb]] is able to make its own choices as well, although such actions were limited to after its awakening)
+	- [[The Keeper]] has been chosen to study the [[Orb]], but not to know the future
+	- The [[Orb]] has chosen us to prevent what the [[Pyramid]] is planning
+	- Namedrops the [[Shapes of Paracausality]]
+		- They are called this because they don’t abide by our laws of nature
+- The party is told to escape through a door (massive portal that looks like a mirror) before the [[Pyramid]] is able to take over control of the dream
 
 ## Dream 5
 - Occurred during [[Session 7]]

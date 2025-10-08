@@ -1,5 +1,5 @@
 # Character Profile
-![[Vallen the Immortal.jpg]]
+![[Vallen The Immortal.png]]
 - Rogue (Paladin Operative), Level 7
 - Vampire (former elf)
 - 330 years old
