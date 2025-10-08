@@ -1,1 +1,1 @@
-- Led by [[Cordelia Elysian]]'s father, [[Captain Arthur]]
+- Led by [[Cordelia Elysian]]'s father, [[Captain Arthur Elysian]]

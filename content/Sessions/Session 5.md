@@ -1,0 +1,369 @@
+---
+share_link: https://share.note.sx/lrcdfdgw#AbdCuWR0TakzIHoHoel188+4QgRb9APJ+4pTk9su/bk
+share_updated: 2025-07-06T19:22:02-05:00
+---
+# Mystery Gang Go!
+- Group Investigation
+	- Cordelia: 24
+	- Kaya: 6
+	- Cal: 19
+	- Camille: 13
+- Everyone (except for Kaya) notice blood tracks from the body towards the window
+	- The window appears to have been *broken outwards* -- there is glass outside, but not inside
+	- This means the vampire went outside
+- How long has the woman been dead?
+	- 3-4 hours (based on our collective investigation checks)
+- Is it shady enough for a vampire to go outside?
+	- No?
+- Cal asks how the vampire got *inside*, since (most) vampires need to be invited inside of buildings
+	- The man admits that **his marriage was failing, so his wife invited someone else inside last night**
+- QUICK ASIDE: CORDELIA NOW HAS AN EXTRA SKILL SO SHE CAN ROLL TO "STICK HER DICK IN IT" ![[Pasted image 20250629201534.png]]
+- The husband admits to **double cheating** on his wife, which is why he wasn't home
+- Camille offers to help bury the wife's body -- the husband is amenable to that
+- There's a knock at the door. It is a WOMAN!!
+	- ![[Investigator Teasley.png|240]]
+	- **Investigator Teasley**
+	- WE'RE NOW MURDER SUSPECTS
+- Cordelia takes the accusation PERSONALLY!! So does Kaya -- Camille's like "idc this makes sense"
+- Investigator Teasley already knows about us! She's just doing her due diligence
+- Camille asks Cal to inform Investigator Teasley about the vampire
+	- The way he talks immediately stresses Camille out. fuck this stupid baka life
+- Investigator Teasley says that she'll swap information with us *at the garrison* before she leaves
+- Cordelia gets on Vallen's ASS for not speaking up while the Investigator was here
+	- HE'S LITERALLY A VAMPIRE AT THE SCENE OF THE CRIME
+	- WELL HE KILLS PEOPLE FOR A LIVING! HE DOESN'T HELP PEOPLE!!!
+- The gang debates on whether or not we should follow Investigator Teasley
+	- Camille just follows after the investigator bcs they're tired of all the arguing 💀 -- the rest of the gang follows
+
+# At The Garrison
+- There are guards around chatting, some battle plans on the table, a handful of citizens sitting in chairs
+	- BASICALLY a fantasy police office
+	- *Looks like a bar turned into a garrison*
+- Investigator Teasley sits at the head of a long table, and gestures for us to sit at either side of the table next to her
+	- Cal is ALL THE WAY IN THE BACK leaning against the wall
+	- Cordelia sits in the middle of the table
+- TEASLEY KNOWS VALLEN???
+	- They knew each other in the capital
+	- Vallen thinks they were on good term (Teasley's reaction says they were NOT LMAO)
+- Anyways Teasley knows our deal (sans the vision stuff) -- so we technically report to her since we're contracted into the military now
+- **What we tell Teasley:**
+	- A vampire escaped from a nearby town, we're here to investigate it
+	- The blue man who witnessed us
+		- Camille shows her the picture LMAO
+		- SHE'S BAFFLED THAT WE JUST LEFT A DEAD BODY ON THE STREET
+- DID VALLEN AND TEASLEY FUCK???
+	- yeah 😏
+- Cordelia realizes that she killed a man yesterday and we left his body on the street
+	- SHE STARTS WAILING!!!!
+	- KAYA SLAPS HER AND TELLS HER TO GET HER SHIT TOGETHER
+- **What Teasley tells us:**
+	- What she says must NOT leave this room. If it does, then 
+	- There are a dispatchment of vampires from a specific coven that the garrison is looking into
+	- They're outside of town most nights
+	- They usually don't approach the town, but they seem to be *searching for something or someone* (they believe it's something though)
+	- The garrison doesn't know who they are though
+	- Back in the day, there were multiple covens. But there was a SPECIFIC coven that were known to have **daywalkers: the [[Dagon Coven]]**. These are our main suspects
+- Who would like to participate?
+	- Camille wants to help
+	- Cal is down for a good old fashioned vampire hunt
+	- Kaya's just curious
+	- Cordelia's uncertain -- BUT SHE'S IN! DESPITE THE RISKS AND THE POSSIBILITY OF NEEDING TO MURDER SOMEONE ELSE!!
+- Teasley throws a knife at the door, which prompts a fully-plated guardsman to walk in and ask what the fuck is up (not literally tho)
+	- She asks them to give us some more gold to buy supplies!!
+- *We will meet back at the garrison at dusk*
+- As we leave, one of the guards hands out pouches of **200 GP EACH**
+
+# SHOPPING EPISODE PART 2
+- Story Initiative
+	- Kaya: 11
+	- Cordelia: 9
+	- Cal: 3
+	- Camille: 2
+## Brief Side-Conversation
+- Cal is like "so you're just gonna be here all the time huh🤨?" LIKE HE'S TRYING TO PICK A FIGHT 😧
+	- Cordelia tries to avoid conflict by asking where in the capital he's from
+	- Vallen's gonna be here for a while, but *he's from the north*
+		- Camille's also from the north! From the woods near Holden
+			- THE GANG'S LIKE 😧
+			- APPARENTLY THE WOODS NEAR HOLDEN ARE SUPER DANGEROUS. WHOOPSIE!
+			- Camille makes it super uncomfy by talking about looking for dead bodies as children w/ their brother 😎
+		- Camille insight (16) on Vallen's weird look @ them: he knows something about the woods that they don't 🤨
+
+## Kaya Goes to the Blacksmith
+- Kaya's looking for something silver -- preferably a staff or a spear
+	- They're *5 GP a piece*
+	- THIS DUDE'S GOT A FUCKTON OF SPEARS!!
+- *Kaya orders 10 spears* bcs she can fit them in her bag of holding!!
+	- It costs 50 GP
+	- **It is a BONUS ACTION to pull objects out of a bag of holding**
+- She compliments his beard 😊 he grew it himself!!
+	-  HE LIKES KAYA SO MUCH!!! YIPEE
+	- HE SAYS THAT SHE SHOULD BRING HER FRIENDS!! SHE WILL
+- His name is [[Durgen Coalbeard]]
+	- He doesn't have very many friends :( IT'S OK BCS KAYA'S HIS HOMIE NOW!!!
+- Lily: This is THE most wholesome thing Kaya's done this entire campaign
+- Kaya bids goodbye to her new bestie and starts heading towards where the rest of the group is
+
+## The Gang Buries a Body (Maybe 2)
+- Camille asks Cordelia for some vials *so they can make holy water* later
+	- It takes an hour to make a single vial, so they might need 4-5 vials (out of Cordelia's total of 12)
+- Cal says that Vallen's shirt is nice, and asks if it comes in a men's size
+	- WHY IS HE ALSO SEXIST :(
+- Vallen asks Cal why he hates him
+	- HE GETS IGNORED!!! DAMN
+	- Camille whispers to Vallen that it might be because that he's from the Clover military and also a vampire
+- We arrive at the house!! The door is boarded up and there are two guards standing on either side of the door
+	- CORDELIA KNOCKS ON THE DOOR 😭 THE GUARDS ARE RIGHT THERE!!!
+	- One of the guards is very polite and opens the door for her
+- Camille says a short prayer over the body (we can't bury it bcs it's under active investigation LMAO) and Cordelia helps by lighting a stick of incense
+- Camille asks Vallen to come with them to Foo's bar so they can ask him some questions about vampire stuff while they make holy water
+	- They ask Cordelia and Cal if they want to go buy supplies while they make holy water
+- KAYA SHOWS BACK UP YIPEE!!
+	- SHE SHOWS OFF HER NEW SPEARS AND IS SO EXCITED ABOUT HER NEW FRIEND
+	- **Vallen seems to recognize Durgen Coalbeard's name?**
+		- HE SEEMS TO FREAK OUT?? AND *BOLTS OUT THE DOOR*
+		- CAMILLE FOLLOWS IMMEDIATELY
+		- THE REST OF THE GANG FOLLOWS
+
+# WHAT THE FUCK IS UP WITH DURGEN?
+- Vallen bursts through the door of the blacksmith, and we hear yelling
+- Insight to see what the yelling is about: pretty much everyone rolls high except for Cordelia 💀
+	- IT'S HOMIES YELLING AT HOMIES. THANK GOD
+- They're hugging omg.. I love friendship <3
+- DURGEN THOUGHT VALLEN WAS DEAD!!!
+- Kaya introduces us to Durgen!!
+	- HE'S SURPRISED THAT KAYA HAS MORE THAN ONE FRIEND LMAO
+	- He shakes everyone's hand :]
+	- Camille agrees that Durgen is very fun and energetic -- he reminds them of their brother
+- Vallen and Durgen were a part of the same adventuring party 100 years ago!!
+- Durgen asks what we need silver weapons for! He doesn't usually ask his customers this, but we're a special case
+- The gang orders stuff!
+	- Cordelia: silver-tipped quarterstaff (7 GP; SHE PAYS HIM 40 GP)
+	- Camille: silver dagger (7 GP as well; they give him 25 GP)
+	- Cal asks to look at Durgen's magical weapons, Camille hops on that train
+- Cal asks for [Daggers of Returning] -- he gets like 6 I think
+	- Once he receives the daggers, he flips one and it disappears in a puff of black smoke!!
+- For the extra 65 GP that we gave him, *Durgen will start crafting EACH of us a specialized weapon*
+	- We will need to tell him what our ideal weapon is though!!
+	- Cordelia wants either a staff or a wand
+	- Kaya wants a pair of brass knuckles or a staff
+	- Camille wants a staff? But isn't 100% sure bcs they don't use a ton of weapons
+	- Cal wants a piece of armor!
+- If Durgen isn't at the blacksmith's tomorrow don't fret! Because he's gonna be out buying our materials 😊
+- Cordelia offers that Durgen join us for a drink at the bar sometime!!
+
+- The gang splits up again!!
+
+
+# Camille goes to the magic shop!
+- The sign outside says "The Glimmering Nook"
+- Interior Description:
+	- Magical items - books, scrolls, curiosities, components, etc. - fill the shop
+	- Tiefling dude at the counter!
+		- Purple
+		- Flambouyant
+		- Reading out of a thick book, holding it in one hand
+- Asks for magic items that help *defeat vampires*
+	- NOT Vallen tho (the tiefling says to send his regards to him though!! Also says he's a bit awkward LMAO)
+- Camille asks for an item to help immobilize vampires
+- He has [five daylight stones]
+	- Deal radiant damage OR can drop it at your feet to ward off vampires
+	- IT'S FREE!!! (Camille still pays 10 GP)
+	- *Bright light within 15 ft and dim light within 30 ft*
+	- **Time limit: only lasts until the sun rises** 
+- Do these stones work as well against daywalkers?
+	- Not as well, but they'll do some damage
+	- Vallen's the best person to ask about this kinda stuff though
+- Daywalker Vampires are pretty weak!!
+	- **Daywalkers also don't really drink blood???**
+- Hands Camille a [blue vial]
+	- **12 uses**, can ward vampires from biting your neck if you apply it to your neck
+	- Paid for with the 10 GP from earlier
+		- Camille tries to insist on paying, but the shopkeep says that they can just pay him back by telling him a story on how we defeat the vampire 🧛‍♂️
+- SHOPKEEP LORE!!!
+	- This dude was VERY surprised that Durgen's leaving his house (or is willing to leave his house)
+	- Homie's met a vampire before?? 🤨 oh word?
+	- The shopkeep suggests that Camille ask Vallen about his time before (since he's been in the capital for a LONG time)
+		- Vallen also visits the town every once in a while!!
+- They're friends now!!! $YIPEE!!!$
+	- This guy's name is [[Quivern Saltspark]] (but friends call him Quiv <3 )
+
+# Back at the Bar
+- It seems pretty lively!!
+- Cordelia orders a salad (so a sandwich without bread LMAO)
+- Camille comes in!
+	- Says they made a new friend!!
+- Camille asks Vallen about daywalkers: if they don't drink blood, why is someone from the daywalker tribe the main suspect?
+	- The conclusion is that the vampire we're hunting is NOT a daywalker since they're hunting/attacking at night
+	- Camille asks Vallen to share this kind of information next time, since not all of us are as well-versed in vampire stuff
+- LORE DROP
+	- [[Dagen]] is a *politician in the capital* and is suspected to be the leader of the clan we suspect we're dealing with
+	- Not everyone in the [[Dagen Coven]] are daywalkers
+- HISTORY CHECK FOR CAPITAL KNOWLEDGE
+	- *Dagen is the Baron of Holden* (known by Cordelia and Kaya)
+		- In terms of family hierarchy, barons are influential and would be someone Cordelia's family would want to impress
+		- *He throws lavish parties once every few years*
+		- There are a lot of conspiracies surrounding him, but nothing ever sticks
+	- Cal has heard the name "Dagen" before when hunting other vampires
+- Cal asks why we don't just kill Dagen since we suspect him of being a big vampire ringleader
+	- The best bet would be to build a case against him, since he has lots of security and fame
+- WE GET BLTS FROM FOO!!! (Cordelia just gets tomato, lettuce, and a plain burger on the side LMAO)
+	- Cal asks if he can have the plain burger LMAO
+- Camille pulls out the blue vial they got from Quivern
+	- VALLEN $HATES$ THE WAY IT SMELLS!!! SORRY BRO
+	- It smells like burning flesh to him
+- Camille passes on Quivern's regards to Vallen!!
+	- Camille also urges Vallen to make friends LMAO
+- What does Vallen know about the forest near Holden?
+	- *That's where Dagen dumps his bodies* 😬
+- VALLEN LORE
+	- He was kept in the [[Clover Capital|Capital]] as basically a dog and followed orders
+	- Was fed people :(
+	- Switched to being a daywalker about 50 years ago
+- Camille asks Cal to make some stakes for stabbing
+	- Kaya asks Foo if it's ok if she shaves her spears and shit at the table (she gets the a-ok!!)
+- Camille makes some holy water!!
+	- The ritual takes an hour and 10 minutes per vial
+	- *They manage to make 3 vials of holy water*
+
+# Time for the Hunt
+- We meet [[Investigator Teasley]]
+- Camille:
+	- Passes [3 daylight stones] to Cordelia
+	- Hands out the [vial of vampire repellant] to the party, and expends 4 uses of it (8 left)
+- Walking into the garrison, there are guards dressed in armor everywhere
+	- We feel a little underdressed LMAO
+- Cal 
+- The five of us are going to be posted $inside$ the town, *on the strip where the shops are*
+	- **Our job is to keep vampires from ENTERING the town**
+	- Remain silent, and remain vigilant
+	- If anything passes by us, YELL
+	- DO NOT COME RUNNING IF WE HEAR YELLING FROM THE WOODS!!! THE GARRISON WILL TAKE CARE OF IT
+	- **DO NOT KILL ANY VAMPIRES!!**
+		- **If we capture a vampire, we get a bonus**
+		- Kaya is in charge of investigation
+- Camille casts [Aid] on Cordelia, Kaya, and Cal
+
+## Guarding the Street
+- There is a long strip of shops, with two entrances (one at each end)
+	- There are gates at each entrance
+### PLANNING
+- What the gang can do
+	- Cordelia can cast [Hold Person] on the vampire
+	- Kaya can sink the vampire using [Mold Earth]	
+	- Camille can set the [daylight stones] around the vampire 
+- Camille asks for the [daylight stones] back
+- Vallen goes to keep watch
+
+## The Hunt Begins
+- **We hear screams and fighting in the distance**
+	- The fighting die down a bit
+- The party lines up in the middle of the street, facing the side of the street with no walls (where the shops are + where the sounds of fighting are coming from)
+- Camille casts [Protection from Evil and Good] on Cal
+- Cal perception: 13
+- Cal DEX save: 15
+	- He doesn't see it coming, but at the last milisecond a vampire JUMPS OUT OF THE WOODS AND GRABS CAL??? JUMPING TOWARDS THE PARTY
+	
+- WE ROLL INITIATIVE
+	- Cal (25)
+	- Cordelia (NAT 20 + 1)
+	- *VAMPIRES 1 & 2*
+	- Camille (16)
+	- *VAMPIRE 3*
+	- Kaya (15)
+	- *VAMPIRE 4*
+	- Vallen
+- ROUND 1
+	- Cal
+		- STR save against being grappled: 18
+		- Escapes from the grapple!!
+	- Cordelia
+		- Holds her action to cast [Hold Person] until the vampire gets within 10 ft of anyone in the party
+	- VAMPIRE 1
+		- Attacks Cal (disadvantage from [Protection from Evil and Good])
+	- VAMPIRE 2
+		- Jumps out of the bushes about 10 ft from where Kaya is
+	- Camille
+		- Drops one [daylight stone] at their feet and runs 30 ft. and drops another one
+	- VAMPIRE 3
+		- Jumps out of the bushes 10 ft. from where Camille was
+	- Kaya
+		- Attacks the vampire closest to her with [Poison Spray] (misses)
+		- Bonus action unarmed strikes (misses)
+	- VAMPIRE 4
+		- Pops out next to the vampire Kaya is fighting
+	- Vallen
+		- Stabs VAMPIRE 2 twice
+- ROUND 2
+	- Cal
+		- Attacks Vampire 1, **deals 10 dmg**
+		- OFFHAND ATTACKS BUT I DIDN'T HEAR THE DMG
+	- Cordelia
+		- Casts [Firebolt] on VAMPIRE 2, **deals 1 dmg**
+		- *Pulls a card from her deck as a bonus action*
+			- Ace of Pentacles/Judgement: CJ's keeping it in mind?? (it's an effect that happens later??)
+	- VAMPIRE 1
+		- Heals a little from Cal's attack
+		- Attacks Cal for **9 slashing dmg**
+	- VAMPIRE 2
+		- BITES VALLEN!!! MY BOY :(
+		- CATCHES ON FIRE FROM BITING HIM??? SCREAMING AND FALLS TO THE GROUND (deserved)
+	- Camille
+		- Drops a third [daylight stone] at their feet and runs 30 ft. and drops the fourth one
+		- Uses their remaining movement to turn around a little (10 ft.)
+	- VAMPIRE 3
+		- RUNS FULL SPRINT @ CAMILLE AND GETS WITHIN 5 FT.
+	- Kaya
+		- Bonus action pulls out a silver spear and tries to stab VAMPIRE 2 (misses)
+	- VAMPIRE 4
+		- Hits Kaya for **11 dmg**
+	- Vallen
+		- Stabs VAMPIRE 2 on the ground with a longsword
+		- Takes a shortsword and attacks VAMPIRE 4 (a radiant bolt of lightning hits VAMPIRE 4 after the stabbing)
+- ROUND 3
+	- Cal
+		- Successfully grapples VAMPIRE 1
+	- Cordelia
+		- Casts [Firebolt] and deals **4 dmg**
+		- A bright light shoots down from the sky from Cordelia's card pulled in a previous round, and a *duplicate of herself* appears down the street and ALSO casts [Firebolt], ALSO dealing **4 dmg**
+	- VAMPIRE 1
+		- Is grappled
+	- Camille
+		- Uses a bonus action to pull out a vial of holy water and throws it at VAMPIRE 3
+		- VAMPIRE 3 falls prone and is burning 
+	- VAMPIRE 3
+		- Prone on the ground (misses his turn)
+	- Kaya
+		- Deals **12 dmg** to VAMPIRE 4
+	- VAMPIRE 4
+		- Incapacitated by silver 🤩
+	- Vallen
+		- Decapitates VAMPIRE 4
+- ROUND 4
+	- Cal
+		- Continues to grapple VAMPIRE 1
+	- Cordelia
+		- Casts [Hold Person] on VAMPIRE 1, who **fails**
+		- Cordelia's Clone casts [Hold Person] on VAMPIRE 3
+	- VAMPIRE 1
+		- Paralyzed
+	- Camille
+		- Heals Kaya for *12 HP* (back to full)
+		- Tries to deal nonlethal damage with their silver dagger, but misses
+	- VAMPIRE 3
+		- Paralyzed
+	- Kaya
+		- Casts [Mold Earth] to trap VAMPIRE 3 in the ground as a bonus action
+		- Uses *Flurry of Blows* and deals **13 dmg** to VAMPIRE 1
+	- Vallen
+		- Attacks VAMPIRE 1
+- ROUND 5
+	- Cal
+		- Uses his action, bonus action, AND an action surge action to attack VAMPIRE 1
+		- Deals a total of **25 dmg**
+		- KILLS!!!
+
+## Post-Combat
+- Camille
+	- Heals Cal back to full with [Healing Word]
+	- Tries to heal Vallen with [Cure Wounds], but the spell doesn't affect undead or constructs 💀 so they just pass him a healing potion instead

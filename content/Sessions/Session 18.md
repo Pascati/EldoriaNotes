@@ -1,0 +1,12 @@
+- We timeskip forward a week!!
+- Over this time period:
+	- We return to [[Hillford]]
+	- Each of us get 1,000 GP
+	- We catch up with [[Foo]]
+- **Story Initiative:**
+	- Cordelia (NAT 20)
+	- Cal (16)
+	- Kaya (12)
+	- Camille (3)
+## Cordelia's Downtime
+- She's been processing everything that's bene happening

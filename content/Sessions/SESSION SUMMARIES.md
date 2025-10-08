@@ -1,6 +1,6 @@
 - [[Session 1]]
 	- Character introductions (Camille, Kaya, Cordelia)
-	- Investigating [[the Ritual]] and the missing children
+	- Investigating [[The Ritual]] and the missing children
 	- Interrogating and killing [[Burt Maclyn|"Burt"]]
 	- Cordelia has the first [[Dreams & Visions|dream/vision]]!
 - [[Session 2]]

@@ -1,0 +1,276 @@
+* Camille passes out the sun stones and vampire repellant  
+	  * Everyone gets 1 sun stone (+Vallen)  
+	  * Cordelia gets the vampire repellant  
+* Camille writes down a list of rules (with a few crossed out) of socializing with fancy folk  
+	  * Cordelia takes a look at it and is like 🤔not bad….  
+* Vallen suggests that we get on the road and through the forest  
+	  * We pack up and head out\!\!  
+* Camille casts *\[Gift of Alacrity\]* on Kaya (she can add a 1d8 to her initiative rolls for the next 8 hours)
+
+# Entering the Forest
+* It looks like the trees themselves have been carved into the path  
+	  * RETCON: CJ changes the name of the forest to the [[Forest of Mysteries]]
+* Cordelia casts *\[Detect Magic\]*  
+	  * There are little sprites popping in and out of her vision in multiple colors \-- there’s **a lot of fey and druidic magic**  
+	    * Cordelia suggests that we don’t interact with anyone we meet in the forest. Vallen agrees\!  
+	  * More and more sprites pop up and disappear as we enter the forest  
+* Camille suggests that we talk about our plan for the party  
+	  * As they bring it up, the path opens up as if it’s the beginning of the forest  
+	  * Camille can immediately tell that this is the beginning of the forest (everyone else has to roll WIS saves \-- Cal is the only one who fails)  
+* Everyone rolls Perception  
+	  * Everyone notices that Vallen is gone  
+	  * Camille casts *\[Locate Object\]* on Vallen’s necklace **(he’s within 1,000 ft. somewhere in the forest)**  
+	    * They suggest that it might not be a good idea to bring the carriage with us  
+	  * Cordelia knows that there are fey in this forest specifically
+* Cal suggests we “Hansel and Gretel” this shit  
+	  * We ponder tying our ropes together, but **Kaya ends up casting *\[Mold Earth\]* to make markers every so often**  
+* Camille suggests casting *\[Sending\]* on Vallen  
+	  * Cordelia says that we should probably just give it the ol’ second try (Camille agrees)  
+	  * Cal suggests just cutting the whole forest down as a backup backup plan  
+	  * We abandon the carriage (tying up one of the horses at the entrance of the woods, Camille leaves a note requesting that anyone who finds the horses brings them back to Hillford)  
+	    * **NOTE: CAMILLE IS RIDING A HORSE :\]**  
+* Perception check  
+	  * We all notice that the woods get a little more eerie, a little darker and denser  
+* We continue to walk, except on higher alert  
+	  * We feel like someone is watching us (based on our Passive Perceptions)  
+	    * Cordelia rolls Arcana: she can tell the source of the thing watching us is magical in nature  
+	  * Camille tries to tell whatever’s following us that we’re just passing through, but Cordelia stops them before they can finish their sentence (smart)  
+* The results of *\[Locate Object\]* show that Vallen’s down the path that we’re going, and that doesn’t change as the spell wears off  
+* Survival check  
+	  * Both Camille and Cal get advantage but Kaya gets a NAT 20\!\!\!
+	  * We see Vallen’s footprints  
+	    * Camille wonders if they’re real or illusions, and ask Cordelia to take a closer look (Arcana \+ Help Action). **THEY DON’T LOOK REAL**  
+	    * The footsteps continue down the path  
+	    * The gang discusses whether or not we should stay on the path or stray from it  
+* We see the end of the woods REALLY far away, and behind us (also REALLY far away) we hear Vallen’s voice calling for help
+	  * We agree that Vallen would never ask for help  
+	  * History/Arcana check  
+	    * Anyone over 10 recalls that there are things called **skinwalkers**. They mimic voices that are supposed to be familiar to us. Cordelia knows that if it sounds very far away, then ***they are very close by***  
+* Cordelia stops the party, and says that we need to *go*  
+	  * Camille tells her to get on the horse, and starts booking it (the horse looks *terrified*) (Cal got his swords out and EVERYTHING)  
+	  * WE EXIT AND WE’RE BACK AT THE FRONT OF THE DAMN FOREST AGAIN  
+	  * **We didn’t see Kaya’s markers on the way out of the woods**  
+	  * **THE SUN IS SETTING AS WE LEAVE, AS IF A WHOLE DAY HAS PASSED**  
+* Cordelia dismounts from the horse and freaks out, explaining about the skinwalkers  
+	  * The gang debates whether or not we should go through the woods or around it  
+* Camille casts *\[Sending\]* on Vallen  
+	  * Sending: *Are you safe? Where are you? We keep being led out of the woods. It's sunset now, but I'm not going to leave you behind.*  
+	  * Response: Yeah I’m out of the wood now, I’m making camp where did you all go??  
+	  * **NOTE: THE GANG REALIZES THAT VALLEN MADE IT THROUGH BCS HE’S A VAMPIRE AND VAMPIRES CAN’T BE CHARMED**  
+	  * Sending x2: We're at the entrance for the third time, but I'm so glad you're safe. Please come back for us, the forest can't affect you.  
+	  * Response: Skinwalkers, no. Put your heads down and just keep walking, don’t look up
+
+# Camping Outside [[Forest of Mysteries|the Woods]]
+* Camille suggests that we make camp for the night and give the forest another try tomorrow \+ we should set up watch schedules because Vallen isn’t here to cover for us  
+	  * Camille sets up the tents while the gang is debating  
+	  * Camille also ritual casts *\[Tiny Hut\]* around the tent  
+	  * **THE PARTY JOKES ABOUT CAL’S DICK BEING UPSETTING ☹️**
+
+## ***Long Rest Time :(***
+* Camille takes first watch  
+	  * They cast *\[Enhance Ability\]* twice (Perception 19\)  
+	  * There’s some rustling in the woods. It goes on and off for about an hour  
+* Kaya takes second watch  
+	  * Kaya hears rustling in the woods too 💀 and BANGING ON THE TREES???  
+	  * Perception: 13  
+	    * THE FUCKING RAKE CREEPYPASTA STARTS CRAWLING TOWARDS THE DAMN DOME\!\!\!\!\!  
+	  * DEX save: 13  
+	    * The creature sits, observes the dome, LOOKS IN KAYA’S DIRECTION. and then scurries back into the woods  
+	    * **NOTE: SOUND PASSES THROUGH THE DOME**  
+* Cal’s taking third watch  
+	  * SEVEN FUCKING SKINWALKERS EMERGE FROM THE WOODS  
+	  * They stealthily observe the horses, and begin to surround the dome  
+	  * **THERE’S A ROAR FROM THE WOODS???** The skinwalkers look? upset?? And they skitter back into the woods  
+	  * Cal remains in the dome and observes  
+* Cal informs Cordelia of the roar he heard earlier as he wakes her up for fourth watch  
+	  * Cordelia thinks that the roar is from the mother of the skinwalkers, and says she’ll see what she can do  
+* Cal stays awake and alert \+ in his armor for the rest of the night  
+* Cordelia takes fourth watch  
+	  * Cordelia steels her nerves, and stares into the woods  
+	  * For about an hour (post-roar), nothing happens   
+	  * A skinwalker partially emerges from the woods, peers at the dome, and then retreats back into the woods
+
+## ***End of Long Rest***
+* As the sun rises, Cordelia grips her deck with a white-knuckled grip  
+* Cordelia asks Kaya what she saw last night  
+	  * As they talk, the dome dissipates  
+* Camille starts making breakfast ☺️  
+* THE PARTY STARTS SHARING WHAT THEY SAW LAST NIGHT  
+* Cordelia is FRAZZLED\!\! She says that we should make it through the woods as fast as possible  
+	  * Camille recaps Vallen’s message: **keep our heads down and don’t look up**  
+* Cordelia drops a few cards from her deck as she’s fidgeting with them, and needs to MAKE A CONSTITUTION SAVING THROW  
+	  * The rest of us see Cordelia look up, her eyes glow white, and her mouth drops open  
+	  * **Cordelia sees glimpses of visions (of the future?)**  
+	    * Dirt, moving quickly past her as if she’s sprinting (but she knows she’s walking)  
+	    * She hears sounds, voices, but she continues looking down. When she looks up, she sees Vallen  
+* Cordelia relays to the rest of the party what she saw in her vision  
+* Cal suggests that \- based on Cordelia saw and Vallen’s message \- we just run through the woods and look at the ground  
+	  * Cal also brings up the idea of tying ourselves together while we go through the woods. Camille agrees that it’s a good idea  
+	  * Camille pulls out their rope to tie the gang together, so does Cal (**we tie ourselves together w/ two ropes\!**)
+
+# Returning to the Forest
+* **Marching Order:** Cal, Cordelia, Camille, Kaya  
+* The party walks through the woods, staring at the ground. Nothing happens for about an hour  
+	  * Camille remembers that they forgot to untie the horses. **fuck this stupid baka life :(**  
+* Cal hears \- from in front of him \- Cordelia’s voice: *“Cal, look up\!”*  
+	  * Cordelia also hears this, and grabs his shoulder to warn him  
+* 10 minutes later, Everyone (Cordelia specifically) hears Kaya’s voice from behind her  
+* 20 minutes afterwards (roughly an hour and a half at this point) Cordelia feels something grab her foot, a little off to the side  
+	  * Her heart stops, but she keeps going  
+* Nothing happens for \~30 minutes  
+* We all hear *our own voices* coming from the woods, calling out for help and begging us to stop
+* We all feel things pulling at our clothes, tugging at our pants and cloaks  
+* Cordelia hears Vallen’s voice, asking us what we’re doing? 🤨
+	  * Cal tries to determine whether or not that’s Vallen. He knows it’s not  
+	  * We keep walking, despite Vallen’s voice asking us to stop and asking what we’re doing
+
+# Escaping [[Forest of Mysteries|the Forest]]
+* The path lightens up a little, and we hear Vallen’s voice again asking us what the fuck we’re doing  
+	  * Cordelia thinks it sounds like Vallen, and \- against her better judgement \- looks up  
+	    * We’re still walking (Vallen’s walking next to us LMAO)  
+	    * Cal keeps walking and tugs on the rope LMAO  
+	  * Cordelia tells us to raise our heads (Camille asks her what she requested for breakfast when we first met \- a salad \- and raises their eyes)  
+* **According to Vallen it’s been 2 full days**  
+* Vallen also heard our voices (Insight tells Camille that our voices said things that we *wouldn’t have known*, but they don’t pry)  
+* Camille tells Vallen that the horses and carriage are on the other side of the woods  
+	  * **We only have 3 more days until we get to [[Holden]]**
+	  * Camille starts walking\! No time to waste 🏃💨  
+* **Our goal currently is the city of [[Crossroads]]**
+	  * We can probably rent a carriage when we get there (using Vallen’s money)  
+	  * Kaya suggests that we just steal a carriage instead  
+	    * Cordelia lets it slip that she doesn’t want her father to hear about us possibly stealing a carriage  
+	    * Camille exclaims that her sister’s getting married (calling back to the rumors we heard in the capital)  
+	    * Vallen senses that Cordelia doesn’t want to talk about it, and lets the matter drop
+
+## ***The gang gets to know each other :\]***
+* The topic shifts to Vallen. Camille asks where his necklace came from (since they used it to cast *\[Locate Object\]*)  
+	  * It looks like a sun with pointy rays  
+	  * He found it in an ancient city in [[Diamond]] 200 years ago  
+	  * The city looks like it had cathedrals (very very old cathedrals)  
+	  * Vallen says [[Diamond]] is a very interesting kingdom  
+	    * “Its people are very complacent, I’d say”  
+	    * Compared to [[Clover]], whose culture and organization revolves around status (military), Diamond residents are more loyal to their immediate cities rather than their kingdom  
+	    * Vallen comments that people seemed happier in Diamond, but it was almost like a fake happiness  
+	      * He comments on how the people of [[Clover]] seem to “know better”, but stops himself  
+	      * The party asks him to speak his mind, and he asks what would happen if the [[Clover]] military was disbanded (Cordelia’s livelihood would fall apart)  
+	    * Vallen says there’s pros and cons to both kingdoms \-- [[Clover Military|Clover’s military]] is powerful, while [[Diamond]] wants [[Clover]] to follow their way of life (but [[Clover Military|Clover’s military]] can usually overpower [[Diamond Military|Diamond’s]])  
+	    * Diamond is currently trying to get *more* military, so **they have a lot of deserters**  
+	    * **Vallen was originally from [[Diamond]]**, but a lot has changed in the past few hundred years  
+	      * Cordelia comments on how she’d really like to visit [Diamond] one day  
+	  * Camille remembers that Cal didn’t like the [[Clover Military]] when it was last brought up, and they sneak a peek at him
+	    * He’s keeping to himself at the back of the group, not engaging in the conversation. They catch his eye and nod in acknowledgement to him restraining himself  
+* Vallen shifts the topic over to Kaya  
+	  * Camille whispers that she used to have to wear blue, and Kaya says that she’s from the Capital  
+	  * Cordelia and Vallen observe that she is a “faction traitor”
+	  * Kaya says that a few people she used to know were in the Water Faction, whose ideals she no longer aligns with anymore  
+	    * She has a few friends in the Earth Faction though\!\!  
+	  * Vallen asks why she chose [[Hillford]] \-- she was on a mission and got roped into the whole [[Orb]] stuff  
+	    * Insight: 23  
+	    * While Kaya tells her story, *Vallen gives her a knowing look*  
+	  * Cordelia tries to remember if she heard any gossip about Kaya (History: 15\)  
+	    * She heard some rumors about children born into one faction rebelled and switched to a different faction, but she can’t place anything with certainty  
+* Vallen asks about Camille  
+	  * Camille says they’re from Clover, a little bridge town along the river between Diamond and Clover  
+	  * Their mother runs an [[Asphodel's Meadow|inn]] there\!  
+	  * Vallen says that he might’ve stayed there once or twice before. Camille immediately changes the subject and asks Cal where *he’s* from 💀  
+* Where Cal’s from  
+	  * He’s from the west\!   
+	  * **NOTE: CJ SWITCHED EAST AND WEST ON THE MAP?? WTF 😤 (it’s canon)**  
+	  * Cal is from a farming community near diamond (basically Diamond…)  
+	  * Cal and Vallen have a gay moment  
+	    * Izzie doesn’t know what the moment was :( I am bereaved…..  
+	  * Cal has been travelling for 4 years  
+	  * Cal’s farming village is on the brink of collapse, and after he saw the [[Pyramid]]
+
+# Arriving at [[Crossroads]]
+* After 3-4 hours of walking (**it is now 6-7 PM**), we see a lake in the distance and a small village ([[Crossroads]]) along the lake. The road splits in three directions: one leading to Crossroads, the other going straight, and the third leading to a bridge going to Steel Pine  
+* Crossroads is a bustling town\!  
+	  * We see a bar with a barn that looks similar to Foo Bar (but isn’t quite it)  
+	  * Some storm clouds are rolling in from the lake \-- it begins to rain and POUR as we arrive in town  
+	* We arrive at the tavern\! It’s BUMPIN in here  
+	  * Some folks are standing around listening to the story \+ there are some folks drinking at the bar  
+	  * The bartender is a tall-ish, orcish looking dude wearing an apron  
+	    * 30 GP per room (EXPENSIVE) \-- Camile manages to barter it down to 15 GP total after telling him that we walked through the Forest of Mysteries (and made it out ALIVE)  
+	    * Camille also pays out of pocket  
+* Vallen warns us to keep talks about him being a vampire under wraps, then offers to get us drinks  
+	  * We all request something to drink\!\!  
+* Kaya tries to listen in on the stories being told 👀  
+	  * IT’S [[Nicholas Powers|NICHOLAS FUCKING POWERS]]\!\!\!  
+	  * He’s bragging about using his guns to kill an entire village of vampires  
+	  * Cordelia is NOT rolling to stick her dick in it (character development\!\!)  
+* **Nick brags about being contracted for the vampire job by the Diamond military**  
+	  * WE ALL BELIEVE HIM?? DAMN  
+	  * He doesn’t know what the guy looks like, but he’s ***LOOKING FOR CAL CORVO??? THE [[Diamond Military]] WANTS HIM FOR SOME REASON***  
+	    * The gang immediately tries to distract him with more drinks  
+	    * There’s a man from [[Diamond]] looking for him specifically  
+	  * Cal tries to sneak away (Stealth 17), and **Cordelia lies to Nick and says that Cal’s name is actually “Jack”**  
+	    * CORDELIA FARTS WHILE LYING BUT IT’S OK BCS SHE ROLLED HIGH  
+	  * The man from Diamond **needs to find Cal and “the scientist” for tests**  
+	  * **Nick’s plan was to go to [[Holden]] and sneak into the party we’re going to**  
+	    * He was just gonna hide in the corner  
+	    * BUT he’s planning on skipping out on that and going to a nearby party in Diamond instead  
+	  * Nick offers us half of his reward gold if we help him find Cal  
+* Cordelia and Camille slip out while Kaya distracts Nick (Vallen follows)  
+	  * Cordelia notices where Cal goes \+ Cal realizes that Cordelia is following him  
+	  * To distract Nick, Vallen orders the “Destroyer Shot” (it’s literally the tiniest shot of water)  
+	  * Cordelia tells Camille that \- while Cal hasn’t been the kindest person to them \- he’s still very nice and he and Vallen should be kept safe (etc.etc.)  
+	    * The bartender is RIGHT THERE OMG 😧 Cordelia and Camille ask for wine and whiskey
+	    * Camille looks hurt and tells Cordelia that they’re hurt that she would think they would even consider throwing Cal and Vallen under the wagon  
+	  * Vallen delivers the shot to Nick AND GRABS HIS FACE AND SQUEEZES IT INTO HIS MOUTH?? HOMOEROTIC AS HELL\!\!\!  
+	    * Apparently it’s supposed to knock a person on their ass and prevent them from getting up  
+	  * BACK TO CORDELIA AND CAMILLE  
+	    * Camille tells Cordelia that they’re still upset, but she’s still their friend \-- they just need some time to cool off
+	    * CORDELIA IS SO SADDD. IZZIE IS ALSO SAD :(((  
+	      * neither of them have had a friend like this before…. the homies r hurt  
+* Vallen follows Cal outside (Cal is walking in the opposite direction of the inn)  
+	  * **Cal tells Vallen EVERYTHING.** The players at the table don’t know anything though  
+	  * Cal has Vallen’s trust on this, he’s not going to share what they’re   
+	  * It’s something about the military \-- they BOND\!\!\!  
+	  * Lily says this is kinda like the notebook. Izzie says this is a deeply homoerotic scene (they’re literally bonding in the rain omg)  
+	  * Vallen suggests that they return to the inn, but Cal says that he’s probably just going to camp out for the night  
+* The gang discusses going to bed\!  
+	  * Vallen says he doesn’t sleep, so he doesn’t need a room  
+	  * Camille mentions that it might look suspicious if he stays in the bar all night \-- Vallen says he can just pretend to pass out in a corner  
+	  * LILY ROLLS TO STICK HER DICK IN IT AS CORDELIA SUGGESTS THAT HE CAN STAY IN HER ROOM. ***NAT 20\!\!\!\!\!***
+	    * **VALLEN SAYS THAT IT *WOULD* BE SUSPICIOUS IF HE STAYED AT THE BAR. LOVE WINS\!\!\!**  
+	    * Vallen says he can “sleep” on the floor or sit in a chair \-- Cordelia says that he can choose whatever spot is most comfortable
+
+## ***The Dreams Return***
+* As we all fall asleep, we are met with yet another dream, although this one feels a little more peaceful than the previous ones  
+	  * The ground is made of a serene plane of water, with clouds reflected in the sky above (like Tanjiro Demon Slayer’s soul)  
+* In the space in front of us, a tear opens. Through it, a castle under a sky filled with pouring rain appears. Even if our character hasn’t been to Holden, we can *tell* it’s in [[Holden]]  
+	  * People file into the castle, and then the scene changes: inside the castle, people dance and sing, there’s music and partying abound  
+	  * The vision greys out and changes again. It’s a massive tomb filled with wires and machinery (much like Foo’s secret room, but on a MUCH larger scale). **There is a drawing of a upright triangle painted on a piece of parchment atop an easel**  
+* We don’t see each other in this dream, but we have the same one all the same
+
+## ***We Awake***
+* As Cordelia awakes, Vallen is sitting reclined in a chair nearby \-- he greets her and says there’s coffee brewing downstairs. He’ll grab himself a cup and says he’ll meet her downstairs  
+	  * The bar is DEAD quiet in the morning  
+	  * There are some tables overturned, chairs broken. THERE’S BLOOD ON THE BAR??  
+	    * Apparently someone claimed they were Cal and Nick tried to beat their ass  
+	    * Camille apologizes for what happened, and gets to work casting \[Mending\] on the broken chairs  
+* Cal prepares himself some breakfast in his camp outside  
+* The bartender offers us breakfast, and asks if Cordelia and Vallen are sharing a plate (Vallen clarifies that they’re Not a thing)  
+	  * As breakfast hits the table, Cal walks in and encourages us to get on the road  
+	  * Camille asks the bartender if there’s any place we can rent horses or a carriage  
+	    * The bartender recommends Reema, his cousin, and tells us to tell *her* that he sent us  
+	  * We take breakfast to go\!\!  
+* It’s still drizzling outside  
+* There’s an orcish woman \- greenish skin, no tusks characteristic of an orc, she’s FINEE\!\!\! (by lesbian standards. but also she’s very pretty)  
+	* ![[Reema (Horse Lady).png|360]]
+		* KAYA ROLLS A 1 TO STICK HER DICK IN IT :( THE WORLD IS SO COLD AND CRUEL AND FUCKED UP\!\!\! HOMOPHOBIA IS REAL AND IT HATES US  
+	    * Kaya literally trips and falls in front of this woman 😭😭😭😭 Cordelia sees this, laughs, and rips ASS  
+	  * The BEAUTIFUL orcish lady asks if she can help us. We’re looking for a carriage that can fit all of us\!  
+	    * She has one\! She also has a place up in Holden, so we can just return the carriage there  
+	    * The carriage also has a step \-- she warns Kaya, and assures her that most people miss the step anyways  
+	  * The gang fights over who pays (Kaya sneaks behind the gang and pays for it 🤭  
+	    * The carriage usually costs 100 GP, but for Kaya it’s only 50 🤭🤭🤭 I LOVE GAY PEOPLE\!\!\!  
+	    * Kaya gives her a 75 GP as a tip 😋 Reema says that she’ll consider it an investment towards Kaya’s next purchase (given that she returns)  
+	    * THEY’RE FLIRTINGGGG\!\! LOVE WINS\!\!\!\!\!\!  
+	  * There’s no return fee for the horses and carriage\! Since we’re going to drop it off at her branch in Holden  
+	  * **We get two horses and a carriage**
+
+# On the Road Again
+* Camille casts *\[Gift of Alacrity\]* on Kaya again (+1d8 to initiative rolls for the next 8 hours)  
+* Cal says that he doesn’t want to ride in the carriage with “gasbag”, and asks to ride in the front with Camille  
+	  * He also says that it’ll give them a chance to talk? WHAT DOES THAT MEAN?? IZZIE GETS SCARED 😧

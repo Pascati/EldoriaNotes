@@ -1,0 +1,4 @@
+- The Shapes of Paracausality are:
+	- The [[Orb]]
+	- The [[Pyramid]]
+	- The [[Square]] (AKA the Tapestry)

@@ -1,6 +1,6 @@
 # Character Profile
 ![[Julian.jpg|240]]
-- f
+- Journeyman in the [[Clover Military]], but his father is a Captain
 - [[Cordelia Elysian]]'s fiancée (through an arranged marriage organized by Cordelia's mother and Julian's father, I think)
 
 ## Factions/Affiliations
