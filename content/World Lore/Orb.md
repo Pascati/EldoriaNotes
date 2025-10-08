@@ -1,7 +1,0 @@
-- One of the [[Shapes of Paracausality]]
-- The Yin to the [[Pyramid]]'s Yang
-	- Wants to *nourish and preserve life*
-- Anyone who touches it - other than [[The Keeper]] - is made a *host to alien life*
-	- So far, this life has been fuzzy pink moss! (Appears on the body part that touched it?)
-	- Of the party, only [[Cordelia Elysian|Cordelia]] and [[Camille Xotli|Camille]] have been in contact with it (as of [[Session 17]])
-- Currently in [[The Keeper]]'s possession (briefly teleported into [[Camille Xotli|Camille's]] bag due to a fatal injury they suffered)
