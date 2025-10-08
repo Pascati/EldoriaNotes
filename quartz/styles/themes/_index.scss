@@ -848,35 +848,6 @@ body {
     text-decoration-color: rgb(142, 149, 179);
   }
 
-  .page article p > b,
-  b {
-    background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
-    cursor: auto;
-    filter: none;
-    font-family:
-      ui-sans-serif,
-      -apple-system,
-      "system-ui",
-      system-ui,
-      "Segoe UI",
-      Roboto,
-      Inter,
-      "Apple Color Emoji",
-      "Segoe UI Emoji",
-      "Segoe UI Symbol",
-      sans-serif;
-    font-weight: 400;
-    outline: rgb(198, 208, 245) none 0px;
-    text-decoration: none solid rgb(198, 208, 245);
-    text-decoration-color: rgb(198, 208, 245);
-    text-decoration-line: none;
-    text-decoration-style: solid;
-    text-decoration-thickness: auto;
-    transition: all;
-    user-select: text;
-  }
-
   .page article p > em,
   em {
     background-color: rgba(0, 0, 0, 0);
@@ -939,6 +910,35 @@ body {
   s {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    cursor: auto;
+    filter: none;
+    font-family:
+      ui-sans-serif,
+      -apple-system,
+      "system-ui",
+      system-ui,
+      "Segoe UI",
+      Roboto,
+      Inter,
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+      sans-serif;
+    font-weight: 400;
+    outline: rgb(198, 208, 245) none 0px;
+    text-decoration: none solid rgb(198, 208, 245);
+    text-decoration-color: rgb(198, 208, 245);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    transition: all;
+    user-select: text;
+  }
+
+  .page article p > b,
+  b {
+    background-color: rgba(0, 0, 0, 0);
+    color: light-dark(rgb(210, 15, 57), rgb(243, 139, 168));
     cursor: auto;
     filter: none;
     font-family:
