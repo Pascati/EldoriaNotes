@@ -935,10 +935,10 @@ body {
     user-select: text;
   }
 
-  .page article p > b,
-  b {
+  .page article p > strong > em,
+  strong > em {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(210, 15, 57), rgb(243, 139, 168));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250)) !important;
     cursor: auto;
     filter: none;
     font-family:
@@ -953,7 +953,7 @@ body {
       "Segoe UI Emoji",
       "Segoe UI Symbol",
       sans-serif;
-    font-weight: 400;
+    font-weight: 600;
     outline: rgb(198, 208, 245) none 0px;
     text-decoration: none solid rgb(198, 208, 245);
     text-decoration-color: rgb(198, 208, 245);
@@ -964,8 +964,8 @@ body {
     user-select: text;
   }
 
-  .page article p > strong > em,
-  strong > em {
+  .page article p > em > strong,
+  em > strong {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250)) !important;
     cursor: auto;
@@ -1012,6 +1012,35 @@ body {
       "Segoe UI Symbol",
       sans-serif;
     font-weight: 600;
+    outline: rgb(198, 208, 245) none 0px;
+    text-decoration: none solid rgb(198, 208, 245);
+    text-decoration-color: rgb(198, 208, 245);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    text-decoration-thickness: auto;
+    transition: all;
+    user-select: text;
+  }
+
+  .page article p > b,
+  b {
+    background-color: rgba(0, 0, 0, 0);
+    color: light-dark(rgb(210, 15, 57), rgb(243, 139, 168));
+    cursor: auto;
+    filter: none;
+    font-family:
+      ui-sans-serif,
+      -apple-system,
+      "system-ui",
+      system-ui,
+      "Segoe UI",
+      Roboto,
+      Inter,
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+      sans-serif;
+    font-weight: 400;
     outline: rgb(198, 208, 245) none 0px;
     text-decoration: none solid rgb(198, 208, 245);
     text-decoration-color: rgb(198, 208, 245);
@@ -1546,6 +1575,7 @@ body {
       "Segoe UI Symbol",
       sans-serif;
     text-shadow: none;
+    font-weight: 750;
   }
 
   h2 {
