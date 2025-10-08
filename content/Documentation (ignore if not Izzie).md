@@ -14,6 +14,10 @@
 		- Consider creating a permanent token if this issue comes up again
 		- See [.gitconfig] file (C:\Users\Phant) for authorization logs
 
+## JUST IN CASE
+Cloudflare link: https://dash.cloudflare.com/bf1eb94bee741869f5fdbdc16a96ed04/pages/view/eldorianotes (probably should log in first)
+
+
 # Configuration/Customization
 Actual instructions and themes can be found [here](https://github.com/saberzero1/quartz-themes)!
 ***THEME USED:*** anuppuccin
