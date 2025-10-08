@@ -19,7 +19,7 @@ Cloudflare link: https://dash.cloudflare.com/bf1eb94bee741869f5fdbdc16a96ed04/pa
 
 
 # Configuration/Customization
-Actual instructions and themes can be found [here](https://github.com/saberzero1/quartz-themes)!
+>[!info] Actual instructions and themes can be found [here](https://github.com/saberzero1/quartz-themes)!
 
 ## Theme Notes
 - **THEME USED:** anuppuccin

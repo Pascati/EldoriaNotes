@@ -9,7 +9,7 @@
   --light: #acb0be !important;
   --gray: #7c7f93 !important;
   --darkgray: #7c7f93 !important;
-  --highlight: #e49320 !important;
+  --highlight: #f2cdcd !important;
   --secondary: #de9584 !important;
   --tertiary: #40a02b !important;
   --lightgray: #6c6f85 !important;
@@ -533,12 +533,12 @@ body {
   .callout[data-callout="success"] {
     --callout-color: 166, 227, 161;
     background-color: light-dark(
-      rgba(64, 160, 43, 0.1),
-      rgba(166, 227, 161, 0.1)
+      rgba(30, 102, 245, 0.1),
+      rgba(137, 180, 250, 0.1)
     );
     border-color: light-dark(
-      rgba(64, 160, 43, 0.25),
-      rgba(166, 227, 161, 0.25)
+      rgba(30, 102, 245, 0.25),
+      rgba(137, 180, 250, 0.25)
     );
     border-radius: 4px;
     border-style: solid;
@@ -549,18 +549,18 @@ body {
 
   .callout[data-callout="success"] .callout-title {
     border-radius: 0px;
-    color: light-dark(rgb(64, 160, 43), rgb(166, 227, 161));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
     gap: 4px;
     padding: 8px;
   }
 
   .callout[data-callout="success"] .callout-title .callout-icon {
-    color: light-dark(rgb(64, 160, 43), rgb(166, 227, 161));
-    background-color: light-dark(rgb(64, 160, 43), rgb(166, 227, 161));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
+    background-color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
   }
 
   .callout[data-callout="success"] .callout-title > .callout-title-inner > p {
-    color: light-dark(rgb(64, 160, 43), rgb(166, 227, 161));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
     font-weight: 400;
   }
 
@@ -880,7 +880,7 @@ body {
   .page article p > em,
   em {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
     cursor: auto;
     filter: none;
     font-family:
@@ -967,7 +967,7 @@ body {
   .page article p > strong > em,
   strong > em {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
     cursor: auto;
     filter: none;
     font-family:
@@ -996,7 +996,7 @@ body {
   .page article p > strong,
   strong {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(210, 15, 57), rgb(243, 139, 168));
     cursor: auto;
     filter: none;
     font-family:
@@ -1266,8 +1266,8 @@ body {
 
   .text-highlight {
     background-color: light-dark(
-      rgba(228, 147, 32, 0.2),
-      rgba(249, 226, 175, 0.2)
+      rgba(221, 120, 120, 0.2),
+      rgba(242, 205, 205, 0.2)
     );
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1424,7 +1424,7 @@ body {
   }
 
   a.internal.tag-link::before {
-    color: light-dark(rgb(222, 149, 132), rgb(245, 224, 220));
+    color: light-dark(rgb(234, 118, 203), rgb(245, 194, 231));
   }
 
   blockquote {
