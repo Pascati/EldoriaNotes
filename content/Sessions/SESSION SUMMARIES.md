@@ -27,5 +27,6 @@
 	- Snooping and finding Foo's secret cellar and learning that he's been working on a way for us to travel
 	- Camille tries to shape-change
 	- Begin travelling to [[Lancaster]]
+	- First encounter with [[The Curator]], and learning about the nature of our [[Dreams & Visions]] + the [[Orb]] and [[Pyramid]]
 - [[Session 7]]
 	- Party has a [[Dreams & Visions|vision]] of [[Holden]] (specifically of the [[Dagen's Masquerade|masquerade]] and Dagon's basement)

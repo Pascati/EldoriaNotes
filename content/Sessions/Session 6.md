@@ -53,12 +53,12 @@
 	- The vampires were from [[Dagen Coven|Dagen's coven]]
 	- [[Dagen]] is in [[Holden]]
 	- [[Dagen]] is searching for the technology to allow him to walk in the day
-- **[[DAGEN|DAGEN]]’S HOSTING A FANCY PARTY IN 6 DAYS!!!!**
+- **[[Dagen|Dagen]]’S HOSTING A FANCY PARTY IN 6 DAYS!!!!**
 	- We’d be tasked with **going undercover** and *posing as ambassadors from Clover*
 	- We would need to find out [[Dagen]]’s plan
 	- We’re basically the only ones they can send, bcs everyone else in the force is known by [[Dagen]]
 - [[Investigator Teasley|Teasley]] will ask for permission from our [[The Keeper|Keeper (V)]] to allow us to go to the party
-	- She will also hand-deliver a letter containing info about the [[changelings]] and the vampires to him
+	- She will also hand-deliver a letter containing info about the [[Changelings]] and the vampires to him
 - Camille says that they have theories on where the basement is
 	- [[Investigator Teasley|Teasley]] advises against prying, and says that the garrison will take care of keeping the person safe
 - **Cal will be given a room in the [[Foo Bar]]!!**
@@ -117,14 +117,14 @@
 - [[Foo]] asks Cal what he’s doing down here, and he says he was looking for the mayonnaise 💀
 	- Deception: 11
 	- [[Foo]] sees through his lie, and asks what he’s really doing down here
-	- [[Foo]] says he doesn’t really have anything to hide -- this is just his basement. He’s working on a request from [[the Keeper]], although now’s not the right time to talk about it
+	- [[Foo]] says he doesn’t really have anything to hide -- this is just his basement. He’s working on a request from [[The Keeper]], although now’s not the right time to talk about it
 	- [[The Keeper]] says it was time for us to travel, so [[Foo]]’s working on a way for us to travel!**
 - Cal signals for Cordelia to make a sound, and she throws a rock into the room
 	- As [[Foo]] looks towards the sound, Cal tries to put some of the diagrams into his ring
 	- [[Foo]] grabs his hand with LIGHTNING quick speed
-- [[Foo]] says that he can’t tell us specifically what he’s working on, since [[the Keeper]] wanted it to be a surprise/secret -- BUT he’ll give us some information in exchange for us leaving
+- [[Foo]] says that he can’t tell us specifically what he’s working on, since [[The Keeper]] wanted it to be a surprise/secret -- BUT he’ll give us some information in exchange for us leaving
 	- As he said earlier, he’s working on a method for us to travel
-	- He’s also looking into the [[Orb]] at [[the Keeper]]’s request
+	- He’s also looking into the [[Orb]] at [[The Keeper]]’s request
 - [[Foo]] allows us to look around!!
 	- Only Cordelia can understand that the diagrams are of arcane technology
 - Camille gives [[Foo]] their sandwich!! He forgot to get dinner
@@ -174,7 +174,7 @@
 
 ### Checking on The Tailor
 - The tailored magic items will take a week to be completed!
-- Kaya apologies about the [[changelings|changeling]] assistant -- [[Varrell DeFontaine|Varrell]] says that he was informed by the guards that [[Nox|“Cory”]] tried to kill a few townsfolk, who he assumes were us
+- Kaya apologies about the [[Changelings|changeling]] assistant -- [[Varrell DeFontaine|Varrell]] says that he was informed by the guards that [[Nox|“Cory”]] tried to kill a few townsfolk, who he assumes were us
 - [[Varrell DeFontaine|Varrell]] introduces himself to Cal, and in response Cal just says “indeed.” LIKE HELLO?? WTF
 	- KAYA TRIES TO INTRODUCE CAL BUT SHE FORGETS HIS NAME 😭😭😭
 - [[Varrell DeFontaine|Varrell]] is hurt that we didn’t ask him for help to get dressed for the masquerade ball!! He asks who we’re going to for our outfits
@@ -253,7 +253,7 @@
 	- Camille comments that the dreams aren’t as bad as the nightmares they’ve had before since they technically don’t die during them
 	- [[Vallen The Immortal|Vallen]] asks what triggered the dreams and how long we’ve been having them
 		- Camille is hesitant to answer, since we weren’t given clarification on whether or not we can or should share the content of the dreams or the [[Orb]]
-		- [[Vallen The Immortal|Vallen]] says that he’s [[the Keeper|the Keeper's]] right hand man, so anything [[the Keeper]] knows, he’s allowed to know
+		- [[Vallen The Immortal|Vallen]] says that he’s [[The Keeper|the Keeper's]] right hand man, so anything [[The Keeper]] knows, he’s allowed to know
 - Cordelia decides to message [[The Keeper|V]] via sending stone (an extra one is provided by [[Vallen The Immortal|Vallen]]) to ask whether or not he’s the actual right hand man
 	- **“hello this is Delia. just checking, is the man we are traveling with your right hand man? his name is [[Vallen The Immortal|Vallen]].”**
 	- The stone glows bright blue, and then the glow fades (the arcane runes disappear) -- she needs to press a new rune on the stone to hear the response:
@@ -268,7 +268,7 @@
 	- Cordelia rolls a Wisdom save (NAT 20): she recalls that as being her first dream -- the one that *only SHE* had
 - The party explains our most recent dream ([[Pyramid|black pyramid in the sky]], red runes, red light crashing into the ground)
 	- Upon hearing this, Cal walks away
-	- [[Vallen The Immortal|Vallen]] chases after him and asks what his deal is -- Cal’s seen this [[pyramid]] before. He’s come across it in his previous travels decades ago, and it was left behind by some government officials
+	- [[Vallen The Immortal|Vallen]] chases after him and asks what his deal is -- Cal’s seen this [[Pyramid]] before. He’s come across it in his previous travels decades ago, and it was left behind by some government officials
 	- Cal doesn’t think that this information will help right now
 	- Cal says that [[Vallen The Immortal|Vallen]] should tell the group since we know him better ([[Vallen The Immortal|VALLEN]] DOESN’T AGREE)
 - Cal has to roll a DEX save (16)
@@ -276,11 +276,11 @@
 - Cal shares that he saw the pyramid 20 years ago in a city he didn’t keep track of
 	- The gang thanks him for sharing!!
 - Camille theorizes that using the [[Orb]] with the keyhole will likely trigger the [[Pyramid]]
-	- ***OOC NOTE: [[THE KEEPER|THE KEEPER]] HAS THE [[ORB|ORB]].***
+	- ***OOC NOTE: [[The Keeper|The Keeper]] HAS THE [[Orb|Orb]].***
 - [[Vallen The Immortal|Vallen]] says that they don’t want to try to open the door rn because what if it lets something out?
-	- So now the agents of [[the Keeper]] are trying to find out as much as possible and plan accordingly
+	- So now the agents of [[The Keeper]] are trying to find out as much as possible and plan accordingly
 	- Also it’s been theorized that the door opens to an ancient city
-- The gang muses on whether or not the [[Vampires|vampires]] and the [[changelings]] are after the same thing (the [[Orb]]) and whether or not they’re working against or with each other
+- The gang muses on whether or not the [[Vampires|vampires]] and the [[Changelings]] are after the same thing (the [[Orb]]) and whether or not they’re working against or with each other
 
 ### Long Rest Time!!
 - [[Vallen The Immortal|Vallen]] says that he can take care of anything while he keeps watch, but if something does happen, he will wake up Kaya first
@@ -314,9 +314,9 @@
 	- He's the balance between the [[Orb]] and the [[Pyramid]]
 - **The [[Pyramid]] has been tampered with recently**
 - **The [[Orb]] doesn’t have ill intentions though!!** It's just trying to prepare us for what might happen
-- Camille asks if [[The Curator]] knows about [[the Keeper]]
-	- He does, but [[the Keeper]] doesn’t know about *him*
-	- **The [[Orb]] has chosen [[the Keeper]] to study it, but NOT know the future**
+- Camille asks if [[The Curator]] knows about [[The Keeper]]
+	- He does, but [[The Keeper]] doesn’t know about *him*
+	- **The [[Orb]] has chosen [[The Keeper]] to study it, but NOT know the future**
 	- The [[Orb]] has chosen us to prevent what the [[Pyramid]] is planning
 - [[The Curator]] refers to the [[Pyramid]] and [[Orb]] as the [[Shapes of Paracausality]]
 	- Called this because they don’t abide by our laws of nature
@@ -328,9 +328,9 @@
 
 ## We Awaken
 - [[Vallen The Immortal|Vallen’s]] SHOCKED as we appear in our PJs in front of the campfire
-	- We share what we learned about [[the Curator]] with him
-- [[Vallen The Immortal|Vallen]] says he will pass on word to [[the Keeper]]
-	- He also wonders what kinda dreams [[the Keeper|the Keeper's]] been having (THAT’S WHAT I’VE BEEN ASKING!!!)
+	- We share what we learned about [[The Curator]] with him
+- [[Vallen The Immortal|Vallen]] says he will pass on word to [[The Keeper]]
+	- He also wonders what kinda dreams [[The Keeper|the Keeper's]] been having (THAT’S WHAT I’VE BEEN ASKING!!!)
 - [[Vallen The Immortal|Vallen]] reports that he only saw some deer and squirrels
 	- Cordelia asks Vallen if he ate the deer and squirrels (he did. tried to lie abt it though LMAO)
 	- Camille offers to help set up traps to catch them easier next time :]

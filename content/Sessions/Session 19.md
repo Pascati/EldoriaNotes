@@ -58,7 +58,7 @@
 	- Vallen says that he talked to [[Investigator Teasley]] last night and came to that conclusion
 		- Camille and Kaya admit to eavesdropping on him
 		- He's chill with it, but admits to eavesdropping on everyone else's conversations
-			- CAMILLE'S LIKE?? AND HE'S LIKE "DON'T DIG UP THE PAST". THEY CONNECT THE DOTS AND REALIZE THAT HE WAS FOLLOWING THEM TO [[LYCORIS]]
+			- CAMILLE'S LIKE?? AND HE'S LIKE "DON'T DIG UP THE PAST". THEY CONNECT THE DOTS AND REALIZE THAT HE WAS FOLLOWING THEM TO [[Lycoris]]
 - Kaya asks Vallen about our next mission
 	- He hasn't heard anything about it :(
 	- CJ ASKS FOR EVERYONE'S PASSIVE INSIGHT
@@ -187,7 +187,7 @@
 	- “HELLO CAMILLE!!!!!!! GOOD TO HEAR FROM YOU! I DONT HAVE ANY COUSINS BUT IM GLAD TOU MET ANOTHER DWARF! COME SEE ME ANYTIME”
 - CAL RETURNS TO THE BLACKSMITHS AND CONFRONTS VOGRAR??
 	- *HE'S GONE???*
-- CAMILLE IMMEDIATELY MESSAGES [[OZWIN]] AND LETS HIM KNOW WHAT HAPPENED
+- CAMILLE IMMEDIATELY MESSAGES [[Ozwin]] AND LETS HIM KNOW WHAT HAPPENED
 	- 3 minutes later, 5 guards burst through the doors (followed by Ozwin)
 	- HE'S LIKE WHERE'S THE BLACKSMITH (we fill him in on what we know)
 	- The blacksmith is dead in the back room :( same with the folks helping him
