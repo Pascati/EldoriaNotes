@@ -20,8 +20,11 @@ Cloudflare link: https://dash.cloudflare.com/bf1eb94bee741869f5fdbdc16a96ed04/pa
 
 # Configuration/Customization
 Actual instructions and themes can be found [here](https://github.com/saberzero1/quartz-themes)!
-***THEME USED:*** anuppuccin
-***NOTE:*** I ended up downloading it manually 💀 but I'm keeping the fancy instructions JUST IN CASE (for instructions on manual install, go to the link above and CTRL+F search for "Manual install")
+
+## Theme Notes
+- **THEME USED:** anuppuccin
+- **THEME COLOR SCHEME:** [catppuccin](https://github.com/catppuccin/catppuccin)
+- ***NOTE:*** I ended up downloading it manually 💀 but I'm keeping the fancy instructions JUST IN CASE (for instructions on manual install, go to the link above and CTRL+F search for "Manual install")
 
 
 1. Go to the following folder and open *deploy.yml* in Notepad (run as administrator):

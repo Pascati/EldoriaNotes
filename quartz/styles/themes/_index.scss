@@ -33,7 +33,7 @@
   --gray: #8e95b3 !important;
   --darkgray: #8e95b3 !important;
   --highlight: #f9e2af !important;
-  --secondary: #f5e0dc !important;
+  --secondary: #f5c2e7 !important;
   --tertiary: #a6e3a1 !important;
   --lightgray: #a1a8c9 !important;
   --dark: #c6d0f5 !important;
@@ -1532,7 +1532,7 @@ body {
   }
 
   h1 {
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(114, 135, 253), rgb(180, 190, 254));
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1549,7 +1549,7 @@ body {
   }
 
   h2 {
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(30, 102, 245), rgb(137, 180, 250));
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1566,7 +1566,7 @@ body {
   }
 
   h3 {
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(32, 159, 181), rgb(116, 199, 236));
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1583,7 +1583,7 @@ body {
   }
 
   h4 {
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(23, 146, 153), rgb(148, 226, 213));
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1600,7 +1600,7 @@ body {
   }
 
   h5 {
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(64, 160, 43), rgb(166, 227, 161));
     font-family:
       ui-sans-serif,
       -apple-system,
@@ -1617,7 +1617,7 @@ body {
   }
 
   h6 {
-    color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
+    color: light-dark(rgb(136, 57, 239), rgb(203, 166, 247));
     font-family:
       ui-sans-serif,
       -apple-system,
