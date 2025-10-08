@@ -1353,7 +1353,7 @@ body {
 
   a.internal {
     background-color: rgba(0, 0, 0, 0);
-    color: light-dark(rgb(222, 149, 132), rgb(245, 224, 220));
+    color: light-dark(rgb(234, 118, 203), rgb(245, 194, 231));
     cursor: pointer;
     filter: none;
     font-family:
@@ -1391,8 +1391,8 @@ body {
     > .match-tag {
     align-items: center;
     background-color: light-dark(
-      rgba(222, 149, 132, 0.1),
-      rgba(245, 224, 220, 0.1)
+      rgba(234, 118, 203, 0.1),
+      rgba(245, 194, 231, 0.1)
     );
     border-bottom-color: rgba(245, 224, 220, 0.15);
     border-bottom-left-radius: 28px;
