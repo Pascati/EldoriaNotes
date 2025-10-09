@@ -10,5 +10,5 @@ This is a constant work in progress, but if something breaks or goes wrong, plea
 
 ---
 
-TEST CHANGE
+
 >[!INFO] NOTE: Through Sessions 1-8, ALL instances of a character/location's name are backlinked (e.g. every time Vallen's name would come up, it would link to his character page). However, that gets cluttered FAST and also Izzie gets tired, so in the notes for Sessions 9-onward, only the **first instance** of a character/object/location's name is backlinked. If you want to go to the page of a character/object/location that was mentioned in a session, there will be a "Backlinks" section at the bottom of the page (or on the right, if you're on desktop) that will contain links to every relevant person/object/location from that session.
