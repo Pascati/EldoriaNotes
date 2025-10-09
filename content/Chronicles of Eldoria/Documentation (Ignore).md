@@ -1,4 +1,6 @@
 # Pushing Updates
+> [!INFO] I successfully moved everything to the 'quartz/content' folder! Huzzah!! So skip ahead to Step 3
+
 1. Delete all files in the following folder:
 >	C:\Windows\System32\quartz\content
 

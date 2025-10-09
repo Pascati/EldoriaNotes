@@ -11,7 +11,7 @@
 - Burt Maclyn
 	- Tall, Orchish man, balding, always carries his mother's broach with him
 	- ACTUALLY ALL THAT IS A LIE!! HE'S INFERNAL AND EVIL AS FUCK AND TRIED TO KILL US IN THE WOOD
-- 
+
 ## Hillford Locations
 - Foo Bar
 - Woods
