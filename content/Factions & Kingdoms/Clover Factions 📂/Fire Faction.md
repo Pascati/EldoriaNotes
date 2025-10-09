@@ -1,1 +1,0 @@
-- Led by [[Cordelia Elysian]]'s father, [[Captain Arthur Elysian]]
