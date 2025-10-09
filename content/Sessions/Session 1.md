@@ -9,19 +9,19 @@ share_updated: 2025-06-01T22:55:50-05:00
 # WE BEGIN: TAVERN
 - The party walks into a tavern!! A classic
 - WE START WITH ME OMG
-	- Gnomish barkeep! Gives homie a beer
+	- [[Foo|Gnomish barkeep!]] Gives homie a beer
 	- I get 9 silver back from getting a room
-	- Apparently Nicholas Powers isn't super popular with most people 🤔
-	- Camille gets excited to see him!! Homie's a fan
+	- Apparently [[Nicholas Powers]] isn't super popular with most people 🤔
+	- [[Camille Xotli|Camille]] gets excited to see him!! Homie's a fan
 		- Hovers around him telling stories in the corner
-- Kaya
-	- Knows a little about Nicholas, here to do some snooping 👀
-	- Sees a few folks around Nicholas, including my character!!
-- Lily's character
+- [[Kaya Avarice|Kaya]]
+	- Knows a little about [[Nicholas Powers|Nicholas]], here to do some snooping 👀
+	- Sees a few folks around [[Nicholas Powers|Nicholas]], including my character!!
+- [[Cordelia Elysian|Lily's character]]
 	- Sees an ambitious and flamboyant half-elf telling stories in the corner
 	- She's hesitant to enter bcs this ain't her scene, but she knows from books that you usually walk up to the bar in this sort of situation!
-	- Asks for wine 💀 (the barkeep says "maybe")
-	- Anxiously fiddles with cards, mentions that she's looking for an adventure -- the barkeep interrupts her and points her towards Nicholas Powers
+	- Asks for wine 💀 ([[Foo|the barkeep]] says "maybe")
+	- Anxiously fiddles with cards, mentions that she's looking for an adventure -- the barkeep interrupts her and points her towards [[Nicholas Powers]]
 
 ## Meeting [[Nicholas Powers]]
 - Insight:
@@ -38,16 +38,16 @@ share_updated: 2025-06-01T22:55:50-05:00
 
 ## THE GANG GETS TOGETHER
 - We all agree that this guy is kinda incompetent and definitely lying
-- Cordelia drops that most people in the military don't have guns 👀 so it's interesting that he has *two*
+- Cordelia drops that most people in [[Clover Military|the military]] don't have guns 👀 so it's interesting that he has *two*
 - Bartender brings us 3 flagons of nice alcohol (left behind by Nicholas)
 	- He points us towards [[Burt Maclyn]] (tall, Orchish man, balding, always carries a broach with him)
 - We agree to adventure together!!
 
 ## BURT TIME
-- Burt's chill as hell! Took Camille's drink
+- [[Burt Maclyn|Burt's]] chill as hell! Took Camille's drink
 	- He tells them to meet him at the back of the tavern (and to leave a few minutes after he does)
 - Camille reports back to the party!
-	- Cordelia's apprehensive and suspicious (Camille casts *Calm Emotions* on her)
+	- Cordelia's apprehensive and suspicious (Camille casts ==Calm Emotions== on her)
 - We were in the bar for an hour or two, it's now around 6 PM
 	- The bar is named the Foo Bar
 - Perception
@@ -57,7 +57,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 	- Camille: dirty 20
 		- Sees Burt talking through a door into one of the shops (talking to someone)
 - Cordelia sneaks up to the dude
-	- Camille casts *Guidance*!
+	- Camille casts ==Guidance==!
 	- Stealth: 17 
 	- She sees that the shop is an explosives shop
 	- Hears the latter half of the conversation:
@@ -67,15 +67,15 @@ share_updated: 2025-06-01T22:55:50-05:00
 - Burt tells us that there's a bandit camp that he knows the location of, but he can take us to it
 
 ## Going to the "Bandit Camp"
-- What we found out about from Burt:
+- What we found out about from [[Burt Maclyn|Burt]]:
 	- Bandits have been here for a few weeks
 	- 7 children have gone missing so far
-	- Burt takes more of a "proactive" approach to the bandits than most others
+	- [[Burt Maclyn|Burt]] takes more of a "proactive" approach to the bandits than most others
 - We stealthin!!
 - **Burt asks the party what their names are**
-	- "Cordelia Elysian"
-	- "Kaya"
-	- *"Camille Aiano"*
+	- [[Cordelia Elysian|"Cordelia Elysian"]]
+	- [[Kaya Avarice|"Kaya"]]
+	- ***[[Camille Xotli|"Camille Aiano"]]***
 - Camille DEX save
 	- The wind pushes their back and they NARROWLY avoid an arrow
 - BURT ADMITS TO WANTING TO KILL US, LIKE THE BITCH HE IS
@@ -85,105 +85,105 @@ share_updated: 2025-06-01T22:55:50-05:00
 **Turn Order: Burt, Camille, Kaya, Cordelia**
 
 ## Round 1
-- Burt misses Camille
+- [[Burt Maclyn|Burt]] misses Camille
 - Cordelia takes 7 damage
 - Camille
 	- Teleports Cordelia 60 feet away
-	- *Healing Word*s Kaya for 9 HP (back to full)
+	- ==Healing Words== Kaya for 9 HP (back to full)
 	- Runs their full movement away (40 ft.)
 	- Takes an attack of opportunity from Burt (6 damage)
 - Kaya
-	- Attacks Burt using *Poison Spray* (misses)
+	- Attacks [[Burt Maclyn|Burt]] using ==Poison Spray== (misses)
 	- RUNS (40 ft.)
 - Guy jumps out of the woods (between the 3 of us)
 	- Fires an arrow at Cordelia (MISSES LIKE A LOSER)
 - Cordelia reaches for her tarot cards
 	- Pulls out the Fool (a random creature will fail the next attack roll or saving throw they make) -- a light beam shoots into the woods down the path we're heading
 	- SHE RUNS DIRECTLY INTO A GUY 💀 BUT IT'S OK!! THE GUY GETS SHOT BY A DIFFERENT DUDE AND DIES
-- NICHOLAS SHOWS UP
+- [[Nicholas Powers|NICHOLAS]] SHOWS UP
 	- Shoots a chunk out of a dude's arm (WE'RE ALL SCARED OF HOW LOUD IT IS)
 	- Shoots a different guy
 
 ## Round 2
 - Cordelia faints 💀
 - Kaya kicks ASS
-- Camille shakes Cordelia awake and casts *Zephyr Strike*
-- Cordelia casts *Firebolt* and HITS BURT IN THE CHEST!!! (he stumbles but is still standing -- the broach he's wearing falls into the mud)
-- Nicholas tries to shoot Burt (misses) and hits a different guy
-- Burt tries to punch Nicholas
-	- BURT SAYS "THEY WERE SUPPOSED TO BE SACRIFICES, JUST LIKE THE CHILDREN"
+- Camille shakes Cordelia awake and casts ==Zephyr Strike==
+- Cordelia casts ==Firebolt== and HITS [[Burt Maclyn|BURT]] IN THE CHEST!!! (he stumbles but is still standing -- the broach he's wearing falls into the mud)
+- [[Nicholas Powers|Nicholas]] tries to shoot [[Burt Maclyn|Burt]] (misses) and hits a different guy
+- [[Burt Maclyn|Burt]] tries to punch [[Nicholas Powers|Nicholas]]
+	- [[Burt Maclyn|BURT]] SAYS "THEY WERE SUPPOSED TO BE SACRIFICES, JUST LIKE THE CHILDREN"
 
 # Post-Combat
-- Nick asks Camille why they didn't kill Burt
+- [[Nicholas Powers|Nick]] asks Camille why they didn't kill [[Burt Maclyn|Burt]]
 	- "Well, I don't want to kill anyone. And anyways, in the stories, when adventurers encounter bad guys, they keep at least one alive to question for later."
-- Nick lore drops:
+- [[Nicholas Powers|Nick]] lore drops:
 	- They need 10 bodies for a ritual
 	- All sacrifices need to die at the same time
 - **WE SHORT REST!!!**
-- Nicholas asks Cordelia what her name is, and mentions that he knows her family!! (not well tho)
-- Nicholas asks Camille if he wants to heal Burt, otherwise Burt will lose his arm
+- [[Nicholas Powers|Nicholas]] asks Cordelia what her name is, and mentions that he knows her family!! (not well tho)
+- [[Nicholas Powers|Nicholas]] asks Camille if he wants to heal [[Burt Maclyn|Burt]], otherwise [[Burt Maclyn|Burt]] will lose his arm
 	- They begrudgingly heal him
 - Perception check!!
 	- There is nobody standing guard at the camp
 	- There are a bunch of charred bullet holes in dead bandits at the entrance
-- Nicholas says that he's not good with children, which is why he needs us
+- [[Nicholas Powers|Nicholas]] says that he's not good with children, which is why he needs us
 	- WE'RE NOT GOOD WITH CHILDREN EITHER 💀
-- We establish that Nicholas is irresponsible as hell (and also an alcoholic)
+- We establish that [[Nicholas Powers|Nicholas]] is irresponsible as hell (and also an alcoholic)
 
 ## Investigating [[The Ritual]]
 - Camille is too distracted by kids to look around
-- Nicholas says that he needed a scholar to look at the ritual area
+- [[Nicholas Powers|Nicholas]] says that he needed a scholar to look at the ritual area
 - We're in a stone area with murals on the walls
 	- Cordelia recognizes a specific portion of it:
 		- Small hole/alcove in the wall, with channels like wires running along the sides
 	- The murals depict the War from nearly 800 years ago
 		- The [[Spade Kingdom]] is turbo destroyed, with craters and shit
 		- Depicts the mountains being raised
-		- Between the mountains, there is an orb (the aforementioned divot in the wall)
-			- Cordelia rolls and concludes that this **orb could be a key of sorts**, but has no idea as to what it's a key for or why the hole is there specifically
-- Nicholas splits the contract with Kaya
+		- Between the mountains, there is an [[Orb]] (the aforementioned divot in the wall)
+			- Cordelia rolls and concludes that this **[[Orb]] could be a key of sorts**, but has no idea as to what it's a key for or why the hole is there specifically
+- [[Nicholas Powers|Nicholas]] splits the contract with Kaya
 - We walk the children back to town!!
 	- Cordelia tells Camille about the WAR
-- WE TIE UP BURT OUTSIDE THE BAR
+- WE TIE UP [[Burt Maclyn|BURT]] OUTSIDE THE BAR
 
 ## Returning the Children + Questioning Burt
 ### The Children
 - First child is returned home safely!!
 - Before the second child is able to be returned, a bell starts ringing in the distance -- townsfolk start emerging from their homes to see what's up and the children start going towards the bell
-### Burt
+### [[Burt Maclyn]]
 - Cordelia KICKS HIM IN THE BALLS!!!
 - Cordelia yells at him and then leaves to go inside the bar and get a glass of mysterious wine
 - Kaya intimidates the FUCK outta him with her spear 🤭
 - What Kaya and Cordelia learn:
 	- Burt believes that "the benefit of the few outweighs the benefit of the many"
 	- Mentions that the mural is really a door (we been knew)
-	- Burt tells us that the "key-orb" is with his benefactors, who would kill him if he gives them up
-- Cordelia tries to BRIBE Burt 🤑
-- Burt bargains for his death so long as the party kills him
+	- Burt tells us that the [[Orb|"key-orb"]] is with his benefactors, who would kill him if he gives them up
+- Cordelia tries to BRIBE [[Burt Maclyn|Burt]] 🤑
+- [[Burt Maclyn|Burt]] bargains for his death so long as the party kills him
 	- No deal is made yet, but around this time **the bell starts ringing**
-- **WHAT BURT SHARES**
+- **WHAT [[Burt Maclyn|BURT]] SHARES**
 	1. "You should never make a deal with the devil"
 	2. "I know nothing"
 - KAYA REALIZES THAT SHE JUST SIGNED A VERBAL INFERNAL CONTRACT WITH THIS BITCH
-	- Now that Burt's shared everything that he knows, Kaya's required to kill him (and kill him quickly)
+	- Now that [[Burt Maclyn|Burt's]] shared everything that he knows, Kaya's required to kill him (and kill him quickly)
 - Cordelia asks for elaboration
-	- **Burt's benefactor is in *Diamond***
-	- He was paid to "find the orb" (AKA the key)
-	- Burt suspects that they key is in the Capital
+	- [[Burt Maclyn|Burt's]] benefactor is in *Diamond***
+	- He was paid to "find the [[Orb]]" (AKA the key)
+	- [[Burt Maclyn|Burt]] suspects that they key is in [[Clover Capital|the Capital]]
 
 ### Back to the Kids
 - Camille is congratulated by a bunch of people!!
-	- They give credit to everyone in the party, including Nicholas (who deserves "medium appreciation")
-- They (Julian? Julius? Old man with a broach that's different from Burt's) ask us to deliver a letter to the Capital
+	- They give credit to everyone in the party, including [[Nicholas Powers|Nicholas]] (who deserves "medium appreciation")
+- They (Julian? Julius? Old man with a broach that's different from [[Burt Maclyn|Burt's]]) ask us to deliver a letter to [[Clover Capital|the Capital]]
 	- The letter will be written tonight
 	- We will receive the letter tomorrow morning, when we meet with the bigwigs of this town
 - Our rooms are paid for!!!
 
-### Back to Burt
+### Back to [[Burt Maclyn|Burt]]
 - Kaya is asked by a random dude to take whatever BDSM shit she's got going on with Burt to a private place (she goes behind the bar)
-- Burt does a double-take at Cordelia's card deck, and looks *terrified*
-	- Burt asks Cordelia how long she's had those cards (since her 11th birthday)
-	- Burt asks Cordelia how old she is (21)
+- [[Burt Maclyn|Burt]] does a double-take at Cordelia's card deck, and looks *terrified*
+	- [[Burt Maclyn|Burt]] asks Cordelia how long she's had those cards (since her 11th birthday)
+	- [[Burt Maclyn|Burt]] asks Cordelia how old she is (21)
 	- He's met someone who had a similar deck before, but that was a VERY long time ago
 		- "Oh, sweetheart. You don't choose that school, that school chooses *you*."
 	- He says Cordelia's not well-versed in them yet
@@ -193,9 +193,9 @@ share_updated: 2025-06-01T22:55:50-05:00
 		- An old, wild wizard(?) owned the cards 25-ish years ago
 		- The cards are a type of wild magic
 		- WIZARD USED SHE/HER
-- PEOPLE NOTICE BURT IN FRONT OF THE BAR!!
-	- Cordelia lies about Burt eating some bad mushrooms and being a danger to other people
-	- KAYA KILLS BURT IN FRONT OF EVERYONE 💀
+- PEOPLE NOTICE [[Burt Maclyn|BURT]] IN FRONT OF THE BAR!!
+	- Cordelia lies about [[Burt Maclyn|Burt]] eating some bad mushrooms and being a danger to other people
+	- KAYA KILLS [[Burt Maclyn|BURT]] IN FRONT OF EVERYONE 💀
 		- IT'S OK SHE EXPLAINS IT AWAY
 		- The townsfolk take care of the body
 	- Camille introduces themself as *"Camille Xotli"*
@@ -214,7 +214,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 	- Decides to write a letter to her school, stating that she will not be attending classes for the foreseeable future. Sends it!
 	- Writes a letter to her friend, saying something along the lines of "If I don't see you in the next few months, don't worry. I love you."
 
-### Dream Sequence Timeeee 🤩
+### [[Dreams & Visions|Dream Sequence]] Timeeee 🤩
 #### Cordelia
 - She's back in class and learning! The topic is something that she's learned countless times before, so she's daydreaming
 - She smells *lavender*, at first

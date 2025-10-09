@@ -1,2 +1,0 @@
-- Large town in Clover
-- Home base to [[Dagen]] and the [[Dagen Coven]]

@@ -3,7 +3,7 @@
 	- Drops the fifth sunstone 30 ft away from the trapped vampire (so he’s just within the light)
 	- Suggests that the vampire answers [[Kaya Avarice|Kaya's]] questions otherwise they will bring the vial of “no vampire bitey” closer (smells bad 🤢)
 	- [[Vallen The Immortal|Vallen]] has to move out of its range bcs it’s STINKY AS FUCK!!!
-	- [[Cordelia Elysian|Cordelia]] casts [Prestidigitation] and shoves a small ball of fire into the vampire’s face (it doesn’t rlly do anything 😔)
+	- [[Cordelia Elysian|Cordelia]] casts ==Prestidigitation== and shoves a small ball of fire into the vampire’s face (it doesn’t rlly do anything 😔)
 	- Casts [Zone of Truth]
 		- The only person who succeeds is [[Cal Corvo|Cal]] 💀
 - The vampire refuses to answer the question of which coven he came from
@@ -45,7 +45,7 @@
 		- THEY DATED FOR A FEW MONTHS!!! DAMN
 		- [[Investigator Teasley|Teasley]] admitted to being a bit of an asshole, and the issues she has with her family kinda got in the way of their relationship
 		- LMAOOO
-	- [[Vallen The Immortal|Vallen]] refuses to walk into the [Zone of Truth]
+	- [[Vallen The Immortal|Vallen]] refuses to walk into the ==Zone of Truth==
 
 # Debriefing w/ [[Investigator Teasley|Teasley]]
 - What we share:
@@ -87,7 +87,7 @@
 
 ### [[Foo]]'s Secret Cellar
 - At the bottom of the ladder, there’s a small landing from which another ladder extends
-- Cordelia casts [Detect Magic]
+- Cordelia casts ==Detect Magic==
 	- Faint traces of magic leading from the top of the ladder to the bottom
 	- TRANSMUTATION MAGIC
 - As we climb deeper, the wood of the walls gradually turn into stone
@@ -95,7 +95,7 @@
 - We see faint flashes of blue light coming from further down -- it’s very dark down here, uncharacteristically so
 	- Cordelia senses that there is a magical darkness surrounding us
 	- Cordelia realizes that nobody heard her fart, as if the sound of her fart was suppressed
-- The gang realizes that we’re under the effects of both a magical darkness and a prolonged [Silence] spell
+- The gang realizes that we’re under the effects of both a magical darkness and a prolonged ==Silence== spell
 	- Cordelia and Cal are able to use sign language to communicate, but Kaya and Camille are rendered silent
 - At the bottom of the ladder, there’s a 20-ft corridor, at the end of which there is a blue light which is blocked by something
 - The gang debates on whether or not we should continue forward
@@ -174,7 +174,7 @@
 
 ### Checking on The Tailor
 - The tailored magic items will take a week to be completed!
-- Kaya apologies about the [[Changelings|changeling]] assistant -- [[Varrell DeFontaine|Varrell]] says that he was informed by the guards that [[Nox|“Cory”]] tried to kill a few townsfolk, who he assumes were us
+- Kaya apologies about the [[Changelings|changeling]] assistant -- [[Varrell DeFontaine|Varrell]] says that he was informed by the guards that [[Dox|“Cory”]] tried to kill a few townsfolk, who he assumes were us
 - [[Varrell DeFontaine|Varrell]] introduces himself to Cal, and in response Cal just says “indeed.” LIKE HELLO?? WTF
 	- KAYA TRIES TO INTRODUCE CAL BUT SHE FORGETS HIS NAME 😭😭😭
 - [[Varrell DeFontaine|Varrell]] is hurt that we didn’t ask him for help to get dressed for the masquerade ball!! He asks who we’re going to for our outfits
@@ -231,7 +231,7 @@
 - [[Varrell DeFontaine|VARRELL'S]] HERE???
 	- He has a dimensional door attached to the shop (he does NOT let Camille see 🙁)
 	- “My back door is very private” - [[Varrell DeFontaine|Varrell]]
-	- This shop doesn’t get a lot of traffic, so [[Nox|“Cory”]] used to run between shops and keep this one staffed
+	- This shop doesn’t get a lot of traffic, so [[Dox|“Cory”]] used to run between shops and keep this one staffed
 - We get an extra tent from [[Varrell DeFontaine|Varrell]]!
 - We also get a flare (in case we need help or people need to find our bodies) as we leave the town
 

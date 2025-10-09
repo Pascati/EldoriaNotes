@@ -2,34 +2,34 @@
 share_link: https://share.note.sx/ej2mcc8a#LIDorDK+df4tfhOqzvADOeIqUF1sv476E+D0RkY4C8k
 share_updated: 2025-06-19T01:00:50-05:00
 ---
-Jon (AKA Cal) joins the party!! YIPEE :D
+Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 
 # Recap
 - We recap (check previous notes)
 - *Camille gets inspiration* because Izzie brought snacks :]
 
 # In the Aftermath of [[The Keeper|V]]
-- Camille comments on how Cordelia didn't seem to like V very much
+- [[Camille Xotli|Camille]] comments on how [[Cordelia Elysian|Cordelia]] didn't seem to like [[The Keeper|V]] very much
 	- Cordelia: That just happens sometimes
 	- Cordelia says that it's been a long day, and that it's not everyday that a man in the woods gives you a quest
 	- We all agree that it was fucking CRAZY that the "Man in the woods" turned out to be the damn KEEPER
-- We return to the carriage and continue onwards to Hillford
+- We return to the carriage and continue onwards to [[Hillford]]
 	- The guards were NOT paying attention
 - The gang sings travel songs!! (and by the gang, I mean Kaya and Camille)
 	- Camille sings "99 bottles of beer on the wall"
-	- Kaya plays her pan flute (it is NOT good 💀)
+	- [[Kaya Avarice|Kaya]] plays her pan flute (it is NOT good 💀)
 
-# Returning to Hillford
+# Returning to [[Hillford]]
 - The guards drop us off and go off to do their own thing
 - Town Description:
 	- Shops in [[Hillford]] are organized in a straight line, so locals can see carriages approaching
-	- Foo Bar sits in the middle of a bunch of other shops
+	- [[Foo Bar]] sits in the middle of a bunch of other shops
 
-## Meeting with Foo
+## Meeting with [[Foo]]
 - [[Foo Bar]] is empty, save for [[Foo]] (behind the bar)
-- Camille informs Foo that we're now mercenaries and are part of the guards sent by the Capital to take care of Hillford
-- Camille also informs Foo that we **met with his long-lost cousin** and that **it is time to travel**
-	- Foo is like "I don't have any cousins???"
+- Camille informs [[Foo]] that we're now mercenaries and are part of the guards sent by the Capital to take care of [[Hillford]]
+- Camille also informs [[Foo]] that we **met with his long-lost cousin** and that **it is time to travel**
+	- [[Foo]] is like "I don't have any cousins???"
 	- THERE'S SOME DISCOUSE but it's a password (we had to say the full phrase)
 - Cordelia asks if we actually remember what he said
 	- LILY FARTS 💀💨
@@ -40,18 +40,18 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 		- *Every time Lily farts, she can roll a Charisma check to hide it*
 		- *Also, Cordelia has IBS now*
 	- MORE FART DEBATE HAPPENS
-		- Cordelia  tries to convince Foo that it was a DUCK??? (she wins the Persuasion/Insight)
+		- Cordelia  tries to convince [[Foo]] that it was a DUCK??? (she wins the Persuasion/Insight)
 - Back to the present
-- *Foo says he's going to "get started"*
-	- We ask what that means, Foo's like 🤨
+- *[[Foo]] says he's going to "get started"*
+	- We ask what that means, [[Foo|Foo's]] like 🤨
 	- WE ALL HAVE TO ROLL TO CONVINCE HIM THAT WE DON'T KNOW
 		- Cordelia (Deception): 14
 		- Kaya (Deception): 5
 		- Camile (Persuasion): 21
-	- Foo refuses to tell us
-	- Foo received a message that **we're supposed to have PERMANENT rooms** at the bar
+	- [[Foo]] refuses to tell us
+	- [[Foo]] received a message that **we're supposed to have PERMANENT rooms** at the bar
 		- YIPEE
-- Foo says that we can do what the fuck ever while he works
+- [[Foo]] says that we can do what the fuck ever while he works
 	- Cordelia suggests that we go SHOPPINGGGGG
 	- Cordelia suggests that Kaya get new clothes
 		- When questioned, she 🏃‍♂️💨
@@ -63,7 +63,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - Drinking a potion takes a *bonus action*
 
 # THE GANG GOES SHOPPINGGG
-- The shops
+- [[Hillford|The shops]]
 	- General store (The Oak and Lantern; labeled with an oak tree and lantern)
 	- Blacksmith (The Iron Hand Forge)
 	- Apothecary (The Briar and Bottle; next to the bar)
@@ -107,7 +107,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - A potion of Hill Giant Strength (the cheapest one) is 220 GP 💀
 - Cordelia will get advantage on making some potions if she gets Irene to teach her
 - *Cordelia receives a crate of bottles for free!!*
-	- In the back of her mind, she goes $YIPEE$!!!
+	- In the back of her mind, she goes YIPEE!!!
 - *Camille purchases TWO common potions of healing*
 	- -50 GP
 
@@ -131,11 +131,11 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 	- Kaya gets the cloak for FREE!!!
 		- **While wearing the cloak, Kaya gets ADVANTAGE on STEALTH rolls while in forested areas**
 - Kaya asks for fit suggestions
-	- Varrell asks what kind of fit Kaya's aiming for ("Mysterious, practical and good to fight in, but elegant")
+	- [[Varrell DeFontaine|Varrell]] asks what kind of fit Kaya's aiming for ("Mysterious, practical and good to fight in, but elegant")
 - WE FLASH SIDEWAYS
 	- Cordelia farts as soon as she leaves the apothecary (takes 3 Psychic damage)
-- OOC NOTE: IZZIE GUESSES THAT VARRELL IS GAY. THE OTHERS DON'T KNOW. I STAY WINNING!!!
-- Varrell offers Kaya a consultation
+- OOC NOTE: IZZIE GUESSES THAT [[Varrell DeFontaine|VARRELL]] IS GAY. THE OTHERS DON'T KNOW. I STAY WINNING!!!
+- [[Varrell DeFontaine|Varrell]] offers Kaya a consultation
 	- He needs a week and a half (2 weeks maximum)
 	- Kaya will be alerted to the outfit's completion via Sending Stone
 		- Kaya receives a Sending Stone
@@ -150,7 +150,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 	- A few folks milling around, moving boxes as if they've received a shipment
 - The gang starts yapping about twinks (Cordelia and Camille think it's a type of wizard)
 
-### MEETING CAL!!!
+### MEETING [[Cal Corvo|CAL]]!!!
 - Everyone checks their Passive Perception
 	- Cordelia: 14
 	- Kaya: 15
@@ -164,7 +164,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - Camille flags down the gentleman to ask a question
 	- He IMMEDIATELY identifies us
 	- Camille shakes his hand and gets shy when he calls us heroes
-	- **The man introduces himself as Cal**
+	- **The man introduces himself as [[Cal Corvo|Cal]]**
 	- He compliments Kaya's cloak 🥰
 - Cal says that he's here on "farming business"
 	- He mostly grows wheat and veggies
@@ -193,24 +193,24 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 	- The clerk turns them down, says that he trusts Cal
 	- He mentions that the farm Cal's currently working on is right outside of town, and called the *Tealeaf Farm*
 - The clerk also throws in a tent since he overheard us talking about one
-	- *Our supplies will be delivered to Foo Bar*
+	- *Our supplies will be delivered to [[Foo Bar]]*
 
 ## Revisiting the Tailor: Stitch & Sundries
 - THE SMOOTH JAZZ HITS AGAIN
 - We see some custom pieces in the back room (separated from the front room by glass)
 	- Kaya sees the bare bones of her outfit
-- Varrell greets us, Cordelia IMMEDIATELY puts down her order like she's at fucking Starbucks 💀
+- [[Varrell DeFontaine|Varrell]] greets us, Cordelia IMMEDIATELY puts down her order like she's at fucking Starbucks 💀
 	- Navy blue, ruffles, stars, gold
-- Varrell changes focus to the "not rude one"
+- [[Varrell DeFontaine|Varrell]] changes focus to the "not rude one"
 	- Camille is SHYYY
 	- They ask for a vest like the one they're wearing
-	- Varrell immediately pulls out EXACTLY what they're looking for (something in ivy green)
+	- [[Varrell DeFontaine|Varrell]] immediately pulls out EXACTLY what they're looking for (something in ivy green)
 		- **The vest has the same abilities as Kaya's cloak!**
 - Cordelia apologies for being mean
 	- SHE HAS TO ROLL TO CONVINCE HIM LMAOO
 	- Izzie missed a bit of this conversation 😔
-- Varrell says that he was making a piece for someone else, but because we saved the children Cordelia can have it
-	- Varrell snaps his fingers, and a guy comes out. Varrell asks him to handle the counter since he's occupied
+- [[Varrell DeFontaine|Varrell]] says that he was making a piece for someone else, but because we saved the children Cordelia can have it
+	- [[Varrell DeFontaine|Varrell]] snaps his fingers, and a guy comes out. [[Varrell DeFontaine|Varrell]] asks him to handle the counter since he's occupied
 		- Brown hair, green eyes
 		- Fit
 		- HANDSOMEEE
@@ -225,15 +225,15 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 	- Insight: NAT 20
 		- *He knows*
 		- Camille IMMEDIATELY excuses themself to go to the bathroom
-	- The brown-haired man asks Camille to wait ("Hold on there, tall drink of water")
+	- [[Dox|The brown-haired man]] asks Camille to wait ("Hold on there, tall drink of water")
 		- CAMILLE FUCKING FUMBLES
-		- The man's name is Cory
+		- The man's name is [[Dox|Cory]]
 		- He leans in and whispers **"Long live the Father."**
-- Varrell returns, tells the remaining party members that their clothes will be ready later (and to tell Camille to enjoy the vest)
-	- He calls to Cory and asks for his assistance
+- [[Varrell DeFontaine|Varrell]] returns, tells the remaining party members that their clothes will be ready later (and to tell Camille to enjoy the vest)
+	- He calls to [[Dox|Cory]] and asks for his assistance
 
-## Returning to Foo Bar
-- Walking back towards Foo Bar
+## Returning to [[Foo Bar]]
+- Walking back towards [[Foo Bar]]
 	- Camille runs back to the bar where they have a room
 	- Homie has a PANIC ATTACK
 
@@ -260,12 +260,12 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - EVERYONE HAS TO ROLL STEALTH
 - *The door clicks as it begins to open*
 	- Cal just stands there 💀 the others scurry away
-	- Cory is at the door, holding a bag of trash
+	- [[Dox|Cory]] is at the door, holding a bag of trash
 - PERCEPTION
 	- As soon as the door opens, *Kaya sees Cal TWITCH*
 	- Cory asks Cal if he wants to help with the trash, Cal just 👁️👁️ stares at him
 	- Cal turns and leaves without saying a word to Cory, BUT he addresses the hiding gang and gives away their position 💀
-- Cory addresses the rest of the gang, and asks them to let "their friend" know to see him later (I'M GETTING PROPOSITIONED AGAIN)
+- [[Dox|Cory]] addresses the rest of the gang, and asks them to let "their friend" know to see him later (I'M GETTING PROPOSITIONED AGAIN)
 
 ### Flash Sideways: Camille Has a Panic Attack
 - Camille has a panic attack
@@ -277,14 +277,14 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - Cal returns to the alley as soon as Cordelia and Kaya leave
 	- He roots through the trash (Raccoon Style)
 	- He finds a piece of paper (torn a little bit)
-	- Cory stuffs a stack of torn papers (like 30 pieces), some with singed edges, and stuffs them into his [Bag of Holding]
+	- Cory stuffs a stack of torn papers (like 30 pieces), some with singed edges, and stuffs them into his Bag of Holding
 
-## ACTUALLY Returning to Foo Bar
+## ACTUALLY Returning to [[Foo Bar]]
 - Kaya and Cordelia don't see Camille there
-- Foo and some patrons are present
-	- Cordelia asks if Foo's seen Camille
-	- Foo says that he returned to his room
-- FOO HAS ACTUAL WINE FOR US NOW!! I LOVE HIMMMM 🍷‼️
+- [[Foo]] and some patrons are present
+	- Cordelia asks if [[Foo]]'s seen Camille
+	- [[Foo]] says that he returned to his room
+- [[Foo|FOO]] HAS ACTUAL WINE FOR US NOW!! I LOVE HIMMMM 🍷‼️
 - Cordelia knocks on Camille's door. There's no response.
 	- The femmes ask Camille to respond in knocks, and they find out that Camille is alive, wants to be left alone, and would like to have a bottle of wine
 - Cordelia and Kaya agree to do more investigating, since they want to do something for Camille (who usually helms investigative and social efforts) (GUYS I LOVE FRIENDSHIP WAAAHHHHHHHHHHH)
@@ -294,14 +294,14 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - CAL ENTERS
 	- He has gift bags for us omg 🥺🥺🥺
 	- Cordelia holds onto Camille's for them
-- Foo asks if we know Cal
+- [[Foo]] asks if we know Cal
 	- We do!
 	- Cordelia excuses herself to throw up 🤢
-- Foo has dinners for all of us!!
+- [[Foo]] has dinners for all of us!!
 	- He offers to bring up Camille's, but Kaya says she'll take care of it
 	- Cal offers to bring it up to them (GUYS I'M SCARED) and Foo hands him their plate
 - Cal says we can have a little picnic in Camille's room!! (GUYS I'M SCARED)
-	- Foo says he'll keep the rest of the gang's plates warm
+	- [[Foo]] says he'll keep the rest of the gang's plates warm
 - They go upstairs!
 	- The wine bottle is gone
 	- They try to coax Camille out, but *there is no response*
@@ -311,8 +311,8 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 		- 10, 20, and 10
 		- They suspect the room is empty (one of them KNOWS it's empty)
 	- CAL KICKS THE DOOR IN
-		- MY FUCKNG ROOM!!! ![[NOAR (discord ver.).png]]
-	- Cordelia casts [Prestidigitation] to light up the room
+		- MY FUCKNG ROOM!!! ![[NOAR (discord ver.).png|240]]
+	- Cordelia casts ==Prestidigitation== to light up the room
 - **The window is open.**
 	- Cal immediately goes to Investigate
 		- He discerns that the window was opened from the insight
@@ -321,7 +321,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 		- The color drains from Cal's face -- he says that they need to find Camille ASAP
 	- CORDELIA'S INSIGHTING CAL!! SHE'S SUSPICIOUS!!!
 		- All she sees is a farmboy who knows what he's doing
-- Cordelia casts [Detect Magic] and uses her Passive Investigation to look around the room
+- Cordelia casts ==Detect Magic== and uses her Passive Investigation to look around the room
 	- She sees magical traces left by Camille, and a vision of him jumping out the window
 - CAL DIVES OUT THE WINDOW!!!!!!!
 	- HOMIE DOES 2 FRONT FLIPS AND LANDS ON THE GROUNDON HIS FEET!! KING SHIT
@@ -344,48 +344,48 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 
 # Camille's POV
 - Camille stumbles through the front door
-	- Cory is alone in the room, Varrell isn't present
+	- [[Dox|Cory]] is alone in the room, [[Varrell DeFontaine|Varrell]] isn't present
 - I'M SO SAD I WAS TOO LOCKED IN ON ROLEPLAYING TO TAKE NOTES 😭😭😭
 
 ## THE PARTY ARRIVES
 - CAL FUCKING RUSHES THE GUY LINEBACKER STYLE AND BREAKS THE DOOR TO THE ALLEYWAY, THROWS CORY ON THE GROUND
-	- Pins Cory down, asks **"Who is he? Give me a name."**
-	- **"Who the Father? He's in Spade!"**
+	- Pins [[Dox|Cory]] down, asks **"Who is he? Give me a name."**
+	- **"Who [[Changelings#The Father|the Father]]? He's in Spade!"**
 	- Cory confesses that there are many of "them", "millions, even"
 - Camille says that they can't explain right now, but they should follow Cal because *"I need answers"*
-- Camille casts [Zone of Truth]
-	- Kaya and Cory pass
+- Camille casts ==Zone of Truth==
+	- Kaya and [[Dox|Cory]] pass
 	- Camille asks Cory why he's being so aggressive
 		- "I don't know. I know he's up to no good, and I intend to find out what."
 - Kaya suggests that there's a less violent way to solve our problems
 	- SHE WINS AT PERSUASION
 - Camille asks if he can change
-	- EVERYONE SEES CORY CHANGE FORM INTO CAL (clothes and all)
+	- EVERYONE SEES [[Dox|CORY]] CHANGE FORM INTO CAL (clothes and all)
 	- Camille tries. Nothing happens 💀
 - Cory confesses that he already sent someone to take care of things here
-	- The agent was supposed to take Burt's form
-	- Camille tells Cory that Burt died (Cory looks concerned and a little scared)
+	- The agent was supposed to take [[Burt Maclyn|Burt's]] form
+	- Camille tells Cory that [[Burt Maclyn|Burt]] died ([[Dox|Cory]] looks concerned and a little scared)
 		- KAYA AND CORDELIA INTIMIDATE HIM BY SAYING THEY BUTTFUCKED BURT TO DEATH 💀
 		- Cal is approving LMAO
-		- He clarifies that **Nix** was buttfucked to death as Burt
-- CAL HITS CORY :(
-	- HITS!! CORY IS COMPLIANT
+		- He clarifies that **Nix** was buttfucked to death as [[Burt Maclyn|Burt]]
+- CAL HITS [[Dox|CORY]] :(
+	- HITS!! [[Dox|CORY]] IS COMPLIANT
 - Camille asks if the Father is after an [[Orb]] or Key of some kind
-	- **CORY IS LIKE YES!!!**
-	- Camille says they don't know what's happening (Cory is starting to get annoyed)
+	- **[[Dox|CORY]] IS LIKE YES!!!**
+	- Camille says they don't know what's happening ([[Dox|Cory]] is starting to get annoyed)
 - Camille tries to get everyone to leave
 	- Cordelia and Kaya step out of the alleyway (I LOVE FRIENDSHIPPP)
 		- Kaya tries to eavesdrop (Stealth 23)
 	- Cal is PISSED ("I'll see you soon" THREATNINGLY), but leaves as well
 
 ### THE PARTY SPLITS
-#### Camille and "Cory"
+#### Camille and [[Dox|"Cory"]]
 - What Camille learns:
-	- The orb and key will be used to eliminate all of the Kingdoms
+	- The [[Orb]] and key will be used to eliminate all of the Kingdoms
 	- The [[Changelings#The Father|"Father"]] is in Spade
-	- All other races are beneath changelings
-	- Varrell is NOT a changeling
-- They agree to meet behind Foo Bar
+	- All other races are beneath [[Changelings]]
+	- [[Varrell DeFontaine|Varrell]] is NOT a changeling
+- They agree to meet behind [[Foo Bar]]
 	- If he sees the rest of the party again, he will kill them
 
 #### Cordelia, Kaya, and Cal
@@ -396,7 +396,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 ## The Party Reconvenes
 - Cal grapples Camile (CAMILLE GETS TORN ASUNDER) (I GET SCARED)
 	- "I was asking the right questions, but maybe I was asking the wrong person. Tell me everything he told you"
-	- Camille tells him that "Cory" will kill everyone if he sees them again, but they don't want to play along because they don't want people to die (that's bad)
+	- Camille tells him that [[Dox|"Cory"]] will kill everyone if he sees them again, but they don't want to play along because they don't want people to die (that's bad)
 		- When they say that, Cal scoffs
 	- **Cal outright asks if Camille is a changeling**
 		- They shrink and don't respond
@@ -433,12 +433,12 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 ### Back to Camille and Cordelia
 - Grabs their bag and anything near and dear to them
 	- One of the items they grab is a notebook with their name written on the front - not in their handwriting - and shoves it into their bag
-- As they leave, Camille drags their feet in the dirt to leave the trail (and plans to cast [Prestidigitation] every so often to leave a magical trail)
+- As they leave, Camille drags their feet in the dirt to leave the trail (and plans to cast ==Prestidigitation== every so often to leave a magical trail)
 - Cordelia hides near the entrance of the bar
 	- Stealth: dirty 20
 - Cal and Kaya catch up to the bar
 	- Cal rolls Stealth and Perception (idk I think it was good)
-- Cal asks Camille where they saw "Cory" last
+- Cal asks Camille where they saw [[Dox|"Cory"]] last
 	- Behind the tailor's shop -- which is where he goes
 	- WIS CHECK: He remembers a conversation about meeting behind the bar
 		- HE BOOKS IT TO THE ALLEYWAY (doesn't see anybody there)
@@ -447,7 +447,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - Camille goes across the street to the other alleyway
 	- There's a bit of a rustle in the greenery
 	- "I couldn't get them off my trail, we have to leave now"
-	- When Cory emerges, he's in his changeling form
+	- When [[Dox|"Cory"]] emerges, he's in his changeling form
 		- Grey skin, white hair shaved close to the sides
 		- White eyes no irises
 		- Muscular
@@ -457,7 +457,7 @@ Jon (AKA Cal) joins the party!! YIPEE :D
 - Lily farts :(
 	- Rolls for Stealth: BAD!!! (8)
 	- It's ok tho
-- Camille desperately tries to convince "Cory" to leave ASAP
-	- He asks them if they know where the Orb is
+- Camille desperately tries to convince [[Dox|"Cory"]] to leave ASAP
+	- He asks them if they know where the [[Orb]] is
 	- They lie and say that they can't remember (Deception dirty 20)
-		- BEFORE THEY CAN FINISH LYING IG?? CAL BARRELS "CORY" OVER AND SAYS SOMETHING ABOUT GETTING THE NEXT ONE TO TELL HIM IF "CORY" ISN'T GOING TO TALK
+		- BEFORE THEY CAN FINISH LYING IG?? CAL BARRELS [[Dox|"CORY"]] OVER AND SAYS SOMETHING ABOUT GETTING THE NEXT ONE TO TELL HIM IF [[Dox|"CORY"]] ISN'T GOING TO TALK

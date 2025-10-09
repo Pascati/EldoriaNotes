@@ -88,7 +88,7 @@
 - We walk out of the closet in the Garrison (we get a few weird looks)
 	- Camille waves to people 👋😊
 	- When they see Vallen, they look away
-- We're allowed upstairs, and we walk past [[Captain Purah]]'s office
+- [[Simon]] (at the front desk) allows us upstairs, and we walk past [[Captain Purah]]'s office
 	- The door is open, but she's not in there
 - We reach the elevator -- there seems to be a line to enter it??
 	- WE GET THE FAST PASS!! THE GUARDS LET US THROUGH BCS THEY KNOW VALLEN

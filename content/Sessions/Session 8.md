@@ -1,0 +1,302 @@
+- Lily gets inspiration for making everyone a delicious dinner!!
+- **OFFICIAL INSPIRATION RULES: ADD A 1D8 TO A ROLL**
+
+# On The Road Again
+## Cal and Camille Talk
+- [[Cal Corvo|Cal]] asks [[Camille Xotli|Camille]] what they noticed in a previous town! He noticed that _they_ noticed something, and wants to know what the deal is to see if he can help
+- They agree that they got off on the wrong foot, and start over and reintroduce themselves!! friendship is real and true to me :]
+- What’s a happy memory Cal has?
+    - His parents - on his fourteenth birthday - decided that Cal was old enough to go into the big city with the merchants
+    - He was able to go once a month for the next two-ish years
+    - In the city, he learned that there were more exciting things that he could do other than farming
+    - Camille also reminisces about meeting an adventurer who told them and their brother stories of adventure, and how that made them realize there was more to life than just staying at home helping their mom
+- Cal says that there are bad, terrible things out there, and he wants to help where he can -- it’s why he does what he does! (travel around farming and helping with stuff beyond farming)
+
+## Passing the Woods
+- The gang rolls perception!
+    - Everyone except for Camille notices that there’s a scream coming from the woods we’re passing by
+    - We also know that these are NOT fey woods
+- Cal grabs the reins (he can drive!! huzzah) and BOOKS it towards the scream
+    - We pull up to a stop in front of the forest -- it sounds like MULTIPLE people are screaming. Men, women, children. And it’s the screams of people _dying_
+- Cal and Camille BOOK it into the woods ([[Cordelia Elysian|Cordelia]] and [[Kaya Avarice|Kaya]] follow after)
+- We see a few dead bodies, surrounded by the ruins of the temple. There are individuals shrouded in darkness - as if they’re in the shade, but the shade is moving with them (like they themselves are shadows) - one of whom stabs into a man wearing commoner’s clothes. (also another guy dies at the same time. double death)
+    - There’s a little boy behind where the double-death occurred, and one of the shadows closer to us (20 ft. closer than the commoner who died) has its back towards us and starts walking towards the boy
+- GROUP STEALTH
+    - yeah we chillin 😎
+- Nvm we’re no longer chilling. Camille ==Guiding Bolts== this dude’s ass 💀
+    - As the bolt hits, we see no face as the shadow turns to face us
+
+# Combat Begins
+- **Initiative Order:** Cal, [[Vallen The Immortal|Vallen]], Kaya, Cordelia, Camille
+- Camille does double damage bcs the ==Guiding Bolt== was a sneak attack and does **30 radiant dmg** to the Shadow approaching the child
+- ROUND 0 (SURPRISE) casts 
+    - Cal
+        - Slashes the Shadow as an action (hits!)
+        - Perception: Cal sees through the darkness and realizes that the shadow looks kinda like a vampire 👀He also notices that there is **a device attached to the vampire’s belt/hip**. It’s a wooden box with some metal on it, and a purple gem inside.
+        - Bonus action brings out the Sun Stone -- but the vampire’s face is still encircled in shadow (so no sunlight reaches his face 😧)
+    - Vallen
+        - Teleports 30 ft. forward, continuing to run in that direction
+        - Misses the vampire in front of him :(
+    - Kaya
+        - Bonus action grabs one of her silver-tipped spears
+        - Throws a javelin, misses :(
+        - Runs closer to the Shadow (50 ft. of movement)
+    - Cordelia
+        - Casts ==Acid Arrow== and misses :(
+    - Camille
+        - Looks around for additional enemies (they don’t see SHIT)
+        - Sees dead vampires on the ground (still shrouded in shadow) and lots of bodies
+        - Casts ==Haste== on Cal
+- ROUND 1
+    - Cal
+        - Shouts out and tells the gang to use fire to burn whatever device the Shadow is wearing
+        - Attacks the only guy (the Shadow)
+    - Vallen
+        - Does 8 dmg to the Shadow!!
+    - The Shadow
+        - Deals **17 dmg** to Cal
+    - Kaya
+        - Hits on a 15 attack for (idk how much) BUT bcs it’s silver it’s more powerful
+        - Also PUNCHES THE VAMPIRE TO DEATH WITH 5 POINTS OF DMG??? SLAYYYY
+        - literally punches the dude so hard she CAVES IN ITS NOSE AND PUSHES HIM FARTHER ONTO THE SPEAR LODGED IN HIS CHEST AND PUNCHES _THROUGH ITS FACE??????_
+
+# Post-Combat
+- Camille goes over and tries to comfort the kid
+    - They put their cloak on the kid and pull the hood over his head so he doesn’t have to look at the bodies
+    - Homie’s SHAKEN!! Literally EVERYONE died :(
+    - The kid has family in [[NorthPass]] -- Camille says they can take a detour
+- The child points at this concrete-like altar, and says that “they were here for that”
+    - Looks like it belongs in a cathedral, but it’s _all black_
+- Camille asks [[Vallen The Immortal|Vallen]] to take the child back to our carriage and make sure that he’s alright (so he’s not around all the damn bodies anymore 💀)
+- Cal investigates the strange contraption the Shadow/Vampire was wearing
+    - Sleight of Hand: 23 (manages to pull it off the creature’s body)
+    - Dexterity Check: 12 (the crystal begins to burn into his hand, and as a knee-jerk reaction, he drops it)
+    - Sleight of Hand: nat 1 (misses catching it, the thing shatters on the ground)
+- Cal fumbles on a different body, but **manages to grab a contraption off the third body**
+    - History Check: 16
+    - The technology of the box seems familiar -- it _doesn’t_ look like anything Foo was working on, _BUT_ it looks similar to the shit we saw in the vision and the lab from last night 👀
+- Camille goes to the altar the child pointed to (the party follows!)
+    - On the altar, there seems to be a lever (CAL PULLS IT???)
+    - The party rolls DEX saves (CORDELIA AND CAL ROLL NAT 20S!! THEY WIN)
+        - The floor beneath us DISAPPEARS!!
+        - **Cordelia and Cal manage to jump out of the way** (nat 20s go CRAZY)
+        - Kaya and Camille **fall down separate shafts**
+- Cordelia drops a gold coin down to try and determine how deep the shaft is, and after like 10 seconds she hears it skitter (like it lands on a slope)
+    - Kaya sees a gold coin fall past her, and falls into a sliding position (like she’s going down a slide)
+    - Camille _also_ goes in slide position
+- CAL JUMPS INTO KAYA’S SHAFT bcs he knows there’s a slide there
+- _CORDELIA FREAKS OUT!!!_
+    - Beelines it to the carriage to get [[Vallen The Immortal|Vallen]] (they IMMEDIATELY start arguing 💀 in front of the kid)
+    - Cordelia panic-explains what happened (Cal pulling the lever, Kaya and Camille falling, and Cal following them)
+    - [[Vallen The Immortal|Vallen]] asks who’s going to be watching the kid -- he can protect him by himself, but can Cordelia?
+        - Cordelia BEELINES it back into the woods immediately
+- Cordelia jumps into the shaft that she knows was made for her
+- **SIDE NOTE!** Cordelia pulled some cards earlier: five cards intended for everyone in the party (+ Vallen) and one card intended for the person we’re hunting/fighting
+
+# Underground
+## Room 1
+- Camille slides to a stop
+- As Cal falls, he has enough time to re-summon the Sun Stone from his ring
+- Kaya slides to a stop in a dark room. With her darkvision, she sees:
+    - DEAD dark ahead of her
+    - Exits to slides on either side of her (Camille slides in on one of them!!)
+    - There’s light coming in from behind us on the slides
+- Cal slides in - holding a sunstone - behind Kaya
+    - Camille asks Cal to talk to the group before doing anything rash next time
+- The gang hears distant screaming growing louder, and Cordelia slides in on the final slide!!
+    - DEX save: 12
+    - ROLLS tf in
+- Camille gets up and starts walking around. In the middle of the room, they see an altar/stone pillar. Upon it is a stone orb -- it’s about **4 ft. in diameter**
+    - Perception: we remember that the scary pyramid had jagged runes, while the orb has smooth-swirly runes. This orb has similar shapes on it to the orb from our dreams!
+    - Camille tries to pick it up (that shit does NOT budge)
+- Other things in the room:
+    - There are 6 alcoves along the wall (mainly for structural purposes, it seems like), but it doesn’t seem like there’s anything in the room other than the orb
+    - There’s a **hallway** behind the orb, which turns to the left eventually
+
+## Room 2
+- The gang goes down the hallway! It’s paved with tiles that are 2ftx2ft
+    - Cal is in front (DEX save: 24). He feels a tile sink slightly beneath his feet and manages to jump back in time before ANOTHER tile from the ceiling falls on him
+- Cordelia observes that there are a few tiles that appear to be slightly raised down the hallway -- we should probably avoid stepping on them
+    - Cal suggests setting them off on purpose, the rest of the party disagrees. Camille says that we should probably try to be quiet (and avoid setting off the traps) just in case something is living down here
+- As we approach the next trap, Kaya casts ==Mold Earth== to fix the tile in place so we can walk over it safely
+
+## Room 3
+- The ceiling appears to be broken a little, with a sphere crashed into the ground (seemingly fallen from the ceiling) in the middle. There are three paths branching off apart from the one we just came from
+- Camille looks around for “desire paths”, and asks Cordelia if she thinks there are any in here. Cordelia rolls Investigation (Advantage w/ Camille help)
+    - Really no desire paths, it looks like this place has been
+    - Top Door: looks scary!! there’s a bony hand (sticking through it??)
+    - Right Door: looks like it’s been visited recently
+    - Door Ahead: idk bro I missed that part
+
+## Orb Door
+- Kaya and Cal HIGH FIVE and **go towards the top door** (the scary one) while Camille tries to give Cordelia a pep talk
+    - Camille takes Cordelia’s hand and follows the other two
+- Investigation (from the two leading the pack: Kaya and Cal)
+    - There are the same swirls from the orb are on the walls, but then runes similar to the jagged ones on the pyramid begin to appear 😧
+- There’s a spherical hole in the wall at the end of the hallway, reminiscent of the first door we saw. However, this one is very ornate
+    - The door on the right has swirly orb vibes, and the door on right has jagged pyramid vibes (so they meet in the middle)
+- Cordelia looks at the orb side of the door (dirty 20 Investigation)
+    - She can tell that this is a place where light and dark meet
+    - The orb-ish area is where a key should go (as we established in session 1)
+    - She doesn’t know what the door would lead to
+    - Lily: “the connection to this is the story of Fire and Water she heard when she was younger”
+- Cal is ==Guidanced== by Camille and looks at the pyramid side of the door (22 Investigation)
+    - His thoughts drifted away from the door, and thanks to the sunstone he can see that there are little flashes of red on the door
+- The gang rolls Arcana
+    - Cal’s eyes start flicking red HELP!!
+    - Nvm as he turns to the rest of the party, the flickering stops
+        - Cordelia looks deeper into Cal’s eyes -- she sees a little picture of a pyramid in both of pupils when his eyes flash red, but it disappears when he turns to the rest of us
+- Kaya casts ==Mold Earth== -- the orb she tries to make _falls apart_
+    - This has never happened before!!
+    - Cordelia casts ==Detect Magic== and looks at the ground, at Kaya, and at the Door
+        - While looking at the door, the **right/[[Orb]] half of the door is radiating white, while the left/[[Pyramid]] half of the door is dark and misty and red**
+- Camille tries to contact the Keeper via sending stone, but it buzzes red and falls back into their hand -- **the messages does _not_ go through**
+    - We can assume the magic they were trying to cast is not going to work
+    - The message: Keyless orb door underground in forest north of NorthPass. Vampires fought over entrance, could walk in day with technology from Holden. Trapped, contact for more
+- Cordelia is FREAKING out (reasonable) and wants to get OUT of here
+- Camille suggests that we check out the door in the previous room that was accessed more recently
+- We turned right on the way to the orb door, so we assume that we need to turn _left_. **HOWEVER!! We turn _right AGAIN on the way back_**
+- Cordelia asks Cal where we should go, since he “has the least brainpower of all of us”. He says to go right
+
+## Returning to Room 3
+- Instead of returning through the top door, we return through a DIFFERENT door (izzie’s brain is scrambled and can’t remember which one 😭)
+- We agree to go through the door we _haven’t_ passed through yet
+
+## Room 4
+- In the room we come to, there’s a door 30 ft. off the ground in front of us, with little holes lining the walls near the top of the ceiling
+- Perception (CAMILLE GETS A NAT 20)
+    - We notice we’re standing in a very thin layer of water
+    - Camille notices that there is water dripping from each of the holes lining the walls
+- Camille asks Cal for his rope, and ==Misty Steps== to the door
+    - DEX save: 17. They barely manage to avoid stepping on a small platform in front of the door
+    - The stone door before them is flat and smooth, with a small hole in it like a keyhole
+    - Camille lets down the rope
+- Cal notices that the path behind us is gone
+- Kaya climbs up the rope, and tries to use ==Mold Earth== to open the door
+    - The door moves down slightly, but then moves back up
+    - DEX check (nothing happens)
+- Cordelia climbs up
+    - DEX check (NAT 20): she’s so graceful
+- Cal asks the party to step on the platform, Camille asks him to check for keys that go into the keyhole
+    - There are no keys :(
+- Camille **steps on the platform**
+    - The room starts flooding with water
+- As Cal is climbing up, he notices a golden glint come out of one of the holes in the wall -- it’s the key!
+    - As he communicates that to the party, the water starts gushing out FASTER
+- Cordelia DIVES into the water to grab the key
+    - Neither her nor Cal are able to find the key right away
+- Kaya jumps in! Cordelia jumps in! They also can’t find it
+- THE WATER IS RISING. By this point the water has reached the platform where the door is
+- Camille gives Cordelia the help action + ==Guidance==
+- Camille uses their Channel Divinity to ZIP the key into the door -- Kaya swims and turns it
+    - WE’RE SAFE!!! the party washes into the next room, and the water drains out of the room we were just in
+- The key has fins on it! Like a fish!! 🐟🐟🐟
+
+## Room 5
+- CJ PULLS OUT PHYSICAL FUCKING PROPS. THIS IS SO COOL
+- There are six urns (three on either side of us) as we approach a door
+- On the opposite side of the room, there’s a door **with a face on it**. It’s standard door size, with HUGE eyes and a straight face. **Both its eyes and mouth are closed.**
+    - YA BOI BASICALLY PREDICTED IT. WE LOVE TO SEE IT
+- As we walk up to the door, its eyes _open_
+    - (Cordelia rolls an 18 to stick her dick in it.. we live in a society)
+    - “Tell me… a joke.”
+        - Cordelia thinks there’s a mathematical approach to this. Camille is like “I don’t think so :( “
+- Camille: Why did the paladin wear chainmail? Because it’s _hole_-y armor
+- CORDELIA TELLS A JOKE AND SHATTERS ANOTHER VASE :(((((
+- Camille tries to ask if the door likes physical comedy or what kind of comedy the door likes… no response
+- CORDELIA FARTS AND BREAKS ANOTHER VASE
+- Camille looks in one of the vases -- there’s a green mist in there. They try to stick their hand in it
+    - Medicine (Advantage): they take 2 points of damage and realize that the **vases are filled with poison**
+    - Camille theorizes that - if we fail all six attempts - the room will fill with poison and hurt us
+- Cordelia goes back to the cards that she pulled for the party + the people we’re fighting, and flips over the one intended for **Kaya (The High Priestess)**
+    - The card glows and SHOOTS into Kaya’s chest
+- Camille asks if Cordelia can do a reading for our “friend” (the door)
+    - She pulls a ~~two of swords~~ **The Hermit**
+    - The card SHOOTS into Camille and they are affected by the ==Confusion== spell
+- Kaya tells a knock knock joke and FUMBLESSS
+    - It’s ok bcs the card she absorbed earlier makes her succeed on ANY roll she makes next
+- **THE DOOR DOESN’T OPEN**
+    - Camille politely asks the door if it _can_ open. It can
+    - They ask if the door would open for them. It refuses (it is a door)
+    - Cal pushes the door AND IT OPENS
+    - **_FUCK THIS STUPID BAKA LIFE!!!!!! THE DOOR JUST WANTED TO HEAR A DAMN JOKE_**
+
+## Room 6
+![[Session-8-Dungeon.jpeg|360]]
+
+- Perception:
+    - Most of us see - at the end of the room - is a broken runic circle. Embedded in the center is an axe.
+- Kaya checks out the statues (what’s their deal??)
+    - like a 3 investigation 💀
+- Cordelia _also_ looks and gets ==Guidanced== by Camille
+    - They look like they’re made of stone, and have been here for _centuries_
+- Cal takes a look at the axe
+    - It looks embedded in the wall, but can probably be removed
+- Kaya tries to remember if any of the statues are of historical figures
+    - She doesn’t recognize any
+    - Cordelia realizes that the garb the statues are clad in are very ancient, and don’t denote belonging to any particular kingdom. HOWEVER!! **They bear symbols similar to the necklace [[Vallen The Immortal|Vallen]] wears**
+- **Cordelia realizes that Cal’s armor is patchwork pieces of different pieces of [[Clover military]] armor**
+    - It’s **Captain-level armor**
+    - CORDELIA IS _VERY_ FAMILIAR WITH ALL CAPTAINS IN CLOVER HISTORY FROM RECENT HISTORY. None of this rings a bell though
+- Camille asks Cordelia if she recognizes the runes on the wall
+    - **_NAT 20!!!!!_**
+    - She realizes that the runes encircle the room, but **_by design_** parts of the story are missing
+    - The runes form two spirals which center on the middle of the room, which Cordelia realizes are **_[[World Lore#The Great War|two separate stories]]_**
+        - STORY 1: There was a big war, after which the land was split into four kingdoms (the kingdoms we know of today), ending with “and now”
+        - STORY 2: “We made the fog” … “Four kingdoms” … “split” … “and now”
+        - Both “and now”s end at the same spot
+    - **On both sides of the room (i.e. in both stories), there is the phrase “world machine”**
+        - Lily is theorizing that this is like DiskWorld -- the fog is protecting us from the edge of the world (flat earth style) 🌏👀
+- Camille feels a buzzing in their pocket -- it’s their sending stone!
+    - THE MESSAGE THEY SENT EARLIER FINALLY FUCKIGN SENDS. WE HAVE SIGNAL!!!
+    - “What the fuck? Okay, weird. Noted. Need help? After banquet please come see me. Keeper out!!!”
+    - **_UNHELPFUL!!!!_**
+- Camille looks at the coffin for runes, plaques, or any details
+    - There’s nothing on it!!!
+- CORDELIA TRIES TO OPEN THE COFFIN? IT’S NAT 20????
+    - WHAT THE FUCK IS SHE FEEDING HER DAMN DICE!!!
+    - There’s a SUPER dead body wearing a necklace that’s a PERFECT replica of the necklace Vallen wears
+- KAYA JUMPs FOR THE DAMN NECKLACE!!! THIS BITCH HAS NO RESPECT FOR THE DEAD
+    - Camille helps Cal stop Kaya
+    - Camille warns Kaya against looting SUPER dead bodies, and says she’s better than that
+- As we’re debating, the runes around the room start glowing purple, and the lights converge at the axe, which begins to _shake_
+    - Cal runs to grab the axe, which falls and he grabs it
+- THE STATUES START MOVING TOWARDS US WEEPING ANGEL STYLE!!! FUCK THIS STUPID FUCKING BAKA LIFE!!!!!!
+    - The DM notes that the only thing lighting this room is Cal’s Sun Stone -- it’s lasted longer than we expect
+- Cordelia instinctively reaches down and casts ==Light== on a loose stone
+    - CJ: Remember, shadows exist :)
+- Cordelia sneakily looks around -- the only exit is the way we came
+- Camille asks Cal what the deal with the axe is. **He looks down to check it out (the statues move in)**
+    - It doesn’t look like it was made recently at all
+    - **The blade is _very_ intricate** -- there are designs that all connect at a spherical area
+- Cordelia instinctively pulls a card - the one intended for Camille - and pulls **The Judgement**
+    - Another version of Cordelia pops up nearby!!! Huzzah!!
+- Camille pivots and turns so that they’re closer to the exit
+- Cal tries to call out a name: Lathander
+    - Cordelia (Religion 13): knows this as the God of Dawn, despiser of all things unnatural
+    - Camille (NAT 20): recognizes the necklace in the coffin as Lathander’s symbol
+    - **Cal says: “Lathander, we’re fighting for the same cause.” AND TURNS HIS BACK TO THE STATUES!!!!!!!**
+        - HE ASKS KAYA TO CLOSE HER EYES?!?!?!??!??
+- KAYA PIVOTS SO SHE STILL SEES HER OWN STATUE, BUT PUTS UP A HAND SO SHE NO LONGER SEES THE STATUES AIMED AT CAL
+    - Cal feels a stone hand grip his shoulder **(IZZIE THINKSTHIS IS JUST LIKE THE FUCKING DREAM)** and it moves to grab the back of his neck. It moves his head to look at the other statue that looks no longer ready to attack
+    - The hand pulls away
+- Cal approaches the statue that he was directed to look at
+    - The statue has returned to its original position (standing with its sword in a neutral position)
+    - Cal hears scuffling behind him -- the statue that turned his head is back in place
+- Cordelia - against her better judgement - repeats what Cal says verbatim and closes her eyes
+    - The rest of the party follows in suit!!!
+    - **THE STATUES RETURN BACK TO THEIR PLACE!!!!! WE LOVE WINNING** 🗣️📢‼️
+
+## Leaving the Dungeon
+- The party leaves the room with the statues -- as we leave, Cal tells an insane joke abt leprechauns fucking penguins and makes the door BURST out laughing
+- There are stairs leaving the dungeon!! huzzah!!!
+- Stone gradually turns into dirt as we ascend
+- We hit a door with the swirly runes and a slot in it
+    - We realize that the slot is the exact same shape as the axe Cal has!
+    - As Cal slots the axe into the circle, the glowing purple spiders out and crumbles away, REVEALING THE OUTSIDE!!!!!!! YIPEE!!!
+- The little altar sits in front of us, no holes. The lever is gone.
+- THE GANG TALKS TO [[Vallen The Immortal|VALLEN]]!! It’s only been 5 minutes since we left
+    - Cal thanks [[Vallen The Immortal|Vallen]], saying that he’s the only reason why we survived
+    - Cordelia approaches [[Vallen The Immortal|Vallen]], looks all 🫵😤at him, and then goes into the carriage
+    - Kaya hops into the carriage
+    - Camille explains what happened to us
