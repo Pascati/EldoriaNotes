@@ -1,4 +1,0 @@
-- Town in Clover
-- Partially a military outpost
-- When first encountered, had significantly more security (walls and extra guards) caused by an increase in vampire attacks
-- Where [[Varrell DeFontaine]]'s second tailor's shop is located
