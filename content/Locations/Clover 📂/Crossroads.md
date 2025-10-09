@@ -1,2 +1,0 @@
-* A bustling town!
-* Where [[Reema]] and her cousin (orcish bartender/innkeeper) were originally encountered
