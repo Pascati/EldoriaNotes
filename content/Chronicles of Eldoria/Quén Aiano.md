@@ -1,7 +1,4 @@
----
-draft: "true"
----
-
+>![info] COPY/PASTE INTO EXISTING [[Camille Xotli]] FILE
 # Character Profile
 
 
