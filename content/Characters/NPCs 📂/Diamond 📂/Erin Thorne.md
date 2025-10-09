@@ -1,2 +1,0 @@
-- Leader of the [[Seven Lieutenants]]
-- Was once [[Cal Corvo]]'s superior, now is hellbent on either bringing him back to Diamond or killing him
