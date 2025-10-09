@@ -16,3 +16,4 @@ aliases:
 - [[Lycoris]] (Former Residence)
 
 # Known Information
+- 
