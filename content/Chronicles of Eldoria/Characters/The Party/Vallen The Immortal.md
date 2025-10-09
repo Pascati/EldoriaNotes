@@ -1,3 +1,8 @@
+---
+aliases:
+  - Vallen
+---
+
 # Character Profile
 ![[Vallen The Immortal.png|336]]
 - Rogue (Paladin Operative), Level 7

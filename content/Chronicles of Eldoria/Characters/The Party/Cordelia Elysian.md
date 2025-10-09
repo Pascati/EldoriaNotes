@@ -1,3 +1,9 @@
+---
+aliases:
+  - Cordelia
+  - Delia
+---
+
 # Character Profile
 ![[Cordelia Elysian.png|360]]
 - She/her

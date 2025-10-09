@@ -1,3 +1,8 @@
+---
+aliases:
+  - Cal
+---
+
 # Character Profile
 - He/Him
 - Human

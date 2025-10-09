@@ -1,3 +1,8 @@
+---
+aliases:
+  - Camille
+---
+
 # Character Profile
 ![[Camille 1.png|336]] ![[Camille 2.png|336]]
 ![[CAMILLE BY LILY.png|336]]

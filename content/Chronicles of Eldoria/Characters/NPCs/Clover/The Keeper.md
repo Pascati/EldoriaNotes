@@ -1,3 +1,9 @@
+---
+aliases:
+  - V
+  - Vyapada
+---
+
 # Character Profile
 ![[The Keeper.png|336]]
 - Unknown class and level

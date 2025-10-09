@@ -1,3 +1,8 @@
+---
+aliases:
+  - Varrell
+---
+
 # Character Profile
 - Human man
 - Appearance:

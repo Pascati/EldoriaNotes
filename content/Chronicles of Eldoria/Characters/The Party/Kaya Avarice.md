@@ -1,3 +1,8 @@
+---
+aliases:
+  - Kaya
+---
+
 # Character Profile
 ![[Kaya Avarice.png|360]]
 - She/Her

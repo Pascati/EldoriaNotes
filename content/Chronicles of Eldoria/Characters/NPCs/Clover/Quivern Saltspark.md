@@ -1,3 +1,8 @@
+---
+aliases:
+  - Quiv
+---
+
 # Character Profile
 - Flamboyant purple tiefling
 - Proprietor of The Glimmering Nook (magic shop in [[Hillford]])
