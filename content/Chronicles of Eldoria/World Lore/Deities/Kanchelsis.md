@@ -1,2 +1,3 @@
 - God of Vampirism
 - The being who turned [[Vallen The Immortal|Vallen]] into a vampire, since he was a devout follower of [[Lathander]] (as a way to say 🖕 to Lathander)
+	- Later retellings of this story imply that Vallen's resurrection was more consensual than that, since in [[Session 18]] he says he was "approached" by them

@@ -111,12 +111,3 @@ banner-radius: 15
 
 # Theories
 - The armored figure we see in dreams sent by the [[Pyramid]] appears to be [[OSIRIS]]
-
-# Sessions in which the party dreams
-- [[Session 01]]
-- [[Session 02]]
-- [[Session 04]]
-- [[Session 06]]
-- [[Session 07]]
-- [[Session 09]]
-- [[Session 14]]
