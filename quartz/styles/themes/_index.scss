@@ -157,30 +157,30 @@ body {
 
 /*** Works on common browsers ***/
 ::selection {
-    background-color: #E3A2A6;
+    background-color: #584487;
     color: #e6e3fc;
 }
 
 /*** Mozilla based browsers ***/
 ::-moz-selection {
-    background-color: #E3A2A6;
+    background-color: #584487;
     color: #e6e3fc;
 }
 
 /***For Other Browsers ***/
 ::-o-selection {
-    background-color: #E3A2A6;
+    background-color: #584487;
     color: #e6e3fc;
 }
 
 ::-ms-selection {
-    background-color: #E3A2A6;
+    background-color: #584487;
     color: #e6e3fc;
 }
 
 /*** For Webkit ***/
 ::-webkit-selection {
-    background-color: #E3A2A6;
+    background-color: #584487;
     color: #e6e3fc;
 }
 
@@ -1387,6 +1387,8 @@ body {
     cursor: auto;
     filter: none;
     font-family:
+      Palatino,
+      Perpetua,
       ui-sans-serif,
       -apple-system,
       "system-ui",
@@ -1415,6 +1417,8 @@ body {
     cursor: pointer;
     filter: none;
     font-family:
+      Palatino,
+      Perpetua,
       ui-sans-serif,
       -apple-system,
       "system-ui",
