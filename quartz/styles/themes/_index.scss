@@ -155,6 +155,35 @@ body {
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
   }
 
+/*** Works on common browsers ***/
+::selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+/*** Mozilla based browsers ***/
+::-moz-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+/***For Other Browsers ***/
+::-o-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+::-ms-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
+/*** For Webkit ***/
+::-webkit-selection {
+    background-color: #352e7e;
+    color: #fff;
+}
+
   .callout {
     --callout-color: 135, 176, 249;
     border-radius: 4px;
