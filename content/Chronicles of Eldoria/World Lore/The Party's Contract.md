@@ -6,4 +6,4 @@
 		- Summons will be sent via an unmarked courier leaving a message at our bedsides
 	- Are essentially contracted to [[Clover Military|the kingdom's military]]
 - **This contract lasts for a year**
-- Everyone in [[The Party|the party]] at the time ([[Kaya Avarice]], [[Cordelia Elysian|Cordelia]], and [[Camille Xotli|Camille]]) agreed to this contract
+- Everyone in [[The Party|the party]] at the time ([[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]], and [[Camille Xotli|Camille]]) agreed to this contract
