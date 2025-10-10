@@ -1,6 +1,5 @@
 ---
-draft:
-  - "true"
+draft: "true"
 ---
 # Character Profile
 ![[Sorrel Sky.jpg|336]]
