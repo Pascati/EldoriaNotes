@@ -1381,7 +1381,7 @@ body {
     --code-value: rgb(114, 135, 253);
   }
 
-h1 > a.internal {
+a.internal > h1 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1411,7 +1411,7 @@ h1 > a.internal {
     user-select: text;
 }
 
-h1 > a.external {
+a.external > h1 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1441,7 +1441,7 @@ h1 > a.external {
     user-select: text;
 }
 
-h2 > a.internal {
+a.internal > h2 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1471,7 +1471,7 @@ h2 > a.internal {
     user-select: text;
 }
 
-h2 > a.external {
+a.external > h2 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1501,7 +1501,7 @@ h2 > a.external {
     user-select: text;
 }
 
-h3 > a.internal {
+a.internal > h3 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1531,7 +1531,7 @@ h3 > a.internal {
     user-select: text;
 }
 
-h3 > a.external {
+a.external > h3 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1561,7 +1561,7 @@ h3 > a.external {
     user-select: text;
 }
 
-h4 > a.internal {
+a.internal > h4 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1591,7 +1591,7 @@ h4 > a.internal {
     user-select: text;
 }
 
-h4 > a.external {
+a.external > h4 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1621,7 +1621,7 @@ h4 > a.external {
     user-select: text;
 }
 
-h5 > a.internal {
+a.internal > h5 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1651,7 +1651,7 @@ h5 > a.internal {
     user-select: text;
 }
 
-h5 > a.external {
+a.external > h5 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1681,7 +1681,7 @@ h5 > a.external {
     user-select: text;
 }
 
-h6 > a.internal {
+a.internal > h6 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
@@ -1711,7 +1711,7 @@ h6 > a.internal {
     user-select: text;
 }
 
-h6 > a.external {
+a.external > h6 {
     background-color: rgba(0, 0, 0, 0);
     color: light-dark(rgb(76, 79, 105), rgb(198, 208, 245));
     cursor: auto;
