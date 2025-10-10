@@ -157,31 +157,31 @@ body {
 
 /*** Works on common browsers ***/
 ::selection {
-    background-color: #352e7e;
-    color: #fff;
+    background-color: #483f9e;
+    color: #e6e3fc;
 }
 
 /*** Mozilla based browsers ***/
 ::-moz-selection {
-    background-color: #352e7e;
-    color: #fff;
+    background-color: #483f9e;
+    color: #e6e3fc;
 }
 
 /***For Other Browsers ***/
 ::-o-selection {
-    background-color: #352e7e;
-    color: #fff;
+    background-color: #483f9e;
+    color: #e6e3fc;
 }
 
 ::-ms-selection {
-    background-color: #352e7e;
-    color: #fff;
+    background-color: #483f9e;
+    color: #e6e3fc;
 }
 
 /*** For Webkit ***/
 ::-webkit-selection {
-    background-color: #352e7e;
-    color: #fff;
+    background-color: #483f9e;
+    color: #e6e3fc;
 }
 
   .callout {
@@ -1649,7 +1649,7 @@ body {
       sans-serif !important;
     text-shadow: none;
     font-weight: 700;
-    font-size: 24px;
+    font-size: 25px;
   }
 
   h4 {
@@ -1670,7 +1670,7 @@ body {
       sans-serif !important;
     text-shadow: none;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 25px;
   }
 
   h5 {
@@ -1691,7 +1691,7 @@ body {
       sans-serif !important;
     text-shadow: none;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 25px;
   }
 
   h6 {
@@ -1712,7 +1712,7 @@ body {
       sans-serif !important;
     text-shadow: none;
     font-weight: 600;
-    font-size: 24px;
+    font-size: 25px;
   }
 
   hr {
