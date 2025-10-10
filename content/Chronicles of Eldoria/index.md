@@ -9,8 +9,6 @@ In addition, here are some helpful pages/links!
 - [[World Lore]]
 - [[Dreams & Visions]]
 
-BIGTESTNEW1
-
 ---
 
 >[!INFO] This is a constant work in progress, so if something breaks or goes wrong, please don't hesitate to let me know! You know where to find me 😎
