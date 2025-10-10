@@ -4,7 +4,7 @@
 - ROUND 1
     - [[Camille Xotli|Camille]]
         - Presses a small metal object into Kaya’s hand and asks her to hold onto it
-        - Casts ==Warding Bond== on her
+        - Casts <span style="color:rgb(197, 124, 22)">Warding Bond</span> on her
     - [[Vallen The Immortal|Vallen]]
         - Draws his swords and holds his turn because there’s no indication that we’re going to fight him right now
     - [[Cal Corvo|Cal]]
@@ -14,13 +14,13 @@
         - Slashes at OSIRIS with his longsword then shortsword
         - Deals a total of 16 damage
     - [[Cordelia Elysian|Cordelia]]
-        - Casts ==Firebolt==, deals 10 fire damage
+        - Casts <span style="color:rgb(197, 124, 22)">Firebolt</span>, deals 10 fire damage
     - [[Kaya Avarice|Kaya]]
         - Attacks three times (twice as an action and once as a bonus action)
         - Deals a total of 23 damage
 - ROUND 2
     - Camille
-        - Casts ==Spiritual Weapon== and summons a longsword made of light, which deals a total of 14 radiant damage
+        - Casts <span style="color:rgb(197, 124, 22)">Spiritual Weapon</span> and summons a longsword made of light, which deals a total of 14 radiant damage
     - Vallen
         - OSIRIS catches Vallen’s sword mid-swing and SNAPS IT?!?!?!?
         - OSIRIS: Variable pattern detected. Making adjustments… Finalizing. Try again.
@@ -29,14 +29,14 @@
         - Attacks twice, one attack hits (HE’S PUNCHING HIM/!?!?!?)
         - Deals a total of 6 damage
     - Cordelia
-        - Backs up a little (keeps her distance) and casts ==Firebolt== again
+        - Backs up a little (keeps her distance) and casts <span style="color:rgb(197, 124, 22)">Firebolt</span> again
         - 14 to hit (hits) -- deals 19 damage
         - OSIRIS takes the hit to the chest and just stares at her in response
         - She calls out and tells the party that this CLEARLY isn’t working (pointing at Vallen), and then gestures to the edge of the cliff
     - Kaya
-        - Casts ==Mold Earth== to try and push OSIRIS off the edge. She rolls a STR check
+        - Casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> to try and push OSIRIS off the edge. She rolls a STR check
             - FREE ACTION: CAMILLE
-                - In response to Kaya casting ==Mold Earth==, Camille calls out and asks her to put down the wall if possible -- they can try to push OSIRIS off with some abilities they have, but they need to get behind him to do that
+                - In response to Kaya casting <span style="color:rgb(197, 124, 22)">Mold Earth</span>, Camille calls out and asks her to put down the wall if possible -- they can try to push OSIRIS off with some abilities they have, but they need to get behind him to do that
         - OSIRIS PUTS HIS HAND OUT AND FUCKING KOOL-AID MANS THROUGH THE WALL WHILE STANDING STILL???????
     - OSIRIS
         - Forces Cal to roll a STR saving throw (rolls a like a 9)
@@ -47,8 +47,8 @@
         - THEY ARE BOTH PRONE
 - ROUND 3
     - Camille
-        - Sends their ==Spiritual Weapon== to Vallen as a bonus action
-        - They tell Vallen that they “need to talk”, but they still need his help -- so they cast ==Haste== on him
+        - Sends their <span style="color:rgb(197, 124, 22)">Spiritual Weapon</span> to Vallen as a bonus action
+        - They tell Vallen that they “need to talk”, but they still need his help -- so they cast <span style="color:rgb(197, 124, 22)">Haste</span> on him
     - Vallen
         - Pours a Healing Potion onto Cordelia as an action (she’s healed for 10)
         - Teleports behind OSIRIS and attacks with the Camille’s sword
@@ -78,10 +78,10 @@
     - As soon as Vallen mentions that the mountain pass leads to Oakheart, Camille relents and immediately says that they’ll follow him
     - Co
 - Cordelia receives healing
-    - +9 ==Cure Wounds==
+    - +9 <span style="color:rgb(197, 124, 22)">Cure Wounds</span>
     - +6 healing potion
 - Camille says that we should jump, and that the party should trust them.
-    - They count down REALLY QUICKLY and as the party follows them in jumping off the cliff, they cast ==Feather Fall==
+    - They count down REALLY QUICKLY and as the party follows them in jumping off the cliff, they cast <span style="color:rgb(197, 124, 22)">Feather Fall</span>
     - Falling takes only 2 minutes, walking down the mountain would take 10
     - Cal does a cool flip
 - As we fall, Vallen takes the Sending Phone from Cordelia and lets the Captain know where we’re heading
@@ -110,7 +110,7 @@
     - We reach a long lake (of still water) (inlet?)
     - There is a bridge that was _just_ made out of a TON of trees
 - We all roll for INT to determine if we know how the bridge got here or if it was here before
-    - Camille casts ==Guidance== on Cordelia
+    - Camille casts <span style="color:rgb(197, 124, 22)">Guidance</span> on Cordelia
     - Everyone but Camille determines that the bridge was made by the Warforged to help them cross
     - IZZIE THOUGHT: why did the Warforged make a bridge if they don’t have to breathe/walk underwater
 - THERE’S BANTER
@@ -133,7 +133,7 @@
     - It’s currently around 4 or 5 PM
     - Cal talks about how he hasn’t been here in 10 years -- this is his adopted hometown!!
 - Camille explains what the rings do to the party and does a little demonstration with Cal
-    - We all get access to the ==Message== cantrip! The rings now function as a walkie-talkie
+    - We all get access to the <span style="color:rgb(197, 124, 22)">Message</span> cantrip! The rings now function as a walkie-talkie
 - PARTY PERCEPTION CHECK
     - We see a statue at the center of town
     - IT’S A GUY DRESSED IN FARMER’S CLOTHES. **_IT’S CAL?!?!_**
@@ -169,7 +169,7 @@
 - The great-granddaughter asks Vallen how he knows her father
     - They were old drinking buddies 💀
 - How do we know Vallen? (coworkers)
-- Camille offers to cast ==Ceremony== on the dying man
+- Camille offers to cast <span style="color:rgb(197, 124, 22)">Ceremony</span> on the dying man
     - CJ is cool and lets it only take 5 minutes
 - We leave Vallen to speak with his grandson for a while
     - Vallen comes back to us, says that “[[Greyson]] never been one to take anything seriously”
@@ -233,7 +233,7 @@
 ![[The Seven.png|300]]
 - Thorne says he promised Diamond that he’d find Cal, and he _did_ -- several weeks ago
 - Cal threatens that Thorne isn’t going to leave this house alive (Thorne doesn’t think so)
-- Camille tries to subtly heal Vallen with ==Healing Word==, but there seems to be some rot around the hole in his chest where he got stabbed. The healing dissipates, as if nothing actually happens.
+- Camille tries to subtly heal Vallen with <span style="color:rgb(197, 124, 22)">Healing Word</span>, but there seems to be some rot around the hole in his chest where he got stabbed. The healing dissipates, as if nothing actually happens.
 
 # COMBAT STARTS
 - [[Erin Thorne|Thorne]] runs away like a pussy
@@ -252,7 +252,7 @@
         - Attacks 3 times, two of them hits (18s to hit), for 8 damage total to Soldier 2
     - Camille
         - Tells Vallen that they can’t help him now, but he’s _not_ allowed to die before them.
-        - Casts ==Guiding Bolt== at Soldier 2, deals 17 pts of Radiant dmg (DOUBLED?? SO 34 TOTAL)
+        - Casts <span style="color:rgb(197, 124, 22)">Guiding Bolt</span> at Soldier 2, deals 17 pts of Radiant dmg (DOUBLED?? SO 34 TOTAL)
         - Pulls out their mace as a bonus action
     - Soldier 2
         - **Cal realizes that the soldiers’ mouths are _sewn shut_**
@@ -262,7 +262,7 @@
         - Attacks Soldier 2 three times, hit all three times
         - 22 TOTAL DAMAGE!!
     - Cordelia
-        - Walks in front of Vallen, and casts _==Firebolt== on Soldier 1 (does not hit 😔)
+        - Walks in front of Vallen, and casts _<span style="color:rgb(197, 124, 22)">Firebolt</span> on Soldier 1 (does not hit 😔)
         - Pulls a card from her deck as a bonus action (pulls The Fool)
             - When she pulls the deck out, Soldier 1 looks **TERRIFIED**. Of the deck specifically
             - The card glows, and a beam of light shoots directly into Soldier 1
@@ -275,7 +275,7 @@
     - Cal
         - Grabs a sword from the chest, pulls the sword in Vallen’s chest out, and hands him the new sword
     - Camille
-        - Casts ==Warding Bond== on Vallen, and moves to join Cordelia in front of him
+        - Casts <span style="color:rgb(197, 124, 22)">Warding Bond</span> on Vallen, and moves to join Cordelia in front of him
     - Soldier 2
         - Forces Kaya, Cordelia, and Camille to make DEX saves -- he throws bolos at us (long leather straps with rocks at each end, which warp around an enemy and engangles them)
         - ALL OF US ARE RESTRAINED :(
@@ -289,7 +289,7 @@
     - Medicine (13): it looks like he’s been magically poisoned
     - Vallen tries to say he’s fine, Camille is like “fuck no” and starts dragging him in
 - Cal is like “check out this sick sword that I just got you” and it heals Vallen??
-    - Camille tries to heal Vallen with ==Cure Wounds== it works -- he gets 14 points of healing
+    - Camille tries to heal Vallen with <span style="color:rgb(197, 124, 22)">Cure Wounds</span> it works -- he gets 14 points of healing
     - Vallen re-introduces himself as “Vallen the Immortal”
 - Cordelia questions Cal again
     - He doesn’t remember ANYTHING, but _she_ talked to him
@@ -317,5 +317,5 @@
         - Vallen _did_ see, but he says that we should speak to other wizards -- he doesn’t know enough about [[Tarot Cards|her Tarot]] to say anything definitively
         - He has a story to tell her, but that’s going to be saved for when we’re on the road again
 - As Camille is burying the bodies, Cal suggests that we burn them
-    - Vallen has radiant damage to do the thing, but Camille is too concerned to let him do anything -- they cast _==Guiding Bolt== on the bodies and incinerates them
-- Camille spends 10 minutes ritual casting ==Tiny Hut==, and the gang winds down to rest.
+    - Vallen has radiant damage to do the thing, but Camille is too concerned to let him do anything -- they cast _<span style="color:rgb(197, 124, 22)">Guiding Bolt</span> on the bodies and incinerates them
+- Camille spends 10 minutes ritual casting <span style="color:rgb(197, 124, 22)">Tiny Hut</span>, and the gang winds down to rest.

@@ -312,7 +312,7 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 		- They suspect the room is empty (one of them KNOWS it's empty)
 	- CAL KICKS THE DOOR IN
 		- MY FUCKNG ROOM!!! ![[NOAR (discord ver.).png|240]]
-	- Cordelia casts ==Prestidigitation== to light up the room
+	- Cordelia casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> to light up the room
 - **The window is open.**
 	- Cal immediately goes to Investigate
 		- He discerns that the window was opened from the insight
@@ -321,7 +321,7 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 		- The color drains from Cal's face -- he says that they need to find Camille ASAP
 	- CORDELIA'S INSIGHTING CAL!! SHE'S SUSPICIOUS!!!
 		- All she sees is a farmboy who knows what he's doing
-- Cordelia casts ==Detect Magic== and uses her Passive Investigation to look around the room
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span> and uses her Passive Investigation to look around the room
 	- She sees magical traces left by Camille, and a vision of him jumping out the window
 - CAL DIVES OUT THE WINDOW!!!!!!!
 	- HOMIE DOES 2 FRONT FLIPS AND LANDS ON THE GROUNDON HIS FEET!! KING SHIT
@@ -353,7 +353,7 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 	- **"Who [[Changelings#The Father|the Father]]? He's in Spade!"**
 	- Cory confesses that there are many of "them", "millions, even"
 - Camille says that they can't explain right now, but they should follow Cal because *"I need answers"*
-- Camille casts ==Zone of Truth==
+- Camille casts <span style="color:rgb(197, 124, 22)">Zone of Truth</span>
 	- Kaya and [[Dox|Cory]] pass
 	- Camille asks Cory why he's being so aggressive
 		- "I don't know. I know he's up to no good, and I intend to find out what."
@@ -433,7 +433,7 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 ### Back to Camille and Cordelia
 - Grabs their bag and anything near and dear to them
 	- One of the items they grab is a notebook with their name written on the front - not in their handwriting - and shoves it into their bag
-- As they leave, Camille drags their feet in the dirt to leave the trail (and plans to cast ==Prestidigitation== every so often to leave a magical trail)
+- As they leave, Camille drags their feet in the dirt to leave the trail (and plans to cast <span style="color:rgb(197, 124, 22)">Prestidigitation</span> every so often to leave a magical trail)
 - Cordelia hides near the entrance of the bar
 	- Stealth: dirty 20
 - Cal and Kaya catch up to the bar

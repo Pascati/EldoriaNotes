@@ -1,5 +1,5 @@
 # Winding down for the night
-- [[Camille Xotli|Camille]] says they want some time to themself - a lot’s happened today - and sits down a little ways away from the ==Tiny Hut==
+- [[Camille Xotli|Camille]] says they want some time to themself - a lot’s happened today - and sits down a little ways away from the <span style="color:rgb(197, 124, 22)">Tiny Hut</span>
 - We debate who should keep watch (since [[Vallen The Immortal|Vallen]] is SO injured but he’s still willing to help)
     - Vallen keeps watch on one side, and Camille keeps watch on the other (continues writing their letter)
     - Vallen will be able to keep watch like normal (as in walking around and standing up) once he heals a little more
@@ -31,9 +31,9 @@
 - Vallen suggests that they find a small animal, and Cordelia is NOT down to hurt an animal that way
     - She asks if there’s a way to “politely” incapacitate an animal -- in response, Vallen throws a dagger into the air and KILLS A SQUIRREL WITHOUT LOOKING!!
 - Vallen asks if Cordelia has any spells that can be used to hunt, since the spear seems to be a bit much
-    - She suggests the ==Ice Knife== spell. In response Vallen is like !?!?! “isn’t that the one that explodes??”
+    - She suggests the <span style="color:rgb(197, 124, 22)">Ice Knife</span> spell. In response Vallen is like !?!?! “isn’t that the one that explodes??”
 - Cordelia rolls a NAT 1 on trying to hit a squirrel
-    - She tries to cast ==Ice Knife==, and INSTEAD CASTS ==FIREBOLT==?!?!?!
+    - She tries to cast <span style="color:rgb(197, 124, 22)">Ice Knife</span>, and INSTEAD CASTS <span style="color:rgb(197, 124, 22)">FIREBOLT</span>?!?!?!
     - THE SQUIRREL EXPLODES
     - CORDELIA DEMANDS VALLEN “FIX IT”. HE’S LIKE HOW???????
 - CORDELIA STARTS HYPERVENTILATING 💀
@@ -64,7 +64,7 @@
 - Cordelia suggests that we contact [[the Keeper]] to keep him updated on our movements
 - Should we go north and pursue OSIRIS, or return to the Capital?
     - Camille says that we _can_ return to [[Clover Capital|the Capital]], but they would prefer to continue going after OSIRIS
-- Camille suggests that they can cast ==Sending== on OSIRIS
+- Camille suggests that they can cast <span style="color:rgb(197, 124, 22)">Sending</span> on OSIRIS
     - Camille: Hey OSIRIS, this is the pink tiefling from yesterday. Camille. Where… are you? You made some compelling arguments yesterday and I would like to learn
     - OSIRIS: [[Fjord]].
 - When he learns that OSIRIS is in Fjord and that we might go there, Vallen gets a nervous vibe
@@ -90,7 +90,7 @@
 
 # Traveling to [[Fjord]]
 ## Vallen’s History
-- Camille’s ==Hastened Voyage== ability shortens the 3-hour trip to Fjord into an hour and a half
+- Camille’s <span style="color:rgb(197, 124, 22)">Hastened Voyage</span> ability shortens the 3-hour trip to Fjord into an hour and a half
 - Kaya strikes up a conversation with Vallen, and asks more about his family
     - He says he’s from [[Oakheart]] originally
 - Vallen tells us the story about why he is immortal (it’s a specifically him thing, in response to him being a vampire)
@@ -292,7 +292,7 @@
     - Ozwin: Handling the situation to the best of our abilities. The Keeper is out, I’m just a sorcerer.
 - Vallen reaches out to the Keeper, and receives the response: “Investigating Diamond, go back and handle this. You got this, buddy 👍”
 - We discuss our next steps
-    - Vallen asks Camille if they adopt racial characteristics of the people they impersonate (as a changeling) (they test-cast ==Chill Touch== and it works, so the answer is yes)
+    - Vallen asks Camille if they adopt racial characteristics of the people they impersonate (as a changeling) (they test-cast <span style="color:rgb(197, 124, 22)">Chill Touch</span> and it works, so the answer is yes)
     - The gang agrees to keep moving towards OSIRIS, and to trust the people in the Capital
 - We discuss the gods
     - Cal has been trying to talk to the Raven Queen by saying her name, but hasn’t heard anything back

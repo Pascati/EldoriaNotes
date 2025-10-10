@@ -97,7 +97,7 @@
 		- At some point [[Captain Purah]] walks away frustrated, and as she does, [[Ozwin]] calls out to her loud enough for everyone to hear: "When the mithril mines dry up, do not come back to me."
 		- According to [[Ozwin]], [[Captain Purah]] wants to divert troops from the mithril mines to shore up Clover's borders
 	- [[Ozwin]] says that [[Caduceus Pope|Dr. Pope]] has gone missing, and that some agents sent to Diamond to keep track of him have gone missing as well. His last known location was [[Iron forge]]
-	- Camille commiserates with [[Ozwin]], and casts ==Guidance== on him
+	- Camille commiserates with [[Ozwin]], and casts <span style="color:rgb(197, 124, 22)">Guidance</span> on him
 		- He thanks them and says that if there's anything we need, we can just ask him
 - Ozwin says that the Keeper should be ready for us
 	- We can skip the line!! (filled with politicians and people wearing faction colors)
@@ -124,7 +124,7 @@
 	- A vessel to carry the [[Pyramid]], and gloves to touch it with
 	- A method for us to disguise ourselves (more than just clothes)
 	- The Keeper agrees to these requests, and says that:
-		- Cordelia will receive books for ==Disguise Self== and ==Pass Without Trace==
+		- Cordelia will receive books for <span style="color:rgb(197, 124, 22)">Disguise Self</span> and <span style="color:rgb(197, 124, 22)">Pass Without Trace</span>
 		- We can request other things from the quartermaster, but we should keep our requests within reason
 - The Keeper mentions that Cordelia saw something leave [[OSIRIS|OSIRIS's]] body, and asks how she can see souls
 	- She's like 🤷‍♂️

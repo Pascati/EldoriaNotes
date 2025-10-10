@@ -241,15 +241,15 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- **DO NOT KILL ANY VAMPIRES!!**
 		- **If we capture a vampire, we get a bonus**
 		- Kaya is in charge of investigation
-- Camille casts ==Aid== on Cordelia, Kaya, and Cal
+- Camille casts <span style="color:rgb(197, 124, 22)">Aid</span> on Cordelia, Kaya, and Cal
 
 ## Guarding the Street
 - There is a long strip of shops, with two entrances (one at each end)
 	- There are gates at each entrance
 ### PLANNING
 - What the gang can do
-	- Cordelia can cast ==Hold Person== on the vampire
-	- Kaya can sink the vampire using ==Mold Earth==
+	- Cordelia can cast <span style="color:rgb(197, 124, 22)">Hold Person</span> on the vampire
+	- Kaya can sink the vampire using <span style="color:rgb(197, 124, 22)">Mold Earth</span>
 	- Camille can set the daylight stones around the vampire 
 - Camille asks for the daylight stones back
 - [[Vallen The Immortal|Vallen]] goes to keep watch
@@ -258,7 +258,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 - **We hear screams and fighting in the distance**
 	- The fighting die down a bit
 - The party lines up in the middle of the street, facing the side of the street with no walls (where the shops are + where the sounds of fighting are coming from)
-- Camille casts ==Protection from Evil and Good== on Cal
+- Camille casts <span style="color:rgb(197, 124, 22)">Protection from Evil and Good</span> on Cal
 - Cal perception: 13
 - Cal DEX save: 15
 	- He doesn't see it coming, but at the last millisecond a vampire JUMPS OUT OF THE WOODS AND GRABS CAL??? JUMPING TOWARDS THE PARTY
@@ -277,9 +277,9 @@ share_updated: 2025-07-06T19:22:02-05:00
 		- STR save against being grappled: 18
 		- Escapes from the grapple!!
 	- Cordelia
-		- Holds her action to cast ==Hold Person== until the vampire gets within 10 ft of anyone in the party
+		- Holds her action to cast <span style="color:rgb(197, 124, 22)">Hold Person</span> until the vampire gets within 10 ft of anyone in the party
 	- VAMPIRE 1
-		- Attacks Cal (disadvantage from ==Protection from Evil and Good==)
+		- Attacks Cal (disadvantage from <span style="color:rgb(197, 124, 22)">Protection from Evil and Good</span>)
 	- VAMPIRE 2
 		- Jumps out of the bushes about 10 ft from where Kaya is
 	- Camille
@@ -287,7 +287,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- VAMPIRE 3
 		- Jumps out of the bushes 10 ft. from where Camille was
 	- Kaya
-		- Attacks the vampire closest to her with ==Poison Spray== (misses)
+		- Attacks the vampire closest to her with <span style="color:rgb(197, 124, 22)">Poison Spray</span> (misses)
 		- Bonus action unarmed strikes (misses)
 	- VAMPIRE 4
 		- Pops out next to the vampire Kaya is fighting
@@ -298,7 +298,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 		- Attacks Vampire 1, **deals 10 dmg**
 		- OFFHAND ATTACKS BUT I DIDN'T HEAR THE DMG
 	- Cordelia
-		- Casts ==Firebolt== on VAMPIRE 2, **deals 1 dmg**
+		- Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> on VAMPIRE 2, **deals 1 dmg**
 		- *Pulls a card from her deck as a bonus action*
 			- Ace of Pentacles/Judgement: CJ's keeping it in mind?? (it's an effect that happens later??)
 	- VAMPIRE 1
@@ -323,7 +323,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- Cal
 		- Successfully grapples VAMPIRE 1
 	- Cordelia
-		- Casts ==Firebolt== and deals **4 dmg**
+		- Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> and deals **4 dmg**
 		- A bright light shoots down from the sky from Cordelia's card pulled in a previous round, and a *duplicate of herself* appears down the street and ALSO casts [Firebolt], ALSO dealing **4 dmg**
 	- VAMPIRE 1
 		- Is grappled
@@ -342,8 +342,8 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- Cal
 		- Continues to grapple VAMPIRE 1
 	- Cordelia
-		- Casts ==Hold Person== on VAMPIRE 1, who **fails**
-		- Cordelia's Clone casts ==Hold Person== on VAMPIRE 3
+		- Casts <span style="color:rgb(197, 124, 22)">Hold Person</span> on VAMPIRE 1, who **fails**
+		- Cordelia's Clone casts <span style="color:rgb(197, 124, 22)">Hold Person</span> on VAMPIRE 3
 	- VAMPIRE 1
 		- Paralyzed
 	- Camille
@@ -352,7 +352,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- VAMPIRE 3
 		- Paralyzed
 	- Kaya
-		- Casts ==Mold Earth== to trap VAMPIRE 3 in the ground as a bonus action
+		- Casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> to trap VAMPIRE 3 in the ground as a bonus action
 		- Uses *Flurry of Blows* and deals **13 dmg** to VAMPIRE 1
 	- Vallen
 		- Attacks VAMPIRE 1
@@ -364,5 +364,5 @@ share_updated: 2025-07-06T19:22:02-05:00
 
 ## Post-Combat
 - Camille
-	- Heals Cal back to full with ==Healing Word==
-	- Tries to heal Vallen with ==Cure Wounds==, but the spell doesn't affect undead or constructs 💀 so they just pass him a healing potion instead
+	- Heals Cal back to full with <span style="color:rgb(197, 124, 22)">Healing Word</span>
+	- Tries to heal Vallen with <span style="color:rgb(197, 124, 22)">Cure Wounds</span>, but the spell doesn't affect undead or constructs 💀 so they just pass him a healing potion instead

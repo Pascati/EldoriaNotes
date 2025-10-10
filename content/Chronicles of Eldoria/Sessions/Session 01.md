@@ -47,7 +47,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 - [[Burt Maclyn|Burt's]] chill as hell! Took Camille's drink
 	- He tells them to meet him at the back of the tavern (and to leave a few minutes after he does)
 - Camille reports back to the party!
-	- Cordelia's apprehensive and suspicious (Camille casts ==Calm Emotions== on her)
+	- Cordelia's apprehensive and suspicious (Camille casts <span style="color:rgb(197, 124, 22)">Calm Emotions</span> on her)
 - We were in the bar for an hour or two, it's now around 6 PM
 	- The bar is named the Foo Bar
 - Perception
@@ -57,7 +57,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 	- Camille: dirty 20
 		- Sees Burt talking through a door into one of the shops (talking to someone)
 - Cordelia sneaks up to the dude
-	- Camille casts ==Guidance==!
+	- Camille casts <span style="color:rgb(197, 124, 22)">Guidance</span>!
 	- Stealth: 17 
 	- She sees that the shop is an explosives shop
 	- Hears the latter half of the conversation:
@@ -89,11 +89,11 @@ share_updated: 2025-06-01T22:55:50-05:00
 - Cordelia takes 7 damage
 - Camille
 	- Teleports Cordelia 60 feet away
-	- ==Healing Words== Kaya for 9 HP (back to full)
+	- <span style="color:rgb(197, 124, 22)">Healing Words</span> Kaya for 9 HP (back to full)
 	- Runs their full movement away (40 ft.)
 	- Takes an attack of opportunity from Burt (6 damage)
 - Kaya
-	- Attacks [[Burt Maclyn|Burt]] using ==Poison Spray== (misses)
+	- Attacks [[Burt Maclyn|Burt]] using <span style="color:rgb(197, 124, 22)">Poison Spray</span> (misses)
 	- RUNS (40 ft.)
 - Guy jumps out of the woods (between the 3 of us)
 	- Fires an arrow at Cordelia (MISSES LIKE A LOSER)
@@ -107,8 +107,8 @@ share_updated: 2025-06-01T22:55:50-05:00
 ## Round 2
 - Cordelia faints 💀
 - Kaya kicks ASS
-- Camille shakes Cordelia awake and casts ==Zephyr Strike==
-- Cordelia casts ==Firebolt== and HITS [[Burt Maclyn|BURT]] IN THE CHEST!!! (he stumbles but is still standing -- the broach he's wearing falls into the mud)
+- Camille shakes Cordelia awake and casts Zephyr Strike
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Firebolt</span> and HITS [[Burt Maclyn|BURT]] IN THE CHEST!!! (he stumbles but is still standing -- the broach he's wearing falls into the mud)
 - [[Nicholas Powers|Nicholas]] tries to shoot [[Burt Maclyn|Burt]] (misses) and hits a different guy
 - [[Burt Maclyn|Burt]] tries to punch [[Nicholas Powers|Nicholas]]
 	- [[Burt Maclyn|BURT]] SAYS "THEY WERE SUPPOSED TO BE SACRIFICES, JUST LIKE THE CHILDREN"

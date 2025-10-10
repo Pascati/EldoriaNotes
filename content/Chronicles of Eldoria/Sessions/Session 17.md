@@ -62,13 +62,13 @@
 
 ## Arriving in [[South Haran]]
 - The town appears to be busy, despite the oncoming rain
-- Camille says they can cast ==Locate Object== on OSIRIS (specifically on his loincloth 💀 he doesn’t wear enough for them to cast it on anything else), and we can circle the town to see if he’s there. If not, then we can move onto Lycoris
+- Camille says they can cast <span style="color:rgb(197, 124, 22)">Locate Object</span> on OSIRIS (specifically on his loincloth 💀 he doesn’t wear enough for them to cast it on anything else), and we can circle the town to see if he’s there. If not, then we can move onto Lycoris
 - No one is guarding the city, so we can just waltz right in
 - All the busy bodies we just saw were LITERALLY [[WARFORGED|WARFORGED]]. OH FUCK
     - We see a bunch of people that _aren’t_ Warforged, but they’re standing out of the way
 - There are warforged of different kinds -- some are moving large boxes, and smaller warforged are holding swords and weapons. There are **_hundreds_**, they move around like ants
     ![[Warforged1.png|240]] ![[Warforged2.png|248]]
-- Camille casts ==Locate Object== on OSIRIS’s loincloth (HE’S ABOUT 950 FT. AND GETTING CLOSER?)
+- Camille casts <span style="color:rgb(197, 124, 22)">Locate Object</span> on OSIRIS’s loincloth (HE’S ABOUT 950 FT. AND GETTING CLOSER?)
 - We argue over what to do
     - Vallen says we should try to blend into the crowd and stay put
     - There’s a moment where Cordelia explodes at Vallen and says that he’s being a dick today. Camille tries to ask her if she’s ok, because it seems to have come out of nowhere, but she just turns away without responding.
@@ -119,7 +119,7 @@
     - Vallen says it’s a long bridge, so we should run across
     - There are some scuff marks on the stone (like a large army has passed through here earlier)
 - We’ve outpaced the reinforcement army thanks to Camille’s Hastened Voyage ability
-- Cordelia casts ==Detect Magic==
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
     - She sees a little life force magic in everyone -- even in Vallen, although his is a little different because he’s undead
 - We start to hear the marching again
     - Everyone starts BOOKING it
@@ -183,7 +183,7 @@
         - Cal DEALS 46 DAMAGE TO OSIRIS?? SLAY
     - OSIRIS
         - Blasts Cal with energy for 18 damage
-        - As Cal gets hit with this blast of fire, he stumbles back and holds his hand up. OSIRIS goes up in flames for 15 fire damage as he casts ==Hellish Rebuke==
+        - As Cal gets hit with this blast of fire, he stumbles back and holds his hand up. OSIRIS goes up in flames for 15 fire damage as he casts <span style="color:rgb(197, 124, 22)">Hellish Rebuke</span>
     - Vallen
         - Bamphs next to the mage warforged that was standing next to OSIRIS
         - Hits her right in the stomach with his swords, smiting her and dealing some damage
@@ -202,7 +202,7 @@
             - The card burns away 😰
             - The mage warforged next to OSIRIS looks at her and backs up a little (she’s _Frightened_ of Cordelia now)
         - She notices a smooth presence in her bag
-        - Casts ==Firebolt== with her action, deals 13 fire damage to the mage warforged
+        - Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> with her action, deals 13 fire damage to the mage warforged
     - Mage Warforged
         - Her left hand begins to glow a purple-ish color, and stars begin to float off of it
         - She turns around and smacks Vallen, and he bamphs behind Cordelia
@@ -227,7 +227,7 @@
         - When she hit, there are dents in his armor 👀
     - Camille
         - They tell Vallen to protect Cordelia, and they ask him to trust them (he nods in response)
-        - They use their action to cast ==False Life== on themself, and run to the opposite side of the arena from Cordelia
+        - They use their action to cast <span style="color:rgb(197, 124, 22)">False Life</span> on themself, and run to the opposite side of the arena from Cordelia
     - Cordelia
         - Pulls a card: The World
             - Cal and Kaya roll DEX saves (21 and NAT 20 respectively) -- because they both rolled over 20, they’ll have the choice to “latch on” to something later
@@ -247,7 +247,7 @@
         - Moves out of the range of the mage warforged, and gets punched in the back
             - A purplish aura begins to form, and SHE ACCIDENTALLY CASTS ELDRITCH BLAST ON HERSELF
             - SHE BLASTS HER OWN ARM OFF?? LMAO. GET GOT BITCH
-        - Attacks OSIRIS and uses ==Second Wind== to give himself 5 TOTAL ATTACKS
+        - Attacks OSIRIS and uses <span style="color:rgb(197, 124, 22)">Second Wind</span> to give himself 5 TOTAL ATTACKS
             - Deals a total of 42 damage
             - HE LOBS OFF OSIRIS’S RIGHT ARM?? SLAY
     - OSIRIS
@@ -263,17 +263,17 @@
             - Instead of the radiant energy, it’s a red energy that bursts through OSIRIS
             - OSIRIS is knocked 15 ft. away
     - Kaya
-        - Casts ==Erupting Earth== (AOE which forces a DEX save of 14 or higher, deals 3d12 bludgeoning dmg on a success and half as much on a failure)
+        - Casts <span style="color:rgb(197, 124, 22)">Erupting Earth</span> (AOE which forces a DEX save of 14 or higher, deals 3d12 bludgeoning dmg on a success and half as much on a failure)
         - OSIRIS FAILS HIS SAVE AND TAKES 25 DMG
     - Camille
-        - Casts a 3rd level ==Healing Word== on Cal, giving him 16 HP.
-        - Uses their ==Channel Divinity== to move Cordelia away from the Mage Warforged
+        - Casts a 3rd level <span style="color:rgb(197, 124, 22)">Healing Word</span> on Cal, giving him 16 HP.
+        - Uses their <span style="color:rgb(197, 124, 22)">Channel Divinity</span> to move Cordelia away from the Mage Warforged
     - Cordelia
         - FULLY locked in, blank expression
         - Pulls another card: Justice
             - It fades away, and as it does it releases gold sparkles as it dissipates
             - Nothing happens immediately
-        - Casts ==Firebolt== on the mage warforged
+        - Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> on the mage warforged
             - Deals a total of 29 fire damage to the mage warforged
             - The mage warforged looks like SHIT. Her chestplate begins to rot, as she dealt an additional 1d8 of necrotic thanks to the Justice card
     - Mage Warforged
@@ -283,7 +283,7 @@
     - Cal
         - **_CAL’S BACK UP!!!_**
         - While he was semi-unconscious, he felt someone stroking his hair, and as if his head was resting on someone's lap
-        - Uses ==Second Wind== as a bonus action to heal a little more
+        - Uses <span style="color:rgb(197, 124, 22)">Second Wind</span> as a bonus action to heal a little more
         - He looks at OSIRIS, taps his weapons together, and tells him “Round two, motherfucker!”
         - **_A SCYTHE APPEARS IN HIS HAND!!!!!_**
             - GETS A HOW DO YOU WANNA DO THIS!!!!!!!!!!
@@ -301,7 +301,7 @@
         - THE MAGE WRAFORGED IS DEAD
 
 # Post-Combat
-- As combat ends, Cordelia’s ==Detect Magic== activates, and she sees the magic from both sides of OSIRIS merge, then fly into the air
+- As combat ends, Cordelia’s <span style="color:rgb(197, 124, 22)">Detect Magic</span> activates, and she sees the magic from both sides of OSIRIS merge, then fly into the air
 - Cordelia’s bag begins to glow with a blue glow
     - She opens her bag an sees the Orb, puts the pieces together that Camille put it there
     - It’s covered in swirling runes, and parts of it begin to glow, starting from the bottom of the orb to the top of it
@@ -313,7 +313,7 @@
     - With her passive perception, she sees that Julian is _terrified_
 - Cordelia snaps to lock herself back in, and as she raises it she notices small bits of moss on her hand?? It’s darker pink, rather than green moss
     - It’s on the back of her hand, with cute little sprouts coming off of it
-    - With her ==Detect Magic==, she realizes that the color of its magic is the same as the orb
+    - With her <span style="color:rgb(197, 124, 22)">Detect Magic</span>, she realizes that the color of its magic is the same as the orb
 - Cordelia talks to Julian, tells him that she needs to regroup with her friends
     - He’s still really hurt
     - She props him up and help him walk over to the rest of the group
@@ -372,7 +372,7 @@
     - The Keeper has studied the Orb and Pyramid as much as he has been able to. What he knows is that the Orb promotes biological life, while the Pyramid despises biological life
         - Cordelia and Camille have become vessels to life that isn’t of this world
         - The Keeper somehow dispels the moss with some purple light??
-        - The moss can be removed with ==Remove Curse== or ==Lesser Restoration==
+        - The moss can be removed with <span style="color:rgb(197, 124, 22)">Remove Curse</span> or <span style="color:rgb(197, 124, 22)">Lesser Restoration</span>
 - The Keeper was not around when the [[changelings]] arrived, but he returned to deal with the issue
     - He doesn’t know where they are specifically, but they no longer look like us and didn’t speak with our families
     - The changelings (when they looked like us) didn’t travel together, and dispersed outside of the Capital (this was odd, because we always travel as a group)
@@ -407,7 +407,7 @@
 - Camille gives Kaya the blanket from their room, and Kaya pulls out the really nice blanket from her bag and puts it on them 🥺🥺🥺
 - Cordelia plops herself down across from the pair, and opens the book
     - ALL THE PAGES ARE EMPTY
-    - She casts ==Detect Magic== on the book, and sees that it contains the same magic as a singular one of her cards has
+    - She casts <span style="color:rgb(197, 124, 22)">Detect Magic</span> on the book, and sees that it contains the same magic as a singular one of her cards has
     - Investigation (21) reveals that each page has a certain amount of magic on it. She can’t figure out how to get the words to come out - if there even _are_ words.
         - If the whole book was considered a singular tarot card, then the magic is divided evenly between its pages (so if the book was 100 pages long, then each page would hold 1/100th of the magic of a singular card)
     - She holds up her cards side-by-side with the book

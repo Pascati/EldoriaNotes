@@ -70,7 +70,7 @@
             - Cordelia takes a look at the encryption, but can’t crack it at a glance
             - Warden Holt knows most languages, but hasn’t gotten to crack the code yet (no solid evidence yet)
 - Warden Holt informs us that there’s a bar on the lower level, but we’re warned that we’ll probably run into a lot of military personnel there
-- Camille casts ==Enhance Ability== on Warden Holt before we leave to give her advantage on all INT checks for the next hour
+- Camille casts <span style="color:rgb(197, 124, 22)">Enhance Ability</span> on Warden Holt before we leave to give her advantage on all INT checks for the next hour
 
 ## Futzing Around at the Bar
 - Kaya tries to get some info about how long this trip is going to take and grabs some random guy
@@ -120,7 +120,7 @@
         - It’s completely clear and a little sparkly
         - Looks like sparkling water tbh (Cordelia doesn’t know what else is in it though)
     - Cordelia takes it. The room stops spinning, but she’s still drunk 😎
-        - She casts ==Prestidigitation== and starts playing with some fun little sparkles and stars
+        - She casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> and starts playing with some fun little sparkles and stars
 
 ### CORDELIA MEETS JULIAN FR!!!
 - Vallen and Camille are telling Julian about our adventures in Holden -- specifically when we killed Dagen
@@ -247,7 +247,7 @@
     - Camille shares that the book she was decoding is missing
 - The Captain knows that we could distrust him, but we need to keep this _quiet_ for now. He will make an announcement later
 - Cordelia: Investigation (looking into the scene in-depth) 19
-    - The map is torn to shreds. It looks like someone grabbed it with their bare hands and ripped it apart (IZZIE NOTE: CAN CAST ==MENDING== ON IT? TO TRACK DOWN MISSING PIECES, IF ANY)
+    - The map is torn to shreds. It looks like someone grabbed it with their bare hands and ripped it apart (IZZIE NOTE: CAN CAST <span style="color:rgb(197, 124, 22)">MENDING</span> ON IT? TO TRACK DOWN MISSING PIECES, IF ANY)
     - The Diamond symbol is comprised of four diamonds, assembled in the shape of a diamond (kinda like how the Triforce forms a triangle, but for diamonds)
     - In big bold lettering - behind Warden Holt - on the wall: **DIAMOND WILL NOT FALL**
 - Camille: Insight 23 -- on whether or not he’s telling the full truth
@@ -274,7 +274,7 @@
     - He asks where Vallen is. Camille says he’s probably taking a walk, and asks Cordelia to send him a message using the fancy sending stone
         - He doesn’t respond immediately
 - Cordelia asks Camille if they noticed anything in the book, since they were the last person to speak to Warden Holt
-- Camille starts casting ==Mending== on the map. It’s torn to shreds, so any pieces that are missing would be immediately obvious (and if there are no pieces missing, then we’ll be able to learn what Warden Holt learned)
+- Camille starts casting <span style="color:rgb(197, 124, 22)">Mending</span> on the map. It’s torn to shreds, so any pieces that are missing would be immediately obvious (and if there are no pieces missing, then we’ll be able to learn what Warden Holt learned)
 - Cordelia + Kaya: History (16) -- to remember any of the signs, symbols, or messages that she could see on the book that was stolen/the map
     - Additional Perception (14): There’s something on the ground -- a small object shaped like that the hole that one would use for an allen wrench. **It’s a decoder**
     - **She sees 3 words on the decoder: “DIAMOND”, “ DOESN’T”, “WANT”**
@@ -284,23 +284,23 @@
     - Blood splatters?
 - Party Investigation
     - ONLY Kaya passes (NAT 20!!!). She sees no signs of struggle. There’s no forced entry. **This means that Warden Holt knew and trusted her assailant to some degree**.
-    - Camille theorizes that Warden Holt learned something after they cast ==Enhance Ability== on her, and she invited someone to her quarters to tell them about her finding. When her assailant found out, they probably killed her to keep her mouth shut.
+    - Camille theorizes that Warden Holt learned something after they cast <span style="color:rgb(197, 124, 22)">Enhance Ability</span> on her, and she invited someone to her quarters to tell them about her finding. When her assailant found out, they probably killed her to keep her mouth shut.
     - Cordelia theorizes that whoever killed her is higher-up in the military
 - Vallen enters
-    - He theorizes that the person who entered cast ==Invisibility==, and entered during a period of time when Warden Holt left and re-entered the room
-- Cordelia casts ==Detect Magic==
+    - He theorizes that the person who entered cast <span style="color:rgb(197, 124, 22)">Invisibility</span>, and entered during a period of time when Warden Holt left and re-entered the room
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
     - Also rolls Perception (16)
     - She sees some residual magic. **Magical footprints** seem to have walked around the room a little before leaving through the door. When Cordelia opens the door to follow the footprints, they’re gone.
 - **CONCLUSIONS SO FAR:**
     - Looking for a spellcaster (there are HUNDREDS of people on the boat, and many of whom are spellcasters)
-- Camille finishes casting ==Mending== on the map
+- Camille finishes casting <span style="color:rgb(197, 124, 22)">Mending</span> on the map
     - Half of the map is missing. Anything containing information on the enemy sigils are ripped away
     - Cordelia concludes that everything about the enemy locations are more or less correct
     - We remember the rough placements of enemy soldiers, but nothing super accurate
 - Camille:
-    - Realizes that ==Mending== has a limited range, and offers to carry around the map and cast ==Mending== on it every so often, assuming that the assailant didn’t immediately throw away the missing pieces
-    - Tells the party that they can cast ==Speak with Dead==, assuming that the body still has its head coming tomorrow morning
-        - They can cast ==Tiny Hut== as a ritual spell to ensure that nobody enters the room
+    - Realizes that <span style="color:rgb(197, 124, 22)">Mending</span> has a limited range, and offers to carry around the map and cast <span style="color:rgb(197, 124, 22)">Mending</span> on it every so often, assuming that the assailant didn’t immediately throw away the missing pieces
+    - Tells the party that they can cast <span style="color:rgb(197, 124, 22)">Speak with Dead</span>, assuming that the body still has its head coming tomorrow morning
+        - They can cast <span style="color:rgb(197, 124, 22)">Tiny Hut</span> as a ritual spell to ensure that nobody enters the room
         - Vallen also offers to guard the body
 - Kaya starts grilling Vallen on where he was
     - He was in the kitchen, eating raw meat -- he didn’t encounter the chef though, since he was trying to be sneaky
@@ -313,7 +313,7 @@
         - Cordelia theorizes that someone in the Clover military is trying to frame Diamond for some reason
 - Cal and Camille roll straight d20s
     - Camille thinks that it’s either a **Clover sympathizer** or someone in the **[[Clover military]]**
-- Vallen’s seen the knife somewhere before, Camille casts ==Enhance Ability== to give him advantage on Intelligence checks
+- Vallen’s seen the knife somewhere before, Camille casts <span style="color:rgb(197, 124, 22)">Enhance Ability</span> to give him advantage on Intelligence checks
     - It’s most likely a custom knife -- You can’t be a Journeyman and afford that kind of knife
     - Someone on the ship definitely had the knife, Vallen recognizes it
 - We agree that we need to:

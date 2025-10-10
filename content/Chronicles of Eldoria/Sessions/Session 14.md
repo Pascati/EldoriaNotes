@@ -117,11 +117,11 @@
         - HE TRIES TO IMPRESS HER. SHE SEES HIM CATCH A PEANUT IN HIS MOUTH???
 - CAL IS TRYING TO WINGMAN FOR KAYA
     - THEY ARMWRESTLE IN FRONT OF KAYA’S BARMAID TO TRY AND IMPRESS HER WITH KAYA’S STRENGTH
-        - Camille misinterprets what’s happening and casts ==Enhance Ability== on her to help her win
+        - Camille misinterprets what’s happening and casts <span style="color:rgb(197, 124, 22)">Enhance Ability</span> on her to help her win
     - Cal makes a BIG show of getting defeated by Kaya (THE BARMAID FALLS FOR IT)
     - **The barmaid’s name is [[Naomi]]**
 - Cal tries to hit up the assistant barmaid
-    - Camille casts ==Guidance== on him and tells him good luck
+    - Camille casts <span style="color:rgb(197, 124, 22)">Guidance</span> on him and tells him good luck
     - HE TELLS HER HOW IT’S EMASCULATING BUT ALSO FEELS GOOD TO BE DOMINATED BY A STRONG WOMAN
     - **HE ENDS UP GETTING HER ROOM NUMBER WRITTEN ON A NAPKIN. KING SHIT.**
 - Camille goes over to Julian
@@ -177,15 +177,15 @@
     - She approaches him, with seconds to spare as we cross under the bridge
 
 ## Camille Re-Interrogates “Voss”/Sulk
-- Camille casts ==Zone of Truth==
+- Camille casts <span style="color:rgb(197, 124, 22)">Zone of Truth</span>
 - Where’s the book? [[Sulk]] says he doesn’t know
     - HE’S LYINGGG
-    - WE LEARN THAT [[CHANGELINGS|CHANGELINGS]] AREN’T ACTUALLY AFFECTED BY ==ZONE OF TRUTH==?????
+    - WE LEARN THAT [[CHANGELINGS|CHANGELINGS]] AREN’T ACTUALLY AFFECTED BY <span style="color:rgb(197, 124, 22)">ZONE OF TRUTH</span>?????
 - He says he will tell Camille where the book is if they accept his offer
     - Camille asks what he plans to do if they accept. (Kill everyone)
         - Hearing this, the guards subtly tighten their grips on their weapons
         - They say they would rather not kill anyone
-- Camille asks the guards - who are in the range of ==Zone of Truth== what the plans are with Sulk
+- Camille asks the guards - who are in the range of <span style="color:rgb(197, 124, 22)">Zone of Truth</span> what the plans are with Sulk
     - Bring him back to the Capital (where he will probably be killed)
     - Sulk plans to do whatever his captors want him to do
 - Camille apologizes to Sulk and then leaves
@@ -233,7 +233,7 @@
     - It asks why we pick up weapons willingly, when Warforged are born with them (we all have our own reasons. Camille does it to protect the people they love, for Cal it’s necessary)
     - The Warforged Army is going to push forward to the Capital if the Clover army stops fighting -- they do this because this is what Diamond ordered them to do
     - Are Warforged alive??
-- Cordelia casts ==Detect Magic==
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
     - She sees - in the center of his chest - a very _bright_ source of magic. It seems almost celestial in nature, but almost like every school of magic that an organic person would have throughout their body (although for OSIRIS, it’s centered in its chest and doesn’t hold it together)
 - OSIRIS asks what it means to be a Clover citizen
     - Cal says he’s a citizen of the world, and that he fights to protect people -- ALL people, not just organic life

@@ -135,7 +135,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- Cordelia says she'd rather Camille get out first
 	- Camille hops out and sees some shops! There's a pastry shop directly across from the garrison (has a symbol of a three-leaf clover)
 - Cordelia asks to borrow Camille's cloak (they give it to her)
-	- She turns down the offer for ==Calm Emotions==, and exits the carriage, covering her face with the cloak
+	- She turns down the offer for <span style="color:rgb(197, 124, 22)">Calm Emotions</span>, and exits the carriage, covering her face with the cloak
 	- Kaya pokes fun of Cordelia a little 🤭 (Cordelia's ass does NOT engage)
 - Kaya asks if she can look at the letter before we go in
 	- Camille hands her the letter
@@ -408,7 +408,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- Cordelia and Camille oppose her
 	- Camille says he might be mad if we go through the dude's stuff, and he MIGHT reward us if we return his belongings unharmed
 - Cordelia tries to persuade Kaya to give up on the bag
-	- Camille casts ==Guidance== on Cordelia
+	- Camille casts <span style="color:rgb(197, 124, 22)">Guidance</span> on Cordelia
 	- CORDELIA FAILS. NOW SHE WANTS TO OPEN THE BAG
 - Kaya rolls persuasion against Camille
 	- CAMILLE WINS!! NAT 20 LET'S GO
@@ -422,7 +422,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 - The guy is also heading to [[Hillford]]!!
 - HE'S ASKING SO MANY SPECIFIC QUESTIONS
 - Camille says they need to go to the toilet, the guy gives them some tissues
-	- Casts ==Detect Magic==
+	- Casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
 	- Some brown/green magic coming from Kaya
 	- Magic like stars coming from Cordelia
 	- The guy is fucking BLINDING!! every school of magic coming from him
@@ -444,7 +444,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 - [[The Keeper|V]] comes clean, and says that *he was sent by [[Captain Purah]] to meet us*
 	- He was sent to see what our intentions are with the military
 - [[The Keeper|V]] needs to find a specific book that wasn't in his bag
-	- He says he can teach Cordelia the ==Find the Book== spell
+	- He says he can teach Cordelia the <span style="color:rgb(197, 124, 22)">Find the Book</span> spell
 		- NOTE: Cordelia comes $AND$ shits?
 	- He also says he can teach it to her stanky ass
 
@@ -480,8 +480,8 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- He says that he needed to make sure that we're having the visions, otherwise he wouldn't want to speak to us
 - [[Nicholas Powers|Nick Powers]] won't be joining us
 - Camille asks [[The Keeper|V]] how he changes his appearance -- [[The Keeper|V]] responds that the best way to explain would be to see it
-	- [[The Keeper|V]] asks Camille to cast a spell, to which they cast ==Guidance==
-	- [[The Keeper|V]] casts ==Guidance== back, but 10x as good. His ability is that he can **copy any form of magic and use it at its max capacity**
+	- [[The Keeper|V]] asks Camille to cast a spell, to which they cast <span style="color:rgb(197, 124, 22)">Guidance</span>
+	- [[The Keeper|V]] casts <span style="color:rgb(197, 124, 22)">Guidance</span> back, but 10x as good. His ability is that he can **copy any form of magic and use it at its max capacity**
 	- He found this ability when he was a recruit
 	- He doesn't want to BE in this position, and he doesn't want us to see him as a Keeper
 	- He can also use some degree of temporal magic

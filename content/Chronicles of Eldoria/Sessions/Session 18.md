@@ -116,7 +116,7 @@
 - Camille is about to leave their room when Vallen knocks (they’re holding a shovel)
 - Vallen manages to talk Camille down from sneaking away to go back to their hometown to dig in the rubble
 - Cordelia stumbles up the stairs, asks what we’re doing
-    - Vallen casts ==Prestidigitation== to clean Cordelia (no longer smelly!)
+    - Vallen casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> to clean Cordelia (no longer smelly!)
 - Camille suggests that we eat in a nice clearing that they know of, but really it was a ploy to get to their hometown (SHOT DOWN)
 
 ## Lunchtime!!
@@ -130,7 +130,7 @@
         - At this, Cordelia backs down
 - Vallen asks if anyone’s checked on the mine
     - No LMAO
-    - Cordelia’s got a little boulder (==Tiny Servant==)!! She’s been checking in on him every once in a while and says that he’s been “taking care of things” out there
+    - Cordelia’s got a little boulder (<span style="color:rgb(197, 124, 22)">Tiny Servant</span>)!! She’s been checking in on him every once in a while and says that he’s been “taking care of things” out there
         - Cal is like “is that the child I’ve seen running around????”
         - Kaya saw it once in the woods and tried to chase it down (for training! a moving target frfr)
 - Cordelia says that she’s going back to the library. As she stands up, a man comes through the door
@@ -178,17 +178,17 @@
 - **THE WARFORGED THAT LOOKS LIKE OSIRIS PULLS OUT A GUN AND SHOOTS CAL?!?!**
     - DEX SAVE (20)
     - VALLEN JUMPS IN FRONT OF THE BULLET AND TAKES IT FOR CAL. IT HITS HIM IN THE HEART????
-- Seeing Vallen get hit, Camille casts ==Guiding Bolt==
-    - At the same time, Cordelia pulls *The Fool* from her tarot deck -- this causes the ==Guiding Bolt== to veer off and miss
-- Camille says “I’m going to do something stupid” and teleports onto the mithril cart. They cast ==Spirit Guardians== right afterwards
+- Seeing Vallen get hit, Camille casts <span style="color:rgb(197, 124, 22)">Guiding Bolt</span>
+    - At the same time, Cordelia pulls *The Fool* from her tarot deck -- this causes the <span style="color:rgb(197, 124, 22)">Guiding Bolt</span> to veer off and miss
+- Camille says “I’m going to do something stupid” and teleports onto the mithril cart. They cast <span style="color:rgb(197, 124, 22)">Spirit Guardians</span> right afterwards
     - The little warforged pushing the cart DIES, but immediately after the spell is absorbed by the mithril
 - Camille looks behind them, and through the portal sees a MASSIVE factory
     - They can’t see the ends of the factory
     - There are also TONS of warforged through it, looking at them like???
     - They go “Sorry, this isn’t yours” and try to close the portal
         - Manually closing it with their hands doesn’t work 💀 ofc
-        - Casting ==Dispel Magic== ALSO doesn’t work bcs I rolled A NAT FUCKING 1!!! **FUCK THIS STUPID BAKA LIFE**
-- Kaya casts ==Mold Earth== and pulls a wall of earth in front of the portal, blocking it
+        - Casting <span style="color:rgb(197, 124, 22)">Dispel Magic</span> ALSO doesn’t work bcs I rolled A NAT FUCKING 1!!! **FUCK THIS STUPID BAKA LIFE**
+- Kaya casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> and pulls a wall of earth in front of the portal, blocking it
 - One of the warforged pulls a gun on Kaya, and shoots her for 6 damage
 - CAL IS STILL STANDING THERE DOING NOTHING. HE STARTS PRAYING TO THE RAVEN QUEEN AGAIN
     - HE TELLS HER SHE’S FUCKING UP A LITTLE. OH MY GOD SHE’S GONNA SMITE HIM
@@ -197,9 +197,9 @@
         - SHOULDER WOUND, 5 DMG
 - Cal finally pulls out his swords after he gets shot
 - Cordelia is crying and shaking Vallen, saying that her magic isn’t working and he needs to do something about it
-- Camille casts ==Dispel Magic== on the portal again. IT WORKS THIS TIME
+- Camille casts <span style="color:rgb(197, 124, 22)">Dispel Magic</span> on the portal again. IT WORKS THIS TIME
     - They tell the commander warforged to please leave, otherwise their friends will kill them
-    - As the warforged try to leave (through a portal in the big warforged’s chest) they cast ==Dispel Magic== again
+    - As the warforged try to leave (through a portal in the big warforged’s chest) they cast <span style="color:rgb(197, 124, 22)">Dispel Magic</span> again
         - The big warforged falls over with a hole in its chest as it works 💀
 - Camille says “Sorry, actually. We have questions we want to ask you”
     - Immediate answer: no
@@ -227,7 +227,7 @@
     - Cal also clarifies that he can read a little bit 😊
 - Cordelia turns to walk back to the library
     - Camille says that we still have a job to do, and that they’re going to investigate the mines for any other signs of entry or clues as to what they were doing
-    - Kaya uses ==Mold Earth== to block her path and starts moving the wall of earth back to the group (thus moving Cordelia with it)
+    - Kaya uses <span style="color:rgb(197, 124, 22)">Mold Earth</span> to block her path and starts moving the wall of earth back to the group (thus moving Cordelia with it)
 
 ## Investigating the Mine
 - As we start moving towards the mine entrance, a raven flies overhead and caws at us
@@ -242,7 +242,7 @@
     - There are also bodies of miners in the cavern :(
     - It really looks like the warforged just took what mithril they could
 - Camille starts burying people
-    - Kaya helps with ==Mold Earth==
+    - Kaya helps with <span style="color:rgb(197, 124, 22)">Mold Earth</span>
 - The gang debates whether or not we should BLOW UP THE MINE???
     - Cal is pro blowing up the mine (the one who suggested it)
     - Vallen is like “my job is to protect you guys, not the kingdom 👀…”
@@ -300,11 +300,11 @@
 - Cordelia is having a mental breakdown 🤩🤩🤩
     - She was making her way to the library, and was left to her own thoughts for a little too long
 - She’s throwing her cards everywhere - with no magic intent - and is SCREAMING for Mystra to come get her
-- Camille casts ==Silence== around Cordelia, and writes a sign telling her “Keep going! It’s ok, I just don’t want to bother the neighbors”
+- Camille casts <span style="color:rgb(197, 124, 22)">Silence</span> around Cordelia, and writes a sign telling her “Keep going! It’s ok, I just don’t want to bother the neighbors”
 - Cordelia defeatedly sits on the floor
     - Camille picks up her cards and hands them back to her
     - They write on a little piece of paper asking “what happened?” -- she signs back “I don’t wanna talk about it” (Camille doesn’t understand)
-        - When the drop ==Silence== to let her talk and asks the question again, she just shakes her head and walks away to the bar
+        - When the drop <span style="color:rgb(197, 124, 22)">Silence</span> to let her talk and asks the question again, she just shakes her head and walks away to the bar
 - Camille asks Kaya if they did something wrong, since this is the second time Cordelia’s just walked away from them after they asked a question (without answering it)
     - Kaya says that she probably just needs some rest
 

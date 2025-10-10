@@ -99,7 +99,7 @@
     - IT WILL LEVEL UP WITH HER!!!
 - Cordelia receives the **Wand of Anti-Magic (attunement)**
     - It’s a black wand with intricate engravings made purely out of obsidian
-    - She can cast ==Counterspell== up to three times a day with it!!!!!!! LET’S FUCKING GO
+    - She can cast <span style="color:rgb(197, 124, 22)">Counterspell</span> up to three times a day with it!!!!!!! LET’S FUCKING GO
     - WILL ALSO LEVEL UP WITH HER
 - Camille receives the **Mace of Windstrike**
     - A mace covered in runic carvings, which spiral up the shaft and across the sphere
@@ -236,7 +236,7 @@
 - Ozwin is downstairs, smoking a pipe
 - Vallen is nowhere to be found
     - Not in kitchen, not in rooms
-    - Camille casts ==Sending== and checks in -- lets him know that Ozwin is here, that he doesn’t have to come, but they hope he’s alive
+    - Camille casts <span style="color:rgb(197, 124, 22)">Sending</span> and checks in -- lets him know that Ozwin is here, that he doesn’t have to come, but they hope he’s alive
     - Vallen’s Message Back: “I’m on my way back”
 
 ## Meeting with Ozwin

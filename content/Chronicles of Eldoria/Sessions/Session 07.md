@@ -5,12 +5,12 @@
 	- Cordelia takes a look at it and is like 🤔not bad….
 - Vallen suggests that we get on the road and through the forest
 	- We pack up and head out!!
-- Camille casts ==Gift of Alacrity== on Kaya (she can add a 1d8 to her initiative rolls for the next 8 hours)
+- Camille casts <span style="color:rgb(197, 124, 22)">Gift of Alacrity</span> on Kaya (she can add a 1d8 to her initiative rolls for the next 8 hours)
 
 # Entering the [[Forest of Mysteries|Forest]]
 - It looks like the trees themselves have been carved into the path
 	- RETCON: CJ changes the name of the forest to the [[Forest of Mysteries]]
-- Cordelia casts ==Detect Magic==
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
 	- There are little sprites popping in and out of her vision in multiple colors -- **there’s a lot of fey and druidic magic**
 		- Cordelia suggests that we don’t interact with anyone we meet in the forest. Vallen agrees!
 	- More and more sprites pop up and disappear as we enter the forest
@@ -19,12 +19,12 @@
 	- Camille can immediately tell that this is the beginning of the forest (everyone else has to roll WIS saves -- [[Cal Corvo|Cal]] is the only one who fails)
 - Everyone rolls Perception
 	- Everyone notices that [[Vallen The Immortal|Vallen]] is gone
-	- Camille casts ==Locate Object== on Vallen’s necklace **(he’s within 1,000 ft. somewhere in the forest)**
+	- Camille casts <span style="color:rgb(197, 124, 22)">Locate Object</span> on Vallen’s necklace **(he’s within 1,000 ft. somewhere in the forest)**
 		- They suggest that it might not be a good idea to bring the carriage with us
 	- Cordelia knows that there are fey in this forest specifically
 - Cal suggests we “Hansel and Gretel” this shit
 	- We ponder tying our ropes together, but **[[Kaya Avarice|Kaya]] ends up casting [Mold Earth] to make markers every so often**
-- Camille suggests casting ==Sending== on [[Vallen The Immortal|Vallen]]
+- Camille suggests casting <span style="color:rgb(197, 124, 22)">Sending</span> on [[Vallen The Immortal|Vallen]]
 	- Cordelia says that we should probably just give it the ol’ second try (Camille agrees)
 	- Cal suggests just cutting the whole forest down as a backup backup plan
 	- We abandon the carriage (tying up one of the horses at the entrance of the woods, Camille leaves a note requesting that anyone who finds the horses brings them back to [[Hillford]])
@@ -35,7 +35,7 @@
 	- We feel like someone is watching us (based on our Passive Perceptions)
 		- Cordelia rolls Arcana: she can tell the source of the thing watching us is magical in nature
 	- Camille tries to tell whatever’s following us that we’re just passing through, but Cordelia stops them before they can finish their sentence (smart)
-- The results of ==Locate Object== show that [[Vallen The Immortal|Vallen’s]] down the path that we’re going, and that doesn’t change as the spell wears off
+- The results of <span style="color:rgb(197, 124, 22)">Locate Object</span> show that [[Vallen The Immortal|Vallen’s]] down the path that we’re going, and that doesn’t change as the spell wears off
 - Survival check
 	- Both Camille and Cal get advantage but Kaya gets a NAT 20!!!
 	- We see [[Vallen The Immortal|Vallen’s]] footprints
@@ -53,7 +53,7 @@
 	- **THE SUN IS SETTING AS WE LEAVE, AS IF A WHOLE DAY HAS PASSED**
 - Cordelia dismounts from the horse and freaks out, explaining about the skinwalkers
 	- The gang debates whether or not we should go through the woods or around it
-- Camille casts ==Sending== on [[Vallen The Immortal|Vallen]]
+- Camille casts <span style="color:rgb(197, 124, 22)">Sending</span> on [[Vallen The Immortal|Vallen]]
 	- <u>Sending:</u> Are you safe? Where are you? We keep being led out of the woods. It's sunset now, but I'm not going to leave you behind.
 	- <u>Response:</u> Yeah I’m out of the wood now, I’m making camp where did you all go??
 	- **NOTE: THE GANG REALIZES THAT VALLEN MADE IT THROUGH BCS HE’S A VAMPIRE AND VAMPIRES CAN’T BE CHARMED**
@@ -63,12 +63,12 @@
 # Camping Outside the Woods
 - Camille suggests that we make camp for the night and give the forest another try tomorrow + we should set up watch schedules because [[Vallen The Immortal|Vallen]] isn’t here to cover for us
 	- Camille sets up the tents while the gang is debating
-	- Camille also ritual casts ==Tiny Hut== around the tent
+	- Camille also ritual casts <span style="color:rgb(197, 124, 22)">Tiny Hut</span> around the tent
 	- **THE PARTY JOKES ABOUT CAL’S DICK BEING UPSETTING ☹️**
 
 ## Long Rest Time :(
 - Camille takes first watch
-	- They cast ==Enhance Ability== twice (Perception 19)
+	- They cast <span style="color:rgb(197, 124, 22)">Enhance Ability</span> twice (Perception 19)
 	- There’s some rustling in the woods. It goes on and off for about an hour
 - Kaya takes second watch
 	- Kaya hears rustling in the woods too 💀 and BANGING ON THE TREES???
@@ -143,7 +143,7 @@
 		- [[Vallen The Immortal|Vallen]] senses that Cordelia doesn’t want to talk about it, and lets the matter drop
 
 ## The gang gets to know each other :]
-- The topic shifts to [[Vallen The Immortal|Vallen]]. Camille asks where his necklace came from (since they used it to cast ==Locate Object==)
+- The topic shifts to [[Vallen The Immortal|Vallen]]. Camille asks where his necklace came from (since they used it to cast <span style="color:rgb(197, 124, 22)">Locate Object</span>)
 	- It looks like a sun with pointy rays
 	- He found it in an ancient city in Diamond 200 years ago
 	- The city looked like it had cathedrals (very very old cathedrals)
@@ -271,6 +271,6 @@
 	- **We get two horses and a carriage**
 
 # On the Road Again
-- Camille casts ==Gift of Alacrity== on Kaya again (+1d8 to initiative rolls for the next 8 hours)
+- Camille casts <span style="color:rgb(197, 124, 22)">Gift of Alacrity</span> on Kaya again (+1d8 to initiative rolls for the next 8 hours)
 - Cal says that he doesn’t want to ride in the carriage with [[Cordelia Elysian|“gasbag”]], and asks to ride in the front with Camille
 	- He also says that it’ll give them a chance to talk? WHAT DOES THAT MEAN?? IZZIE GETS SCARED 😧

@@ -11,8 +11,8 @@
     - The vampires and warforged are fighting each other, and have created a “parting of the sea” situation where they give Dagen (and by extension, us) a wide berth
 - ROUND 1
     - [[Camille Xotli|Camille]]
-        - Casts ===Daylight=== on a gold coin
-        - Dagen CASTS _==COUNTERSPELL==!!! FUCK THIS STUPID BAKA LIFE_ 😭😭😭
+        - Casts <span style="color:rgb(197, 124, 22)">Daylight</span> on a gold coin
+        - Dagen CASTS _<span style="color:rgb(197, 124, 22)">COUNTERSPELL</span>!!! FUCK THIS STUPID BAKA LIFE_ 😭😭😭
         - Izzie realizes he could’ve used a Channel Divinity instead.
     - [[Vallen The Immortal|Vallen]]
         - ROLLS A NAT 20 TO HIT!! KING SHIT
@@ -33,7 +33,7 @@
         - Kaya is LOCKED in!!!
         - Cal is feeling GOOD
         - Cordelia is fucking PETRIFIED and CONFUSED
-        - Camille is thrown off their rhythm -- so much is happening and they’ve never been ==Counterspelled== before
+        - Camille is thrown off their rhythm -- so much is happening and they’ve never been <span style="color:rgb(197, 124, 22)">Counterspelled</span> before
     - Dagen
         - First attack
             - Forces Cal to make a **CON save**
@@ -43,18 +43,18 @@
             - Forces Cordelia to make a **WIS save**
             - SHE ALMOST GOT FUCKING. CHARMED INTO FIGHTING US!!! SHE SAVES WITH A 21 THOUGH HUZZAH
     - Cordelia
-        - Casts ==Hold Person== on Dagen -- he saves :(
+        - Casts <span style="color:rgb(197, 124, 22)">Hold Person</span> on Dagen -- he saves :(
         - Cordelia’s stomach DROPS and she uses a bonus action to pull one of her six cards: she pulls **The Devil**
             - It glows a bright red, and shoots into Dagen’s chest
             - He looks up at her and looks _terrified_ (mechanically, he’s frightened)
 - ROUND 2
     - Camille
-        - Calls out to [[Lathander]] as they use their ==Channel Divinity: Turn Undead==
+        - Calls out to [[Lathander]] as they use their <span style="color:rgb(197, 124, 22)">Channel Divinity: Turn Undead</span>
             - Lathander’s symbols in Cal’s pocket and Vallen’s necklace glow
             - ALL THE VAMPIRES EXCEPT FOR Dagen FLEE!!! WE STAY WINNING
             - ALL 50 WARFORGED START CHASING THE VAMPIRES LMAO
             - After a few seconds, we hear screams and fighting coming from the party upstairs
-        - Casts ==Spiritual Weapon== and summons a mace that they THROW at Dagen
+        - Casts <span style="color:rgb(197, 124, 22)">Spiritual Weapon</span> and summons a mace that they THROW at Dagen
             - Deals **22 radiant damage** (rolled 11 damage, doubled bcs he’s vulnerable)
     - Vallen
         - Misses his attack :(
@@ -78,7 +78,7 @@
             - Throws Vallen at Camille
             - Camille takes **16 dmg**
     - Cordelia
-        - Rolls a 21 to hit with ==Melf’s Acid Arrow]==, deals **10 acid dmg**
+        - Rolls a 21 to hit with <span style="color:rgb(197, 124, 22)">Melf’s Acid Arrow</span>, deals **10 acid dmg**
         - Pulls another card as a bonus action: **The Star**
             - Kaya makes a **DEX save**
             - **The card glows with a BRIGHT LIGHT, shoots a radiant BEAM DIRECTLY AT Dagen!!!!!**
@@ -88,7 +88,7 @@
 - ROUND 3
     - Camille
         - Moves 30 ft. towards Kaya (involuntarily teleports), heals her with _[Cure Wounds]_ **7 HP** (it was more but she can’t heal higher rn)
-        - Attacks with ==Spiritual Weapon==, misses
+        - Attacks with <span style="color:rgb(197, 124, 22)">Spiritual Weapon</span>, misses
         - Purposefully takes an AoO by moving 10 ft away from Dragon
             - Dagen uses a **legendary action** to vampire bampf away from Kaya’s spear and appears in front of Camille
     - Vallen
@@ -132,7 +132,7 @@
 - It’s very castle-esque upstairs: red and white with gold accents, ornate as FUCK. It’s dead silent though, where all the people at
     - There are some doors open upstairs, leading to guest bedrooms
     - There’s a big double door at the end of the hallway, which looks like the master bedroom
-- Cordelia casts ==Prestidigitation== on Kaya to get the blood off her
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> on Kaya to get the blood off her
 
 # We Finally Kill Dagen
 - Camille opens the door to the master bedroom
@@ -211,29 +211,29 @@
     - **Enemies so far: Roof Guy and The Skitterer**
 - The Skitterer pulls the window down, grabs Dr. Pope, and begins trying to pull him out
     - KAYA KICKS HIM
-    - CORDELIA CASTS ==HOLD PERSON== ON DR. POPE SO HE CAN’T TRY TO ESCAPE (he’s still unconscious so the spell automatically succeeds)
-- Camille casts ==Spirit Guardians== so that all enemies within a 15 ft. radius of them take damage (immediately take **19 points of radiant**)
+    - CORDELIA CASTS <span style="color:rgb(197, 124, 22)">HOLD PERSON</span> ON DR. POPE SO HE CAN’T TRY TO ESCAPE (he’s still unconscious so the spell automatically succeeds)
+- Camille casts Spirit Guardians so that all enemies within a 15 ft. radius of them take damage (immediately take **19 points of radiant**)
 - Cordelia has to make a **DEX save** as a dagger DIGS into her arm (ROOF GUY STABBED HER)
     - Concentration Check: successful! But she has a knife sticking out of her arm :(
     - Roof Guy tries to push Dr. Pope out of the carriage
 - Cal tries to shove Roof Guy -- Roof Guy falls underneath the other carriage and gets RUN THE FUCK OVER!!!
-- Kaya casts ==Mold Earth== to try and trip up the wheels of the carriage following us
+- Kaya casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> to try and trip up the wheels of the carriage following us
     - BIGASS CHICAGO-STYLE POTHOLE!!
     - It pops up right behind the horses but in front of the wheels. THE CARRIAGE FLIPS THE FUCK OVER!!!
-- Cal grabs The Skitterer as he’s about to dip (without Dr. Pope), and he takes another **12 dmg** from ==Spirit Guardians==
+- Cal grabs The Skitterer as he’s about to dip (without Dr. Pope), and he takes another **12 dmg** from Spirit Guardians
 - [[Mysterious Vampire|SOME BITCH]] CASTS TIME STOP
     - THE CARRIAGE IS FROZEN IN PLACE
-    - THEY TAKE DR. POPE WITH THEM! THE ==HOLD PERSON== SHATTERS!!!
+    - THEY TAKE DR. POPE WITH THEM! THE HOLD PERSON SHATTERS!!!
     - THIS IS SO FUCKED UP AND EVIL
     - **MIGHT BE DAGEN’S WIFE :((**
 	    - Future Izzie Note: after reviewing the notes, I have reason to believe the [[Mysterious Vampire]] might be Balthazar's "dead" pupil 👀
-    - **SHE CASTS ==TIME STOP== MULTIPLE TIMES! WE’RE STUCK FOR _SEVERAL MINUTES_**
-- As ==Time Stop== wears off, Vallen pulls the carriage to a stop
+    - **SHE CASTS TIME STOP MULTIPLE TIMES! WE’RE STUCK FOR _SEVERAL MINUTES_**
+- As Time Stop wears off, Vallen pulls the carriage to a stop
     - Cordelia recaps to the gang what happened and passes out as she realizes there’s a knife in her arm
-    - Camille casts ==Cure Wounds== on Cordelia for 12 HP
+    - Camille casts Cure Wounds on Cordelia for 12 HP
 - Vallen suggests that we just kill the guy after we question him. Camille reasons that we might as well let the Keeper decide what to do with him, since we don’t have Pope anymore
     - Camille breathes a sigh of relief when Vallen agrees
-- Camille casts ==Zone of Truth== -- The Skitterer fails
+- Camille casts Zone of Truth -- The Skitterer fails
     - What’s your name? [[Garrett]]
     - Does he work for the person who kidnapped Dr. Pope? Yes
     - Does he know who the person is? No, but **_she_ is from Diamond**
@@ -362,7 +362,7 @@
     - Camille shakes Oz’s hand, learns that:
         - He’s a Captain who handles the military side of affairs (while Captain Purah handles the civilian side of things)
         - He’s the one who ordered our outfits for the masquerade!!
-- Oz asks where Dr. Pope is -- Camille lets them know that we were attacked and that someone from Diamond cast ==Time Stop==
+- Oz asks where Dr. Pope is -- Camille lets them know that we were attacked and that someone from Diamond cast Time Stop
 - Cordelia asks if we’re going to war: Oz responds affirmatively
     - She also asks for her father: he’s in the Capital for sure, likely in the Tower somewhere a few floors down
     - **[[Arthur Elysian|CAPTAIN ARTHUR]] IS GONNA BE IN THE BIG MEETING. HE’S ALSO UP FOR PROMOTION? THIS HAPPENED LIKE A WEEK AGO AFTER HE RETURNED FROM THE GOLD COAST**

@@ -64,7 +64,7 @@
 - Camille offers to do Vallen’s hair!! They used to do their brother’s :]
 - Vallen suggests that we should sleep while he does reconnaissance
     - Cal says he can join him! Vallen’s DOWN for that
-    - Camille casts ==Gift of Alacrity== on both of them
+    - Camille casts <span style="color:rgb(197, 124, 22)">Gift of Alacrity</span> on both of them
     - They plan on going to the whorehouse first
         - THERE’S A WHOLE THING ABT CORDELIA WANTING TO GO TOO BUT SHE DECIDES TO STAY HOME!! Camille says they fear she won’t fit in there, and she literally only stays bcs Camille forces themself to say whore :(
 - Vallen and Cal are out for a WHILE. It’s super late before they get back
@@ -105,7 +105,7 @@
 - Vallen offers to get the menu for room service (Camille says no and goes to get it instead), Cordelia also goes downstairs
 - Downstairs: everyone is still wearing their masks
 - Cordelia looks around for other “Ambassadors”
-    - **NEW RULE: The player must tell Camille that they’re doing something before they make a roll for ==Guidance== to apply**
+    - **NEW RULE: The player must tell Camille that they’re doing something before they make a roll for <span style="color:rgb(197, 124, 22)">Guidance</span> to apply**
     - She sees a table with three people sporting Clover symbols (two older gentlemen and a younger man)
         - Cordelia recognizes them as Clover Ambassadors that are SPECIFICALLY from Clover -- she doesn’t recognize their faces
         - One of the ambassadors (older gentleman) is a higher ranking noble (brunette)
@@ -168,7 +168,7 @@
 - Cordelia rolls a Nat 1 to spy on Vallen LIKE A FREAK!!! LIKE A PERVERT!!!
     - THE DOOR CREAKS OPEN AND SHE FALLS ONT EH DAMN FLOOR
     - GIRL!!!!!!!!! 😭💀🌏💥💥💥
-- Camille ritual casts ==Augury==
+- Camille ritual casts <span style="color:rgb(197, 124, 22)">Augury</span>
     - They feel a divine message come to them -- their eyes glow white and their head snaps upward
     - They receive a vision. It depicts most of what we saw in a previous dream - the party, the castle, and the **lab** specifically - and they feel the presence of a person. His presence brings _dread_
     - They also feel a sense of triumphantness, and then a BIGGER sense of dream

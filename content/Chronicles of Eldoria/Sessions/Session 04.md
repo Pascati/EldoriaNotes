@@ -17,17 +17,17 @@ share_updated: 2025-06-24T00:06:59-05:00
 		- Tries to break free of the grapple (succeeds)
 - ROUND 1
 	- Cordelia
-		- Casts ==Firebolt== and **hits**
+		- Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> and **hits**
 		- Sees that he hasn't had a chance to pull out his weapons, but that he has a greatsword
 	- NVM "CORY" PULLS OUT HIS GREATSWORD
 		- Attacks Cal (hits against his AC of 15)
 		- **Cal takes 10 dmg**
 	- Camille
-		- Screams for everyone to stop, and casts ==Calm Emotions==
+		- Screams for everyone to stop, and casts <span style="color:rgb(197, 124, 22)">Calm Emotions</span>
 		- Kaya and Cal fail, and are now *indifferent* to "Cory"
-		- Currently concentrating on ==Calm Emotions==
+		- Currently concentrating on <span style="color:rgb(197, 124, 22)">Calm Emotions</span>
 	- Kaya
-		- Rolls her save again and succeeds against ==Calm Emotions==
+		- Rolls her save again and succeeds against <span style="color:rgb(197, 124, 22)">Calm Emotions</span>
 		- Moves 30 ft. towards "Cory" and gives him the ole 1-2 (misses)
 		- Uses a Ki point to bonus action attack again (**hits for 6 dmg**)
 - ROUND 2
@@ -35,16 +35,16 @@ share_updated: 2025-06-24T00:06:59-05:00
 		- Recognizes that a spell was cast on him, and turns to address Camille
 		- Says that **"Cory" is in league with a vampire**
 		- Encourages us to leave, because *he can't have more deaths on his conscience if we die fighting "Cory"*
-		- In response, Camille reluctantly drops ==Calm Emotions== to allow Cal to attack
+		- In response, Camille reluctantly drops <span style="color:rgb(197, 124, 22)">Calm Emotions</span> to allow Cal to attack
 	- Cordelia
 		- Tries to convince Kaya to leave and run (Kaya does Not want to run)
-		- Casts ==Firebolt== AND MISSES :(
+		- Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> AND MISSES :(
 	- "Cory"
 		- **Hits for 12 damage** Kaya in the chest for
 		- Kaya succeeds on her DEX save, but gets pushed away 5 ft
 	- Camille
-		- *Heals Kaya for 9 HP* using ==Healing Word==
-		- Casts ==Guidance== on Cal
+		- *Heals Kaya for 9 HP* using <span style="color:rgb(197, 124, 22)">Healing Word</span>
+		- Casts <span style="color:rgb(197, 124, 22)">Guidance</span> on Cal
 	- Kaya
 		- Unarmed attack + flurry of blows bonus action
 		- **Deals 16 total damage**
@@ -54,12 +54,12 @@ share_updated: 2025-06-24T00:06:59-05:00
 		- **Deals 10 damage** on the first attack
 		- NAT 1 ON THE SECOND ATTACK 😧 HE ALMOST HITS KAYA!!! (it's ok tho)
 	- Cordelia
-		- Casts ==Hold Person==
+		- Casts <span style="color:rgb(197, 124, 22)">Hold Person</span>
 		- WINS!!
 	- "Cory"
-		- FAILS THE ==HOLD PERSON== SAVE
+		- FAILS THE <span style="color:rgb(197, 124, 22)">HOLD PERSON</span> SAVE
 	- Camille
-		- Casts ==Zephyr Strike== and deals **9 damage**
+		- Casts <span style="color:rgb(197, 124, 22)">Zephyr Strike</span> and deals **9 damage**
 		- Runs 30 ft. away (without invoking an opportunity attack)
 	- Kaya
 		- Hits for **7 damage**
@@ -86,9 +86,9 @@ share_updated: 2025-06-24T00:06:59-05:00
 - [[Blue Man|THE MAN]] JUMPS DOWN and lands among us
 	- **"Just one of many"**
 	- TURNS CLEAR AND DISAPPEARS??
-		- Cordelia (Arcana 18) recognizes it as ==Invisibility==
+		- Cordelia (Arcana 18) recognizes it as <span style="color:rgb(197, 124, 22)">Invisibility</span>
 - CORDELIA TRIES TO COMMUNICATE THAT THE GUY IS STILL THERE
-	- Camille gets the message, crouches down, and casts ==Detect Magic==
+	- Camille gets the message, crouches down, and casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
 	- Homie doesn't see shit 🤨🤨🤨
 - The gang agrees that we need to talk and also still get dinner
 - Cal searches the body and finds:
@@ -100,7 +100,7 @@ share_updated: 2025-06-24T00:06:59-05:00
 
 # Dinner
 - We return to Foo Bar!
-- Cordelia casts ==Prestidigitation== to re-warm our food
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> to re-warm our food
 - Camille asks Cal to clarify about the stuff about vampires
 - Cal re-introduces himself
 	- He introduced himself to us with his real name
@@ -116,7 +116,7 @@ share_updated: 2025-06-24T00:06:59-05:00
 
 ## The Letters
 - *Cal pulls out the letter* + the scraps of paper from the garbage
-- Camille casts ==Mending== on the scraps of paper
+- Camille casts <span style="color:rgb(197, 124, 22)">Mending</span> on the scraps of paper
 	- IT'S FIXED! HUZZAHH
 	- The paper has orders for [[Dox|"Cory"]]
 	- Addressed to **[[Dox]]**, stating **"Prepare Clover for our arrival"**

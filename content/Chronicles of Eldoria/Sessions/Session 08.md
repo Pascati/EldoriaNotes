@@ -23,12 +23,12 @@
     - There’s a little boy behind where the double-death occurred, and one of the shadows closer to us (20 ft. closer than the commoner who died) has its back towards us and starts walking towards the boy
 - GROUP STEALTH
     - yeah we chillin 😎
-- Nvm we’re no longer chilling. Camille ==Guiding Bolts== this dude’s ass 💀
+- Nvm we’re no longer chilling. Camille <span style="color:rgb(197, 124, 22)">Guiding Bolts</span> this dude’s ass 💀
     - As the bolt hits, we see no face as the shadow turns to face us
 
 # Combat Begins
 - **Initiative Order:** Cal, [[Vallen The Immortal|Vallen]], Kaya, Cordelia, Camille
-- Camille does double damage bcs the ==Guiding Bolt== was a sneak attack and does **30 radiant dmg** to the Shadow approaching the child
+- Camille does double damage bcs the <span style="color:rgb(197, 124, 22)">Guiding Bolt</span> was a sneak attack and does **30 radiant dmg** to the Shadow approaching the child
 - ROUND 0 (SURPRISE) casts 
     - Cal
         - Slashes the Shadow as an action (hits!)
@@ -42,11 +42,11 @@
         - Throws a javelin, misses :(
         - Runs closer to the Shadow (50 ft. of movement)
     - Cordelia
-        - Casts ==Acid Arrow== and misses :(
+        - Casts <span style="color:rgb(197, 124, 22)">Acid Arrow</span> and misses :(
     - Camille
         - Looks around for additional enemies (they don’t see SHIT)
         - Sees dead vampires on the ground (still shrouded in shadow) and lots of bodies
-        - Casts ==Haste== on Cal
+        - Casts <span style="color:rgb(197, 124, 22)">Haste</span> on Cal
 - ROUND 1
     - Cal
         - Shouts out and tells the gang to use fire to burn whatever device the Shadow is wearing
@@ -118,7 +118,7 @@
     - Cal is in front (DEX save: 24). He feels a tile sink slightly beneath his feet and manages to jump back in time before ANOTHER tile from the ceiling falls on him
 - Cordelia observes that there are a few tiles that appear to be slightly raised down the hallway -- we should probably avoid stepping on them
     - Cal suggests setting them off on purpose, the rest of the party disagrees. Camille says that we should probably try to be quiet (and avoid setting off the traps) just in case something is living down here
-- As we approach the next trap, Kaya casts ==Mold Earth== to fix the tile in place so we can walk over it safely
+- As we approach the next trap, Kaya casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> to fix the tile in place so we can walk over it safely
 
 ## Room 3
 - The ceiling appears to be broken a little, with a sphere crashed into the ground (seemingly fallen from the ceiling) in the middle. There are three paths branching off apart from the one we just came from
@@ -140,15 +140,15 @@
     - The orb-ish area is where a key should go (as we established in session 1)
     - She doesn’t know what the door would lead to
     - Lily: “the connection to this is the story of Fire and Water she heard when she was younger”
-- Cal is ==Guidanced== by Camille and looks at the pyramid side of the door (22 Investigation)
+- Cal is <span style="color:rgb(197, 124, 22)">Guidanced</span> by Camille and looks at the pyramid side of the door (22 Investigation)
     - His thoughts drifted away from the door, and thanks to the sunstone he can see that there are little flashes of red on the door
 - The gang rolls Arcana
     - Cal’s eyes start flicking red HELP!!
     - Nvm as he turns to the rest of the party, the flickering stops
         - Cordelia looks deeper into Cal’s eyes -- she sees a little picture of a pyramid in both of pupils when his eyes flash red, but it disappears when he turns to the rest of us
-- Kaya casts ==Mold Earth== -- the orb she tries to make _falls apart_
+- Kaya casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> -- the orb she tries to make _falls apart_
     - This has never happened before!!
-    - Cordelia casts ==Detect Magic== and looks at the ground, at Kaya, and at the Door
+    - Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span> and looks at the ground, at Kaya, and at the Door
         - While looking at the door, the **right/[[Orb]] half of the door is radiating white, while the left/[[Pyramid]] half of the door is dark and misty and red**
 - Camille tries to contact the Keeper via sending stone, but it buzzes red and falls back into their hand -- **the messages does _not_ go through**
     - We can assume the magic they were trying to cast is not going to work
@@ -167,12 +167,12 @@
 - Perception (CAMILLE GETS A NAT 20)
     - We notice we’re standing in a very thin layer of water
     - Camille notices that there is water dripping from each of the holes lining the walls
-- Camille asks Cal for his rope, and ==Misty Steps== to the door
+- Camille asks Cal for his rope, and <span style="color:rgb(197, 124, 22)">Misty Steps</span> to the door
     - DEX save: 17. They barely manage to avoid stepping on a small platform in front of the door
     - The stone door before them is flat and smooth, with a small hole in it like a keyhole
     - Camille lets down the rope
 - Cal notices that the path behind us is gone
-- Kaya climbs up the rope, and tries to use ==Mold Earth== to open the door
+- Kaya climbs up the rope, and tries to use <span style="color:rgb(197, 124, 22)">Mold Earth</span> to open the door
     - The door moves down slightly, but then moves back up
     - DEX check (nothing happens)
 - Cordelia climbs up
@@ -187,7 +187,7 @@
     - Neither her nor Cal are able to find the key right away
 - Kaya jumps in! Cordelia jumps in! They also can’t find it
 - THE WATER IS RISING. By this point the water has reached the platform where the door is
-- Camille gives Cordelia the help action + ==Guidance==
+- Camille gives Cordelia the help action + <span style="color:rgb(197, 124, 22)">Guidance</span>
 - Camille uses their Channel Divinity to ZIP the key into the door -- Kaya swims and turns it
     - WE’RE SAFE!!! the party washes into the next room, and the water drains out of the room we were just in
 - The key has fins on it! Like a fish!! 🐟🐟🐟
@@ -212,7 +212,7 @@
     - The card glows and SHOOTS into Kaya’s chest
 - Camille asks if Cordelia can do a reading for our “friend” (the door)
     - She pulls a ~~two of swords~~ **The Hermit**
-    - The card SHOOTS into Camille and they are affected by the ==Confusion== spell
+    - The card SHOOTS into Camille and they are affected by the <span style="color:rgb(197, 124, 22)">Confusion</span> spell
 - Kaya tells a knock knock joke and FUMBLESSS
     - It’s ok bcs the card she absorbed earlier makes her succeed on ANY roll she makes next
 - **THE DOOR DOESN’T OPEN**
@@ -228,7 +228,7 @@
     - Most of us see - at the end of the room - is a broken runic circle. Embedded in the center is an axe.
 - Kaya checks out the statues (what’s their deal??)
     - like a 3 investigation 💀
-- Cordelia _also_ looks and gets ==Guidanced== by Camille
+- Cordelia _also_ looks and gets <span style="color:rgb(197, 124, 22)">Guidanced</span> by Camille
     - They look like they’re made of stone, and have been here for _centuries_
 - Cal takes a look at the axe
     - It looks embedded in the wall, but can probably be removed
@@ -263,7 +263,7 @@
     - Cal runs to grab the axe, which falls and he grabs it
 - THE STATUES START MOVING TOWARDS US WEEPING ANGEL STYLE!!! FUCK THIS STUPID FUCKING BAKA LIFE!!!!!!
     - The DM notes that the only thing lighting this room is Cal’s Sun Stone -- it’s lasted longer than we expect
-- Cordelia instinctively reaches down and casts ==Light== on a loose stone
+- Cordelia instinctively reaches down and casts <span style="color:rgb(197, 124, 22)">Light</span> on a loose stone
     - CJ: Remember, shadows exist :)
 - Cordelia sneakily looks around -- the only exit is the way we came
 - Camille asks Cal what the deal with the axe is. **He looks down to check it out (the statues move in)**
