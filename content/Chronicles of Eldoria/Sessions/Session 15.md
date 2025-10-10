@@ -1,0 +1,321 @@
+# COMBAT STARTS
+
+- NOTE: ALL DAMAGE THE PARTY DEALS (IF POSSIBLE) IS NONLETHAL
+- ROUND 1
+    - [[Camille Xotli|Camille]]
+        - Presses a small metal object into Kaya’s hand and asks her to hold onto it
+        - Casts ==Warding Bond== on her
+    - [[Vallen The Immortal|Vallen]]
+        - Draws his swords and holds his turn because there’s no indication that we’re going to fight him right now
+    - [[Cal Corvo|Cal]]
+        - Calls out “TELL POPE I SAID HI” and attacks
+        - 17 total damage. [[OSIRIS]] hasn’t moved
+    - Vallen (Held Action)
+        - Slashes at OSIRIS with his longsword then shortsword
+        - Deals a total of 16 damage
+    - [[Cordelia Elysian|Cordelia]]
+        - Casts ==Firebolt==, deals 10 fire damage
+    - [[Kaya Avarice|Kaya]]
+        - Attacks three times (twice as an action and once as a bonus action)
+        - Deals a total of 23 damage
+- ROUND 2
+    - Camille
+        - Casts ==Spiritual Weapon== and summons a longsword made of light, which deals a total of 14 radiant damage
+    - Vallen
+        - OSIRIS catches Vallen’s sword mid-swing and SNAPS IT?!?!?!?
+        - OSIRIS: Variable pattern detected. Making adjustments… Finalizing. Try again.
+        - OSIRIS KICKS VALLEN AND SENDS HIM FLYING 20 FT!!!!
+    - Cal
+        - Attacks twice, one attack hits (HE’S PUNCHING HIM/!?!?!?)
+        - Deals a total of 6 damage
+    - Cordelia
+        - Backs up a little (keeps her distance) and casts ==Firebolt== again
+        - 14 to hit (hits) -- deals 19 damage
+        - OSIRIS takes the hit to the chest and just stares at her in response
+        - She calls out and tells the party that this CLEARLY isn’t working (pointing at Vallen), and then gestures to the edge of the cliff
+    - Kaya
+        - Casts ==Mold Earth== to try and push OSIRIS off the edge. She rolls a STR check
+            - FREE ACTION: CAMILLE
+                - In response to Kaya casting ==Mold Earth==, Camille calls out and asks her to put down the wall if possible -- they can try to push OSIRIS off with some abilities they have, but they need to get behind him to do that
+        - OSIRIS PUTS HIS HAND OUT AND FUCKING KOOL-AID MANS THROUGH THE WALL WHILE STANDING STILL???????
+    - OSIRIS
+        - Forces Cal to roll a STR saving throw (rolls a like a 9)
+        - Picks Cal up by the NECK AND LIFTS HIM INTO THE AIR?!?!?!
+        - FORCES CORDELIA TO MAKE A DEX SAVING THROW (SHE ROLLS A NAT 1)
+        - CORDELIA TAKES 28 DMG AS CAL IS HURLED AT HER
+        - CAL ALSO TAKES 28 DMG
+        - THEY ARE BOTH PRONE
+- ROUND 3
+    - Camille
+        - Sends their ==Spiritual Weapon== to Vallen as a bonus action
+        - They tell Vallen that they “need to talk”, but they still need his help -- so they cast ==Haste== on him
+    - Vallen
+        - Pours a Healing Potion onto Cordelia as an action (she’s healed for 10)
+        - Teleports behind OSIRIS and attacks with the Camille’s sword
+            - Deals 2d8 + 8 radiant damage
+    - Cal
+        - Changes his outfit to look like battle fatigues high-ranking commander/official from Diamond
+            - He takes two steps forward, calls out OSIRIS’s name, and calls out “STAND DOWN.”
+            - It’s worth noting that nobody else in the party knows what this kind of Diamond official’s armor might look like
+        - OSIRIS stares at Cal for a moment.
+            - OSIRIS: You know, it humors me to think that this would work.
+            - But I have received new instructions. I cannot kill you.
+            - OSIRIS BACKS UP AND STEPS OFF THE CLIFF??????
+        - As soon as OSIRIS disappears from view, Cal gets a look of disgust and immediately changes his clothes back
+- The gang runs up to the edge of the cliff to check what happened to OSIRIS
+    - He’s literally just walking down the cliff 💀
+- ALL THE [[WARFORGED|WARFORGED]] STOP MOVING AND TURN TO LOOK AT US?!?!!?!
+    - We feel _thousands_ of eyes on us
+    - They all turn to each other **_and start ripping each other apart_**
+- OSIRIS makes his way into the crowd of warforged ripping each other apart
+    - He comes out through the back of the crowd, and starts heading back through the mountain pass
+    - Everyone but Cal sees this
+
+# Chasing OSIRIS
+## Immediate Aftermath
+- Camille and Vallen debate over whether or not we should follow OSIRIS
+    - Camille is opposed, Vallen wants to follow (Cal is ALSO down to follow)
+    - As soon as Vallen mentions that the mountain pass leads to Oakheart, Camille relents and immediately says that they’ll follow him
+    - Co
+- Cordelia receives healing
+    - +9 ==Cure Wounds==
+    - +6 healing potion
+- Camille says that we should jump, and that the party should trust them.
+    - They count down REALLY QUICKLY and as the party follows them in jumping off the cliff, they cast ==Feather Fall==
+    - Falling takes only 2 minutes, walking down the mountain would take 10
+    - Cal does a cool flip
+- As we fall, Vallen takes the Sending Phone from Cordelia and lets the Captain know where we’re heading
+- Camille hands Cal a healing potion
+    - +6 healing
+- **POST-GAME IZZIE NOTE: THESE WERE SUPPOSED TO BE POTIONS OF GREATER HEALING 💀 SO THE GANG WAS SUPPOSED TO BE HEALED FOR MORE. MY B**
+- THE GANG MAKES PERCEPTION CHECKS
+    - Camille rolls a nat 20 :]
+    - CAL FAILS BUT HE GETS TO ROLL WITH ADVANTAGE BCS HE’S COOL
+    - As we run over the bodies of Warforged, we notice that ALL of them are _very, very, very rudimentary_ compared for OSIRIS. **They were there to die**
+    - **Cal grabs one and stuffs it into his Bag of Holding**
+
+## Footchase
+- We all roll for Survival
+    - We’re still following the tracks left by OSIRIS -- we don’t see him in front of him though
+- Camille passes out rings to everyone, saying that they might not be able to do it again today, but they’ll be able to protect everyone using these
+- Camille presses Vallen for the message that he received on the ship
+    - His grandson is dying of old age :( He might die in a few days or a few years, but it doesn’t super matter -- it all feels the same to him
+    - Camille says that he _will_ get to say goodbye, and that’s what matters
+        - Vallen doesn’t really respond :( he ends the conversation
+- Cordelia walks up behind Camille
+    - She asks them if they’re ok (they have a frozen smile on their face, when they say they _are_ ok, so no)
+    - She says that they talked to her when she needed help, so they can always talk to her
+    - Camille nods and speeds up ahead of her, but she catches that their eyes fill with tears as they exit the conversation
+- A few hours pass
+    - We reach a long lake (of still water) (inlet?)
+    - There is a bridge that was _just_ made out of a TON of trees
+- We all roll for INT to determine if we know how the bridge got here or if it was here before
+    - Camille casts ==Guidance== on Cordelia
+    - Everyone but Camille determines that the bridge was made by the Warforged to help them cross
+    - IZZIE THOUGHT: why did the Warforged make a bridge if they don’t have to breathe/walk underwater
+- THERE’S BANTER
+    - Vallen reminds Camille that there’s no smoke in the distance, so Oakheart - and his family - are currently safe and not on fire
+    - Camille hands Vallen a silver-tipped dagger (VALLEN’S LIKE ?!?!? but that’s the only weapon Camille has other than a stick and their main mace)
+    - There’s a genuine moment of warmth between them :] (CJ does this to piss Lily off). Camille rushes ahead again (embarrassed)
+- Vallen asks Cal if he’s from [[Oakheart]] (he is)
+    - Cordelia asks if he’s wanted in his hometown -- very likely. He’s probably not wanted by the town, but he’s wanted by a LOT of people, which is partially why he moves around so much. He doesn’t want to bring trouble to them
+- WE ROLL FOR SURVIVAL AGAIN
+    - We see no footprints :(
+- Vallen says we’re approaching the city -- it’s been about 50 years since he’s been here
+- WE TALK ABOUT HOW OLD WE ARE???
+    - Cal: canonically 36
+    - Kaya: canonically 25
+- On the way, Camille picks a bunch of wildflowers (to give to Vallen’s family)
+
+# Arriving in [[Oakheart]]
+- We approach the town!
+    - Cal changes his clothes back to look like farmer’s gear
+    - It’s currently around 4 or 5 PM
+    - Cal talks about how he hasn’t been here in 10 years -- this is his adopted hometown!!
+- Camille explains what the rings do to the party and does a little demonstration with Cal
+    - We all get access to the ==Message== cantrip! The rings now function as a walkie-talkie
+- PARTY PERCEPTION CHECK
+    - We see a statue at the center of town
+    - IT’S A GUY DRESSED IN FARMER’S CLOTHES. **_IT’S CAL?!?!_**
+    - Cal is like D: as he realizes what’s happened -- his expression gets dark and sad as he tells us that we need to go
+- An older couple recognizes Cal, and as they kick up a fuss a small crowd forms
+    - Camille throws their cloak over his head
+    - Kaya becomes security for us
+    - Cordelia helps clear the path for us
+- Cal starts BOOKING it down the street
+    - We ask what Cal’s deal is -- he says it’d be better to explain everything after we get off the streets
+    - He also puts up a shadowbox
+- We debate over whether or not we should split the party (one half of us go to Cal’s home and one half to Vallen’s grandson’s home)
+    - Cal says that his house is at the end of the edge of the city. Just look for the flowers 🥺
+    - We decide to go to Vallen’s grandson’s home first and _not_ split the party
+- We discuss where OSIRIS has gone
+    - Probably back to where he was made ([[Iron Forge]])
+
+# Meeting Vallen’s Family
+- Vallen takes a deep breath and knocks
+    - Camille wishes him luck, pushes the wildflowers into his hand, and casts _[Guidance]_ on him
+- A young woman (early 30s) opens the door -- she’s a BEAUTIFUL (half-)elven woman with blonde hair
+    - She asks who we are. Cordelia introduces herself and gives Vallen an in to introduce himself
+    - An old, wizened voice calls out from inside to “let them in” (we’re let in)
+- Cal drops the shadowbox and tries to introduce himself by real name
+    - SHE DOESN’T RECOGNIZE HIS NAME 💀EMBARRASSING
+    - HE PUTS THE SHADOWBOX BACK UP
+- We see an older, half-elven man laying on a bed. He’s pretty damn old.
+    - The lady kisses the old man on the head, and says “dad, I’m going to make some tea”
+    - The old man gestures to Vallen and asks him to come closer
+        - He says he really appreciates him coming to visit, even though he doesn't have much time left
+        - Vallen strokes the top of the old man’s head :(
+        - The old man didn’t tell his daughter of Vallen (VALLEN SAYS THANK YOU???)
+- The great-granddaughter asks Vallen how he knows her father
+    - They were old drinking buddies 💀
+- How do we know Vallen? (coworkers)
+- Camille offers to cast ==Ceremony== on the dying man
+    - CJ is cool and lets it only take 5 minutes
+- We leave Vallen to speak with his grandson for a while
+    - Vallen comes back to us, says that “[[Greyson]] never been one to take anything seriously”
+    - Vallen is SO sad :( He requests to stay behind while we head over to Cal’s place
+
+# Visiting Cal’s Old Home
+- As we walk down the path towards Cal’s home, we see the sun beginning to set at the end of the path. Even further, we see a small wooden shack surrounded by waves of beautiful wildflowers, catching the fading sun’s rays.
+    - The house looks overgrown, but not dilapidated. Almost as if someone’s been taking care of it all this time.
+    - There are gifts piled up on the porch, but none of them seem to have rotted. Almost as if the gifts are left regularly
+    - Inside, it appears to be a single-bedroom abode, with a large cooking pot and fireplace in the center of the main living room.
+- Cal goes about preparing us dinner, lighting a fire underneath the big stovepot in the middle of the room. He tells us that he’s told us a lot of stories so far, but there’s still more that he has left to tell us as he sits us down for a meal
+    - Cal dishes out bowls of stew (carrots and veggies) -- it’s DELICIOUS
+    - They’re special vegetables, they’re unique to the city! The veggies are native to the area, but the farming technique is something that he brought from his original hometown.
+
+# CAL LORE!!!
+- Cal re-introduces himself. His name is Cal Corvo
+    - He grew up right outside of [[Holden]]
+    - He _did_ travel with a merchant after he turned 14. While he was traveling with that merchant, he encountered [[Diamond Military|the military/the army]]
+    - For 2 years, he argued with his parents about whether or not he should join the military. When he turned 16, he decided to leave. His mother cried, and when he left he called his father a coward for not standing up to his country
+    - [[Erin Thorne]] recruited him to the **[[Seven Lieutenants|Seven of Diamond]]** (AKA the Seven Lieutenants). He worked with them for **five years**.
+        - Their main job was to help [[Caduceus Pope|Dr. Pope]] and protect the people -- taking care of bandits, corrupt politicians, and helping the people
+        - At the time, Pope was much more kind and curious, he just wanted to help people
+    - Cal didn’t question it at first, but things got darker. They would kill one person to save one hundred, and he became numb to it
+    - One night, things changed
+        - They were on a mission to retrieve an asset for Dr. Pope. He didn’t think twice about it
+        - The other Seven + Erin snuck into a building at night, with Cal standing guard
+        - The brought out not one, but many children. Cal froze and didn’t stop them.
+        - A woman saw them, screamed, and alerted the people -- they all saw Erin Thorne kidnapping a bunch of children.
+    - Erin Thorne killed the entire village to keep them from spreading the word and tarnishing his reputation
+        - Cal couldn’t do anything but run.
+    - Cal ran back to his hometown, but at this point it was gone. As if someone had razed it years ago.
+        - He gathered some of the wildflowers that his mother grew, and he vowed to never fight again. To never take orders again, and to never let himself do what he did again.
+    - Time passes, and he finds himself in [[Oakheart]]. He didn’t interact with anyone in the city ever, and things were peaceful.
+        - He grew his potatoes and carrots from his old village, and his crops flourished
+    - One night, as he was getting ready for bed, three shadowy figures darkened his doorway.
+        - It was Captain Erin Thorne, and two other members of the Seven.
+        - Thorne explains that Cal was too important to the army, _which is why they destroyed his village, so he didn’t have anywhere to return to_
+        - CAL WAS PISSED!! But he committed himself to total pacifism, and told Thorne to go away. So Thorne left.
+    - Several hours after Thorne left, there were screams and fires in the city.
+        - Cal grabbed his sickle and ran into the city.
+        - He killed all three of them. Thorne was thrown into a burning building, which collapsed on him.
+    - Ever since then, Cal realized that he could never stay in one place, because [[Diamond Military|Diamond’s army]] would always track him down. He’s tried to actually help people, _real_ people, to make up for his past sins.
+- Cal apologizes for bringing us into this, but says that he’s glad to have met us. He worries about us being dragged into the dangers of his past.
+    - Cordelia confesses that her faith in [[Clover Military|the military]] has always lied in what she read in books. She never saw the world until she joined the party. But hearing Cal’s story, hearing how higher officials have destroyed, killed, and murdered -- she apologizes to Cal for how these structures of power have destroyed his life and compliments how Cal’s way of life - his flowers and his farming - have persisted despite it all.
+    - Cal says thank you, in a rare show of emotion
+- Camille gives Cal a second serving
+    - They say that they can’t judge him for his past actions, since they weren’t one of the people who was hurt by his actions. BUT, based on what they’ve seen and the people he’s helped, they think he’s a good person.
+    - Cal says thank you again.
+- Cal pushes aside the firepit and the cooking pot, revealing a chest beneath the floor.
+    - Inside is regalia similar to the Diamond Lieutenant armor that he disguised himself with earlier in our encounter with OSIRIS
+    - Cal searches for something, but panics when he can’t find it. AT THAT MOMENT!! THE DOOR OPENS
+
+### VALLEN DIES?!?!
+- WE SEE VALLEN ON HIS KNEES. THERE’S A SWORD THROUGH HIS CHEST.
+    - There’s a man behind him. He kicks Vallen down
+![[Erin Thorne.png|300]]
+- The man laughs, smoking. He says that he was surprised to hear that Cal was alive from the townsfolk
+    - CAL GRABS HIS SICKLE AND ADDRESSES HIM AS THORNE
+    - Thorne says that he saw this “monster” (Vallen) approaching Cal’s home, and he “did him a favor” by attacking Vallen
+- Two more of the Seven approach behind Thorne
+![[The Seven.png|300]]
+- Thorne says he promised Diamond that he’d find Cal, and he _did_ -- several weeks ago
+- Cal threatens that Thorne isn’t going to leave this house alive (Thorne doesn’t think so)
+- Camille tries to subtly heal Vallen with ==Healing Word==, but there seems to be some rot around the hole in his chest where he got stabbed. The healing dissipates, as if nothing actually happens.
+
+# COMBAT STARTS
+- [[Erin Thorne|Thorne]] runs away like a pussy
+- Initiative Order
+    - Cal
+    - Camille
+    - Soldier 2
+    - Kaya
+    - Cordelia
+    - Soldier 1
+    - Vallen
+- ROUND 1
+    - Cal
+        - RUNS IN TO ATTACK THORNE!!
+        - Bonus action: Second Wind (+7 HP)
+        - Attacks 3 times, two of them hits (18s to hit), for 8 damage total to Soldier 2
+    - Camille
+        - Tells Vallen that they can’t help him now, but he’s _not_ allowed to die before them.
+        - Casts ==Guiding Bolt== at Soldier 2, deals 17 pts of Radiant dmg (DOUBLED?? SO 34 TOTAL)
+        - Pulls out their mace as a bonus action
+    - Soldier 2
+        - **Cal realizes that the soldiers’ mouths are _sewn shut_**
+        - **Cal recognizes these soldiers as two of the Seven of Diamond, _but he’s never seen THESE specific people in his life_**
+        - Attacks Cal 3 times, misses twice. Deals 14 dmg
+    - Kaya
+        - Attacks Soldier 2 three times, hit all three times
+        - 22 TOTAL DAMAGE!!
+    - Cordelia
+        - Walks in front of Vallen, and casts _==Firebolt== on Soldier 1 (does not hit 😔)
+        - Pulls a card from her deck as a bonus action (pulls The Fool)
+            - When she pulls the deck out, Soldier 1 looks **TERRIFIED**. Of the deck specifically
+            - The card glows, and a beam of light shoots directly into Soldier 1
+    - Soldier 1
+        - There are three spears on his back. He grabs one and throws it at Cordelia
+            - he originally rolls a nat 20, but The Fool causes him to rewind and automatically miss
+    - Vallen
+        - He tries to push out the sword out of him, and rolls onto his stomach to try and use the floor to do so
+- ROUND 2
+    - Cal
+        - Grabs a sword from the chest, pulls the sword in Vallen’s chest out, and hands him the new sword
+    - Camille
+        - Casts ==Warding Bond== on Vallen, and moves to join Cordelia in front of him
+    - Soldier 2
+        - Forces Kaya, Cordelia, and Camille to make DEX saves -- he throws bolos at us (long leather straps with rocks at each end, which warp around an enemy and engangles them)
+        - ALL OF US ARE RESTRAINED :(
+    - IN CAL’S HEAD
+        - He hears “You better act fast 😈 They’re going to kill your friends!”
+        - As he hears this, he realizes that he has a choice to make. He reaches out, and a pitch-black scythe appears in his hand.
+        - We blink, and all our enemies are **HEADLESS**
+- Cal is zoned out, but the twitch comes back
+    - Camille asks what Cal does. When they do, Cal snaps out of it and asks what _we_ did
+- Cordelia scrambles over to Vallen and rolls him over
+    - Medicine (13): it looks like he’s been magically poisoned
+    - Vallen tries to say he’s fine, Camille is like “fuck no” and starts dragging him in
+- Cal is like “check out this sick sword that I just got you” and it heals Vallen??
+    - Camille tries to heal Vallen with ==Cure Wounds== it works -- he gets 14 points of healing
+    - Vallen re-introduces himself as “Vallen the Immortal”
+- Cordelia questions Cal again
+    - He doesn’t remember ANYTHING, but _she_ talked to him
+    - Camille theorizes that the female voice that Cal heard is the vampire woman that stopped time and stole Dr. Pope back
+- BACK TO VALLEN LORE
+    - Vallen can’t die by specific standards -- this has something to do with the manner in which he was transformed into a vampire
+- Camille hands Vallen a bowl of stew
+    - HE ALREADY KNEW ABOUT CAL’S LORE. He was told in Crossroads
+    - They suggest that he eats, that we check if Thorne burned down the entire town, and that we can camp in the woods to make sure that the townsfolk aren’t in too much danger
+- Kaya looks around for tracks (Vallen helps)
+    - Neither of them see any tracks
+- Camille says a quick prayer and searches the dead bodies
+    - As they rummage through the corpses’ pockets, they realize that **the bodies have long since been cold**
+- Cal walks up to the statue
+    - It’s LATE. Late at night. Nobody is around
+    - Cal falls to his knees in front of the statue, and we hear him sobbing
+    - Vallen and Cordelia come up to comfort him
+    - Cal says that we can’t stay any longer -- him being here endangers the townsfolk.
+- Cal returns to the shack
+    - He gets some stuff from the chest and some parts of armor from the corpses
+- As we head into the woods, Cordelia falls back and in step with Vallen. She has a question for him.
+    - “When we were in that cottage, how much do you actually remember?”
+    - He remembers most of the fight, even though it hurt like hell
+    - She asks if he saw the look on Soldier 1’s face as she pulled out [[Tarot Cards|her cards]]
+        - Vallen _did_ see, but he says that we should speak to other wizards -- he doesn’t know enough about [[Tarot Cards|her Tarot]] to say anything definitively
+        - He has a story to tell her, but that’s going to be saved for when we’re on the road again
+- As Camille is burying the bodies, Cal suggests that we burn them
+    - Vallen has radiant damage to do the thing, but Camille is too concerned to let him do anything -- they cast _==Guiding Bolt== on the bodies and incinerates them
+- Camille spends 10 minutes ritual casting ==Tiny Hut==, and the gang winds down to rest.

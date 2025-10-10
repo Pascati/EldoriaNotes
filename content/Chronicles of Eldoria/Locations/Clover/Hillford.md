@@ -1,4 +1,3 @@
-#Location
 # Notable Shops/Locations
 ## Shops
 - **[[Foo Bar]]**
@@ -16,7 +15,7 @@
 	- Proprietress is an elven woman (unnamed)
 - **Stitch & Sundries (Tailor)**
 	- Run by [[Varrell DeFontaine]]
-- **Stable**
+- **The Whistlewind (Stable)**
 	- Closer to the edge of town, on the other side of the street from the main shops
 	- Taken over by [[Reema]] post-prologue
 - **Glimmering Nook (Magic Shop)**

@@ -1,0 +1,3 @@
+- AKA The Morninglord
+- A major deity who is symbolized by the rising sun
+- God of *lots* of things, but is mostly known for his dominion over the dawn and his absolute **HATRED** of the undead

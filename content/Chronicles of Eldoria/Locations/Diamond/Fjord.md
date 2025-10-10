@@ -1,0 +1,5 @@
+- Home to The Crowned Stag
+	- Inn ran by [[Desmond]], his wife, and their son [[Clyren]]
+- Doesn't have a library, but has a temple!
+	- The temple is run by an elderly tiefling priest
+- Is more of a "passing-through" point for travelers and merchants than a big town

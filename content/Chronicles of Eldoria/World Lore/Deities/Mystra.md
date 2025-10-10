@@ -1,0 +1,2 @@
+- Major god of magic and the arcane
+- Is not the biggest fan of the [[Tarot Cards]], and only permits there to be 2 [[Tarot Cards|Tarot card users]] at a time

@@ -1,2 +1,3 @@
 - Leader of the [[Seven Lieutenants]]
+- Military captain
 - Was once [[Cal Corvo]]'s superior, now is hellbent on either bringing him back to Diamond or killing him

@@ -1,1 +1,2 @@
-- Led by [[Cordelia Elysian]]'s father, [[Arthur Elysian]]
+- Sub-faction of the [[Clover Military]]
+- Led by [[Fire Faction leader]]

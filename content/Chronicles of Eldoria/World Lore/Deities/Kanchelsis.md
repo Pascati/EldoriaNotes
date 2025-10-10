@@ -1,0 +1,2 @@
+- God of Vampirism
+- The being who turned [[Vallen The Immortal|Vallen]] into a vampire, since he was a devout follower of [[Lathander]] (as a way to say 🖕 to Lathander)

@@ -1,4 +1,3 @@
-#Faction
 - Split into three main factions: the [[Earth Faction]], the [[Water Faction]], and the [[Fire Faction]]
 - Powerful military with a strong presence
 

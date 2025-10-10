@@ -7,7 +7,7 @@
 		- When someone *does something really cool*, EVERYONE who sees it gets a point of inspiration
 		- When someone *gives an inspirational speech* - and if the DM thinks the speech is good enough - the speech-giver and everyone who hears the speech gets a point of inspiration
 - **Critical Hits:** Upon rolling a critical hit, one can choose to either double the number of damage dice they roll OR double the number they roll.
-- **Guidance:** In order for [Guidance] to apply to an ability check or attack roll, the person casting [Guidance] must be informed of the roll beforehand and say that they’re casting the spell BEFORE the roll is made, not in the moment while it’s being made or after.
+- **Guidance:** In order for <span style="color:rgb(213, 142, 42)">Guidance</span> to apply to an ability check or attack roll, the person casting <span style="color:rgb(213, 142, 42)">Guidance</span> must be informed of the roll beforehand and say that they’re casting the spell BEFORE the roll is made, not in the moment while it’s being made or after.
 	- Assumedly this also applies to any other spells or abilities that take an <u>action</u> or longer to cast/activate
 - **Death Saving Throws:** The DM rolls each player’s saving throws in secret, so even the players themselves don’t know the state of their character as they die (ooooh mystery 👀).
 
@@ -18,7 +18,7 @@
 - **Sending Stones:** Unless otherwise specified (as with the case with the prototype sending phone), all sending stones are ONE USE ONLY.
 	- One must already be in possession of a sending stone to receive messages from another sending stone
 	- Rather than a verbal message, all messages sent via sending stone appear as text to the receiver
-	- Messages are limited to 25 words in length (similar to the [Sending] spell)
+	- Messages are limited to 25 words in length (similar to the <span style="color:rgb(213, 142, 42)">Sending</span> spell)
 	- **Prototype Sending Phone:** Has unlimited uses, and messages can be up to 50 words in length.
 
 # Misc. Rules

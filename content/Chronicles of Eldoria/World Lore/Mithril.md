@@ -1,0 +1,3 @@
+- One of the few materials that is able to negate the effects of magic
+	- Wielders of items that are forged from mithril are often temporarily shielded from the negative effects of magic
+- There is a mithril mine fairly close to [[Hillford]] (on the road between Hillford and [[Lancaster]]), which the party was charged with guarding during the [[Session 18#WEEK-LONG TIMESKIP|week-long timeskip]]

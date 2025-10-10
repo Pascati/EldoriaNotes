@@ -1,0 +1,324 @@
+# Investigation Recap
+- The Room
+    - The Diamond Kingdom’s symbol is drawn on the walls in [[Warden Holt|Warden Holt’s]] blood
+        - The symbol is drawn incorrectly (clockwise instead of top to bottom) -- not in the way that a true Diamond citizen would draw it
+    - There are no signs of struggle or forced entry
+    - There are traces of magic (magical footprints) that circle around and lead out of the room
+        - Illusion magic
+- The Body
+    - Warden Holt was sitting at her desk when she died, no signs of struggle
+    - Warden Holt’s throat was slit, and then she was stabbed in the back
+    - We did not check for belongings or investigate the body further
+- The Knife
+    - Unlike any standard-issue knives made in Diamond _or_ Clover
+    - Slightly curved at the very end, and has a straight handle. Very rudimentary but also _custom-made_ knife made of bone
+- The Map
+    - The map was torn into pieces. Although ==Mending== was cast on it, at least half the map is missing
+    - The parts that are missing contain the red sigils which indicate exact enemy locations and information
+    - [[Camille Xotli|Camille]] will walk around the boat and cast ==Mending== on the parts of the map that we _do_ have to see if we can locate the missing pieces (and see who has them/where they are)
+- The Encrypted Book
+    - Written in a cipher that is a combination of both Dwarvish and Infernal
+    - Obtained during an infiltration mission in Diamond
+    - Contains unknown information
+    - Stolen (assumedly by the assailant)
+- The Decoder
+    - Found on the floor of the navigator’s/Warden Holt’s room
+    - Showed 3 decrypted words of the cipher when acquired: **“DIAMOND”, “ DOESN’T”, “WANT”**
+- List of suspicious people (or people that could be in the know), provided by [[Finnigan Seamus|the Captain]]
+    - **[[Sentinel Vayla]] (she/her):** usually oversees the deckhands. Not that she’s suspicious, but she’d likely have more information
+    - **[[Myra Delaine|Journeyman Myra Delaine]] (she/her):** in charge of the sending stones and messenger ravens
+    - **[[Bram Trsk|Journeyman Bram Trsk]] (he/him):** the cook
+    - **[[Sulk|Warden Voss]] (he/him):** the quartermaster. He’s usually checking the ship’s inventory late into the evening. He’s also the only one to know if something went missing from the ship’s inventory
+- **CONCLUSIONS**
+    - **The assailant is:**
+        - A spellcaster of some kind, since they were able to get behind Warden Holt without arousing suspicion
+        - Either a Clover sympathizer or Clover military personnel
+        - Likely rich and relatively high-up in the military (i.e. NOT a Journeyman), since they could afford a _custom_ bone knife
+    - **Further theories:**
+        - Warden Holt was assaulted by either an invisible spellcaster who slipped in when she left the room OR she tried to share her findings with a traitor disguised as someone she trusted.
+        - The assailant _could_ be connected with the suspicious citizen who reacted strangely to hearing Cal’s name at the docks.
+    - **Current plan of action:**
+        - Limit the number of people who can view the body (==Tiny Hut== was ritual cast by Camille, and Vallen will guard the body to be extra safe)
+        - Speak with the people from the list provided by the Captain
+        - Limit movement around the ship and lock down peoples’ locations (quarantine them?) after the Captain announces the murder
+        - If necessary, use ==Speak with Dead== to talk to the body and get more information (after the next long rest)
+
+# Session Begins
+- We discuss who to speak to first
+    - [[Kaya Avarice|Kaya]] theorizes that the knife could’ve been _gifted_ to a Journeyman, but also acknowledges that it’s not super likely
+- It’s currently 8 AM, we have 4 hours until the Captain announces the murder
+- We decide to invite the list of people the Captain gave us to breakfast (+ the Captain himself) and interrogate them there
+    - The Captain agrees to our plan, and is off to order the list of people to join us at breakfast -- it should only take 10-ish minutes
+    - Camille asks for a list of the guards on shift last night (list acquired!)
+    - We will be dining in our quarters (guest rooms) 😎
+    - The Captain grabs some papers from his desk, shuffles them into his bag, and then heads off with us
+- The Captain uses Sending Stones to text some people
+- As we arrive at our room, the Captain makes himself comfortable on our couch, and we agree that the cook (Bram Trsk) will bring us breakfast
+    - Camille asks the Captain what his name is: **Finnigan Seamus**
+- 10 minutes after we arrive, people start filing in
+    - First: [[Vallen The Immortal|Vallen]]
+    - Second: Sentinel Vayla (sits near the Captain)
+        - The Captain helps us lie about why these people are invited -- he says that he’s recognized their hard work and wanted to reward them
+    - Third: Journeyman Bram Trsk (Dwarf)
+        - He brought breakfast!!
+        - Cal helps him carry everything in and makes small talk
+    - Fourth: Warden Voss (Tiefling; tall and lanky)
+    - Fifth: Journeyman Myra Delaine (Half-Elf; tall and blonde; handsome)
+- The Captain introduces us to the group
+    - Journeyman Trsk asks how long this is going to take. Camille says no more than half an hour
+    - [[Cordelia Elysian|Cordelia]] pretends to have stomach issues, and asks Camille to “help [her] in the bathroom”
+        - Before she leaves, she puts the decoder down on a small table
+- **THE PARTY SPLITS UP!!!**
+    - Cordelia and Camille go to investigate the rooms of the people on the suspect list while they’re away
+    - [[Kaya Avarice|Kaya]] and [[Cal Corvo|Cal]] stay behind to ask after alibis and look for potential motives
+
+## Kaya and Cal: Breakfast
+- Jokes are slung about Kaya’s night with [[Naomi|the barmaid]]
+- **Bram Trsk**
+    - Cal asks when the kitchen closes: technically never, but the cook usually heads home at around 2-3 AM. BUT, **last night, he left early (around 11 PM)**
+    - **HE LOST A KNIFE RECENTLY?? IT’S MADE OF BONE**
+        - It’s a personal belonging. If it was stolen, then it was taken from his personal belongings
+        - Part of the reason he left early was to look around his room to look for the knife in his room
+        - Kaya Insight (17): he’s not lying about the knife
+- Kaya makes a “joke” asking what people were doing last night: getting drunk, committing murder…. 👀
+    - Captain Seamus gets up, locks the door, and tells everyone that they’re ACTUALLY there to be interrogated, because a murder was committed last night
+- **Warden Vayla**
+    - Last night she was checking the rigging on the ship -- usually takes a few hours
+    - She usually goes out by herself, so nobody can back her up
+    - She ALSO believes that her 12 years of service on this ship should help prove her loyalty
+- **Journeyman Myra Delaine**
+    - Last night she was sending messages to the Capital, keeping them updated
+    - She decoded a message from the Merchant’s Guild to ensure that the Warforged don’t know we’re on our way
+    - Insight checks
+        - Cal (3): believes that she’s telling the truth! (loves women 👫)
+        - Kaya (23): believes that she’s telling the truth! (loves women👭)
+- **Warden Voss**
+    - Was checking the lockers (keeping up on inventory)
+    - The inventory log is in the quartermaster’s quarters -- he can’t get it right now
+    - Insight Checks
+        - Cal (17) & Kaya (15): He’s telling the truth!
+- Cal tries to accuse of Warden Vayla of lying, claiming that we know where she was last night
+    - She fails her Insight check against him, and tries to defend herself saying she was just trying to do her job and didn’t actually kill anybody
+    - Insight Checks
+        - Cal (16) & Kaya (18): She’s telling the truth
+
+## Cordelia and Camille: Snooping Around
+- Where rooms are situated
+    - Murder rooms are upstairs
+    - Our quarters are on the middle floor
+    - All other quarters are downstairs
+
+### Journeyman Delaine’s Room (Communications Quarters)
+- There are papers scattered over the desk with some Sending Stones
+- Camille casts ==Mending==. Nothing changes on the map
+- Camille suggests that Cordelia cast ==Detect Magic== before we leave the bottom floor to check for any traces of suspicious magic
+- Cordelia investigates the papers on the desk (Investigation 16)
+    - She sees decoded messages from the Merchant’s Guild
+    - Nothing of a ton of note
+    - **Both the Dwarvish and the Infernal alphabets are laid out**
+- Cordelia casts ==Detect Magic== to look for traces of Illusion magic
+    - She sees some traces of magic - as if Journeyman Delaine has cast magic before - but there’s nothing that stands out
+    - **HOWEVER she sees magic that is not classified as a school of magic**
+- There’s also nothing in the desk drawers
+
+### Journeyman Trsk (Chef’s Quarters)
+- Right next to the mess hall
+- He has a personal kitchen for himself, the bed isn’t super made, and all the furniture is a little lower to the ground since he’s a Dwarf
+- Cordelia doesn’t see anything with ==Detect Magic==
+    - Perception (3), but her PP is 15
+    - **She sees the same footprints. They go from the door to his closet, then back out the door**
+- Cordelia looks in the closet
+    - It’s filled with personal bags
+    - Camille tries to look around, but rolls a Nat 1 on Investigation :(
+    - Cordelia pokes around, and finds some traveling clothes and a small box of knives -- **there’s an empty indent whose shape matches the knife in Warden Holt’s back. All the knives look custom-made**
+- Cordelia looks under the mattress
+    - Investigation (NAT 20!): She sees that he has a few weapons (standard Dwarven weapons)
+- Camille casts ==Mending==. Nothing happens
+- We try to follow the footprints.
+    - **They go down the hallway and lead to the stairs which go to the bottommost level of the ship**
+    - **They look like they originated from a side broom closet, and ended there as well**
+- Cordelia realizes that **_the magic looks more potent when the footsteps start, and it looks less potent when they return_**
+
+### Warden Vayla’s Room
+- Basic-ass room. Spartan as hell
+- Camille casts ==Mending==
+    - A FEW SCRAPS FLY BACK TO THE MAP!!! We now have the parts with Mossley, but we’re still missing the parts with the mountains
+    - The pieces came from under the rug that she has
+- Cordelia doesn’t sense any notable traces of (Illusion) magic in this room
+- Cordelia and Camille discuss the possibility that Warden Vayla is being framed, since it’s odd that the scraps of the map were tucked away in such an easy-to-locate place (and only a small portion of the map at that)
+
+### Warden Voss’s Room (Quartermaster’s Quarters)
+- There are some folks out and about, moving crates and stuff -- obviously Voss’s subordinates
+- Voss’s room is also located at the bottommost level of the ship
+- Camille casts ==Mending==. Nothing happens.
+- Cordelia looks around with ==Detect Magic==
+    - There are very faint traces of Illusion magic around the room (unable to tell if it’s THE illusion magic or just other Illusion spells)
+- Camille’s passive perception (15) reveals:
+    - THE WINDOW IS OPEN???
+    - The latch seems intact -- like it was opened purposefully
+- Cordelia takes a closer look at Voss’s desk
+    - IT LOOKS LIKE SOMEONE’S BEEN PRACTICING HOW TO DRAW THE DIAMOND EMBLEM
+- Cordelia sends a message to Kaya via Sending Stone
+    - Message asks Kaya to get everyone’s handwriting (specifically to write “Diamond”)
+
+## Kaya and Cal: Back to Breakfast
+- Kaya inquires as to which of the group are spellcasters
+    - Journeyman Delaine, Journeyman Trsk, and Warden Voss
+    - Specialities?
+        - Journeyman Delaine: Transmutation (for sending stones)
+        - Journeyman Trsk: Transmutation (for cooking)
+        - Warden Voss: Illusion and Transmutation (he was originally a Sorcerer)
+- Kaya passes out pens and papers and asks our suspects to draw the Diamond insignia + write some stuff down
+    - While this is happening, Kaya and Cal look real close at our suspects to check for whether or not anyone is particularly nervous
+        - Delaine and Voss are both right-handed, Trsk and Vayla are left-handed
+        - The younger ones are a little more nervous, but that could be chalked up to inexperience
+    - Everyone draws it wrong: **Trsk, Delaine, and Voss draw it counter-clockwise**, Vayla draws it clockwise
+        - Remember: the symbols drawn in the navigator’s room were drawn counter-clockwise
+    - They also acquire everyone’s handwriting!
+
+## Cordelia and Camille: Back to Investigating
+- We go back to the navigator’s room
+- Vallen’s there! We catch him up a little (he now knows about the extra map pieces and where we found them)
+- Cordelia checks Warden Holt’s pockets
+    - 2-3 GP in her left pocket
+    - Her right pocket is turned inside-out -- as if something was inside and taken out
+- Cordelia checks the wounds
+    - NAT 20 INVESTIGATION
+    - **Whoever did it is left-handed**
+- Camille checks for open windows
+    - THEY’RE OPEN!???!
+    - Vallen opened them 😭😭😭
+- CAMILLE CONNECTS THE DOTS!!!
+    - They theorize that the killer COULD be a Changeling
+    - Vallen notes that Changelings use Fey magic
+    - Vallen ALSO theorizes that Changelings use Illusionary magic, and that magic occurs _instantaneously_ -- so the footsteps being stronger in the closet is likely because a Changeling used magic to change
+        - There’s a moment where Vallen says “Changelings can change their form -” and Camille responds with “I don’t 😐”
+    - Camille says that there’s a spell called ==Detect Evil and Good== that helps detect Fey
+        - Vallen doesn’t have it :(
+
+## Reuniting!
+- Camille and Cordelia head back to our quarters, leaving Vallen behind
+    - The gang goes to a different room and shares their findings!
+- Cal says that he could threaten people, but Camille counters and says they can just cast ==Zone of Truth==
+- Cordelia analyzes the sheets of paper with the Infernal and Dwarvish alphabets
+    - It looks most similar to Voss and Delaine’s handwriting
+- We theorize that **Voss** is trying to frame Vayla
+    - Camille also says that Voss’s window was open, so he probably threw out the remaining pieces of the map
+- Camille tells our suspects that they’re casting ==Zone of Truth==
+    - Everyone is willing to submit, and they all (probably willingly) fail their saves
+    - The party chooses to fail their saves as well
+- Cal fails the ==Zone of Truth==, but twists his words and says that we found pieces of the map under her rug 👀
+    - **CORDELIA SEES VOSS AND DELAINE EXCHANGE A GLANCE!!!!!!**
+        - Cordelia whispers this information over to Cal
+    - Vayla says that she didn’t kill anybody
+- Cal says that Trsk’s knife was missing, and his knife was missing
+    - Trsk says that he didn’t do it -- Insight check reveals that he’s telling the truth
+- CJ asks us to roll for Arcana and Perception
+    - Everyone rolls higher than a 10 on Arcana except for Camille
+    - Camille and someone else (forgor) rolls higher than a 19 on Perception
+- Camille asks Voss what he was doing last night and where he was
+    - Rolls Perception (dirty 20) and History (19)
+    - **CAMILLE REMEMBERS: the weapons crates were being freshly unloaded near Voss’s room while we passed by**
+    - They ask why he was checking the crates when they were just unloaded -- he was also only unloading them for 10 minutes
+        - EVERYONE NOTICES HIM USE A SUBTLE SPELL!!!
+        - EVERYONE BUT CAMILLE REALIZES THAT IT WAS A ==MODIFY MEMORY== SPELL_
+    - After he checked the crates, he went to Delaine’s room
+        - Camille questions him more: they fucked. Camille does not care.
+        - While they were hanging out, they worked on some decoding something using the Infernal and Dwarvish alphabets
+- Cordelia presses Delaine for more details
+    - They were trying to learn the alphabets to help in the morning
+    - Delaine says that she doesn’t have the book, and neither does Voss
+- Camille just straight-up asks if they know where the book is.
+    - SILENCE!! BOOKED AND CLOCKED AND BOOKED!!!!!!
+    - They say that they can ask an easier question: “Are either of you changelings?”
+        - MORE SILENCE!!! GOT THEIR FUCKING ASSES
+
+## COMBAT BEGINS
+- Pre-Combat
+    - Voss and Delaine take on their true forms
+    - Cal tries to warn them to back down, since they _might_ survive if they do (they don’t)
+    - All the other crew members back up and get out of the way _except_ for the Captain, who readies up to fight
+- Initiative Order: Cordelia, Voss, Delaine, Captain, Camille, Kaya, Cal
+- **ROUND 1**
+    - Cordelia
+        - Casts _[Web]_ as far away as possible, so she doesn’t affect the party
+        - DEX save: Delaine fails, Voss succeeds
+    - Voss
+        - We establish that Camille probably isn’t wearing their armor :( so their AC is 13
+        - Casts _==Inflict Wounds== and deals 23 necrotic damage
+    - Delaine
+        - Throws a knife at Cal for 7 pts of damage
+        - SHE HAS DAGGERS OF RETURNING?? BITCH!!!
+    - Captain
+        - PULLS OUT 2 GUNS???
+        - MISSES WITH ONE BUT HITS VOSS WITH THE OTHER FOR 12 DAMAGE!!
+    - Camille
+        - Casts ==Protection from Evil and Good==, so the [[Changelings]] will have disadvantage on attacks against them
+        - Backs up, incurs an AoE (Voss misses)
+    - Kaya
+        - Gives him the ole one-two for 15 points of dmg as an action
+        - Bonus action hits him a third time for 6 pts of dmg
+    - Cal
+        - Attacks Delaine with advantage with THREE ATTACKS!! First attack is a nat 20 👀
+        - 42 TOTAL POINTS OF DAMAGE!!! KING SHIT
+- **ROUND 2**
+    - Cordelia
+        - Casts ==Acid Arrow== on Voss, for 17 points of dmg
+        - The arrow sinks into his stomach -- like he’s ABOUT to die
+    - Voss
+        - His eyes begin to glow, forcing everyone to roll a CON save
+        - Everyone passes except for Kaya 💀
+        - We feel a tinge in our brains -- he just read our thoughts via ==Detect Thoughts==
+        - HE KILLS HIMSELF IN FRONT OF US, THEREFORE CHANGING THE COURSE OF OUR LIVES FOREVER
+    - Delaine
+        - Tries to break away from Cal, triggering an AoE
+        - Cal tries to Grapple her (nat 1)
+        - JUMPS OUT THE WINDOW
+    - COMBAT ENDS
+
+# Post-Combat
+- Camille casts ==Spare the Dying== on Voss, and asks for help tying him up before they heal him
+    - Kaya helps to tie him up
+- Camille talks to the Captain and says that thye’d like to heal him up -- the Captain says they can heal and question him once he’s thrown in the brig
+    - They agree to this and try to pick Voss up (Strength 3) and they CANNOT
+    - The Captain helps out
+    - Camille says that if Voss dies (they hope he doesn’t) they’ll still be able to talk to his body come tomorrow (the Captain is like !?!?!?!?!??? 😟💥⁉️)
+- The Captain says that he’ll find us a different room to stay in before he leaves
+- Where the party goes:
+    - Cordelia goes to inform Vallen that he doesn’t need to guard the ==Tiny Hut== anymore
+    - Cal IMMEDIATELY goes to the kitchen???
+    - Kaya sneaks after Cal out of a morbid sense of curiosity
+- **_SIDE NOTE: CJ PRETENDS TO SUCK DICK 3 TIMES_**
+
+## Cordelia Visits Vallen
+- Camille informs Vallen that there were two murderers, and that one of them killed herself
+- Cordelia says that there’s a lot to talk about, and suggests that we go downstairs to review everything with Vallen
+    - Camille excuses themself, saying that they’re going to look through Voss’s room for more clues
+    - Cordelia and Vallen are left alone for like 10 seconds…… silence
+- Cal enters the bubble, grabs the knife, and leaves, whistling to himself and flipping it as he walks 😊🎶
+    - KAYA’S STILL FOLLOWING HIM LMAO
+- Cordelia and Vallen debrief. Vallen now knows:
+    - That it was Voss and Delaine, and they were Changelings
+    - They chat and have a little banter
+    - Vallen just kinda leaves (they notably DIDN’T brush shoulders)
+        - Cordelia follows
+- THEY ROLL PERCEPTION FOR SOMETHING??? IDK
+
+## Cal TV Time
+- Mans goes to the kitchen with his new bloody knife!!
+    - He sees Trsk chopping veggies on a wooden cutting board
+    - Cal throws the murder knife on the cutting board (Trsk is happy to have it back, but throws out the board bcs it has blood on it now)
+- Cal gives Trsk his knife back!!!
+    - Trsk actually spent money on the materials to make this knife!!
+    - He found some materials in the woods
+    - They banter! They chill!!
+- Trsk asks Cal how he can repay him
+    - CAL WANTS EGGS????? HE SAYS HE’S RUNNING LOW
+    - KAYA’S WATCHING IN HORRIFIED FASCINATION
+- Trsk gives him a small box that can keep things fresh BUT it’s like, pocket-sized and is big enough to hold 1 (one) egg
+    - Cal is like “I won’t need these anymore!” AND DUMPS DOZENS OF FERMENTED EGGS OUT FROM HIS RING
+    - KAYA AND TRSK ARE LIKE: ![[HUH.png|180]]
+- Kaya manages to stay hidden from Cal
+- KAYA MAKES EYE CONTACT WITH THE BARMAID
+    - SHE WOULD’VE ASKED FOR A ROUND 2, BUT THE EGGS PUT HER OFF!!! LOVE LOSES ☹️
+    - CURIOSITY LITERALLY KILLED THE CAT

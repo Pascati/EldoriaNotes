@@ -1,0 +1,10 @@
+- Goddess of travelers, freedom, merchants, and adventure
+	- "She who makes the path"
+- Personified by a dark blue light shaped like a person
+- [[Quén Aiano|Quén's]] patron god
+	- They're one of her few clerics!
+	- Claimed that the death of [[Camille Xotli (Original)|Quén's brother]] was a "necessary death"
+- Claimed that:
+	- Quén will one day meet an oracle (of sorts)
+	- They will "become someone entirely different"
+	- Based on the multiple possible futures she's seen, she encourages them to continue down the path they are currently on

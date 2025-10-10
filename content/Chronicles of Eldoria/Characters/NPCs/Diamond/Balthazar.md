@@ -8,6 +8,7 @@
 - [[Wigson]]
 
 # Known Information
+- Author of *The Magic of Tarot Cards and Their Exploits*
 - According to [[The Keeper|V]]:
 	- He was originally a resident of Clover, but after his pupil passed, he decided to make a home for himself in Diamond
 		- 22-23 years prior to Cordelia learning about his history, his pupil passed and he lost love for the job

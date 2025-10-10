@@ -19,6 +19,10 @@
 	- Shared important information regarding the [[Shapes of Paracausality]] (their nature, our proximity to them or someone who has touched one of them, etc.)
 	- Interfered with the [[Pyramid|Pyramid's]] nightmares before to give us good dreams instead
 - **Has asked the party to *return the Shapes to him* once we are able to find both**
+- When not with the party, he "sits and ponders"
+- He created a pocket universe (the field of flowers with the ruined chapel) for our consciousnesses to escape to when the Pyramid tries to give us bad dreams
 
 # Appearances
 - [[Session 06]]
+- [[Session 09]]
+- [[Session 17]]

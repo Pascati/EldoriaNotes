@@ -67,6 +67,48 @@ banner-radius: 15
 	- Then the scene changes to a massive tomb filled with wires and machinery (much like Foo's secret room but WAY bigger)
 		- There's a drawing of an [[Pyramid|upright triangle]] painted on a piece of parchment in the room
 - The party doesn't see each other, but we all see the same thing
+
+## Dream 6
+- Occurred during [[Session 09]]
+- The party meets [[The Curator]] again! He tells us that:
+	- We're *really close* to either the [[Pyramid]] itself, or someone who has recently touched the Pyramid/been in close proximity to it
+	- The source of this signal (either the Pyramid or the person) is in [[Holden]], the party's current destination
+- [[The Curator]]'s book is revealed to be something that only he can read (out of everyone present), and that its contents are hard to explain
+
+## Dream 7
+- Occurred during [[Session 14]]
+- The party sees the [[Clover Capital|the Capital]] in the distance
+- The same figure from before appears
+	- This time it's closer (within 50 ft.)
+	- The figure is holding the [[Pyramid]]
+- Suddenly the Capital erupts in explosions and is on fire
+
+## Dream 8
+- Occurred during [[Session 16]]
+- As the party falls asleep, there's a flash of red and purple
+- The party finds themselves standing on the surface of the water in the same swamp as usual
+- The same figure floats in the distance, cape flapping in the wind -- it slowly approaches us and stops ~100 ft away
+	- As it approaches, we realize the figure is a *humanoid-looking [[Warforged]]*
+- As the dream ends, we all wonder if the warforged figure is what [[OSIRIS]] is going to look like
+
+## Dream 9
+- Occurred during [[Session 17]]
+- Another dream from [[The Curator]]! He tells us about the third [[Shapes of Paracausality]]: the [[Cube]]
+	- The Cube is like the "tapestry"/box which is intended to contain both the [[Pyramid]] and the [[Orb]]
+	- It is hiding *outside of our reality* in an <u>extradimensional space/pocket dimension</u>
+		- It was hidden away so the gods and people can *restore/reset the world* in case one of the shapes goes out of control
+	- When housing the Pyramid and the Orb, it can be used to ***shape reality***
+- [[The Curator]]:
+	- Asks us to deliver the Pyramid and Orb to him, so he can use them together with the Cube to prevent [[the Cataclysm]]
+	- Tells us that the Pyramid wants to scare us into its path of destruction, while the Orb wants to promote us to its path of life
+
+## Dream 10
+- [[Session 18]]
+- The party is standing side-by-side on a rocky beach, with the [[Fog]] in the distance (the [[Fog]], as always, is streaked with red and purple lightning)
+- Vallen and a masculine-looking figure (wearing a long coat) stand on a small peninsula nearby
+	- There's a flash of light and *Vallen falls over*
+
+
 # Theories
 - The armored figure we see in dreams sent by the [[Pyramid]] appears to be [[OSIRIS]]
 
@@ -76,3 +118,5 @@ banner-radius: 15
 - [[Session 04]]
 - [[Session 06]]
 - [[Session 07]]
+- [[Session 09]]
+- [[Session 14]]

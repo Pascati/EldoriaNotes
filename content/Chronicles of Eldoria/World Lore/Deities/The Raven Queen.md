@@ -1,0 +1,6 @@
+- Akin to a goddess of death
+- Reigns over a plane of existence called the "Shadowlands" (i.e. the Shadowfell)
+- Whenever she finds someone she deems interesting, she lays claim to their soul
+	- This way, when the person dies, she can have them relieve their memories in the Shadowlands (like a movie)
+- ALWAYS gets what she wants
+- It's warned not to pray to her -- whatever power she offers is not worth one's soul

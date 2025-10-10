@@ -1,12 +1,470 @@
+# WEEK-LONG TIMESKIP
 - We timeskip forward a week!!
 - Over this time period:
-	- We return to [[Hillford]]
-	- Each of us get 1,000 GP
-	- We catch up with [[Foo]]
+    - We return to [[Hillford]]
+    - Each of us get 1,000 GP
+    - We catch up with [[Foo]]
 - **Story Initiative:**
-	- Cordelia (NAT 20)
-	- Cal (16)
-	- Kaya (12)
-	- Camille (3)
+    - [[Cordelia Elysian|Cordelia]] (NAT 20)
+    - [[Cal Corvo|Cal]] (16)
+    - [[Kaya Avarice|Kaya]] (12)
+    - [[Camille Xotli|Camille]] (3)
+
 ## Cordelia's Downtime
-- She's been processing everything that's bene happening
+- She's been processing everything that's been happening
+- Although this is the first time we’ve stopped and had a moment to breathe, she instead drives herself crazy doing research on [[Balthazar]]
+- What she finds on [[Balthazar]]:
+    - There’s SO MUCH. The name is connected to kings, necromancers, powerful sorcerers, etc.
+
+## Cal’s Downtime
+- He can’t sit still
+- Every night, he spends at least an hour tinkering with his tools, trying to make something
+    - INT roll (advantage): 16
+    - He gets something rudimentary out of his tinkering (a gun??) but ends up disassembling it
+- He’s been going around, helping people as much as he can, and just making himself useful
+    - He helps with farming and crops (it’s autumn, so it’s harvest season!)
+- Cal also looks for ways to give his money to the town
+    - He dedicates 200-300 GP to Hillford’s expansion!
+
+## Kaya’s Downtime
+- She’s in a daze, since she just realized that the opponents we’re facing are a LOT stronger than she initially realized
+- She’s gone back to training, going into the woods and working with her earth magic
+    - Really doing anything to keep her mind off of the war that’s been brewing
+- When she’s _not_ in the woods, she’s in [[Foo Bar]] drinking and making new friends
+- Talks to [[Durgen Coalbeard|Durgen]] about fashioning a new weapon 👀
+
+## Camille’s Downtime
+- The party barely sees Camille over the next week
+- They spend most of their time in their hometown ([[Lycoris]]), digging through the rubble and trying to find if _anything_ remains
+- When they’re not digging, they sit in what used to be their home’s backyard, staring into the woods
+    - Every day they get a little closer to the treeline, but can never bring themself to enter
+
+## [[Vallen The Immortal|Vallen's]] Downtime
+- Gone for a few hours out of the day, going back and forth between [[Clover Capital|the Capital]] and [[Hillford]]
+- He’s at the bar a lot, not doing a ton -- just checks in on people
+- Writes a lot
+- Quieter than normal
+- SIDE NOTE: He sees Camille in the early morning and late night, they exchange a nod sometimes
+    - CAMILLE HAS TO ROLL PERCEPTION (19). NOTHING COMES OF IT?????
+    - **IZZIE NOTE:** IT WAS LATER IMPLIED BY CJ (WHEN VALLEN SAID “DIGGING UP THE PAST” IN REFERENCE TO CAMILLE STUFF) THAT HE WAS WATCHING THEM?? THAT SNEAKY BASTARD!!!
+
+# End of Downtime
+- It’s a busy day, Foo’s attending to a lot of folks
+- Where is everyone now?
+    - Cordelia’s still at the library
+    - Cal’s at the bar looking for lunch
+    - Kaya’s at the bar
+    - Vallen’s writing away in a corner of the bar
+- Cal orders lunch from Foo (sandwiches and burgers)
+- Kaya talks to Cal
+    - She says this week’s been DEPRESSING!!
+    - Cal says that if you keep yourself busy, you won’t have to think about it 🤩
+    - They agree that we (the party) should talk as a group -- we haven’t heard anything about the job, and that they should bring the rest of the gang lunch so we can talk
+- Kaya suggests lightening the mood by “fucking with our friends”
+- Foo packs up lunch for Kaya and Cal
+- Vallen abruptly stops writing, folds up the paper, and turns to Kaya and Cal -- he asks where Cordelia is
+    - Kaya asks where Camille is. Vallen responds that they’re in their room
+    - Kaya doesn’t know where Cordelia is, but extends an invitation to Vallen to join her and Cal
+- Vallen looks like he has an epiphany -- in an awed voice, he says “Library” (in that Cordelia’s at the library)
+- Deception (Kaya) vs Insight (Vallen) on Kaya’s plans for her friends (she boutta prank them)
+
+## Going to the Library
+- Kaya, Cal, and Vallen go to the library to seek out Cordelia. What they see is:
+    - A VERY exasperated librarian
+    - A book return pile that reaches the ceiling
+    - ROWS and rows of bookshelves that have been emptied in Cordelia’s research rampage
+    - A handful of people
+- The librarian (70 y/o human) points the gang in the direction of “the lady” (she’s in the back)
+    - He keeps asking them if they want books (they do Not)
+- As the gang approaches, it gets darker and darker -- candles are lit, and it feels like a Resident Evil house. Furniture and things are AKIMBO!!
+    - There’s a hut of books near the back, and as they draw closer they can hear fevered muttering
+- Cordelia - in her little hut of books - hears familiar footsteps (it’s Kaya, and she knows this)
+    - KAYA APPROACHES THE HUT LIKE SHE’S APPROACHING AN INJURED ANIMAL 😭😭😭 SHE CAN’T EVEN SEE CORDELIA YET
+    - Cordelia kinda waves Kaya off, and her hand is the only part of her that Kaya can see atm
+    - Kaya asks Cordelia when the last time she ate or slept, and she’s continuously waved off
+- Kaya tries to get Cordelia to take a sip of water, and she’s met with SILENCEEEE
+- While Cordelia is nose-deep in a book, she feels a breath on her ear. THERE’S A PRESENCE BEHIND HER
+    - CAL JUMPS OUT AND SHAKES HER LMAO???
+    - Cordelia ignores him and keeps reading (CAL CRIES 😭😭😭)
+- Vallen pokes his head into the hut, says “‘Delia dear”. What they all see is:
+    - Cordelia is normally well-kept, but she is COMPLETELY decrepit atp
+    - Her hair ribbon is used to tie together two books that she’s set aside -- her hair’s pinned back and a complete mess
+    - CRAZY eyebags
+    - Her shawl and shoes are gone to who knows where
+    - Her tarot cards are scattered EVERYWHERE
+    - Cryptid-ass look
+- Cordelia doesn’t react to Vallen calling out to her -- then she hears the sound of a flame being lit. This causes her to glance over
+    - Vallen’s got a little flicker of flame over his finger, and he’s inching it towards some books
+    - She asks if he’s so willing to burn public property to get her out of “this hut” (he immediately goes “yes”)
+- Vallen asks Cordelia what she’s looking for and if it’s still Balthazar
+    - He asks why she’s looking for information on Balthazar in Hillford’s tiny library rather than the Capital
+    - He tells her it’s been a week
+- Vallen asks if even KNOWS where the mitrhil mine is
+    - She’s sent a “servant” over to keep an eye on it
+- Cal tells Cordelia that she can come with them and have a lovely little lunch, OR she can fight Cal and he can carry her out of the library like a child
+    - She says she can come back after lunch!!
+    - Then she agrees (CAL SAYS **_“HOT DOG!”_**)
+    - As Cordelia stands up, Cal says “it smells like cheese and despair”
+- Cordelia collects her tarot cards and follows the gang out
+    - AS SHE PASSES THE FRONT DESK THE LIBRARIAN _COWERS_ AWAY FROM HER 😭😭😭😭😭😭
+    - HE BASICALLY BEGS HER NOT TO RETURN OMG. WHAT HORRORS HAS SHE INFLICTED UPON THIS POOR MAN 💀😭
+    - The sun hits her and she HISSES 💀
+
+## Fetching Camille
+- Vallen says “let me take care of it” (in reference to how to approach Camille)
+    - He takes one of the boxes of burgers/snacks/eggs
+- Camille is about to leave their room when Vallen knocks (they’re holding a shovel)
+- Vallen manages to talk Camille down from sneaking away to go back to their hometown to dig in the rubble
+- Cordelia stumbles up the stairs, asks what we’re doing
+    - Vallen casts ==Prestidigitation== to clean Cordelia (no longer smelly!)
+- Camille suggests that we eat in a nice clearing that they know of, but really it was a ploy to get to their hometown (SHOT DOWN)
+
+## Lunchtime!!
+- The gang finally agrees to sit at our usual table in Foo Bar!!
+- Camille and Vallen disagree over whether or not Camille is okay
+    - They say that they’re okay, but not good.
+    - WOULD A DEPRESSED PERSON DO THIS??? (eats a burger)
+- CORDELIA AND VALLEN ARE SCREAMING AT EACH OTHER :((((
+    - CORDELIA _NEEDS_ TO KNOW WHO BALTHAZAR IS AND WHAT HIS DEAL IS!!! IT PISSES HER OFF THAT SHE DOESN’T KNOW AND _CAN’T_ KNOW
+    - VALLEN SAYS THAT HE HATES SEEING HER LIKE THIS!!!
+        - At this, Cordelia backs down
+- Vallen asks if anyone’s checked on the mine
+    - No LMAO
+    - Cordelia’s got a little boulder (==Tiny Servant==)!! She’s been checking in on him every once in a while and says that he’s been “taking care of things” out there
+        - Cal is like “is that the child I’ve seen running around????”
+        - Kaya saw it once in the woods and tried to chase it down (for training! a moving target frfr)
+- Cordelia says that she’s going back to the library. As she stands up, a man comes through the door
+    - He appears to be a courier, and he hands some stuff to Foo
+    - There’s a letter for us!!
+        - Cal gets it, forgets that he can’t read 💀
+        - It looks like it’s from the Capital, seems very formal
+        - **The letter basically tells us to check on the mines in person LMAO**
+- We get ready to head out to the mines!!
+    - Foo offers her some coffee, she SLAMS it
+    - Camille takes their shovel 😊
+
+# Reaching the Mines
+- We walk to the mines -- we walk for roughly 30 mins
+    - It’s in the direction of [[Lancaster]], slightly closer to the coast and deeper into the woods
+- Cordelia is slowly waking up, but still walks into people a little
+- Vallen’s been pondering on the name Balthazar, and he says he might have a lead on the name itself!!
+    - It’s been a while since he’s been in Diamond, but he remembers hearing whisperings of previous tarot users
+    - This was roughly 2 decades ago. He asks how old she is (21)
+        - At her response, he says that there’s a card shop he needs to take her to in the Capital
+- As we approach the mine, we **hear voices at the mine**
+    - Group stealth time!! We succeed 😎
+- We reach a ledge overlooking the mine
+    - Cordelia’s little rock man (Barry) is running into a small raised wall of earth
+    - There is a group of warforged standing outside the mine, with two dead guards
+        - It’s a mix of big/tanky, thin, and regular [[warforged]]
+- Vallen’s been checking the mine daily -- this is the first time he’s seen the warforged here
+- A warforged pushes a cart up, and we realize one of them looks like OSIRIS
+    - One of the smaller warforged looks over the unrefined [[Mithril]] (blue electricity discharges off of it every so often)
+- WHAT WE KNOW ABOUT [[Mithril|Mithril]] (Cal)
+    - Whenever magic strikes an item forged from mithril, something happens. Usually the wielder is temporarily shielded from negative effects from the magic
+    - AKA MITHRIL IS ONE OF THE FEW THINGS THAT CAN NEGATE THE EFFECTS OF MAGIC
+- The warforged are debating what to use the mithril for
+    - One suggests that they use the mithril for themselves -- one of the others says that they shouldn’t abandon their purpose
+    - Some of the smaller warforged say that OSIRIS won’t necessarily need ALL the mithril
+    - A different warforged says “die, traitor” and kills one of the dissenting warforged. One of the commanders use magic to kill another
+- While the party is debating whether or not warforged can actually think for themselves, Cal WALKS UP TO THEM???
+    - Vallen catches up to him
+    - Camille tells Kaya to flank the warforged with them, and takes Cordelia with them
+- CAL STARTS PRAYING TO [[The Raven Queen|THE RAVEN QUEEN]]?????
+    - CAL CANONIZES THAT HIS MIDDLE NAME IS “HIMOTHY” WHEN HE SIGNS OFF ON THE PRAYER
+    - HE LITERALLY TELLS THE RAVEN QUEEN TO “DO HER THING” OH MY GOD.
+    - HE’S DOING NOTHING. HE’S STANDING THERE DOING NOTHING AS THE WARFORGED APPROACH.
+- VALLEN SAYS “HELLO 😀” TO THE WARFORGED. HE INTRODUCES HIMSELF AND CAL
+- **THE WARFORGED THAT LOOKS LIKE OSIRIS PULLS OUT A GUN AND SHOOTS CAL?!?!**
+    - DEX SAVE (20)
+    - VALLEN JUMPS IN FRONT OF THE BULLET AND TAKES IT FOR CAL. IT HITS HIM IN THE HEART????
+- Seeing Vallen get hit, Camille casts ==Guiding Bolt==
+    - At the same time, Cordelia pulls *The Fool* from her tarot deck -- this causes the ==Guiding Bolt== to veer off and miss
+- Camille says “I’m going to do something stupid” and teleports onto the mithril cart. They cast ==Spirit Guardians== right afterwards
+    - The little warforged pushing the cart DIES, but immediately after the spell is absorbed by the mithril
+- Camille looks behind them, and through the portal sees a MASSIVE factory
+    - They can’t see the ends of the factory
+    - There are also TONS of warforged through it, looking at them like???
+    - They go “Sorry, this isn’t yours” and try to close the portal
+        - Manually closing it with their hands doesn’t work 💀 ofc
+        - Casting ==Dispel Magic== ALSO doesn’t work bcs I rolled A NAT FUCKING 1!!! **FUCK THIS STUPID BAKA LIFE**
+- Kaya casts ==Mold Earth== and pulls a wall of earth in front of the portal, blocking it
+- One of the warforged pulls a gun on Kaya, and shoots her for 6 damage
+- CAL IS STILL STANDING THERE DOING NOTHING. HE STARTS PRAYING TO THE RAVEN QUEEN AGAIN
+    - HE TELLS HER SHE’S FUCKING UP A LITTLE. OH MY GOD SHE’S GONNA SMITE HIM
+    - As he talks, the warforged turns the gun to Cal again
+        - HE DOESN’T DO ANYTHING AS HE GETS SHOT AGAIN
+        - SHOULDER WOUND, 5 DMG
+- Cal finally pulls out his swords after he gets shot
+- Cordelia is crying and shaking Vallen, saying that her magic isn’t working and he needs to do something about it
+- Camille casts ==Dispel Magic== on the portal again. IT WORKS THIS TIME
+    - They tell the commander warforged to please leave, otherwise their friends will kill them
+    - As the warforged try to leave (through a portal in the big warforged’s chest) they cast ==Dispel Magic== again
+        - The big warforged falls over with a hole in its chest as it works 💀
+- Camille says “Sorry, actually. We have questions we want to ask you”
+    - Immediate answer: no
+- Cal kills the main commander, and it powers down (as do the rest of the warforged)
+
+## Aftermath at the Mines
+- We’re all confused about how nonchalant with the warforged were
+- We all argue with Cal about his plan
+    - We learn about his deal with the Raven Queen (a little), although he claims the deal is off
+    - The gang is MAD that he didn’t communicate his plan to us and essentially tried to get himself killed
+    - Cal gets frustrated, says “the deal is off!” again to nowhere, and goes to sulk elsewhere
+- Camille messages [[Ozwin]] about the situation
+    - Camille: Hiiiii Ozwin, we're at the mine. There were warforged here, but we killed them, kind of. The guards stationed here are both dead, unfortunately. Can you please send more :) and can they please be a little stronger so they don't die. Also, there is a factory in Diamond using the
+    - Ozwin: “Great another attack, they are becoming more frequent. We will send more guards please keep an eye on it”
+    - Ozwin: “I will send more spies to Diamond to look for it”
+    - Camille: \*Informs him of what the inside of the factory looked like\*
+- Cordelia checks on Barry and un-trap him
+    - As soon as he gets un-stuck, he IMMEDIATELY turns to return to Hillford
+- Camille shares their theory about the warforged having peoples’ souls
+    - Vallen likes the idea, but he doesn’t know how souls might be transferred to and stored in a warforged body
+    - Kaya adds to it and says that they might have _artificial_ souls
+- More Cal lore!!
+    - Vallen asks to clarify if he said “contract” when speaking of his deal with the Raven Queen (he does!)
+    - Kaya talks to him about potentially finding this contract to find clarity in Cal’s situation with the Raven Queen (although he didn’t sign anything)
+    - Cal also clarifies that he can read a little bit 😊
+- Cordelia turns to walk back to the library
+    - Camille says that we still have a job to do, and that they’re going to investigate the mines for any other signs of entry or clues as to what they were doing
+    - Kaya uses ==Mold Earth== to block her path and starts moving the wall of earth back to the group (thus moving Cordelia with it)
+
+## Investigating the Mine
+- As we start moving towards the mine entrance, a raven flies overhead and caws at us
+    - Cal is like “I”m ready???” as the bird flies away
+        - Vallen is like ready for what??
+        - CAL SAYS HE CAN UNDERSTAND BIRDS NOW???? HE DIDN’T USED TO BEFORE
+        - The bird told him that “You need to be careful in combat, my dear Cal. I will grant you my power when you understand how to wield it”
+- Camille buries the bodies of the guards before going into the mine
+- WE FINALLY GO INTO THE MINES (AFTER SOME BANTER)
+- The mines are very barren as we walk in -- there are more bodies of guards
+    - Nothing seems super special, and there are no more sounds coming from deeper in the cavern
+    - There are also bodies of miners in the cavern :(
+    - It really looks like the warforged just took what mithril they could
+- Camille starts burying people
+    - Kaya helps with ==Mold Earth==
+- The gang debates whether or not we should BLOW UP THE MINE???
+    - Cal is pro blowing up the mine (the one who suggested it)
+    - Vallen is like “my job is to protect you guys, not the kingdom 👀…”
+    - Camille and Kaya are like 🙅‍♂️
+
+# Returning to Hillford
+- It’s now early evening
+- Camille says that we should probably come up with a plan to guard the mine
+    - Vallen says he can do it after everyone’s pretty reluctant
+    - He also says he can talk to [[Investigator Teasley]] (NOT too happy about that) (also insinuates that he’s gonna bang her again HELPPP)
+- Vallen wanders off, Camille and Kaya sneak after him
+    - GOOD ROLLS ALL AROUND!! THEY SUCCEED ON STEALTH
+
+## Cal drinks alone
+- About 30 mins go by with Cal at the bar, and [[Alexios|a decently buff older gentleman]] (with salt and pepper hair) sits down next to Cal
+    - Darker skin, latin/greek in appearance
+    - He asks Cal if he’s “Cal Corvo” (Cal’s response: fuck off (without looking up))
+    - HE ASKS IF HE KNOWS A TIEFLING NAMED KAYA?!!?!?!
+        - OH MY GOD AAAAAAAHHHHHHHHHHHHH
+        - Cal turns to him and pays attention at this point, he’s protective of her 🥺
+- The man introduces himself as [[Alexios]]
+- Cal asks why he wants to know how Kaya’s doing
+    - Alexios says that’s for Kaya to know
+- Cal reaches for his swords, and leans towards Alexios, and tells him that he asked a question
+    - In response, he asks if Cal’s swords are silver or steel **(WEREWOLF???)**
+- Cal takes a whiff of the old man
+    - SMELLS OF WET DOG??? **_(WEREWOLF??????)_**
+- Alexios is like “so you _do_ know Kaya 👀”
+    - Cal’s like yeah….
+    - Alexios is like ok then we can drink!!
+    - FOO SERVES THEM 2 TANKARDS!! I LOVE OLD MAN FRIENDSHIP
+
+## Camille and Kaya sneak around
+- Camille and Kaya sneak after Vallen
+    - He takes out the paper he’s been writing on all week, scribbles something on his hand, then crosses it out
+    - Vallen lingers at the door for a little longer before heading in
+- THE SNEAKERS FOLLOW HIM
+- Vallen raises his hand to knock on the door, but before he doe Teasley opens her door
+    - SHE USHERS HIM IN
+    - THE DOOR IS CRACKED OPEN THOUGH LET’S GO
+- Camille and Kaya debate on whether or not they should still listen in
+- THE CONVO
+    - Teasley: So you haven’t given it to him
+    - Vallen: … No, no I have not.
+    - T: (sighs) Vallen, what are you so scared of?
+    - V: What if they need me more? What if they cannot function without me? They’re very capable on their own, but without me, it’s… They just go to the library, they go to their hometown, they do everything except for their job.
+    - V: What if I die? I’ve never been scared of death before, but I’ve never been in these situations before.
+        - Camille starts getting cold feet, and says that they shouldn’t be listening to this -- they start sneaking away
+        - Kaya decides to listen in a second longer before leaving
+    - T: (long pause) Never been one for friendships or relationships, so what’s it matter to you?
+    - V: (very quiet for a good 20 seconds) .. We can talk about this later.
+- After the personal bits, Vallen tells Teasley about the situation with the mine
+
+## Cordelia time
+- Cordelia is having a mental breakdown 🤩🤩🤩
+    - She was making her way to the library, and was left to her own thoughts for a little too long
+- She’s throwing her cards everywhere - with no magic intent - and is SCREAMING for Mystra to come get her
+- Camille casts ==Silence== around Cordelia, and writes a sign telling her “Keep going! It’s ok, I just don’t want to bother the neighbors”
+- Cordelia defeatedly sits on the floor
+    - Camille picks up her cards and hands them back to her
+    - They write on a little piece of paper asking “what happened?” -- she signs back “I don’t wanna talk about it” (Camille doesn’t understand)
+        - When the drop ==Silence== to let her talk and asks the question again, she just shakes her head and walks away to the bar
+- Camille asks Kaya if they did something wrong, since this is the second time Cordelia’s just walked away from them after they asked a question (without answering it)
+    - Kaya says that she probably just needs some rest
+
+## Returning to the bar (KAYA LORE?!?)
+- Cal sees Kaya re-enter, and calls her over!!
+- The gang gets drinks
+    - Kaya gets beer
+    - Cordelia gets a BRIMMING cup of wine
+    - Camille gets water :]
+- Alexios tells Kaya that he’s been looking for her, and that Cal’s informed him that they’ve been fighting in a war
+    - Cal interjects and whispers to Kaya, drunkenly saying that Alexios smells like a dog
+- Alexios reiterates that he’s been looking for Kaya
+    - He asks her where she’s from -- when she responds with “The Capital…?” he’s like 🤨
+- Alexios asks what her earliest memory is, and whether or not she recalls the orphanage
+    - She does not.
+    - **He asks again, what is her earliest memory?**
+        - **It was arriving to her adopted parents house**
+- Alexios tells her that **Kaya does not belong “here”. And that she never has.**
+    - He also says he hates to break it to her
+    - **_HE SAYS THIS ISN’T HER KINGDOM?!?!?!?!?!?_**
+        - **HE SAYS THAT _THESE_ AREN’T HER KINGDOMS??!?!??! LORE DROP**
+- Alexios came to Hillford on the behalf of an “interested party” (himself included)
+    - He wanted to see how she was doing -- she’s grown a lot, and she’s strong
+- Alexios says that he finds the “Eldorian growth cycle” to be “quite interesting”
+    - He clarifies and says that Kaya is Eldorian (from Eldoria. The current continent that we are on)
+- Alexios gets really somber, leans in. He tells Kaya that **“your path leads to war. You know that.”**
+    - He says that war is coming (been knew)
+    - “What will you do when you feel its breath upon your neck?” “I will turn around and face it.”
+        - Alexios likes this answer, and stands up to leave
+        - He pats her on the shoulder, tells her to keep up the good work
+- ALEXIOS PULLS OUT A KEY LIKE OURS??? HE LEAVES THROUGH THE MAGIC TELEPORTING DOOR?!?!
+- Cordelia and Camille are like !??!
+- Kaya asks Cal what happened while she was gone
+    - He was making friends! Then his new friend had to go home :(
+- Vallen walks in!!
+    - He comments on Kaya looking distraught
+    - Camille mentions that Alexios had a key like ours
+- Kaya calls Foo over to ask if he knows Alexios
+    - Foo mentions Alexios’s name, and Vallen recognizes it
+        - **Alexios is a werewolf (I KNEW IT!!!)**
+        - He helped Vallen out with a mission in Diamond
+        - He’s also OLD AS SHIT
+- Vallen’s filled in on Alexios’s comment on how “these aren’t [Kaya’s] kingdoms”
+    - Kaya makes a comment on how she doesn’t remember anything before her adopted parents -- Camille commiserates, saying that it’s normal not to remember one’s childhood
+        - Vallen’s like no?????
+- Cordelia says that we should have a talk and be honest about each other about who we are and our pasts
+    - Kaya agrees, says that she’s making a valid point
+- Kaya says that she didn’t have the greatest time with her adopted parents, and that she was more of a “showpiece” to show that her parents are “put together” and “capable of caring for a kid”
+    - Cordelia comments on how Kaya’s father was always a bastard
+    - Kaya left the Capital, took care of herself in the woods, and made [[Mysterious Mercenary (Kaya Lore)|a friend]] there
+        - That friend taught her how to fight, and everything she knows, and told her to become a mercenary
+        - Vallen asks where her friend is now -- he was “on a job” and just happened to camp near where Kaya was staying
+- Vallen turns the conversation to Cordelia
+    - She spent her entire life in the University. She was one of the first students in the first class after it was built
+    - She had a huge courseload, and as such spent very little time at home
+    - She threw herself into books - old books - and it makes her unhappy when there’s something that she can’t find/understand
+        - Like her frustrations with [[Balthazar]]
+    - She decided to leave, and whether or not that was a good idea
+- When it comes to Camille’s turn, they share some surface-level information (family ran an inn, the inn was named after their dead sister)
+    - **_I COULDN’T TAKE NOTES FOR THIS_** 😭 **THE FOLLOWING CAMILLE NOTES ARE BASED ON IZZIE’S MEMORY**
+    - Vallen says that they’ve been through war together, and that they can tell the party a little more
+        - The rest of the party agrees, and the general consensus is that they won’t judge Camille, no matter what
+    - Despite the party’s encouragement, Camille can’t say much :(
+    - They just say that they’re a changeling (been knew -- although at this point they give Cordelia a look like 🙁 before they say the changeling part) and that their first memory is of when their mother first brought them home -- they had dinner with their brother, and then life happened after that
+        - After that, Camille says that they’re not ready to share any more. The party is understanding <3 (I love friendship)
+    - **SIDE NOTE:** AT SOME POINT VALLEN MADE A COMMENT ABOUT “DIGGING UP THE PAST” IN REFERENCE TO CAMILLE STUFF. METHINKS HE WAS FOLLOWING THEM WHILE THEY WERE FUTZING AROUND LYCORIS AND DIGGING AROUND 🤔🤔
+- Cordelia politely excuses herself (despite hearing that Vallen is about to share _his_ story -- she’s got a lot on her mind 😔)
+- AT SOME POINT CAL PASSES TF OUT
+- Vallen’s backstory!!
+    - Elf from 300 years ago
+    - He was in the Diamond military, as a part of a group of seven other soldiers
+    - On a mission, after all his other allies died, he was captured and turned into a vampire
+    - Something about [[Oakheart]]
+    - After being approached by the vampire god, he wreaked havoc on Oakheart
+        - He found the bodies of his parents
+    - He begged Lathander to kill him
+        - The vampire god - hearing this - tried to kill him
+        - Lathander saved his life and told him to fight the evil of the world (and that he can’t die before then)
+    - Vallen’s parents were tieflings!! He was adopted by them
+    - Vallen’s “vamp out” ability is one that’s had by most vampire lords, but because he doesn’t drink blood he doesn’t know much about the ability. Also, he can’t control it
+- Vallen hands Camille an envelope (it reads “Vallen’s Will”)
+    - He’s never faced death before, but things are changing.
+    - He’s protecting us because it’s his job, but it’s become more than a job -- he’s grown to care for us very much
+    - He tends to outlive a lot of people, and his past relationships haven’t ended very well
+    - THE WILL IS JUST IN CASE THE WORST HAPPENS (ALTHOUGH HE DOESN’T PLAN ON DYING)
+- CAL WAKES UP
+- Vallen mentions that he doesn’t think the [[Orb]] likes him very much, but he’s tempted to experiment with it
+    - Camille’s like ??? but then Vallen’s like “ok but what if it turned me back into a regular elf”
+    - THIS REMINDS CAMILLE OF SOME LORE WE HAVEN’T TOLD VALLEN YET. They tell him that there’s a new shape
+        - THE [[cube|CUBE]]!!!
+        - But also [[The Curator]] might have some answers as to whether or not the Orb can be used to Vallen’s benefit (they promise to ask the next time they see him -- although that might not be for a while, because the party is in for some Very Bad dreams)
+- THINGS HAPPEN IZZIE WAS TOO LOCKED IN TO TAKE NOTES
+- Foo is informed that Alexios has a key
+    - He’s SUPER chill and nonchalant about it
+    - Drops the fact that there’s a multiverse??? AND GOD DAMN
+- There’s some other stuff and banter. I love friendship :]
+
+## Vallen visits Cordelia
+- Vallen delivers Cordelia’s wine, tells her that Foo asked him to give it to her
+- Cordelia asks Vallen how many books she read this week (OVER ONE THOUSAND)
+    - In all those books, she BARELY learned anything related to [[Balthazar]] or her [[Tarot Cards|tarot]]
+    - She _did_ learn about hundreds of kindhearted, powerful, and generous wizards
+        - This makes her think that she doesn’t really know what she’s doing -- she asked everyone to give her their story. When she heard her own, “it fell flat”
+        - She doesn’t think she has anything going for her, she’s not in any danger, she’s not- (Vallen stops her)
+- Vallen says that he thinks he can speak for all of us when he says he thinks we’d be dead without her
+    - She can create black holes and destroy things with a thought
+    - He asks her to think back to who she was three weeks ago, and think about who she is now. She might not understand her cards, but she’s _learning_. “It’s part of the journey, my dear”
+        - Cordelia admits that she’s having a bit of a crisis of faith
+- Cordelia says that the look Camille gave her shook her to her very core -- she realized that, to truly deal with the things that she needs to and save her family, friends, and deal with the war, she thinks that her old self needs to die
+    - She says that she needs to deconstruct the person she was when she entered this town
+    - Vallen responds by saying that she’s made friends because of who she is _now_, not because of who she’s going to be
+- Cordelia says that she wishes for her future self is someone else
+    - Vallen says to hell with [[Mystra]], Balthazar, [[Julian]], and [[Cordelia's Mother|her mother]]. Just think about Cordelia, no-one else. He asks her what’s wrong with Cordelia
+        - Cordelia doesn’t have anything to say in response
+- Vallen asks Cordelia if she knows about the story of [[Karsus]]
+    - She knows he was someone who broke the laws of magic, angered Mystra, and died in a fallen city
+    - Vallen says that Karsus was an arch-wizard, and that he believed he had all the answers. He defied Mystra and began using magic that no-one else had ever thought of. Everyone loved Karsus, except for Karsus.
+    - Karsus saw himself for more than who he was, and kept pushing himself. When people relied on him with their lives, he kept pushing the bounds of what he knew until one day he broke through his limits, and learned more than gods about magic
+    - HOWEVER!!! By pushing himself so far, he lost who he was and doomed thousands of people to die
+        - He says that she needs to understand that we know Cordelia, and Cordelia does _not_ want to become a Karsus
+- Vallen advises Cordelia to grow over time, rather than all at once
+    - She asks him what the right path is then, and in response he says he doesn’t know -- instead, she should tell _him_
+    - He says that she’s defying gods as they speak, but she’s losing sight of what’s around her
+- Vallen tells her that all day, Cordelia’s friends were trying to get her out of her slump and trying to protect her, and despite all that she was trying to figure out how to be better
+- Cordelia comments on how she can tell something’s been troubling Vallen
+    - He says there has been, but what he’s worrying about has no bearing on how he will live through today and tomorrow
+- Vallen requests that Cordelia comes back downstairs to drink with the rest of the party (she agrees)
+- Before arriving back to the group, Cordelia flags down Foo
+    - She requests four little cakes from him 🥺🥺
+    - HE’S GONNA MAKE THEM HIMSELF!! He finishes them in like 20 seconds omg he’s such a king
+- CORDELIA OFFERS THE GANG THE CAKES!!! I LOVE FRIENDSHIP!!!!!
+    - Camille says that they’ll have one so long as she has one with them (Foo gives her an extra so everyone gets a little cake)
+        - They also tell her that she’s one of their first and kindest friends
+    - Kaya takes a cake, and says that Cordelia’s really good in battle
+    - Cal IMMEDIATELY takes a cake once his name is mentioned
+- Cordelia says that she wasn’t entirely truthful to us when she told us her story
+    - She says that she doesn’t know how to do “this”, but she will learn.
+        - Kaya and Camille commiserate, saying that we don’t really know what we’re doing either
+- FRIENDSHIP HAPPENS!!!
+- Cordelia tells Cal that she learned a lot about gods during her readings, and her conclusion is that **we should kill the gods**
+    - Everyone’s like ?!?!
+
+# Winding down for the night
+- Camille goes to Foo, and asks him for the envelope that they gave to him earlier that week
+    - He hands it back to them!!
+- They take the letter and write “[[Quén’s Goodbye|Quén’s Will]]” on it
+    - They hand the letter to Vallen!!
+    - He says that he will open it if they die before him
+        - Camille says that they hope neither of them die, and then go back on their word and say that they hope _Vallen_ doesn’t die 😊
+- Cal and Vallen banter :)! I love friendship
+    - VAL TELEPORTS CAL UPSTAIRS USING HIS STUTTER-STEP TELEPORT ABILITY
+
+# We dream (evil dreams 😔)
+- This time, the dream occurs on the coast
+    - To the best of our knowledge, we’ve never seen this place before
+    - Water trickles down into the ocean in front of us. It’s very rocky.
+- We see the Fog in the distance, streaks of red and purple lightning going through it
+- **_VALLEN’S ALSO HERE!?!! (in a vision sense not fr)_**
+- We can’t move or speak, but we’re all standing on a little peninsula-esque landform. Vallen’s in front of us
+    - There’s another figure standing in front of Vallen -- we can’t see what they look like, but they look masculine
+    - The cloak that we’re used to - the one we see OSIRIS wearing - isn’t there. Instead, this individual has a long coat. It sways around the figure’s ankles
+- THERE’S A FLASH OF LIGHT AND VALLEN FALLS OVER?!?!??!?
+    - **man fuck this stupid baka life. fuck this stupid baka DREAM!!!**

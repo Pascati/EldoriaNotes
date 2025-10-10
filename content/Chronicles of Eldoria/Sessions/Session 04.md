@@ -137,7 +137,7 @@ share_updated: 2025-06-24T00:06:59-05:00
 	 ![[Vallen The Immortal.png|300]]
 	- CJ TRIES TO CHANGE THE PICTURE BCS HE'S POPPIN A NIPPLE!! IZZIE SENDS HATEMAIL TO GET HIM TO STOP
 - Kaya asks if he's here to stay for dinner, he says no
-	- Introduces himself as [[Vallen The Immortal|Vallen]], says that he was sent by [[the Keeper]]
+	- Introduces himself as [[Vallen The Immortal|Vallen]], says that he was sent by [[The Keeper]]
 	- He was sent to keep track of us (actually he lied he doesn't really know -- he's kinda new to [[The Keeper|the Keeper's]] circle and just follows orders)
 - CAL IS TWITCHING
 	- Cal DEMANDS information about changelings and vampires
@@ -181,12 +181,12 @@ share_updated: 2025-06-24T00:06:59-05:00
 - Cal interrogates [[Vallen The Immortal|Vallen]]
 	- Doesn't get any useful information, and almost leaves before [[Vallen The Immortal|Vallen]] says that the others might know something
 	- [[Vallen The Immortal|Vallen]] tells Cal what he knows
-		- He was specifically selected by [[the Keeper]] as a "guide" of sorts, among vampires
+		- He was specifically selected by [[The Keeper]] as a "guide" of sorts, among vampires
 		- He was sent to kill the vampire threat
-		- Normally [[the Keeper]] wouldn't send ANYONE to deal with a vampiric threat
+		- Normally [[The Keeper]] wouldn't send ANYONE to deal with a vampiric threat
 	- [[Vallen The Immortal|Vallen]] is WILLING TO KILL OTHER VAMPIRES (Cal calls him a piece of shit 💀)
 	- [[Vallen The Immortal|Vallen's]] soul was taken by a vampire
-	- *He is [[the Keeper|the Keeper's]] Right Hand*
+	- *He is [[The Keeper|the Keeper's]] Right Hand*
 - We recap our dream (it was BAD)
 - We receive coffee from [[Foo]]
 	- As [[Foo]] leaves, Cal calls out to him and asks for him to bring a "young virgin" for [[Vallen The Immortal|Vallen]] to drink

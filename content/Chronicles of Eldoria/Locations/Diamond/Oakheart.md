@@ -1,0 +1,2 @@
+- [[Vallen The Immortal|Vallen's]] hometown, and where his grandson and great-granddaughter (who is unaware of who he is) lives
+- Where [[Cal Corvo|Cal's]] old house was

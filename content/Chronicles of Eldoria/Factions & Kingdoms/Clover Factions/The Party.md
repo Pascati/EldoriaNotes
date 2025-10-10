@@ -1,4 +1,3 @@
-#Faction
 # Members
 - [[Cal Corvo]] (Alive | PC)
 - [[Camille Xotli]] (Alive | PC)

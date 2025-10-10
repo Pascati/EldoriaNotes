@@ -1,4 +1,4 @@
-#Sub-Faction
+- Sub-faction of the [[Diamond Military]]
 - AKA the Seven of Diamond
 - Former associates of [[Cal Corvo]]
 - Led by [[Erin Thorne]]

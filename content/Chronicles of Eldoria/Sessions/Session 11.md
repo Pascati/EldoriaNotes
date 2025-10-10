@@ -1,0 +1,270 @@
+- Celia is here to visit! huzzah!!!
+    - LILY KEEPS FARTING ON HER :( VICTIM!!!!!!
+
+# Starting a New Day!!
+- We don’t have any bad dreams!!
+    - nvm I fuck it up by asking if I can roll for bad dreams
+    - NVM MY NVM!! WE STAY WINNING!!!
+- We make our way to the mess hall for breakfast
+    - [[Foo|Foo]] SERVES US BREAKFAST 🤩
+    - Note: [[Camille Xotli|Camille]] doesn’t drink coffee (and doesn’t drink a ton) -- homie’s rawdogging life
+- [[The Keeper]] stops by our table
+    - He’ll get us our 1,000 GP each bonus once we leave
+    - We can leave from the Garrison using [[Foo]]’s Key (he will meet us there)
+- [[Cal Corvo|Cal]] has a problem with our current mission
+    - He’s not okay with it at all -- he doesn’t want to take orders anymore, and if he’s going to be doing something, he wants to know when things are happening, why they’re happening, and what the endgoal is
+    - He’s ok with working _with_ people, so long as their goals are aligned and they’re working towards a common cause
+    - Cal doesn’t think _anyone_ should have the [[Pyramid]], much less the Keeper
+        - What’s the Keeper planning on doing with the Pyramid?? unknown
+        - Can the [[Orb]]/Pyramid be destroyed?? unknown
+- Our best bet of finding the Pyramid is [[Caduceus Pope|Dr. Pope]], since we know he worked with it last
+    - Camille notes that the best way to find Dr. Pope is to find the vampire that took him, and we _know_ someone who has to stay close to the vampire in question ([[Garrett]]) AND we have a way to contact him
+- [[Vallen The Immortal|Vallen]] suggests that we ask questions and learn as much as we can first - without revealing our opinions or intentions - before we decide what to do next
+    - He doesn’t want power to be in the wrong hands
+    - He trusts the Keeper because of what he’s done, not for what he will do
+
+## Speaking to the Keeper
+- We head downstairs to the Garrison -- the Keeper is there, leaning against the front desk and chatting with someone. When he sees us, he gestures for us to follow him and he goes to a back room
+    - We go through like 2 other doors. The second of which is an ornate stone door with a keyhole next to it (this is where we can use Foo’s Key!)
+    - He doesn’t know how many charges the key has right now (**it recharges every day, and it has a max of 2 charges per day**)
+- Camille asks if we have to leave now. The answer is no, but the Keeper has nothing else to speak with us about
+    - Cal does though!!
+- Cal asks what the Keeper’s plan/play is
+    - Now is not the time to be talking about it, according to the Keeper
+    - The Keeper feels as if there’s a missing peace -- like how Yin and Yang come together to make perfectly balanced peace, the Pyramid and the Orb probably come together to create something
+    - Cal says “absolute power corrupts absolutely” (real as shit)
+        - The Keeper reminds us that he touched the Orb without protection. ***The shapes don’t appear to affect him***
+        - When [[Captain Purah|Purah]] touched the Orb, she felt the urge to protect every living being -- knowing that the shapes are diametrically opposed, the Pyramid likely makes people feel like they want to kill/hurt every living being
+    - The Keeper asks who the shapes should rest with: someone who can be influenced by them, or someone who isn’t affected by them at all?
+        - Cal believes they shouldn’t be owned by anyone. They should be destroyed, in his opinion
+    - **The Keeper issues Cal a challenge: if he can figure out a way to destroy the Pyramid, then go ahead. But if he can’t, he should bring it back and let the Keeper destroy it**
+        - Cal agrees to this. But at the first sign of being “fucked over”, he will immediately turn.
+    - The Keeper encourages us to _not_ bring him the Pyramid if his interests ever not align with ours or have the best interest of the people in mind
+- The Keeper reminds us that we can contact him any time with the prototype sending stone -- he has one exactly like ours
+    - He also notes that [[Ozwin|Oz]] is insisting that he is able to decide our adventures (remember that he was the one who approved our vampire adventure), but the Keeper is pushing back
+- Camille asks if we can stay in the Capital for a little while before we head back -- Cal is also amicable to this, since neither of them have been in the Capital with free reign before
+- We discuss the logistics of using Foo’s Key
+    - It can ONLY be used on doors that match the door we’re currently in front of
+- Vallen says we should head back to [[Hillford]] once we’re done exploring [[Clover Capital|the Capital]]
+
+# Exploring the Capital
+- Camille wants to wander!!
+    - [[Cordelia Elysian|Cordelia]] warns that they might get lost -- they’re ok with that. She _does_ suggest a good bakery though!
+- On the way to the bakery, Cal is giving out gold coins to EVERY homeless person we pass by
+- Camille starts veering off from the group, going towards a VERY high-end jewelry shop
+    - Everyone convinces Camille to not go inside (there are probably cheaper places to get diamonds, such as the magic shop back in Hillford)
+    - There’s a homeless man in front of the shop (Cal gives him a GP! [[Kaya Avarice|Kaya]] gives two extra 😎)
+
+## The Bakery
+- The bakery is run by siblings (one is a dude and one is a HEAVILY pregnant lady!! They both have tan complexions and pink hair)
+    - [[Island|The man (Island?)]] recognizes Cordelia!! He seems to be in the know about her deal with the wedding and why she left the Capital
+    - The woman is named [[Aria]]. She says “welcome home” 🥺
+- Cordelia recaps a little of what’s happened with us over the past week or so
+    - She visited [[Cordelia's Mother|her mother’s]] home roughly a week ago, and it went poorly
+    - Kaya pipes up and says we’ve been on a “magical girl journey”
+    - Cordelia doesn’t know where her mother is, neither does Island. Apparently she stopped by the bakery, grabbed a few things, and left
+        - It’s a bit odd because normally she sends her butler to fetch things, rather than making appearance on her own
+        - She didn’t say much, kinda brushed off Island when he tried to make conversation
+    - [[Lawrence Elysian|Lawrence (Cordelia’s brother)]] stops by often though!!
+        - Cordelia doesn’t want to see him right now. Not because she doesn’t like him, but because it’s been a crazy few weeks and she doesn’t want to do all that explaining
+        - It’s ok bcs he’s already stopped by for today
+    - Cordelia drops the lore that we technically work for the Military as Ambassadors
+- WE GET PASTRIES ON THE HOUSE!!! HUZZAH
+    - Cal and Camille are PUMPED about getting fruity little tarts and danishes (Cal gets pigs in a blanket too)
+    - Camille gets a cheese danish
+    - [[Kaya Avarice|Kaya]] requests a blueberry muffin
+    - Cordelia gets a moonberry tart
+- Island ALMOST suggests that Cordelia takes us to the university, but that might be a bad idea
+    - Classes haven’t started yet so we probably won’t be allowed there
+- What are Cordelia’s plans?
+    - She doesn’t really know
+    - She’s fine with Island mentioning to Lawrence that she’s been by
+- **NOTE: Vallen is probably lactose intolerant (according to CJ). He also canonically shits.**
+- Camille tries to leave the bakery siblings money (it does NOT work. Cal ends up taking the 2 GP 💀)
+
+# Returning to Hillford
+- Vallen mentions that our weapons might be done (back in Hillford) so we head back!! We can always do more sightseeing later
+- Camille is currently holding Foo’s Key, so they unlock the door (it’s a pull door not a push door)
+    - At first all they see is a brick wall, but eventually a glowing mote expands into a long blue hallway
+    - Camille walks through first and disappears -- at the other end of the hallway is a wooden door. When they open it, they enter the tavern!! (through the basement door leading into the tavern)
+- WE’RE IN THE TAVERN!!
+    - Foo greets us and asks us if the key works (it does!)
+    - **WE ALSO GET OUR 1,000 GP BONUS**
+
+## Reuniting with [[Durgen Coalbeard|Durgen]]
+- OUR STUFF IS DONE!! HUZZAHHH
+- Kaya receives the **Knuckles of Life Stealing (attunement)**
+    - They’re like leather gloves with silver plating, with small spikes on each finger and knuckle
+    - They have a max of 4 charges, and gain a charge with each successful unarmed attack. After reaching 4 charges, she can heal (currently 2d4)
+    - IT WILL LEVEL UP WITH HER!!!
+- Cordelia receives the **Wand of Anti-Magic (attunement)**
+    - It’s a black wand with intricate engravings made purely out of obsidian
+    - She can cast ==Counterspell== up to three times a day with it!!!!!!! LET’S FUCKING GO
+    - WILL ALSO LEVEL UP WITH HER
+- Camille receives the **Mace of Windstrike**
+    - A mace covered in runic carvings, which spiral up the shaft and across the sphere
+    - IT DOES SO MUCH SHIT BUT IT ALSO ELVEL SUP WITH THEM
+- Cal receives… well, nothing yet. **His item is with the tailor**
+- [[Durgen Coalbeard|Durgen]] updates!!
+    - He’s been working with the magic shop as of late!
+        - The magic shop also has new items 👀
+    - DURGEN HAS A SHIPMENT OF FIREARMS COMING IN???
+- Durgen’s also been able to fix the _Daggers of Returning_!! There are little buttons on the back to deactivate them
+    - He’s willing to sell them at a SIGNIFICANT discount (250 each) in exchange for an IOU favor that he’ll cash in later
+        - Some shipments have been going missing lately -- we might have to look for them later
+
+## Going to the Tailor’s
+- [[Varrell DeFontaine|Varrell]] is excited to see us!! He has Cal’s item ready to go: it’s **a very nice suit (Armor of Convenience)**
+    - As he takes the hanger from Varrell, he notices it’s a little heavier than expected
+    - It’s a **light armor** that can _change_
+    - It gives him +2 AC and can alter its appearance twice a day
+- Cordelia’s blue dress is done!! A **Cloak of Stars** was used to make it
+    - This dress will allow her to cast an additional first level spell once a day!!
+- Varrell’s new assistant will arrive tomorrow!!
+    - Kaya and Varrell dish about how shitty his previous assistant ([[Dox|“Cory”]]) was
+    - HIS NAME IS [[Aiden|MR. AIDEN]]
+
+## Magic Shop Time!!
+- This is literally everyone’s (except for Camille’s) first time meeting [[Quivern Saltspark|Quivern]]
+    - It’s VERY boho chic in here
+- Camille and Quiv catch up a little!!
+    - Quiv has been invited to dinner (along with Durgen)
+    - **The town is expanding!!!** There’s going to be a **new jeweler** and a **butcher’s shop**, at the very least
+    - The stable (the Whistlewind) is being taken over by someone from [[Crossroads]] (THE [[Reema|ORC LADY]] THAT KAYA BEEFED IT IN FRONT OF)
+- Cordelia accidentally lets it slip about Foo’s interdimensional door
+    - IT’S OK SHE SAVES IT WITH A GOOD DECEPTION ROLL
+- Cordelia is also looking for:
+    - A ring that would allow her to locate objects
+        - She is able to get a ring that will let her to locate an object within Hillford (as in within an area the size of Hillford) for 500 GP
+    - Healing Potions
+        - He can sell Potions of Greater Healing for 45 GP each (technically supposed to be 50)
+        - Cordelia and Kaya get 3 each
+        - Camille also gets 2 healing potions
+    - Diamonds
+        - Camille gets a 300 GP diamond for 150 GP!!
+    - Magic tattoos? 👀
+        - IT’S POSSIBLE! HUZZAH!!!
+        - [[Unknown Saltspark|Quiv's brother]] can probably do it 👁️👁️ He’ll send a note to him tonight
+    - Sending Stones
+        - Camille purchases 4 sending stones (25 GP each)
+        - **So long as you have a sending stone, you can receive sending stone messages (like a text message). If you _don’t_ have a sending stone, you CAN’T receive messages. If you use a sending stone, it gets consumed in the casting**
+- Extra lore:
+    - We saved Quiv’s nephew!!
+    - Quiv isn’t wearing a wedding ring
+
+## General Store
+- Camille (1 GP each)
+    - Replacement rope
+    - 1,000 ball bearings
+    - Extra vials (x4)
+- Cordelia
+    - 3 candles
+    - Ink bottle + paper
+    - Soap
+    - Rope
+- Cordelia feels her pocket buzz -- she’s receiving a message!!
+    - **From Oz: I’m coming to Hillford, I’ll be there in the morning.**
+        - Cordelia cannot respond to this message due to the nature of sending stones (I forgor the specifics)
+    - Camille is nervous about Oz, and theorizes that he’s here to meet with us behind the Keeper’s back to get us to do things
+        - Vallen trusts Oz, and says that he generally does things behind the Keeper’s back because he can’t be everywhere at once
+- Cordelia tries to rizz Vallen up by doing a coin trick
+    - Vallen says the trick was impressive
+- The gang takes an intermission irl
+
+# Returning to Foo’s Bar
+- It’s getting later in the day at this point -- the bar is starting to fill up with folks
+    - We sit at our usual table!
+- THE GANG HAS DINNER (STEAK AND POTATOES)
+- Durgen joins us!!
+    - Foo and Durgen fist bump as Durgen comes in
+    - Durgen gets dinner and a BIGASS flagon of beer
+        - Cal requests a big boy beer as well
+        - Lily: he’s triple fisting ✊✊✊
+        - Cal drinks ALL of them at the same time and PASSES THE FUCK OUT (satisfied)
+- Vallen drinks blood and Lily comes **:(**
+- Quiv also comes in and sits at our table!!
+- We enlighten Durgen and Quiv on our adventures!!
+    - They know about us killing Dagen, driving away vampires with the power of [[Lathander]], and the fact that there were [[Warforged|“robot guys”]]
+    - They know _vaguely_ why the Capital’s in a tizzy (the vampires and warforged)
+        - Camille tells them that we’ll probably die if we talk about it, so 😶
+- State of the gang
+    - Cal and Durgen are drunk as FUCK
+    - Quiv’s getting into the drinks as well
+- What’s Quiv’s deal?
+    - Graduated from the university in the Capital (Transmutation)
+    - Traveled across Clover
+    - When he arrived in Hillford, it was just the Foo Bar and a few houses
+    - Worked with the military for a little while (mainly communications stuff)
+    - His partner left at one point
+        - CAMILLE CAN TELL IT WAS HIS EX HUSBAND!!!!! HOLY SHIT
+        - THE LORE!!!!!!
+        - His ex husband’s brother still lives in town
+    - Been here for 4 years now!!
+- Camille reminds Kaya that [[Reema]] (orc lady from Crossroads) is gonna be settling in soon!! She’s just back at Crossroads sorting out the last of her stuff
+    - Kaya’s SO excited for this
+- The gang also informs our buddies that we went through the [[Forest of Mysteries|Forbidden Forest]]
+    - We tell them how to pass through
+    - Camille tells Quiv - after learning that he would never sleep outside - that they can teach him how to “pitch a tent” (unknowing of the connotation)
+- There’s talk about shitting pants and farting. CJ says “You can’t Prestidigitate your dignity back!”
+- PERCEPTION CHECK
+    - CAMILLE GETS A NAT 20
+    - Ozwin is here! He was going to get a room for the night
+    - The Keeper sent him
+- Durgen and Vallen get extra drinks (Vallen’s drinking!!)
+    - Camille takes a sip from Kaya’s cup
+    - DURGEN PASSES TF OUT. Quiv offers to take him home and floats the dude away
+- Vallen’s :( about not having drinking buddies anymore
+    - THE GANG TAKES SHOTS WITH HIM. CAMILLE TOO!!
+    - Cordelia takes 2 shots (she’s a lightweight 💀)
+- Cordelia says Camille is really nice (compared to the rest of the party)
+- We order more shots and discuss how vampires get drunk
+    - When vampires ingest blood, it can be used for multiple functions (one of which can be used to get drunk)
+    - ANOTHER USE IS TO GET AN ERECTION
+- Also Vallen is down to drink the blood of anyone in the party so long as we’re down for it
+- Kaya tries to pass Cordelia a water “shot”
+    - She succeeds 🤩
+- WE TALK MORE ABOUT VALLEN DRINKING OUR BLOOD
+    - If he drinks the blood of someone who’s drunk, then he gets extra drunk
+    - He probably shouldn’t drink any of our blood though because that’ll fuck up his ability to walk in the sun
+- CORDELIA SAYS SHE’S NOT SURE IF SHE’S EVEN INTO BLONDE GUYS AND PASSES OUT
+    - The gang helps carry her back to her room
+
+# Morning Comes
+- We wake up (we were too drunk to have dreams)
+- Everyone (except for Camille) rolls to see if they have hangovers
+    - Nobody wakes up with a hangover 😎 we stay winning!!
+- Ozwin is downstairs, smoking a pipe
+- Vallen is nowhere to be found
+    - Not in kitchen, not in rooms
+    - Camille casts ==Sending== and checks in -- lets him know that Ozwin is here, that he doesn’t have to come, but they hope he’s alive
+    - Vallen’s Message Back: “I’m on my way back”
+
+## Meeting with Ozwin
+- **Reason why Ozwin’s in town**
+    - The Keeper’s thought it over, and he’s decided that Ozwin should be our point of contact + he will be giving us orders from now on
+    - Everyone rolls insight on this
+        - Seems to be telling the truth
+    - His goal is to help us find the Pyramid and point us in the right direction -- this time he’s running everything by the Keeper (unlike the last mission we went on)
+        - INSIGHT REVEALS THAT HE _KNEW_ DR. POPE WAS GONNA BE THERE
+- Dr. Pope is a touchy subject
+    - **Dr. Pope used to be a Clover operative, before he defected to Diamond**
+    - Clover wanted to have ethical inventions, and testing on people in the Capital isn’t permitted (hence why he defected to Diamond)
+- Cal asks if Ozwin is implying that Dr. Pope was involved in human experimentation
+    - Yeah.. Cal’s disappointed
+- **OZWIN’S REQUEST**
+    - He needs us to go to [[Mossley]]
+    - **There are reports of a Warforged “observing” in Mossley** -- there’s suspicion of Diamond maybe using this as an entry point into Clover
+    - **Our job isn’t to fight them, but to observe the battle (not to engage ourselves) and check if our connection to the shape _happens_**
+    - Some of Ozwin’s people are already on their way. Once we hear back from them, then we can move out
+    - Ozwin suggests that we head back to the Capital later today to get a head start
+    - If we get close enough, we can kill the Warforged. But that shouldn’t be our main priority
+    - Ozwin can’t come with us (there are too many things he has to set up in town)
+- Where’s [[Nicholas Powers|Nick Powers]]?
+    - Still off looking for Cal -- exact whereabouts unknown
+    - Cordelia starts gaslighting Ozwin into believing Nicholas’s surname is “Bottom”
+        - Ozwin mentions that he might let the codex and Mercenary’s Guild know about the name change
+- We should use our Sending Stone to let the head honchos know that we’re on our way so they can put us on the right boat with the right crew
+- Vallen comes back
+    - HE SLEPT WITH FUCKING [[Investigator Teasley|TEASLEY]]. IT WAS NOT GOOD. 👎👎👎👎👎👎👎👎👎👎
+    - Camille does not approve. Largely because it doesn’t seem like Vallen had a good time :( homie deserves better than drunk sex with his ex
+    - We fill Vallen in on Mossley

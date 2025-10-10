@@ -1,0 +1,4 @@
+- A town that people mostly pass through, since it's more or less just a trading post
+	- Very open, only two roads going into/leaving town
+	- There are lots of shops open, but when first encountered by the party merchants don't appear to be paying much attention
+- A PLACE WHERE 300 GP DIAMONDS CAN BE BOUGHT FOR 100-ISH GP!!!

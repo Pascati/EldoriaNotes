@@ -11,6 +11,7 @@ To get you started, here are some helpful pages/links!
 - [[SESSION SUMMARIES|Session Summaries]]
 - [[Home Rules]]
 - [[World Lore]]
+- [[Dreams & Visions]]
 
 
 ---

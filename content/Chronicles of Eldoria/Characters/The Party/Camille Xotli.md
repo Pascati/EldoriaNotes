@@ -1,6 +1,7 @@
 ---
 aliases:
   - Camille
+  - Camille's
 ---
 
 # Character Profile

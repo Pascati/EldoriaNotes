@@ -207,7 +207,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- Cal has heard the name "[[Dagen]]" before when hunting other vampires
 - Cal asks why we don't just kill [[Dagen]] since we suspect him of being a big vampire ringleader
 	- The best bet would be to build a case against him, since he has lots of security and fame
-- WE GET BLTS FROM [[FOO]]!!! (Cordelia just gets tomato, lettuce, and a plain burger on the side LMAO)
+- WE GET BLTS FROM [[Foo]]!!! (Cordelia just gets tomato, lettuce, and a plain burger on the side LMAO)
 	- Cal asks if he can have the plain burger LMAO
 - Camille pulls out the blue vial they got from [[Quivern Saltspark|Quivern]]
 	- [[Vallen The Immortal|VALLEN]] HATES THE WAY IT SMELLS!!! SORRY BRO

@@ -1,0 +1,1 @@
+- Where new types of [[Warforged]] (including at least one that could cast magic and *copy magic/class abilities*) were first encountered

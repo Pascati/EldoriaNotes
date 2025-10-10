@@ -156,7 +156,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- Cordelia: 14
 	- Camille: 15
 	- We all see a 6-foot-ish half-elf (dude) (looks determined but also a little confused) wearing a *black robe* instead of a white robe, and his *armor has gold plating*. The insignia on his chest also has a *tree instead of a clover*
-		- He turns to Kaya, and asks if we're waiting to see the owners of the mithril camp
+		- He turns to Kaya, and asks if we're waiting to see the owners of the [[Mithril]] camp
 		- Persuasion: 7
 			- He says "no, not the right one" AND HIS RUDE ASS WALKS AWAY!!! BLOWING HIM UP WITH MY MIND 💥💥💥
 - [[Simon|The halfling at the desk]] waves us over!
@@ -466,7 +466,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- Camille: I probably would.
 - [[The Keeper|V]] says we passed! And that we deserve to know more information
 	- He asks if his current form is good
-	- Cordelia says *she's met a changeling once before*, and **in response [[The Keeper|V]] says that he's [[the Keeper]]**
+	- Cordelia says *she's met a changeling once before*, and **in response [[The Keeper|V]] says that he's [[The Keeper]]**
 - [[The Keeper|V]] mentions that he knows that we've been having visions: Cordelia once before and both Camille and Kaya last night.
 	- ***HE ADMITS TO HAVING [[Dreams & Visions|VISIONS]] TOO!!!***
 	- He thinks we're worthy enough: **[[The Keeper|V's]] the only other person to have visions**

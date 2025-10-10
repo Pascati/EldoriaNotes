@@ -49,7 +49,7 @@
             - He looks up at her and looks _terrified_ (mechanically, he’s frightened)
 - ROUND 2
     - Camille
-        - Calls out to Lathander as they use their ==Channel Divinity: Turn Undead==
+        - Calls out to [[Lathander]] as they use their ==Channel Divinity: Turn Undead==
             - Lathander’s symbols in Cal’s pocket and Vallen’s necklace glow
             - ALL THE VAMPIRES EXCEPT FOR Dagen FLEE!!! WE STAY WINNING
             - ALL 50 WARFORGED START CHASING THE VAMPIRES LMAO
@@ -171,7 +171,7 @@
 - The gang decides to go back to the basement to collect what information we can (schematics, shadow boxes, etc.etc.)
 - Camille is STRUGGLING to pronounce hors d'oeuvres (they wanna grab some on the way back down to the scary basement)
 - We need to report back to [[Clover Capital|the Capital]] -- Vallen hands Camille a sending stone to let the Keeper know that we’re done
-    - **Message to [[the Keeper]]:** Good news: Dagen's dead. Bad news: Diamond has LOTS of machine-like soldiers ready to attack, but we have the scientist who made them. Capital soon.
+    - **Message to [[The Keeper]]:** Good news: Dagen's dead. Bad news: Diamond has LOTS of machine-like soldiers ready to attack, but we have the scientist who made them. Capital soon.
     - **Response message:** We’ve received news, come to the capital IMMEDIATELY. Bring the scientist and Vallen.
 - We debate on how to get to the Capital
     - [[NorthPass]] has ferries!! so we can be back in the Capital pretty soon
@@ -329,7 +329,7 @@
     - Cordelia realizes that they’re probably looking for her 😟
 - Camille pulls Vallen to the side
     - They’re worried about [[Poppy Xotli|their mother]] -- she lives on the border of Diamond and Clover, and if war breaks out, she will be among the first to be affected
-    - Would [[the Keeper]] be ok with Camille housing their mother? For a pay cut maybe?
+    - Would [[The Keeper]] be ok with Camille housing their mother? For a pay cut maybe?
         - Vallen says that the Keeper would probably be willing to do it for free, but Camille should ask after the Council disbands
     - Camille asks Vallen to make sure their mom (“A woman that looks like me”) doesn’t die if he ever comes across her. Vallen’s leaving the group after this, but he doesn’t seem against the idea
     - At the mention of Vallen leaving the party, they say that they really value their time with him and that he was one of the first real friends they’ve ever made. They express that they hope their (as in Camille and Vallen’s) paths cross again
@@ -416,7 +416,7 @@
     - Camille’s mother will be brought to the Capital
 - The Keeper needs to discuss the kingdom’s next steps with the Faction Leaders and Vallen
     - Detailed reports on what’s happening in the Kingdom
-    - Locking down valuable resources (Mithril, Adamantium, etc.)
+    - Locking down valuable resources ([[Mithril]], Adamantium, etc.)
 - The Keeper will meet us downstairs, and we will stay in the Capital for a day (we have rooms somewhere in the Tower)
 - Kaya asks for updates on the [[warforged]]
     - Only received reports of 5 warforged running around

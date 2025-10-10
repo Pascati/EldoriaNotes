@@ -2,6 +2,7 @@
 draft: "true"
 aliases:
   - Quen
+  - Quen's
 ---
 
 > [!info] COPY/PASTE INTO EXISTING [[Camille Xotli]] FILE

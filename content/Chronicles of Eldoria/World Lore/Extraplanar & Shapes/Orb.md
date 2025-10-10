@@ -5,3 +5,4 @@
 	- So far, this life has been fuzzy pink moss! (Appears on the body part that touched it?)
 	- Of the party, only [[Cordelia Elysian|Cordelia]] and [[Camille Xotli|Camille]] have been in contact with it (as of [[Session 17]])
 - Currently in [[The Keeper]]'s possession (briefly teleported into [[Camille Xotli|Camille's]] bag due to a fatal injury they suffered)
+- Was originally "asleep", but was likely awoken when [[Camille Xotli|Camille]] took fatal damage in [[Session 17|the battle of Lycoris]]

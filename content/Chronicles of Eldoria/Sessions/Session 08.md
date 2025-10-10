@@ -272,7 +272,7 @@
 - Cordelia instinctively pulls a card - the one intended for Camille - and pulls **The Judgement**
     - Another version of Cordelia pops up nearby!!! Huzzah!!
 - Camille pivots and turns so that they’re closer to the exit
-- Cal tries to call out a name: Lathander
+- Cal tries to call out a name: [[Lathander]]
     - Cordelia (Religion 13): knows this as the God of Dawn, despiser of all things unnatural
     - Camille (NAT 20): recognizes the necklace in the coffin as Lathander’s symbol
     - **Cal says: “Lathander, we’re fighting for the same cause.” AND TURNS HIS BACK TO THE STATUES!!!!!!!**

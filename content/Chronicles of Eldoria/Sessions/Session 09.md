@@ -72,7 +72,7 @@
     - Kaya and Cal pass out ASAP, Camille says they’re going to stay up a bit longer and just pace around
 
 ## Camille talks to Vallen and FUMBLES THE FUCKING BAG!!!
-- Asks about his necklace (he knows it’s from Lathander)
+- Asks about his necklace (he knows it’s from [[Lathander]])
 - He got it from his father!! Who died 215 years ago
     - It’s chill his father’s cool we like him
     - CAMILLE INSIGHT: 19
@@ -96,7 +96,7 @@
 - **The Curator says the Pyramid’s presence is in Holden**
     - How can we protect ourselves from the Pyramid: avoid physical contact with it -- if ABSOLUTELY necessary, wear gloves or gauntlets
     - If we find the Pyramid, don’t touch it. ALSO don’t let anyone else have it!!!
-- According to the book the Curator holds, **we’re close to someone who has touched/been near the pyramid** -- that effect usually wears off after a year or so, but it’s powerful enough that the pyramid is either physically nearby, OR whoever touched it touched it _recently_
+- According to the book the Curator holds, **we’re close to someone who has touched/been near the Pyramid** -- that effect usually wears off after a year or so, but it’s powerful enough that the pyramid is either physically nearby, OR whoever touched it touched it _recently_
 - Kaya asks if the book tells the future: it’s kinda complicated to explain
 
 # Morning of [[Dagen's Masquerade|the Masquerade]]

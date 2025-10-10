@@ -1,4 +1,3 @@
-#Faction
 - The higher up someone is in the ranks, the more likely they are to hide their identity/face
 
 # Sub-Factions

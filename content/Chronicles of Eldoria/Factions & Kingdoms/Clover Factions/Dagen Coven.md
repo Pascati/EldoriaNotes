@@ -1,5 +1,3 @@
-#Sub-Faction 
-
 - A coven of daywalker vampires
 	- Note: daywalker vampires generally don't drink humanoid blood
 - Led by the main vampire, [[Dagen]]

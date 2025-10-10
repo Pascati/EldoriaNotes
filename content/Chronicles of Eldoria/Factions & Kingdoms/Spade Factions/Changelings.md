@@ -1,4 +1,3 @@
-#Faction
 # The Father
 - Worshipped by all changelings (except for [[Camille Xotli|Camille]], ig)
 - An ancient being, thousands of years old (all mortal creatures have a *max lifespan of 400 years*)

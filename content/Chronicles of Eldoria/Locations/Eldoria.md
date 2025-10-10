@@ -1,1 +1,2 @@
-CONTINENT
+- The continent which contains the Clover, Diamond, and Spade kingdoms! (Heart is also there but it's more of an island than anything)
+- 800 years prior to the campaign, there was a [[World Lore#The Great War|Great War]] which led to Spade being destroyed and sealed off from the rest of the kingdoms via a large mountain range
