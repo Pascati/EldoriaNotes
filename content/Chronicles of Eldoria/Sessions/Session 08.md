@@ -1,3 +1,8 @@
+---
+banner: "![[Images/Story_Underground_Passage_BG.png]]"
+banner-x: 53
+banner-y: 55
+---
 - Lily gets inspiration for making everyone a delicious dinner!!
 - **OFFICIAL INSPIRATION RULES: ADD A 1D8 TO A ROLL**
 

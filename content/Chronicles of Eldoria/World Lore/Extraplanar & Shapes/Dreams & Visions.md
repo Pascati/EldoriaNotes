@@ -1,8 +1,8 @@
 ---
-banner: https://libraryofruina.wiki.gg/images/The_Library_-_Floor_of_Philosophy.png
+banner: "![[Images/Story_Wuthering_Heights_Basement_Center_5_BG.png]]"
 banner-fade: -30
-banner-x: 48
-banner-y: 6
+banner-x: 50
+banner-y: 26
 banner-radius: 15
 ---
 - Started in [[Session 01]], with [[Cordelia Elysian|Cordelia]] being the first of [[The Party]] to receive one
@@ -16,7 +16,7 @@ banner-radius: 15
 - In the first dream (only experienced by [[Cordelia Elysian|Cordelia]]), she saw:
 	- The ground covered in bodies and blood, with fire all around her
 	- A cloaked man floating in the sky
-		- As the man turned to her, he felt as if *"it"* was all her fault
+		- As the man turned to her, she felt as if *"it"* was all her fault
 ## Dream 2
 - Occurred during [[Session 02]]
 - In the second dream, all 3 party members (pre-Cal era):
