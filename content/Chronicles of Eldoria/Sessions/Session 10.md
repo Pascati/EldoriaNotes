@@ -185,7 +185,7 @@
         - Kaya steals a nice blanket (it’s like a bajillion thread count) (she’s also wearing it like a cape)
 - As we leave the building, the town is _dead_ -- nobody’s out and about
     - All the carriages that the nobles brought with them are GONE
-    - [[Julian|CORDELIA’S BOO]] IS GONE!! ☹️
+    - [[Julian Devorak|CORDELIA’S BOO]] IS GONE!! ☹️
     - Vallen pulls the carriage up!
 - We throw Dr. Pope on the fuckin FLOOR (of the carriage)
 - As we leave, a little plume of smoke comes up from Dagen’s mansion
@@ -284,7 +284,7 @@
     - SHE SEES A FAMILIAR HEAD OF BLONDE HAIR!!!! MEET CUTE x2????
     - THE BLONDIE IS ON THE RIGHT SIDE OF THE BOAT. VALLEN IS ON THE LEFT SIDE!!! **SHE HAS TO CHOOSE 😭😭😭💀😭☹️😭☹️💀💥💥💥**
         - Cordelia rn: ![[bruh.png|180]]
-    - CORDELIA GOES RIGHT TOWARDS [[Julian|JULIAN]]!!!
+    - CORDELIA GOES RIGHT TOWARDS [[Julian Devorak|JULIAN]]!!!
 - The gang pulls up (looking for Cordelia) AND SEES HER WITH HIM
 - Cordelia pulls up next to Julian robotically as hell (but she’s trying to make it seem casual and like she’s just looking out over the horizon)
     - Julian looks around and looks in her direction

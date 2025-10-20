@@ -34,7 +34,7 @@
     - Kaya gets a piece of obsidian
     - Cordelia gets 10 bags of sand (5 GP)
 - Camille suggests that Cordelia contact [[Finnigan Seamus|the Captain]], since we forgot to tell him where we were going
-    - Cordelia has a bit of a flashback when [[Julian]] is mentioned, and she and Vallen agree that Camille should probably hold onto the Sending Phone
+    - Cordelia has a bit of a flashback when [[Julian Devorak]] is mentioned, and she and Vallen agree that Camille should probably hold onto the Sending Phone
 - Camille messages the Captain
     - Camille: Tells the Captain that we’re on OSIRIS’s trail, and that we suspect he’s trying to re-enter Clover
     - Captain: Hello again, we are on our way to the next area of interest for the warforged enemies, who is OSIRIS?
@@ -131,7 +131,7 @@
     - THE RAIN IS COMING DOWN HARDER
 - As we begin to reach the end of the bridge, we see figures there
     - Everyone sees the [[Clover military]]. Specifically people that were on the ship with us -- they’re battered and broken, but still alive
-    - CORDELIA SEES [[Julian|JULIAN]]!!!!!
+    - CORDELIA SEES [[Julian Devorak|JULIAN]]!!!!!
         - He has cuts all over his face -- he doesn’t seem to be paying attention to us running up
         - He motions us over (we follow)
 

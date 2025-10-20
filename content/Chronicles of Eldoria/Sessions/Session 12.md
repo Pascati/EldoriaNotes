@@ -91,7 +91,7 @@
 - PPL START QUESTIONING CAMILLE ABT THEIR SEXUALITY AND AGE?? They literally go to get wine
     - These people… driving them to drink…… smh
 - We all have to make Perception checks
-    - WE SEE [[Julian|JULIAN]]!!!! I FUCKING CLOCKED IT. I LOVE IT WHEN MY THEORIES ARE RIGHT
+    - WE SEE [[Julian Devorak|JULIAN]]!!!! I FUCKING CLOCKED IT. I LOVE IT WHEN MY THEORIES ARE RIGHT
         - We all notice that it’s him
         - CORDELIA NOTICES HIM AND DIVES UNDER THE TABLE
     - ON KAYA’S NAT 20 SHE ALSO NOTICES THAT VALLEN’S ALSO GONE!!?!??!?!?

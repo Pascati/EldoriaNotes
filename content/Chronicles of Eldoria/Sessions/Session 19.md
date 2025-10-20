@@ -202,4 +202,4 @@
 # Traveling to [[Lycoris]]
 - We agree to use to the door/key to go to [[Lycoris]], then camp in the area so we can leave first thing in the morning
 - We hear a familiar voice as we arrive: *"Cordelia?"*
-	- **IT'S [[Julian|JULIAN]]!!!**
+	- **IT'S [[Julian Devorak|JULIAN]]!!!**

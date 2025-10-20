@@ -52,7 +52,7 @@
     - Camille is already there, drinking
     - Kaya sees [[Naomi|the barmaid]] <3
     - Cal sees his NEW BESTIE, [[Bram Trsk|Trsk]] (Dwarf)
-    - Cordelia does NOT see [[Julian]] anywhere 😔
+    - Cordelia does NOT see [[Julian Devorak]] anywhere 😔
 - Cordelia approaches the barmaid and SHE ANSWERS HER QUESTION BEFORE SHE CAN ASK. JULIAN’S NOT HERE LMAO
     - Vallen’s here though ! 🙂
     - The Barmaid says that Julian came in earlier and had a drink, but then promptly left. He’s probably still on the clock

@@ -212,7 +212,7 @@
 - The baron encourages everyone to have fun, and reminds us that the invention that impresses him the most will be invited to a special banquet with him, where he will provide them special funding. Also he and his wife will be making the rounds
 - A BARD GETS ON STAGE AND STARTS SINGING PINK PONY INN!!!!!! **THE PROPHECY IS FULFILLED**
 
-## Cordelia Encounters a [[Julian|Familiar Man]]
+## Cordelia Encounters a [[Julian Devorak|Familiar Man]]
 - Cordelia is told by a passing waiter that someone’s been eying her this whole night 👀OMG???
     - HE TELLS HER SHE’S THE MOST RADIANT WOMAN HE’S SEEN TONIGHT. THE COUPLE IS FLIRTING!!! YIPEE!!!!
     - He also says she doesn’t look like she wants to be here -- OMG IT’S THE GUY FROM THE INN. **THE OLDER GUY WAS HIS DAD**

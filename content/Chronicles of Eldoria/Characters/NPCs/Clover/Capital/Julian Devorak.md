@@ -2,10 +2,14 @@
 ![[Julian.jpg|240]]
 - Journeyman in the [[Clover Military]], but his father is a Captain
 - [[Cordelia Elysian]]'s fiancée (through an arranged marriage organized by Cordelia's mother and Julian's father, I think)
+- HAS AN IRISH ACCENT
+- Exactly 6'0"
 
 ## Factions/Affiliations
 - [[Clover Capital]]
 - [[Clover Military]]
+- [[Constance Devorak]]
+- [[The Party]]
 
 # Known Information
 - First (properly) encountered at [[Dagen's Masquerade]], where he danced and flirted with Cordelia without realizing who she was

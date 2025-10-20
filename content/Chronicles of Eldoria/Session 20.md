@@ -1,0 +1,164 @@
+# Spending the night in [[Lycoris]]
+## Julian joins the party!
+- IT IS LATE AFTERNOON
+- Standing in [[Camille Xotli|Camille's]] burned-down home, [[Cordelia Elysian|Cordelia]] stands face-to-face with [[Julian Devorak]] 
+	- Julian is:
+		- Wearing full plate mail with the Clover insignia on it
+		- Covered in burn scars (ALL OVER). There's one prominent one that starts at his left cheek and down his neck
+- Upon hearing her name, Cordelia doesn't turn around
+	- She whispers to Camille, asking if Julian's right behind her (yes)
+	- They gently turn her around to face him
+- Cordelia and Julian Conversation
+	- C: Hiiiii... how are you?
+	- J: I'm, well, it's been a week. how are you?
+	- C: Going well, as always.
+	- J: What are you doing in [[Lycoris]]?
+	- C: New mission! I'm actually not allowed to talk about it
+	- I CAN'T KEEP UP :(
+		- Julian speculates that we're being assigned a mission by [[The Keeper]], and that we're enroute to Diamond (correct)
+- Cordelia: You look... pain... ful?
+	- [[Vallen The Immortal|Vallen]] steps in and says we have places to go
+- [[Cal Corvo|CAL]] IS LIKE "VALLEN ARE YOU GONNA LET HIM STEAL YOUR GIRL"
+	- VALLEN AND JULIAN ARE LIEK!??!?!
+	- OH MY GOD
+	- GIRL
+	- GOOD GOD GOOD GRIEF GOOD FUCKING GOD
+- Cal pulls a knife out and is like ARE YOU REALLY JULIAN???
+	- Camille asks him who Cal was drinking and eating eggs with at the bar on "the ship"
+	- He correctly says that he was with gnomes/dwarves 
+- JULIAN'S BEEN HAVING [[Dreams & Visions|DREAMS]] OH MY GOD
+	- CORDELIA GRABS HIM BY THE SHOULDERS AND IS LIKE WHAT KIND?? (the same kind as ours)
+	- He knows about the [[Pyramid]] and the [[Orb]], but not about their nature
+- Julian confesses that he knows a little about our mission (through the grapevine -- [[Clover Military|the army]] talks)
+	- **HE CONFESSES TO NOT TRUSTING CLOVER ANYMORE**
+	- He says he's willing to abandon his post
+		- Cordelia says that's blasphemy -- [[Constance Devorak|his father]] wouldn't be happy about that
+- Camille says that Julian didn't have the same guidance as we did, so figuring out everything must be really scary
+	- They ask him what happened to him during the battle against [[OSIRIS]] when he got bamphed away -- he doesn't remember (thousand-yard-stare tea)
+- Julian asks what the deal with the [[Warforged]] is
+	- We confess that the Warforged might be splitting from Diamond
+- Camille tries to contact [[The Curator]] to ask for him to rope Julian into our little dream group
+- Julian asks to come to us. He has a shield an axe, and is a paladin of [[Lathander]]
+	- JULIAN SAYS THAT LATHANDER'S NEVER SPOKEN OF VALLEN
+	- JULIAN PRAYS TO LATHANDER. HE SAYS "LATHANDER DOESN'T KNOW OF YOU" (to Vallen)
+		- VALLEN'S LIKE ???
+		- CAMILLE THEORIZES THAT VALLEN'S REAL GOD (WHO GIVES HIM PALADIN-ISH SMITE POWERS) IS [[Kanchelsis|KANCHELSIS]]
+			- VALLEN SAYS THAT KANCHELSIS IS AN EVIL GOD SO HE DOESN'T HAVE ACCESS TO DIVINE MAGIC LIKE THAT
+			- CAMILLE IS LIKE ?? WTF DO YOU KNOW HOW GODS WORK HOW CAN YOU SAY FOR CERTAIN
+- We all spout secrets
+	- Cal pissed himself until he was 14
+	- [[Kaya Avarice|Kaya's]] best friend abandoned her
+	- Camille refuses to share anything
+- Julian asks if he can join us again
+	- Camille asks Cordelia if she's okay with this -- they'll back her up. She says that she fears she doesn't have a choice, and that this is fate
+- Cordelia shares her first dream -- Julian's had the same one!! He thought the figure in the sky was [[OSIRIS]]
+- Julian shares the last [[Dreams & Visions|dream]] he had (last night) where he was trapped in a desert and wandered for days
+	- We talk about our dreams not being synced up
+- Julian officially joins the party!!
+- Camille says that they'll be back to cast <span style="color:rgb(197, 124, 22)">Tiny Hut</span> in roughly 2 hours
+	- Everyone's like ??? but then they're like "I'm gonna visit my brother's grave and I don't want anyone to see me cry"
+- Julian goes to bed alone
+	- He's like "I don't wanna see any of you in my dreams" and then is like "...<sub>except for one of you</sub>"
+	- CORDELIA WINS!!!
+- As they get ready for bed:
+	- Kaya carves a hand with the middle finger sticking out
+	- Cal tinkers with shit
+
+## Camille goes into the woods
+- THEY TRY TO DIG UP THEIR BROTHER. IT'S REALLY FUCKED UP
+- He's lying in a makeshift coffin in the middle of a field of flowers that seem to have sprouted up magically
+	- The grave is marked by a little stick and a smooth stone, upon which is etched *"Here lies my beloved brother: Mimi"*
+- They tell "Mimi" stories about their whole adventure, and apologize for not visiting sooner
+- They cast <span style="color:rgb(197, 124, 22)">Revivify</span> twice - once by pressing the diamond into the dirt and the second by touching it to the body itself - neither works
+	- They spend the next hour crying
+
+# We dream (separately)
+## Cal's Dream
+- He awakens in a fog-covered place, upon smooth ground. He knows it is the [[Shadowfell]]
+- He walks for a *while*. Then he hears another set of footsteps behind him.
+	- Turning around, he sees nothing.
+- He keeps walking, then hears footsteps directly behind him again
+	- He keeps walking, not looking back. But he slows down a little
+	- The footsteps slow down in tandem
+- Cal starts walking faster, but the footsteps sound just as close to him
+- When he turns around this time, he sees [[The Raven Queen]]
+	- She asks him why he's here
+	- SHE'S LIKE "YOU'RE *ACTUALLY HERE.* LIKE YOUR ***SOUL*** IS HERE."
+		- Cal is like "idk man 🤷‍♂️"
+- She's "talked to a friend of \[hers\]", and that she's decided that it's about time that he gets what he's been asking for
+	- From here on out, he'll be able to summon a copy of [[Cal's Contract|his contract]]
+	- When he summons his contract, a blob of dark emerges from his hand, unfolding into a LONG-ASS scroll that rolls past him
+- The Raven Queen asks him to leave the Shadowfell, and says that he isn't welcome here yet (as much as she would like him to stay)
+	- Cal's like ?? idk how
+- He blinks, then he awakes
+
+## Kaya's Dream
+- Kaya finds herself in a bedroom -- it looks like the bedroom of a royal palace
+	- The fancy blanket that she has? Yeah. There are like 4 of them
+	- She tries to jump for joy, but as she puts her hands up she sees a toddler's hands
+		- Kaya *realizes that she is currently a child*
+- There's a knock at the door, then a maid walks in and up to her
+	- The maid greets her good morning, picks her up, and starts getting her ready for the day (brushing her hair and shit)
+	- For some reason, **this feels familiar**. But she doesn't recognize the maid or anything in the room
+- She blinks, then she flashes foreword. She's holding someone's hand, walking through a royal capital
+	- Not like [[Clover Capital|Clover's capital]] -- it's different
+	- She looks up at the person whose hand she's holding: it's a male tiefling, wearing royal garb. His skin is a darker shade of green from hers
+- Another flash forward: she's sitting at a large royal dining table
+	- A royal-looking woman leans over the table, trying to feed her. The woman is of a blue shade
+- She blinks again, and she wakes up.
+
+## CORDELIA GOES TO HELL
+- Based on her studies, she opens her eyes and realizes where she is: the first layer of hell
+	- She looks down, and sees a long beard. This isn't her, but someone else.
+- The man's hand reaches into his pocket, and pulls out a set of [[Tarot Cards]]
+	- He starts throwing cards out, and she sees spells that she's never seen or studied before in her LIFE
+	- Also he's in front of like, a sea of demons btw
+- He pulls out another card, and a <span style="color:rgb(197, 124, 22)">Fireball</span> begins to form -- except it just keeps on growing
+	- It keeps growing, and growing, and growing, until it destroys the entire first layer of hell
+
+## Camille's Dream
+- They wake up, and find themself sitting in a void of space
+	- It actually looks like the ruins of a temple
+	- THE SAME TEMPLE IN WHICH THEY SPOKE TO [[AVANDRA]]
+- A blue light appears, and speaks to them in both a man and woman's voice
+- CAMILLE ASKS IF THERE'S AN AFTERLIFE. THEN THE TEMPLE GLITCHES??
+	- THEY'RE STILL IN THE TEMPLE, BUT IT'S DARK AND EVIL-LOOKING NOW
+	- THERE'S A WHITE MAN (😱) WITH A SMOOTH, FEATURELESS 
+- "My little Changeling... You are quite interesting, interesting indeed."
+- THINGS HAPPEY
+- QHWAT THE FUCK
+- SOMETHING SOMETING "ARE YOU ONE OF US OR ARE YOU AN OBSTALCE ON OUR PATH TO GREATNESS"
+- The same glitch effect happens, and they wake in a cold sweat with tears in their eyes
+
+# The Aftermath
+- We all wake up to little gifts next to our bedrolls!!
+	- Cordelia: a vial of perfume + nice fountain pen
+	- Kaya: a nice soft silk pillow, embroidered with a K + playing card deck
+	- Cal: smith's tools
+	- Camille: cook's utensils (just kinda set out in front of their tent)
+- Everyone's FREAKING it
+	- Cordelia's crying thinking that she's going to hell
+	- Cal is yelling
+	- Kaya is pretty happy tbh -- she mentions maybe having parents??
+	- Camille is subdued
+- Vallen comes in, dragging a deer. He comments on us waking up late
+	- He tries to talk to Cordelia, learns that she went to hell but not what circle
+	- He talks to Cal, who tells him that he "has some reading to do"
+- Vallen offers to help read stuff
+	- Cal pulls out his contract, which rolls all the way onto the ground (Vallen: "Holy shit")
+	- Vallen asks if it's a contract (yes). He asks for what (Cal says "it's all right here")
+- Julian rolls up to Cordelia, who's starting to calm down
+	- He asks her if she's okay :( she had a very intense dream -- "it's been a very long month"
+	- He apologizes to her for how terrible things have been, and pats her on the head reassuringly :]
+- Kaya quietly pulls out a handkerchief, and passes it to Camille
+	- They dab at their tears and thank her, before saying breakfast is ready
+- **WHAT VALLEN FINDS ABOUT CAL'S CONTRACT**
+	- He can:
+		- Cast <span style="color:rgb(197, 124, 22)">Eldritch Blast</span>!
+		- Speak to ravens!!
+- Vallen asks Camille why they're crying
+	- They WERE crying, but they're not anymore
+	- They say they were talking to their god, but then she disappeared and then there was a "man" there
+	- Vallen asks if the man made them cry -- they answer inconclusively
+		- He says that if they ever want to talk about it, they can
+- 

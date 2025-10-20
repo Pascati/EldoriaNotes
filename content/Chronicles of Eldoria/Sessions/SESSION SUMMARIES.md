@@ -1,4 +1,5 @@
 # Prologue
+---
 ## [[Session 01]]
 - Character introductions ([[Camille Xotli|Camille]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]])
 - Investigating [[The Ritual]] and the missing children
@@ -41,7 +42,7 @@
 ## [[Session 09]]
 - Arriving in [[Holden]] for the first time, preparing for [[Dagen's Masquerade]]
 - Attending the masquerade!
-	- Meeting [[Julian]] & [[Caduceus Pope]] for the first time
+	- Meeting [[Julian Devorak]] & [[Caduceus Pope]] for the first time
 	- Learning of Dr. Pope's goal of Eldoria's destruction
 	- Learning of the creation of [[Warforged]]
 	- Warforged vs vampire face-off cliffhanger!!
@@ -62,6 +63,7 @@
 	- Foo's key (which can open [[Foo's doors]])
 
 # Act I
+---
 ## [[Session 11]]
 - Meeting [[Island]] and [[Aria]] at the bakery
 - Retuning to [[Hillford]] from [[Clover Capital|the Capital]]
@@ -77,8 +79,8 @@
 - [[Camille Xotli|Camille]] speaks to [[Sulk]] twice, reveals their true first name and discovers:
 	- Information about [[Changelings#The Father|The Father]] and the [[Changelings]]
 - [[Cordelia Elysian|Cordelia]]:
-	- Speaks to [[Julian]] about their arranged marriage
-	- Confesses to Camille that she has feelings for both [[Vallen The Immortal|Vallen]] and [[Julian]]
+	- Speaks to [[Julian Devorak]] about their arranged marriage
+	- Confesses to Camille that she has feelings for both [[Vallen The Immortal|Vallen]] and [[Julian Devorak]]
 	- Passes a letter to Julian
 - The party arrives in [[Mossley]]
 	- The first battle with the [[Warforged]] occurs

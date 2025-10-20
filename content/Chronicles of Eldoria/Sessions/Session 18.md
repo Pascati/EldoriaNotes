@@ -417,7 +417,7 @@
     - She says that she needs to deconstruct the person she was when she entered this town
     - Vallen responds by saying that she’s made friends because of who she is _now_, not because of who she’s going to be
 - Cordelia says that she wishes for her future self is someone else
-    - Vallen says to hell with [[Mystra]], Balthazar, [[Julian]], and [[Cordelia's Mother|her mother]]. Just think about Cordelia, no-one else. He asks her what’s wrong with Cordelia
+    - Vallen says to hell with [[Mystra]], Balthazar, [[Julian Devorak]], and [[Cordelia's Mother|her mother]]. Just think about Cordelia, no-one else. He asks her what’s wrong with Cordelia
         - Cordelia doesn’t have anything to say in response
 - Vallen asks Cordelia if she knows about the story of [[Karsus]]
     - She knows he was someone who broke the laws of magic, angered Mystra, and died in a fallen city
