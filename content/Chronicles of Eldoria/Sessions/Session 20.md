@@ -131,12 +131,13 @@
 - The same glitch effect happens, and they wake in a cold sweat with tears in their eyes
 
 ### CJ's Speech Transcription
-- 1. “Ohhhhhhh my little changeling… you’re an interesting one.. aren’t you?”
+- “Ohhhhhhh my little changeling… you’re an interesting one.. aren’t you?”
 - “Oh this? This is nothing, Divine magic is.. simple to bypass when you understand it down to the fundamentals..” “Dear child… why do you search for purpose when you are given one?”
 - “You’re a changeling. Not a tiefling, not a human, not an elf…. A changeling…”
 - “A being of lies, deception, and yet… you despise lies you despise deception… it’s interesting to me, you despise the very thing that you are..”
-- “You walk around as Camielle yet you are not him, you work with clover yet they are the enemy, you walk around with this high and mighty outlook yet you are… nothing.. at least without your god that is…”
-- “Speaking of… you’ve had this itch in the back of your head… ask yourself out loud… do you serve the wrong god?” “You serve a god, who let Camille die… and you do not possess the power to bring him back.. do you?”
+- “You walk around as Camille yet you are not him, you work with clover yet they are the enemy, you walk around with this high and mighty outlook yet you are… nothing.. at least without your god that is…”
+- “Speaking of… you’ve had this itch in the back of your head… ask yourself out loud… do you serve the wrong god?”
+- “You serve a god, who let Camille die… and you do not possess the power to bring him back.. do you?”
 - “Your god can bring him back but will not… why? Because there’s a higher purpose? Because there's meaning in his death?”
 - “No… the gods want to toy with you, the gods want to watch you struggle…”
 - “The gods want nothing more than for you to stay in your lane, watch from the sidelines as the world passes you by so they may continue being worshipped…"
@@ -176,4 +177,124 @@
 	- They say they were talking to their god, but then she disappeared and then there was a "man" there
 	- Vallen asks if the man made them cry -- they answer inconclusively
 		- He says that if they ever want to talk about it, they can
-- 
+
+# Going to [[South Haran]]
+## Traveling!
+- Julian walks next to Cordelia
+- Camille falls back to walk next to Vallen, and tells him that they think they met [[The Father (Maybe)]] in their dream
+	- They share that:
+		- They were talking to [[Avandra|their god]], before 
+		- [[The Father (Maybe)]]
+- Cal switches places with Camille, and asks them to review the contract
+	- Investigation: 11
+		- *"The Raven Queen in allegiance with The Outsider gives his abilities for vengeance and justice."*
+			- "The Outsider" is specifically listed as a third party
+		- *"In exchange for his powers, he hopes the interested party uses them for vengeance until the contract is expired."*
+			- They don't find anything pertaining to when the contract might terminate
+	- They suggest that Cal speak to the Raven Queen about this next for clarity, but then rescinds that suggestion and instead says that he should speak to another god
+		- [[Lathander]] maybe?? They pass him the amulet they've been carrying around with his symbol
+	- Kaya also tries to read it!! (<span style="color:rgb(197, 124, 22)">Guidanced</span> Investigation: 11)
+		- SHE FINDS THE EXACT SAME THING. GOD DAMNIT
+	- Cordelia's handed the contract by Camille, also tries to read it (<span style="color:rgb(197, 124, 22)">Guidanced</span> Investigation: 15)
+		- What she finds:
+			- *"Serving 'till death"*
+			- *"The interested party is granted longevity so he can never grow old or tired, but he can still die of natural causes."*
+		- CORDELIA FINDS A CLAUSE ABOUT STRAIGHT SEX:
+			- *"The interested party may never have sex with another woman again."*
+			- CONSEQUENCES FOR HAVING SEX WITH A WOMAN:
+				1. *"Death"*
+				- THAT'S IT LMAO?? RIP TO THAT GUY (LITERALLY)
+- Julian's like "You signed a contract with The Raven Queen \[you can't have sex with anyone\]"
+	- THERE'S TALK ABOUT CAL DYING OF PUSSY
+	- Camille's like you can have sex with someone who's not a woman.. you wanna try with Cal?
+		- And then they're like nvm you probably shouldn't do that, you're engaged to Cordelia and that'd make her sad
+		- THEY'RE LIKE UUHHHHHH WE'RE NOT ACTUALLY ENGAGED W/E. EMBARRASSED AS HELL.
+- We all try to figure out who Cal can have sex with
+	- THE GOTH BADDIE FROM THE BOAT
+	- Julian seems to recognize her when Kaya describes her -- he doesn't know her name, but he doesn't know her biblically
+		- Apparently she's a covert operative?? And [[Arthur Elysian|Cordelia's father]] told her about a group of servals
+		- SHE OUTRANKS JULIAN
+
+# WE FINALLY MAKE IT TO SOUTH HARAN
+- GROUP PERCEPTION
+	- WE REALIZE JULIAN'S IN HIS FULL PLATE WITH CLOVER INSIGNIA
+		- CAMILLE THROWS THEIR CLOAK OVER HIM
+		- CORDELIA THROWS HERSELF IN FRONT OF HIM
+		- CAL TRIES TO GIVE HIM HIS CLOTHES
+	- Julian puts his hand over the insignia, and somehow melts the insignia off -- burning a hole into Camille's cloak
+		- They're like "it's ok🙂 ! so many bad things have happened that this is water under the bridge"
+	- We also see a few [[Warforged]] patrolling -- people make way for them
+		- There are a few small ones, but no big ones
+		- The ones that are walking around look EXACTLY like
+		- Camille shares what we saw at the [[Hillford]] mithril mine of Warforged fighting each other over what to do with the mithril
+			- Julian reports that there are whisperings of the same thing happening at EVERY mithril mine in Clover
+
+## Drinking time!!
+- We roll into a local bar
+	- People turn around and look, and after a moment, turn back to their own business
+		- Camille clocks that they were checking if we're Warforged, and they share with the gang that Warforged might have a bad reputation in town
+- We decide to drink, but agree to keep a low profile since we're in Diamond
+- Julian's like "so let me get this straight":
+	- Cal: under the influence of the Raven Queen
+	- Cordelia: engaged to him
+	- Camille:
+		- "I'm just a normal guy!"
+		- "No ."
+	- Kaya: royalty??
+- Camille tells Julian about the doors and vaguely how they work (we can pass through them twice a day)
+	- They message Foo and ask him how to find the doors. In response he says *"Camille! Those doors will reveal themselves when necessary"*
+- Camille asks Julian to go away for a bit so they can tell the gang about their dream
+	- EVERYONE discovers that Vallen doesn't like Julian 😶
+		- He doesn't like the fact that he just kinda showed up and asked to join -- suspicious as hell
+		- Cordelia BEEFS with that perspective, apparently 👀
+### Camille shares their dream
+- it was BAD
+- Cal says that if the gods won't help them, maybe the party can help bring him back!!
+	- Cordelia theorizes about manipulating souls using arcane magicks in the same way that Warforged (theoretically) do
+	- Camille reminds the gang that [[Caduceus Pope|Dr. Pope]] has a lab in [[Iron forge]], as mentioned by [[Garrett]]
+	- Cordelia says that their paths intersect, since she's seeking out [[Balthazar]] in a nearby town
+- The gang talks about potentially taking a detour to [[Wigson]] to visit [[Balthazar]]
+- Vallen says that both Cordelia and Kaya are nobles/royalty, and that their first instinct is to turn their backs on their kingdoms
+	- CORDELIA AND VALLEN START ARGUING OMG
+- Where do our allegiances lie?
+	- Cordelia's lies with Clover, since her family is there
+		- She also mentions that [[The Keeper]] seems to be unwilling to share his intentions and plans, and she's irritated by that
+		- Vallen's known The Keeper for YEARS. He trusts him. He admits that that might not be enough for the Party, but the kingdom one is born and raised in is the one which gives one the opportunities and adventures they go on. He also talks about how the Keeper is the most powerful person in Clover, and that his keeping the [[Shapes of Paracausality]] will keep things as they are
+- Cordelia asks why the Keeper doesn't tell us everything, and why he puts so much trust in the Keeper when he doesn't seem to turst US
+	- He's like "yeah I don't trust you, even though I follow you to dangerous places "
+	- *"My god knows me not. My party knows me not. So I will trust the Keeper more than you. I will keep you safe, because that is my job. But no-one is keeping ME safe. So I will place my trust in the man who has kept me safe for years."*
+		- VALLEN TALKS ABOUT HOW NOBODY EXCEPT FOR CAMILLE ASKED 
+	- KAYA DECLARES THAT WE WILL DO WHATEVER WE NEED TO TO EARN HIS TRUST. THEN SHE GOES TO FIND HIM SOME RAW MEAT/BLOOD IN THE KITCHEN!!!
+- We talk about Vallen's connection to Divinity ([[Lathander]] and [[Kanchelsis]] specifically)
+	- Lathander's basically disowned Vallen, and doesn't respond to Camille's prayer
+	- Camille still theorizes that Kanchelsis is giving Vallen his smiting ability and now powers -- even though [[Kanchelsis]] technically isn't a god, divinity can be circumvented, as [[The Father (Maybe)|The Father]] has shown
+	- Cordelia suggests that another god holds Vallen's soul - Lathander or Kanchelsis or not - but she thinks that she can speak for everyone when she says that we prefer the Vallen that has traveled with us all this time -- regardless of whether or not he aligns himself with the Keeper or the party
+		- Vallen admits to speaking in anger when he said he trusts the Keeper more
+- Cordelia tells Vallen that he's as much a part of the group as the rest of us, so he has a say on what we do with Julian
+	- Vallen says that we should let him travel with us 
+	- Camille suggests that we can let him travel with us, but we don't have to tell him everything
+- Camille mentions that we can cast <span style="color:rgb(197, 124, 22)">Zone of Truth</span> to get Julian to tell us the truth about his deal, and casts it
+	- LITERALLY EVERYONE AT THE TABLE FAILS 💀
+	- Julian comes back and willingly fails the save upon Camille's request
+		- HE ADMITS TO NOT BEING EVIL
+		- When asked "What do you think of Cordelia?" he says that he's gonna marry her one day 🥺
+	- Camille asks Kaya what she thinks of the party
+		- SHE'S SO SWEET AND SAYS THAT IF ANYTHING HAPPENS TO THE PARTY SHE WILL KILL PEOPLE
+		- SHE MAKES THEM CRY
+	- Camille asks Cal what he thinks of us
+		- WE'RE LITERALLY HIS BEST FRIENDS. I LOVE FRIENDSHIP!!!
+	- Julian asks Cal why he's called the "egg master" or some shit
+		- CAL PULLS OUT HIS MINI EGG FRIDGE AND A ROTTEN ONE. WHICH HE EATS IMMEDIATELY
+	- Julian asks Kaya and Cal which one of them's stronger (THEY ARM WRESTLE)
+		- KAYA GETS BUFFED BY CAMILLE (<span style="color:rgb(197, 124, 22)">Guidance</span> and <span style="color:rgb(197, 124, 22)">Enhance Ability</span>) WHILE CAL TRIES TO SABOTAGE HER BY SUMMONING A ROTTEN EGG BETWEEN THEIR HANDS
+		- KAYA STILL WINS THO!!!
+- Julian and Kaya arm wrestle
+	- JULIAN WINS BY A LANDSLIDE
+- Julian and Vallen arm wrestle
+	- VALLEN SWEEPS THE FLOOR WITH JULIAN. HE LITERALLY YAWNS AS HE BEATS HIM!!!
+	- Cordelia is like 👀
+
+
+OUT OF CHARACTER: we discuss which town we're going to next (during next session)
+- URINE VS BRIDGETON
+	- We agree to go to Bridgeton, but also we MIGHT go to Urine as a treat
