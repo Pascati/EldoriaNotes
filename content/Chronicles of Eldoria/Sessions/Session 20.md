@@ -130,8 +130,23 @@
 - SOMETHING SOMETING "ARE YOU ONE OF US OR ARE YOU AN OBSTALCE ON OUR PATH TO GREATNESS"
 - The same glitch effect happens, and they wake in a cold sweat with tears in their eyes
 
+### CJ's Speech Transcription
+- 1. “Ohhhhhhh my little changeling… you’re an interesting one.. aren’t you?”
+- “Oh this? This is nothing, Divine magic is.. simple to bypass when you understand it down to the fundamentals..” “Dear child… why do you search for purpose when you are given one?”
+- “You’re a changeling. Not a tiefling, not a human, not an elf…. A changeling…”
+- “A being of lies, deception, and yet… you despise lies you despise deception… it’s interesting to me, you despise the very thing that you are..”
+- “You walk around as Camielle yet you are not him, you work with clover yet they are the enemy, you walk around with this high and mighty outlook yet you are… nothing.. at least without your god that is…”
+- “Speaking of… you’ve had this itch in the back of your head… ask yourself out loud… do you serve the wrong god?” “You serve a god, who let Camille die… and you do not possess the power to bring him back.. do you?”
+- “Your god can bring him back but will not… why? Because there’s a higher purpose? Because there's meaning in his death?”
+- “No… the gods want to toy with you, the gods want to watch you struggle…”
+- “The gods want nothing more than for you to stay in your lane, watch from the sidelines as the world passes you by so they may continue being worshipped…"
+- “You do have a higher purpose… Quén, you do have the opportunity to be what you want, to GET what you want..”
+- “There is a god, willing to help, willing to give you that power… you need only ask.. you need only prove yourself to him”
+- “The god of lies… awaits you... awaits your next move..”
+- “The coming days will prove if you’re really one of us… or if you’re just another obstacle on the path to greatness."
+
 # The Aftermath
-- We all wake up to little gifts next to our bedrolls!!
+- **We all wake up to little gifts next to our bedrolls!!**
 	- Cordelia: a vial of perfume + nice fountain pen
 	- Kaya: a nice soft silk pillow, embroidered with a K + playing card deck
 	- Cal: smith's tools
