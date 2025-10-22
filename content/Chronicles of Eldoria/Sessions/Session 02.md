@@ -4,6 +4,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 ---
 <html><body><div style="display: block; width: 100%"> <a href="Session 01.md" class="internal-link" style="float:left">← Session 1</a> <a href="Session 03.md" class="internal-link" style="float:right">Session 3 →</a> </div></body></html>
 
+---
 # Recap
 - We took a long rest!
 - While we were resting, [[Cordelia Elysian|Cordelia]] had a very weird dream -- she's never had a dream like that before
