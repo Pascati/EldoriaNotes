@@ -2,6 +2,7 @@
 share_link: https://share.note.sx/z6ilhxis#WjcUkRRKBbBxzTfchzhVFezUDrqxznLkzGf7B1o49Wo
 share_updated: 2025-06-01T22:55:50-05:00
 ---
+[[Session 02|→ Session 2]]
 # Preamble
 - Everyone is in the town of [[Hillford]]
 - [[Nicholas Powers]]: famous adventurer, rumored to be in town investigating the disappearances of small children
@@ -215,7 +216,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 	- Writes a letter to her friend, saying something along the lines of "If I don't see you in the next few months, don't worry. I love you."
 
 ### [[Dreams & Visions|Dream Sequence]] Timeeee 🤩
-#### Cordelia
+#### Cordelia's Dream
 - She's back in class and learning! The topic is something that she's learned countless times before, so she's daydreaming
 - She smells *lavender*, at first
 	- It's a smell that makes her feel happy and peaceful
@@ -225,3 +226,5 @@ share_updated: 2025-06-01T22:55:50-05:00
 - In the sky, there is a man in a cloak
 	- He turns to her, and **she feels as if IT is her fault**.
 - Cordelia wakes up.
+
+[[Session 02|→ Session 2]]

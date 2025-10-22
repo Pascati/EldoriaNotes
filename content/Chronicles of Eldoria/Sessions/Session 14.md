@@ -145,7 +145,7 @@
     - Vallen asks what the Curator said about our dreams -- Camille says that they might be glimpses of a possible future?
 - Kaya walks into the room (she’s mad that her wonderful night was ruined by a terrible dream)
 - Camille shows Cordelia, Kaya, and Vallen the necklace they found
-    - They theorize that the Father is the same person as Asmodeus
+    - They theorize that [[Changelings#The Father|the Father]] is the same person as [[Asmodeus]]
     - They share that the Father is thousands of years old, and that he can share magic with people in his organization
 - Cordelia flashes the letter that she wrote to Camille
     - She doesn’t know where Julian’s room is, but they can do some snooping 😈
@@ -158,7 +158,7 @@
     - KAYA UNHOOKS CAL’S HANDS AND LEAVES THE REST FOR CAL TO TAKE CARE OF HIMSELF
     - Cal is so excited about the things that were done to him 💀😭😭
 - We have breakfast (eggs, bacon, hashbrowns)
-    - Camille tries to share what happened, but finds out that Vallen and Kaya eavesdropped on their conversation with Sulk/”Voss”
+    - Camille tries to share what happened, but finds out that Vallen and Kaya eavesdropped on their conversation with [[Sulk|Sulk/”Voss”]]
     - THE VIBES ARE OFF AS THEY CONTINUE TO TRY AND SHARE INFORMATION. They end up excusing themself to “look for some information” as Vallen tries to apologize and excuse himself/Kaya for listening in
 - Camille finds where Julian sleeps (in the barracks, where he shares a room with a bunch of other guys)
     - They report back to Cordelia, and ask if she wants help delivering the letter. She says she’d rather do it on her own

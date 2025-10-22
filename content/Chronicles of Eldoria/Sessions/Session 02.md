@@ -2,6 +2,8 @@
 share_link: https://share.note.sx/pp8lv7jl#+aCASn7ObypbRKJa6YKf6IndejiQKOGmTY8ueQr0I84
 share_updated: 2025-06-09T17:47:12-05:00
 ---
+[[Session 01|← Session 1]]
+[[Session 03|→ Session 3]]
 # Recap
 - We took a long rest!
 - While we were resting, [[Cordelia Elysian|Cordelia]] had a very weird dream -- she's never had a dream like that before
@@ -516,3 +518,6 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- **We met with his long-lost cousin** and that **it is time to travel**
 - *If we need [[The Keeper|V]], we can use the sending stones*
 - [[The Keeper|V's]] ass SUMMONS A BLACK HOLE (or what looks like one) and uses it to teleport away
+
+[[Session 01|← Session 1]]
+[[Session 03|→ Session 3]]

@@ -1,20 +1,28 @@
+---
+aliases:
+  - Julian
+---
+
 # Character Profile
 ![[Julian.jpg|240]]
 - Journeyman in the [[Clover Military]], but his father is a Captain
 - [[Cordelia Elysian]]'s fiancée (through an arranged marriage organized by Cordelia's mother and Julian's father, I think)
-- HAS AN IRISH ACCENT
-- Exactly 6'0"
+- Appearance/Descriptors:
+	- HAS AN IRISH ACCENT
+	- Exactly 6'0"
+	- COVERED in burn scars (from the battle during [[Session 17]]. Most notably, one starts on his left cheek and trails down his neck.
 
 ## Factions/Affiliations
 - [[Clover Capital]]
-- [[Clover Military]]
+- [[Clover Military]] (Former? Defected from station)
 - [[Constance Devorak]]
-- [[The Party]]
+- [[The Party]] (Current)
 
 # Known Information
 - First (properly) encountered at [[Dagen's Masquerade]], where he danced and flirted with Cordelia without realizing who she was
 
 # Appearances
-- [[Session 09]] (At the masquerade)
+- [[Session 09]] (At the Pink Pony Inn & masquerade)
 - [[Session 10]]
 - [[Session 19]] (cliffhanger encountered in [[Lycoris]])
+- [[Session 20]]

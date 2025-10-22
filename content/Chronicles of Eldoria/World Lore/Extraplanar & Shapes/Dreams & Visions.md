@@ -108,8 +108,9 @@ banner-radius: 15
 - Vallen and a masculine-looking figure (wearing a long coat) stand on a small peninsula nearby
 	- There's a flash of light and *Vallen falls over*
 
-## Julian's Solo Dream
+## Dream 11
 - [[Session 20]]
+- Had by [[Julian Devorak|Julian]] (alone)
 - The night before joining the Party, he had a dream where he was trapped in a desert (a long, never-ending beach) where he traveled and wandered for days
 
 

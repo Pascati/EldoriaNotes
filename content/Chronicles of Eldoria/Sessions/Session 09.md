@@ -24,7 +24,7 @@
     - He says we can visit the whorehouse + the homeless + (one other group I forgor)
     - His logic is that we can search for information with the people and do some reconnaissance tn!!
 
-# WHO UP HOLDING THEY EN (HOLDEN)
+# WHO UP HOLDING THEY EN ([[HOLDEN|HOLDEN]])
 - As we approach Holden, the road gets darker as the trees shadow the path
 ![[Holden.png|300]]
 
@@ -108,14 +108,14 @@
     - **NEW RULE: The player must tell Camille that they’re doing something before they make a roll for <span style="color:rgb(197, 124, 22)">Guidance</span> to apply**
     - She sees a table with three people sporting Clover symbols (two older gentlemen and a younger man)
         - Cordelia recognizes them as Clover Ambassadors that are SPECIFICALLY from Clover -- she doesn’t recognize their faces
-        - One of the ambassadors (older gentleman) is a higher ranking noble (brunette)
-        - The younger man is also a noble (blonde, doesn’t super look like he wants to be there)
+        - [[Constance Devorak|One of the ambassadors (older gentleman)]] is a higher ranking noble (brunette)
+        - The [[Julian Devorak|younger man]] is also a noble (blonde, doesn’t super look like he wants to be there)
         - The other gentleman seems to be a friend of the first noble (brunette)
 - IT’S THE SAME BARMAID AS LAST NIGHT!!! BRUH GIRLIE IS SO OVERWORKED
     - Camille gets some menus!! The tavern’s logo is in the top corner: **The Pink Pony Inn**
     - Camille and Cordelia each slide her 5 gold for her troubles 😭
 - CORDELIA AND VALLEN ARGUE!! WE HAVEN’T TOLD VALLEN ABOUT THE SHAPES.. WHOOPS
-- **Camille theorizes that - because Cal had the Pyramid in his eyes when he approached the dungeon door - maybe he’s wanted because some kind of experiment is being done on who can touch the pyramid and who can’t**
+- **Camille theorizes that - because Cal had the [[Pyramid]] in his eyes when he approached the dungeon door - maybe he’s wanted because some kind of experiment is being done on who can touch the Pyramid and who can’t**
     - WE DISCOVER THAT WE HAVEN’T TOLD VALLEN THAT CAL’S SEEN THE PYRAMID EITHER. WHOOPS!!
 - Cordelia wants to get to know the party LMAO WE BARELY KNOW EACH OTHER!!
 - Vallen goes through the party:
