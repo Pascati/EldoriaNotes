@@ -2,8 +2,10 @@
 share_link: https://share.note.sx/ej2mcc8a#LIDorDK+df4tfhOqzvADOeIqUF1sv476E+D0RkY4C8k
 share_updated: 2025-06-19T01:00:50-05:00
 ---
-Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
+[[Session 02|← Session 2]]
+[[Session 04|→ Session 4]]
 
+Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 # Recap
 - We recap (check previous notes)
 - *Camille gets inspiration* because Izzie brought snacks :]
@@ -461,3 +463,6 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 	- He asks them if they know where the [[Orb]] is
 	- They lie and say that they can't remember (Deception dirty 20)
 		- BEFORE THEY CAN FINISH LYING IG?? CAL BARRELS [[Dox|"CORY"]] OVER AND SAYS SOMETHING ABOUT GETTING THE NEXT ONE TO TELL HIM IF [[Dox|"CORY"]] ISN'T GOING TO TALK
+
+[[Session 02|← Session 2]]
+[[Session 04|→ Session 4]]

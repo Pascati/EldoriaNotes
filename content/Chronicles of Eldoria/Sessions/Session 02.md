@@ -2,8 +2,23 @@
 share_link: https://share.note.sx/pp8lv7jl#+aCASn7ObypbRKJa6YKf6IndejiQKOGmTY8ueQr0I84
 share_updated: 2025-06-09T17:47:12-05:00
 ---
+--- start-multi-column: ID_hpqn
+```column-settings
+Number of Columns: 2
+Largest Column: standard
+Border: disabled
+Shadow: off
+Text Align: [Left, Right]
+```
+
 [[Session 01|← Session 1]]
-[[Session 03|→ Session 3]]
+
+--- column-break ---
+
+[[Session 03|Session 3 →]]
+
+--- end-multi-column
+
 # Recap
 - We took a long rest!
 - While we were resting, [[Cordelia Elysian|Cordelia]] had a very weird dream -- she's never had a dream like that before

@@ -2,6 +2,9 @@
 share_link: https://share.note.sx/lrcdfdgw#AbdCuWR0TakzIHoHoel188+4QgRb9APJ+4pTk9su/bk
 share_updated: 2025-07-06T19:22:02-05:00
 ---
+[[Session 04|← Session 4]]
+[[Session 06|→ Session 6]]
+
 # Mystery Gang Go!
 - Group Investigation
 	- [[Cordelia Elysian|Cordelia]]: 24
@@ -366,3 +369,6 @@ share_updated: 2025-07-06T19:22:02-05:00
 - Camille
 	- Heals Cal back to full with <span style="color:rgb(197, 124, 22)">Healing Word</span>
 	- Tries to heal Vallen with <span style="color:rgb(197, 124, 22)">Cure Wounds</span>, but the spell doesn't affect undead or constructs 💀 so they just pass him a healing potion instead
+
+[[Session 04|← Session 4]]
+[[Session 06|→ Session 6]]

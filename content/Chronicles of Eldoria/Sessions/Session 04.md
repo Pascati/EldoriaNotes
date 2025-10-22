@@ -2,6 +2,9 @@
 share_link: https://share.note.sx/gttbapkj#xEZ+udS6MhOoPjTyqrWNeH9U/GLusb4wwBgCp0y3QqU
 share_updated: 2025-06-24T00:06:59-05:00
 ---
+[[Session 03|← Session 3]]
+[[Session 05|→ Session 5]]
+
 # COMBAT BEGINS
 - Initiative
 	- Cal (21)
@@ -225,3 +228,6 @@ share_updated: 2025-06-24T00:06:59-05:00
 - Investigation
 	- The woman's neck as been *bitten through* (a chunk is gone)
 	- [[Vallen The Immortal|Vallen]] is in the corner trying not to look at the blood (Camille stands in front of him so he doesn't have to see it)
+
+[[Session 03|← Session 3]]
+[[Session 05|→ Session 5]]
