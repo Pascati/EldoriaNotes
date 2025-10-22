@@ -109,9 +109,36 @@ banner-radius: 15
 	- There's a flash of light and *Vallen falls over*
 
 ## Dream 11
-- [[Session 20]]
+- Discussed during [[Session 20]]
 - Had by [[Julian Devorak|Julian]] (alone)
 - The night before joining the Party, he had a dream where he was trapped in a desert (a long, never-ending beach) where he traveled and wandered for days
+
+## Dream 12
+- Technically 4 separate dreams had by [[Cal Corvo|Cal]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]], and [[Camille Xotli|Camille]] during [[Session 20]]
+### Cal's Dream
+- Cal's soul (rather than his consciousness) is somehow transported directly to the [[Shadowfell]]
+- Cal receives his [[Cal's Contract|contract]] from [[The Raven Queen]], along with a method by which he can summon his contract at any time
+	- The Raven Queen mentions talking "to a friend" of hers, who helped her determine that it was about time he received a copy of his contract
+- The Raven Queen asks him to leave - as much as she would like him to stay - since it isn't his time to be with her yet
+	- When she does this, Cal blinks, and he wakes up.
+### Kaya's Dream
+- Kaya finds herself in a toddler's body, awakening in a plush bed surrounded by luxurious blankets. A maid comes in and helps her get ready for the day.
+	- Even though she doesn't recognize her surroundings, everything feels oddly familiar.
+- She flashes forward through two other scenes: one where she walks through an unfamiliar capital - holding the hand of a tiefling man who is a shade greener than her - and another where she is spoonfed at a large dining table by a blue-tinted tiefling woman.
+### Cordelia's Dream
+- Cordelia opens her eyes and finds herself viewing the world through the eyes of a man with a long beard. Before and around her lies the first layer of hell.
+	- Also the man is in front of like, a SEA of devils. Like it's unreal.
+- The man she spectates pulls out a set of [[Tarot Cards]] from his pocket, throwing them out willy-nilly and causing a bunch of crazy shit to happen (some are spells Cordelia recognizes, others aren't).
+	- The final card he throws out summons a <span style="color:rgb(197, 124, 22)">Fireball</span>, except instead of immediately exploding, it grows and grows until it engulfs the entire first layer of hell.
+### Camille's Dream
+- Camille finds themself in the same ruined temple where they first met [[Avandra|their god]], and speaks to her briefly about how they feel bitter about their brother's death - despite understanding logically that there's a reason for everything - and asks if they can bring him back one day and if there's an afterlife.
+	- Notably, when Avandra speaks, she has both a man's and a woman's voice
+- Upon asking about the existence of an afterlife, their surroundings seem to *glitch* and Avandra is replaced with a [[The Father (Maybe)|pale figure]]
+	- The figure is able to silence Camille at will
+	- The figure claims:
+		- That divinity is easy to bypass once one understands the fundamentals
+		- The gods are simply toying with them, and that they CAN bring their brother back but choose not to
+		- That the [[Asmodeus|God of Lies]] is able to grant them the power to bring their brother back, and "awaits \[their\] next move"
 
 
 # Theories

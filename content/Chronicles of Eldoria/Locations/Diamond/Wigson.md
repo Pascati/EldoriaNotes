@@ -1,2 +1,2 @@
 - The last known residence of [[Balthazar]], the Keeper prior to [[The Keeper|V]]
-- Located next to [[Iron forge]]
+- Located next to [[Iron Forge]]

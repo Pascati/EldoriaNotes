@@ -1,1 +1,0 @@
-- Obtained during [[Session 20]], when [[Cal Corvo|Cal's]] soul was somehow transported directly to the [[Shadowfell]] during a [[Dreams & Visions]]

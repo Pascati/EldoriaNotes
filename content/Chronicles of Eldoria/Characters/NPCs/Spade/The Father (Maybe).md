@@ -14,5 +14,5 @@
 
 # Appearances
 - [[Session 03]] (Mentioned)
-- [[session 14]] (Mentioned)
+- [[Session 14]] (Mentioned)
 - [[Session 20]]

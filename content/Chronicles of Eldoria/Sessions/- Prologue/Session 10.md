@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 09.md" class="internal-link" style="float:left">← Session 9</a> <a href="Session 11.md" class="internal-link" style="float:right">Session 11 →</a> </div></body></html>
+
+---
+
 - We roll for initiative. these dice are kicking our ASSES
     - CJ lets us reroll like 3 times -- thank u god 🙏
 - The [[warforged]] and [[vampires]] are TEARING into each other
@@ -501,3 +505,7 @@
     - By opening a dimensional portal, Foo’s been getting LOTS more visitors -- the bar is basically a pocket dimension now
 - Foo might call upon us to break up a bar fight or two
 - Foo makes us dinner!!
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 09.md" class="internal-link" style="float:left">← Session 9</a> <a href="Session 11.md" class="internal-link" style="float:right">Session 11 →</a> </div></body></html>

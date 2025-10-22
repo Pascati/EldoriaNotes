@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 17.md" class="internal-link" style="float:left">← Session 17</a> <a href="Session 19.md" class="internal-link" style="float:right">Session 19 →</a> </div></body></html>
+
+---
+
 # WEEK-LONG TIMESKIP
 - We timeskip forward a week!!
 - Over this time period:
@@ -468,3 +472,7 @@
     - The cloak that we’re used to - the one we see OSIRIS wearing - isn’t there. Instead, this individual has a long coat. It sways around the figure’s ankles
 - THERE’S A FLASH OF LIGHT AND VALLEN FALLS OVER?!?!??!?
     - **man fuck this stupid baka life. fuck this stupid baka DREAM!!!**
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 17.md" class="internal-link" style="float:left">← Session 17</a> <a href="Session 19.md" class="internal-link" style="float:right">Session 19 →</a> </div></body></html>

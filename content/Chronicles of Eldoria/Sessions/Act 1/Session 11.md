@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 10.md" class="internal-link" style="float:left">← Session 10</a> <a href="Session 12.md" class="internal-link" style="float:right">Session 12 →</a> </div></body></html>
+
+---
+
 - Celia is here to visit! huzzah!!!
     - LILY KEEPS FARTING ON HER :( VICTIM!!!!!!
 
@@ -268,3 +272,7 @@
     - HE SLEPT WITH FUCKING [[Investigator Teasley|TEASLEY]]. IT WAS NOT GOOD. 👎👎👎👎👎👎👎👎👎👎
     - Camille does not approve. Largely because it doesn’t seem like Vallen had a good time :( homie deserves better than drunk sex with his ex
     - We fill Vallen in on Mossley
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 10.md" class="internal-link" style="float:left">← Session 10</a> <a href="Session 12.md" class="internal-link" style="float:right">Session 12 →</a> </div></body></html>

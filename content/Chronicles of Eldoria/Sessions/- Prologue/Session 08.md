@@ -3,6 +3,10 @@ banner: "![[Images/Story_Underground_Passage_BG.png]]"
 banner-x: 53
 banner-y: 55
 ---
+<html><body><div style="display: block; width: 100%"> <a href="Session 07.md" class="internal-link" style="float:left">← Session 7</a> <a href="Session 09.md" class="internal-link" style="float:right">Session 9 →</a> </div></body></html>
+
+---
+
 - Lily gets inspiration for making everyone a delicious dinner!!
 - **OFFICIAL INSPIRATION RULES: ADD A 1D8 TO A ROLL**
 
@@ -305,3 +309,7 @@ banner-y: 55
     - Cordelia approaches [[Vallen The Immortal|Vallen]], looks all 🫵😤at him, and then goes into the carriage
     - Kaya hops into the carriage
     - Camille explains what happened to us
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 07.md" class="internal-link" style="float:left">← Session 7</a> <a href="Session 09.md" class="internal-link" style="float:right">Session 9 →</a> </div></body></html>

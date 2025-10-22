@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 12.md" class="internal-link" style="float:left">← Session 12</a> <a href="Session 14.md" class="internal-link" style="float:right">Session 14 →</a> </div></body></html>
+
+---
+
 # Investigation Recap
 - The Room
     - The Diamond Kingdom’s symbol is drawn on the walls in [[Warden Holt|Warden Holt’s]] blood
@@ -322,3 +326,7 @@
 - KAYA MAKES EYE CONTACT WITH THE BARMAID
     - SHE WOULD’VE ASKED FOR A ROUND 2, BUT THE EGGS PUT HER OFF!!! LOVE LOSES ☹️
     - CURIOSITY LITERALLY KILLED THE CAT
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 12.md" class="internal-link" style="float:left">← Session 12</a> <a href="Session 14.md" class="internal-link" style="float:right">Session 14 →</a> </div></body></html>

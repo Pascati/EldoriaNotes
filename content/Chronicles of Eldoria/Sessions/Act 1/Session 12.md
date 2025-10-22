@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 11.md" class="internal-link" style="float:left">← Session 11</a> <a href="Session 13.md" class="internal-link" style="float:right">Session 13 →</a> </div></body></html>
+
+---
+
 - We agree to go to [[Mossley]] (by using Foo’s Key to travel to [[Clover Capital|the Capital]], then to Mossley via the ferry)
 - [[Camille Xotli|Camille]] goes to retrieve a commission from [[Durgen Coalbeard|Durgen]] while the party gets ready to leave
 - Camille [[Foo's doors|uses the key on the bar door]], and the party teleports to the Garrison in the Capital
@@ -351,3 +355,7 @@ Bram Trsk (Cook) ((LET HIM COOK))
 Warden Voss (Evil fucking bitch)
 
 Jorking it
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 11.md" class="internal-link" style="float:left">← Session 11</a> <a href="Session 13.md" class="internal-link" style="float:right">Session 13 →</a> </div></body></html>

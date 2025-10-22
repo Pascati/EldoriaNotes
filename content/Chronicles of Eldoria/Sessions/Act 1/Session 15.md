@@ -1,3 +1,6 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 14.md" class="internal-link" style="float:left">← Session 14</a> <a href="Session 16.md" class="internal-link" style="float:right">Session 16 →</a> </div></body></html>
+
+---
 # COMBAT STARTS
 
 - NOTE: ALL DAMAGE THE PARTY DEALS (IF POSSIBLE) IS NONLETHAL
@@ -319,3 +322,7 @@
 - As Camille is burying the bodies, Cal suggests that we burn them
     - Vallen has radiant damage to do the thing, but Camille is too concerned to let him do anything -- they cast _<span style="color:rgb(197, 124, 22)">Guiding Bolt</span> on the bodies and incinerates them
 - Camille spends 10 minutes ritual casting <span style="color:rgb(197, 124, 22)">Tiny Hut</span>, and the gang winds down to rest.
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 14.md" class="internal-link" style="float:left">← Session 14</a> <a href="Session 16.md" class="internal-link" style="float:right">Session 16 →</a> </div></body></html>

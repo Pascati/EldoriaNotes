@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 06.md" class="internal-link" style="float:left">← Session 6</a> <a href="Session 08.md" class="internal-link" style="float:right">Session 8 →</a> </div></body></html>
+
+---
+
 - [[Camille Xotli|Camille]] passes out the sun stones and vampire repellant
 	- Everyone gets 1 sun stone (+[[Vallen The Immortal|Vallen]])
 	- [[Cordelia Elysian|Cordelia]] gets the vampire repellant
@@ -274,3 +278,7 @@
 - Camille casts <span style="color:rgb(197, 124, 22)">Gift of Alacrity</span> on Kaya again (+1d8 to initiative rolls for the next 8 hours)
 - Cal says that he doesn’t want to ride in the carriage with [[Cordelia Elysian|“gasbag”]], and asks to ride in the front with Camille
 	- He also says that it’ll give them a chance to talk? WHAT DOES THAT MEAN?? IZZIE GETS SCARED 😧
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 06.md" class="internal-link" style="float:left">← Session 6</a> <a href="Session 08.md" class="internal-link" style="float:right">Session 8 →</a> </div></body></html>

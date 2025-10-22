@@ -119,3 +119,6 @@
 - Learning of [[Balthazar|Balthazar's]] identity and last known location
 - Encountering a [[Vograr Gravelchin|changeling]] disguised as [[Durgen Coalbeard|Durgen's]] cousin
 ## [[Session 20]]
+- Julian asks a lot of questions, reveals that he's ALSO been having [[Dreams & Visions|dreams]] about the [[Orb]] and [[Pyramid]], and officially joins the party!
+- The party has separate dreams, each pertaining to our individual lore
+- The party arrives in [[South Haran]] on their way to [[Iron Forge]]

@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 15.md" class="internal-link" style="float:left">← Session 15</a> <a href="Session 17.md" class="internal-link" style="float:right">Session 17 →</a> </div></body></html>
+
+---
+
 # Winding down for the night
 - [[Camille Xotli|Camille]] says they want some time to themself - a lot’s happened today - and sits down a little ways away from the <span style="color:rgb(197, 124, 22)">Tiny Hut</span>
 - We debate who should keep watch (since [[Vallen The Immortal|Vallen]] is SO injured but he’s still willing to help)
@@ -301,3 +305,7 @@
 - Camille starts walking
     - Cordelia follows, and as they pass Cordelia whispers and apologizes, saying that they’re not a monster
     - Cal snaps out of his whispering-to-himself reverie and follows
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 15.md" class="internal-link" style="float:left">← Session 15</a> <a href="Session 17.md" class="internal-link" style="float:right">Session 17 →</a> </div></body></html>

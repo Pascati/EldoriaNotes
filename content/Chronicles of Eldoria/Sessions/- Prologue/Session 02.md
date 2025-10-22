@@ -520,4 +520,6 @@ share_updated: 2025-06-09T17:47:12-05:00
 - *If we need [[The Keeper|V]], we can use the sending stones*
 - [[The Keeper|V's]] ass SUMMONS A BLACK HOLE (or what looks like one) and uses it to teleport away
 
+---
+
 <html><body><div style="display: block; width: 100%"> <a href="Session 01.md" class="internal-link" style="float:left">← Session 1</a> <a href="Session 03.md" class="internal-link" style="float:right">Session 3 →</a> </div></body></html>

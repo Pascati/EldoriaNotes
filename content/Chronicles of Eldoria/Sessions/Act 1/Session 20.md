@@ -1,3 +1,6 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 19.md" class="internal-link" style="float:left">← Session 19</a> <a href="Session 21.md" class="internal-link" style="float:right">Session 21 →</a> </div></body></html>
+
+---
 # Spending the night in [[Lycoris]]
 ## Julian joins the party!
 - IT IS LATE AFTERNOON
@@ -19,7 +22,7 @@
 - Cordelia: You look... pain... ful?
 	- [[Vallen The Immortal|Vallen]] steps in and says we have places to go
 - [[Cal Corvo|CAL]] IS LIKE "VALLEN ARE YOU GONNA LET HIM STEAL YOUR GIRL"
-	- VALLEN AND JULIAN ARE LIEK!??!?!
+	- VALLEN AND JULIAN ARE LIKE!??!?!
 	- OH MY GOD
 	- GIRL
 	- GOOD GOD GOOD GRIEF GOOD FUCKING GOD
@@ -58,21 +61,26 @@
 - Camille says that they'll be back to cast <span style="color:rgb(197, 124, 22)">Tiny Hut</span> in roughly 2 hours
 	- Everyone's like ??? but then they're like "I'm gonna visit my brother's grave and I don't want anyone to see me cry"
 - Julian goes to bed alone
-	- He's like "I don't wanna see any of you in my dreams" and then is like "...<sub>except for one of you</sub>"
+	- He's like "I don't want to see any of you in my dreams" and then is like "...<sub>except for one of you</sub>"
 	- CORDELIA WINS!!!
 - As they get ready for bed:
 	- Kaya carves a hand with the middle finger sticking out
 	- Cal tinkers with shit
 
 ## Camille goes into the woods
-- THEY TRY TO DIG UP THEIR BROTHER. IT'S REALLY FUCKED UP
-- He's lying in a makeshift coffin in the middle of a field of flowers that seem to have sprouted up magically
-	- The grave is marked by a little stick and a smooth stone, upon which is etched *"Here lies my beloved brother: Mimi"*
-- They tell "Mimi" stories about their whole adventure, and apologize for not visiting sooner
-- They cast <span style="color:rgb(197, 124, 22)">Revivify</span> twice - once by pressing the diamond into the dirt and the second by touching it to the body itself - neither works
-	- They spend the next hour crying
+> [!INFO] TL;DR: THEY TRY TO DIG UP THEIR BROTHER. I DIDN'T TAKE THOROUGH NOTES BCS I WAS LOCKED IN BUT IT'S REALLY FUCKED UP
+- They grab a fallen tree branch and venture into the woods, walking for some time before the path narrows, becoming little more than a small shelf jutting out of a cliff face. Crossing it requires shuffling sideways.
+	- The shelf is collapsed partway through, and Camille uses the tree branch to safely skid down to the bottom of the cliff
+- Camille pushes through flowers and leaves and vines - plants so abundant and lush that they could only have been grown magically - before reaching a small tree with a small stick buried partway between its roots. It's a grave marker.
+	- In front of the stick is a smooth rock, upon which is inscribed: *"Here lies my beloved brother: Mimi"*
+- They sit in the dirt, speaking to the grave as they apologize for not visiting. They tell the grave everything about their and the party's adventures thus far.
+- Once the story concludes, they apologize again, saying that they "have to try" before pushing a diamond into the dirt and trying to cast <span style="color:rgb(197, 124, 22)">Revivify</span>. Nothing happens.
+- They apologize for a third time as they use the tree branch to start digging. Once they hit the makeshift coffin at the bottom, they stop and hesitate before pushing it open.
+	- They see "exactly what \[they\] expected", and have to run and throw up
+	- When they return, they gingerly press the diamond to the body itself. There is a brief glimmer of light, but once again, nothing happens.
+- They spend the next hour sitting in the dirt and crying before re-burying the body and returning to the campsite to cast <span style="color:rgb(197, 124, 22)">Tiny Hut</span>.
 
-# We dream (separately)
+# We [[Dreams & Visions|dream]] (separately)
 ## Cal's Dream
 - He awakens in a fog-covered place, upon smooth ground. He knows it is the [[Shadowfell]]
 - He walks for a *while*. Then he hears another set of footsteps behind him.
@@ -119,15 +127,15 @@
 ## Camille's Dream
 - They wake up, and find themself sitting in a void of space
 	- It actually looks like the ruins of a temple
-	- THE SAME TEMPLE IN WHICH THEY SPOKE TO [[AVANDRA]]
+	- THE SAME TEMPLE IN WHICH THEY SPOKE TO [[Avandra]]
 - A blue light appears, and speaks to them in both a man and woman's voice
 - CAMILLE ASKS IF THERE'S AN AFTERLIFE. THEN THE TEMPLE GLITCHES??
 	- THEY'RE STILL IN THE TEMPLE, BUT IT'S DARK AND EVIL-LOOKING NOW
-	- THERE'S A WHITE MAN (😱) WITH A SMOOTH, FEATURELESS 
+	- [[The Father (Maybe)|THERE'S A WHITE MAN (😱)]] WITH A SMOOTH, FEATURELESS 
 - "My little Changeling... You are quite interesting, interesting indeed."
-- THINGS HAPPEY
+- THINGS HAPPEN
 - QHWAT THE FUCK
-- SOMETHING SOMETING "ARE YOU ONE OF US OR ARE YOU AN OBSTALCE ON OUR PATH TO GREATNESS"
+- SOMETHING SOMETING "ARE YOU ONE OF US OR ARE YOU AN OBSTACLE ON OUR PATH TO GREATNESS"
 - The same glitch effect happens, and they wake in a cold sweat with tears in their eyes
 
 ### CJ's Speech Transcription
@@ -135,7 +143,7 @@
 - “Oh this? This is nothing, Divine magic is.. simple to bypass when you understand it down to the fundamentals..” “Dear child… why do you search for purpose when you are given one?”
 - “You’re a changeling. Not a tiefling, not a human, not an elf…. A changeling…”
 - “A being of lies, deception, and yet… you despise lies you despise deception… it’s interesting to me, you despise the very thing that you are..”
-- “You walk around as Camille yet you are not him, you work with clover yet they are the enemy, you walk around with this high and mighty outlook yet you are… nothing.. at least without your god that is…”
+- “You walk around as Camille yet you are not him, you work with Clover yet they are the enemy, you walk around with this high and mighty outlook yet you are… nothing.. at least without your god that is…”
 - “Speaking of… you’ve had this itch in the back of your head… ask yourself out loud… do you serve the wrong god?”
 - “You serve a god, who let Camille die… and you do not possess the power to bring him back.. do you?”
 - “Your god can bring him back but will not… why? Because there’s a higher purpose? Because there's meaning in his death?”
@@ -251,7 +259,7 @@
 - it was BAD
 - Cal says that if the gods won't help them, maybe the party can help bring him back!!
 	- Cordelia theorizes about manipulating souls using arcane magicks in the same way that Warforged (theoretically) do
-	- Camille reminds the gang that [[Caduceus Pope|Dr. Pope]] has a lab in [[Iron forge]], as mentioned by [[Garrett]]
+	- Camille reminds the gang that [[Caduceus Pope|Dr. Pope]] has a lab in [[Iron Forge]], as mentioned by [[Garrett]]
 	- Cordelia says that their paths intersect, since she's seeking out [[Balthazar]] in a nearby town
 - The gang talks about potentially taking a detour to [[Wigson]] to visit [[Balthazar]]
 - Vallen says that both Cordelia and Kaya are nobles/royalty, and that their first instinct is to turn their backs on their kingdoms

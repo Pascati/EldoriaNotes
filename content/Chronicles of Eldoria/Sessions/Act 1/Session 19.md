@@ -1,3 +1,6 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 18.md" class="internal-link" style="float:left">← Session 18</a> <a href="Session 20.md" class="internal-link" style="float:right">Session 20 →</a> </div></body></html>
+
+---
 # Morning Shenanigans
 - We all wake up in the morning at [[Foo Bar]]!!
 - [[Camille Xotli|Camille]] goes downstairs and asks [[Foo]] to make them a sandwich to go
@@ -96,7 +99,7 @@
 	- [[Ozwin]] and [[Captain Purah]] are arguing in front of the door
 		- At some point [[Captain Purah]] walks away frustrated, and as she does, [[Ozwin]] calls out to her loud enough for everyone to hear: "When the mithril mines dry up, do not come back to me."
 		- According to [[Ozwin]], [[Captain Purah]] wants to divert troops from the mithril mines to shore up Clover's borders
-	- [[Ozwin]] says that [[Caduceus Pope|Dr. Pope]] has gone missing, and that some agents sent to Diamond to keep track of him have gone missing as well. His last known location was [[Iron forge]]
+	- [[Ozwin]] says that [[Caduceus Pope|Dr. Pope]] has gone missing, and that some agents sent to Diamond to keep track of him have gone missing as well. His last known location was [[Iron Forge]]
 	- Camille commiserates with [[Ozwin]], and casts <span style="color:rgb(197, 124, 22)">Guidance</span> on him
 		- He thanks them and says that if there's anything we need, we can just ask him
 - Ozwin says that the Keeper should be ready for us
@@ -109,12 +112,12 @@
 	- Camille addresses him by name ([[The Keeper|V]]), and he's like 😊 omg u remembered!
 	- They ask if "V" is his full name -- it's not, his full name is ***Vyapada***
 		- It was given to him, but not by his parents. He didn't know his parents.
-- [[The Keeper]] says that **our next mission is to go to [[Iron forge]]**
+- [[The Keeper]] says that **our next mission is to go to [[Iron Forge]]**
 	- The Keeper asks if we saw anyone from Diamond -- we did, there were lots of higher-up Diamond officials in [[South Haran]] (there were *some* lower-ranking officials, but there were mostly higher-ups)
 		- He asks us why there were so many higher-up members. He suspects that the ***Diamond military is VERY QUICKLY losing control of its warforged army***
 		- There has not been a **single Diamond insignia on the [[warforged]]**
 - The Keeper still hasn't confirmed the location of the [[Pyramid]] -- he's asking us to *confirm its location*
-	- He sent a group of rogues to check on it in [[Iron forge]], but he hasn't heard back from them
+	- He sent a group of rogues to check on it in [[Iron Forge]], but he hasn't heard back from them
 - The Keeper mentions that WE mentioned that there was a "benefactor" who actually HAD the Pyramid in Diamond
 	- I forgor abt that tbh
 - Camille asks when we need to leave
@@ -141,7 +144,7 @@
 	- The Keeper drops the idea that - if Cordelia were to apply for the position of Keeper - she would probably need to work her way up through the military and work on her powers
 		- Her father and mother probably requested that she would (work her way through the military) actually
 	- Keeper says that Cordelia can find [[Balthazar]] in [[Wigson]] (this is said VERY quietly)
-		- [[Wigson]] IS CLOSE TO [[Iron forge]] 
+		- [[Wigson]] IS CLOSE TO [[Iron Forge]] 
 	- The Keeper also says that Balthazar's an *ASSHOLE* and a *DICK*
 
 ## Preparing for Our Journey
@@ -203,3 +206,7 @@
 - We agree to use to the door/key to go to [[Lycoris]], then camp in the area so we can leave first thing in the morning
 - We hear a familiar voice as we arrive: *"Cordelia?"*
 	- **IT'S [[Julian Devorak|JULIAN]]!!!**
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 18.md" class="internal-link" style="float:left">← Session 18</a> <a href="Session 20.md" class="internal-link" style="float:right">Session 20 →</a> </div></body></html>

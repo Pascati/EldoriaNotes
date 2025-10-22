@@ -1,3 +1,6 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 08.md" class="internal-link" style="float:left">← Session 8</a> <a href="Session 10.md" class="internal-link" style="float:right">Session 10 →</a> </div></body></html>
+
+---
 # Moving Towards [[Holden]]
 - On the road again!! WE HAVE TO DROP OFF THE CHILD
     - [[Vallen The Immortal|Vallen]] offers to bring the child to [[NorthPass]] by himself
@@ -292,3 +295,7 @@
 - NVM THE BUTTON WAS FAKE AND HE WAS JUST TESTING CAL’S LOYALTY??? HE SAYS THOUGHT CAL WAS ON HIS SIDE
     - DR. POPE PRESSES THE BUTTON AND THE WARFORGED RUSH PAST US AS HE RIPS OFF HIS MANACLES (THEY WEREN’T SUPER ATTACHED THIS WHOLE TIME???)
     - VAMPIRES ARE RUNNING AT US AND THE WARFORGED ARE RUNNING AT THE VAMPIRES
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 08.md" class="internal-link" style="float:left">← Session 8</a> <a href="Session 10.md" class="internal-link" style="float:right">Session 10 →</a> </div></body></html>

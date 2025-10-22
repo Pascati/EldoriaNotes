@@ -1,3 +1,6 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 05.md" class="internal-link" style="float:left">← Session 5</a> <a href="Session 07.md" class="internal-link" style="float:right">Session 7 →</a> </div></body></html>
+
+---
 # The Interrogation
 - [[Camille Xotli|Camille]]:
 	- Drops the fifth sunstone 30 ft away from the trapped vampire (so he’s just within the light)
@@ -336,3 +339,7 @@
 	- Camille offers to help set up traps to catch them easier next time :]
 - We sit down for breakfast! Camille helps to prep it with [[Vallen The Immortal|Vallen]] again
 - **OOC NOTE: BEACH EPISODE CONFIRMED**
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 05.md" class="internal-link" style="float:left">← Session 5</a> <a href="Session 07.md" class="internal-link" style="float:right">Session 7 →</a> </div></body></html>

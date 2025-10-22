@@ -1,3 +1,6 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 16.md" class="internal-link" style="float:left">← Session 16</a> <a href="Session 18.md" class="internal-link" style="float:right">Session 18 →</a> </div></body></html>
+
+---
 # Traveling to [[Oswiigo]]
 - We set up camp and have a long rest!
     - [[Camille Xotli|Camille]] rolls a nat 1 to (stealthily) cry themeslf to sleep 💀
@@ -429,7 +432,7 @@
         - **_HE’S IN THE SHADOWFELL???_**
 - He’s in tattered pants, and he’s shirtless. There’s some fog in the distance
 - There’s a woman’s voice behind him: “A promise?”
-    - Cal turns around, and in front of him sits [[the Raven Queen]]. She sits on a stump, leaning against a vine
+    - Cal turns around, and in front of him sits [[The Raven Queen]]. She sits on a stump, leaning against a vine
     - “A promise? My end of the bargain… What’s my end of the bargain, Cal Corvo? To keep your friends safe, is that not what you wished?”
 - The Raven Queen asks him if he’s fully integrated himself with the idea of being her warlock
     - He says he’s been trying to do that for days
@@ -485,3 +488,7 @@
     - He also created this pocket universe for us -- our consciousnesses are transferred here, while our bodies still get sleep
     - The visions/dreams are _actual_ dreams though
 - We all scarf down!!
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 16.md" class="internal-link" style="float:left">← Session 16</a> <a href="Session 18.md" class="internal-link" style="float:right">Session 18 →</a> </div></body></html>

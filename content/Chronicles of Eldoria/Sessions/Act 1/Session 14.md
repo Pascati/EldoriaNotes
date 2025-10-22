@@ -1,3 +1,7 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 13.md" class="internal-link" style="float:left">← Session 13</a> <a href="Session 15.md" class="internal-link" style="float:right">Session 15 →</a> </div></body></html>
+
+---
+
 # Picking up immediately after last session
 - We have some time to kill before the day ends
     - [[Camille Xotli|Camille]] goes to ~~Voss’s~~ [[Myra Delaine|Journeyman Delaine’s]] room
@@ -257,3 +261,7 @@
 - Cal (23)
 - Cordelia (18)
 - Kaya (11)
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 13.md" class="internal-link" style="float:left">← Session 13</a> <a href="Session 15.md" class="internal-link" style="float:right">Session 15 →</a> </div></body></html>
