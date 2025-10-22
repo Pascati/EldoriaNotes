@@ -471,7 +471,7 @@
         - **It is in an extradimensional place, a pocket dimension of sorts. It sort of exists in our universe, but isn’t accessible.**
         - **Our purpose is to return the Shapes to the Curator**
 - **The reason why the Shapes have appeared in our reality is because a great Cataclysm is about to occur**
-    - He wants to prevent [[the Cataclysm]]
+    - He wants to prevent [[The Cataclysm]]
 - Camille rolls for Insight
     - He has no ill intent, and they realize that all he wants is neutrality
 - The Curator warns us that our job isn’t done

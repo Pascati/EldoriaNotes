@@ -99,7 +99,7 @@ banner-radius: 15
 		- It was hidden away so the gods and people can *restore/reset the world* in case one of the shapes goes out of control
 	- When housing the Pyramid and the Orb, it can be used to ***shape reality***
 - [[The Curator]]:
-	- Asks us to deliver the Pyramid and Orb to him, so he can use them together with the Cube to prevent [[the Cataclysm]]
+	- Asks us to deliver the Pyramid and Orb to him, so he can use them together with the Cube to prevent [[The Cataclysm]]
 	- Tells us that the Pyramid wants to scare us into its path of destruction, while the Orb wants to promote us to its path of life
 
 ## Dream 10
