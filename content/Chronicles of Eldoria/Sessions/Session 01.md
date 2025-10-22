@@ -2,7 +2,8 @@
 share_link: https://share.note.sx/z6ilhxis#WjcUkRRKBbBxzTfchzhVFezUDrqxznLkzGf7B1o49Wo
 share_updated: 2025-06-01T22:55:50-05:00
 ---
-[[Session 02|→ Session 2]]
+# Session Navigation
+<html><body><div><a href="Session 02.md" class="internal-link" style="float:right">Session 2 →</a> </div></body></html>
 # Preamble
 - Everyone is in the town of [[Hillford]]
 - [[Nicholas Powers]]: famous adventurer, rumored to be in town investigating the disappearances of small children
