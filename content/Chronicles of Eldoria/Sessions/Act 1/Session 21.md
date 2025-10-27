@@ -55,7 +55,7 @@
 - **_THERE’S A FADE TO BLACK??!?!?!?!?!?!??_**
     - **LET’S GO SUCKIN AND FUCKIN!!!**
     - LOVE LITERALLY WINS
-    ![[FREEDOM.jpg|240]]
+    - ![[FREEDOM.jpg|240]]
 - **THEY ROLL FOR PERFORMANCE**
     - THEY BOTH ROLL WITH DISADVANTAGE BCS THEY’RE BOTH VIRGINS
     - Cordelia: 15
@@ -118,7 +118,7 @@
 - JULIAN IS ALSO TOO FOCUSED ON CORDELIA
 - GUYS PLEASE
 - WE MUST STAY FOCUSED BROTHERS!!!!
-![[WE MUST STAY FOCUSED BROTHERS.png|180]]
+- ![[WE MUST STAY FOCUSED BROTHERS.png|180]]
 ## Camille goes east
 - Camille speaks Vallen’s name into their ring every so often, and stops a passer-by to ask if they’ve seen him
     - They haven’t, but they say they wish they had
@@ -174,7 +174,7 @@
     - Then he sits and listens
     - He feels a burning sensation on the back of his right hand
 - Looking down at his right hand, he sees an odd symbol
-    ![[Outsider's Crest.png|240]]
+	- ![[Outsider's Crest.png|240]]
 - When he looks up, he finds himself standing RIGHT in front of the tavern
     - He walks right in!
     - THE TAVERN IS COMPLETELY EMPTY???
@@ -213,7 +213,7 @@
     - According to Lathander, we’re on a different plane of existence?? Btw he ALSO doesn’t know where Vallen is
 - As we discuss things, we notice that there’s a [[Balthazar|new figure]] sitting at the bar!
     - Camille taps him on the shoulder and he turns around
-    ![[Balthazar.jpg|240]]
+    - ![[Balthazar.jpg|240]]
     - Cordelia recognizes his beard and hands from her dream!! [[Balthazar|(BALTHAZAR)]]
 - The man addresses Cordelia by name (her nickname specifically)
     - He tells us we’re in a dream (we know) and **asks why she hasn’t been using [[Tarot Cards|the cards]]**
