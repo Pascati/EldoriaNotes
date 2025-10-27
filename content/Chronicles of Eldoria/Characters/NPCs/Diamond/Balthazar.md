@@ -1,11 +1,13 @@
 # Character Profile
+![[Balthazar.jpg|240]]
 - [[Tarot Cards|Tarot card]] user (the only one other than [[Cordelia Elysian]])
 - A man
 - Former Keeper of Clover ([[The Keeper|V's]] predecessor; retired roughly a decade prior to the start of the campaign)
 
 ## Factions/Affiliations
-- [[Clover Capital]] (former Keeper)
+- [[Clover Capital]] (Former Keeper)
 - [[Wigson]]
+- [[Celeste]] (Former Student)
 
 # Known Information
 - Author of *The Magic of Tarot Cards and Their Exploits*
@@ -16,7 +18,9 @@
 		- Also called a "dick"
 		- Suggested that we don't mention to him that we talked to the current Keeper
 - Currently resides in [[Wigson]] (Diamond)
+	- His house is a small shack atop a hill, which is crammed full of dusty books
 
 # Appearances
-- [[Session 17]], [[Session 18]] (by name only)
-- [[Session 19]] (location and basic info learned from [[The Keeper|V]])
+- [[Session 17]], [[Session 18]] (By name only)
+- [[Session 19]] (Location and basic info learned from [[The Keeper|V]])
+- [[Session 21]] (Met!)

@@ -20,6 +20,7 @@ aliases:
 - Avarice is the surname of her adopted family
 - The only monk we've seen (so far) to use earth magic to the extent that she can
 - In [[Session 18]], it was heavily implied by [[Alexios]] that she's not from [[Eldoria]] by claiming that "these" aren't her kingdoms
+- From the same world/plane of existence as [[Alexios]]!
 
 ## History
 - Adopted (assumedly from an orphanage?) by [[Kaya's Dad]] and her mother

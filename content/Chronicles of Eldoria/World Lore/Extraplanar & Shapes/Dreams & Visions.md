@@ -130,6 +130,7 @@ banner-radius: 15
 	- Also the man is in front of like, a SEA of devils. Like it's unreal.
 - The man she spectates pulls out a set of [[Tarot Cards]] from his pocket, throwing them out willy-nilly and causing a bunch of crazy shit to happen (some are spells Cordelia recognizes, others aren't).
 	- The final card he throws out summons a <span style="color:rgb(197, 124, 22)">Fireball</span>, except instead of immediately exploding, it grows and grows until it engulfs the entire first layer of hell.
+- In [[Session 21]], [[Balthazar]] confirms that this dream was a real event that happened to him (long before Cordelia was even born)
 ### Camille's Dream
 - Camille finds themself in the same ruined temple where they first met [[Avandra|their god]], and speaks to her briefly about how they feel bitter about their brother's death - despite understanding logically that there's a reason for everything - and asks if they can bring him back one day and if there's an afterlife.
 	- Notably, when Avandra speaks, she has both a man's and a woman's voice
