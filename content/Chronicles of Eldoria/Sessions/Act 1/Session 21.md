@@ -64,10 +64,47 @@
     - Lily said that this might get her to go back to church LMAO
 
 ## Camille and Vallen talk
-- Vallen says that - ever since the fight with OSIRIS and the Orb was there - he hasn’t been feeling that well
+> [!INFO] For this section, Camille will be referred to as Quén
+- Vallen says that - ever since the fight with [[OSIRIS]] and the [[Orb]] was there - he hasn’t been feeling that well
     - Not that he’s hurting, but his brain feels foggy. he doesn’t know what came over him during that battle, but he can now stutter through space (+ can do the force field stuff)
         - He couldn’t do any of that shit before the Orb showed up!!
-- **FILL IN NOTES LATER. IZZIE COULD NOT KEEP UP 😭**
+    - Quén sympathizes with him :( that's rough buddy
+- **The following notes for this section are paraphrased from Corinthia's written notes (thank u girlie <3)**
+- Quén admits that they're on the verge of doing something they know is stupid, but claims that things might work out so long as they play their cards right
+	- Vallen presses the issue, and Quén confesses that they've been thinking about their conversation with [[The Father (Maybe)|the man from their dream]] -- specifically the part about praying to [[Asmodeus]]
+	- They know it's dangerous (Asmodeus is literally called the "Father of Lies" 💀), but doing so could give them a chance at bringing [[Camille Xotli (Original)|their brother]] back
+		- They also mention that they know their brother wouldn't be happy being brought back this way, but they "have to try"
+	- Also they reason that if they can somehow read between the lines and see through Asmodeus's lies, they MIGHT be able to discern something about their past or what the [[Changelings]] are planning
+- APPARENTLY VALLEN ALREADY KNEW QUÉN WAS GONNA TRY AND PULL SOME SHIT LIKE THIS? AND THAT'S WHY HE INVITED HIMSELF TO THEIR ROOM?? *SNEAKY BASTARD!!*
+	- Wait he says that he has their best interests at heart :( aw 🥺 I love this guy
+	- Quén once again says that they "have to try"
+- Vallen tells Quén a story
+	- He had a child with his wife! He loved them very much :]
+	- When his wife passed, he had the ability to bring her back (implied: as a vampire), but he didn't *because it was her time to go*
+		- When Quén asks about her, Vallen says that her name was [[Safiyah]].. she was beautiful :( 
+- Quén poorly explains that - if [[Camille Xotli (Original)|Camille]] was brought back - he could just take their place on the adventure
+	- **VALLEN ASKS AND QUÉN CONFIRMS THAT THEIR CURRENT NAME IS THAT OF THEIR BROTHER'S: [[Camille Xotli (Original)|THE ORIGINAL CAMILLE]]**
+- VALLEN TAKE SHIS HANDS AND ASKS THEM *"What would Quén do?"*
+	- BROOOOO
+	- Quén stutters and says that they just think about what Camille would do
+- Quén turns back to the idea of praying to [[Asmodeus]], and tries to say that if things go wrong, Vallen's right there and he could just snap them out of it or something
+	- Vallen's like "🤨 and why would you do that to yourself"
+		- *THE MAN WAS TOO SHOCKED TO SPEAK!!!* 💥💥💥
+	- VALLEN THEN FOLLOWS UP WITH "If you get hurt, who would be left to remember Camille?"
+		- ***INSTANT K-O!!!***
+		- THEY CAN'T SAY NOTHING TO THAT 💀💀 LIKE WHAT WOULD YOU EVEN SAY AT THIS POINT.. DAMN.
+- Quén concedes and chooses not to pray to Asmodeus tonight (thank god 😭🙏 thank u sm Vallen ur a real one)
+- RANDOM LORE DROP. QUÉN ASKS VALLEN NOT TO MENTION THEM OR USE THEIR REAL NAME AROUND [[Poppy Xotli|THEIR MOM]] BECAUSE **SHE THINKS THAT QUÉN IS THE ONE THAT DIED INSTEAD OF CAMILLE 😭💀** THIS FAMILY DYNAMIC GO CRAZY!!!
+	- Vallen promises not to.. thank u king 🙏
+- Quén requests that Vallen stay with them for the night because they're afraid they might still do something stupid tonight -- Vallen says yes :]
+	- THEY HUG!!! YAYYYYYY
+- Vallen sits in the cuck chair and starts reading
+	- Quén pulls out a SECOND book (a second book has hit the building 💀💀💀)
+	- They mumble about not knowing what kinds of books he likes, and that they learned about these (*20,000 Leagues in The Sky* and *Juju's Unusual Journey*) because they were left behind by patrons at [[Asphodel's Meadow|their old inn]]
+	- Vallen takes both books :] the homies stay winning
+- Quén's ass does NOT stop talking 😭 pack it up king we're done here
+	- They apologize for their rambling, saying that Vallen made them feel very seen and they feel weird/aren't sure what to do with themselves
+- They say goodnight :]
 
 # Morning comes
 - When Camille wakes up, Vallen is no longer in the room

@@ -11,7 +11,7 @@ aliases:
 
 ## Factions/Affiliations
 - Family
-	- [[Quén Aiano]] (Adopted Sibling)
+	- [[Quén Aiano]] (Adopted Sibling) Aiano
 	- [[Poppy Xotli]] (Mother)
 - [[Lycoris]]
 # Known Information

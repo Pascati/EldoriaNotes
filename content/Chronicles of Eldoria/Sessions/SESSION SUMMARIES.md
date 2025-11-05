@@ -122,3 +122,22 @@
 - Julian asks a lot of questions, reveals that he's ALSO been having [[Dreams & Visions|dreams]] about the [[Orb]] and [[Pyramid]], and officially joins the party!
 - The party has separate dreams, each pertaining to our individual lore
 - The party arrives in [[South Haran]] on their way to [[Iron Forge]]
+
+## [[Session 21]]
+- [[Cordelia Elysian|CORDELIA]] AND [[Julian Devorak|JULIAN]] BONE! GOOD FOR THEM
+- BIG [[Camille Xotli (Original)|CAMILLE]]/[[Quén Aiano|QUÉN]] LORE DROP TO VALLEN
+	- Confirmed that the name Quén is currently using - Camille - is that of their dead brother
+	- [[Poppy Xotli|Their mother]] thinks that Quén is the one that died, *not* Camille
+- The party unknowingly gets trapped in a dream, and are rescued by [[Balthazar]] upon Vallen's request. While we're' in the dream world:
+	- A week passed in the waking world
+	- [[Cal Corvo|Cal]] reached out to the unknown third party in [[Cal's Contract|his contract]], and is branded with the symbol of [[The Outsider]]
+- The party ends up at Balthazar's home in [[Wigson]]
+- Balthazar spills some tea about the party, specifically regarding:
+	- The nature and use of [[Cordelia Elysian|Cordelia's]] [[Tarot Cards]]
+	- Cal's brand
+	- [[Kaya Avarice|Kaya's]] origins (similar to those of [[Alexios]])
+	- Camille's "interesting form"
+- We unlock a fast-travel point in Balthazar's house!!
+
+## [[Session 22]]
+¯\\\_(ツ)\_\/¯

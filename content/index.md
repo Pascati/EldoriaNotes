@@ -1,5 +1,6 @@
 ---
 title: Welcome to the Chronicles of Eldoria!
+socialImage: C:\Windows\System32\quartz\quartz\static\og-image.png
 ---
 This is the home page. To see the notes, see click the folder icon in the menu to the left (or tap on the three bars in the top-left corner, if you're on mobile)!
 
