@@ -15,6 +15,7 @@ aliases:
 	- SO many descendants 💀
 - [[Clover Military]]
 - [[Diamond Military]] (former)
+- [[Lathander]] (Worshipped God; Disowned?)
 
 # Known Information
 - Occupations

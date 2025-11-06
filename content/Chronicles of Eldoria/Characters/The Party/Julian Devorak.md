@@ -17,6 +17,7 @@ aliases:
 - [[Clover Capital]]
 - [[Clover Military]] (Former? Defected from station)
 - [[The Party]] (Current)
+- [[Lathander]] (Worshipped God)
 
 # Known Information
 - First (properly) encountered at [[Dagen's Masquerade]], where he danced and flirted with Cordelia without realizing who she was
