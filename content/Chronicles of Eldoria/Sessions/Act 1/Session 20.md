@@ -4,7 +4,7 @@
 # Spending the night in [[Lycoris]]
 ## Julian joins the party!
 - IT IS LATE AFTERNOON
-- Standing in [[Camille Xotli|Camille's]] burned-down home, [[Cordelia Elysian|Cordelia]] stands face-to-face with [[Julian Devorak]] 
+- Standing in [[Characters/The Party/Quén Aiano|Camille's]] burned-down home, [[Cordelia Elysian|Cordelia]] stands face-to-face with [[Julian Devorak]] 
 	- Julian is:
 		- Wearing full plate mail with the Clover insignia on it
 		- Covered in burn scars (ALL OVER). There's one prominent one that starts at his left cheek and down his neck

@@ -114,7 +114,7 @@ banner-radius: 15
 - The night before joining the Party, he had a dream where he was trapped in a desert (a long, never-ending beach) where he traveled and wandered for days
 
 ## Dream 12
-- Technically 4 separate dreams had by [[Cal Corvo|Cal]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]], and [[Camille Xotli|Camille]] during [[Session 20]]
+- Technically 4 separate dreams had by [[Cal Corvo|Cal]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]], and [[Characters/The Party/Quén Aiano|Camille]] during [[Session 20]]
 ### Cal's Dream
 - Cal's soul (rather than his consciousness) is somehow transported directly to the [[Shadowfell]]
 - Cal receives his [[Cal's Contract|contract]] from [[The Raven Queen]], along with a method by which he can summon his contract at any time

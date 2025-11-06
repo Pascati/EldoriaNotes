@@ -1,5 +1,5 @@
 # Character Profile
-- A changeling that tried to kill us and also kinda sorta semi-consensually kidnap [[Camille Xotli|Camille]]
+- A changeling that tried to kill us and also kinda sorta semi-consensually kidnap [[Characters/The Party/Quén Aiano|Camille]]
 - True Appearance:
 	- Grey skin, white hair shaved close to the sides
 	- White eyes no irises

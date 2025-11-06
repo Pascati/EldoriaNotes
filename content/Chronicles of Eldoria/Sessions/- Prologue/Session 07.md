@@ -2,7 +2,7 @@
 
 ---
 
-- [[Camille Xotli|Camille]] passes out the sun stones and vampire repellant
+- [[Characters/The Party/Quén Aiano|Camille]] passes out the sun stones and vampire repellant
 	- Everyone gets 1 sun stone (+[[Vallen The Immortal|Vallen]])
 	- [[Cordelia Elysian|Cordelia]] gets the vampire repellant
 - Camille writes down a list of rules (with a few crossed out) of socializing with fancy folk
@@ -175,7 +175,7 @@
 		- She heard some rumors about children born into one faction rebelled and switched to a different faction, but she can’t place anything with certainty
 - Vallen asks about Camille
 	- Camille says they’re from Clover, [[Lycoris|a little bridge town along the river between Diamond and Clover]]
-	- Their mother runs [[Asphodel's Meadow|an inn]] there!
+	- Their mother runs [[Xotli Family Inn|an inn]] there!
 	- [[Vallen The Immortal|Vallen]] says that he might’ve stayed there once or twice before. Camille immediately changes the subject and asks Cal where *he’s* from 💀
 - Where Cal’s from
 	- He’s from the west!

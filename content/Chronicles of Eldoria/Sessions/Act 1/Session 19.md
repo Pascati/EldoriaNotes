@@ -3,7 +3,7 @@
 ---
 # Morning Shenanigans
 - We all wake up in the morning at [[Foo Bar]]!!
-- [[Camille Xotli|Camille]] goes downstairs and asks [[Foo]] to make them a sandwich to go
+- [[Characters/The Party/Quén Aiano|Camille]] goes downstairs and asks [[Foo]] to make them a sandwich to go
 	- Asks for an egg salad sandwich and a slab of raw meat for Vallen
 	- Armed with food, they head to the mine
 - [[Cordelia Elysian|Cordelia]] awakens

@@ -4,7 +4,7 @@
 
 # Picking up immediately after last session
 - We have some time to kill before the day ends
-    - [[Camille Xotli|Camille]] goes to ~~Voss’s~~ [[Myra Delaine|Journeyman Delaine’s]] room
+    - [[Characters/The Party/Quén Aiano|Camille]] goes to ~~Voss’s~~ [[Myra Delaine|Journeyman Delaine’s]] room
     - [[Kaya Avarice|Kaya's]] still watching [[Cal Corvo|Cal]]
     - [[Cordelia Elysian|Cordelia's]] following [[Vallen The Immortal|Vallen]]
     - Cal’s STILL IN THE KITCHEN (nvm he’s going back to the room)

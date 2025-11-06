@@ -1,7 +1,7 @@
 # Prologue
 ---
 ## [[Session 01]]
-- Character introductions ([[Camille Xotli|Camille]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]])
+- Character introductions ([[Quén Aiano|Camille]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]])
 - Investigating [[The Ritual]] and the missing children
 - Interrogating and killing [[Burt Maclyn|"Burt"]]
 - Cordelia has the first [[Dreams & Visions|dream/vision]]!
@@ -76,7 +76,7 @@
 - The party identifies the killers ([[Changelings]] disguised as crew members) and fights them!
 	- [[Myra Delaine|One of the changelings]] kills herself, and [[Sulk|the other]] is defeated and taken into custody
 ## [[Session 14]]
-- [[Camille Xotli|Camille]] speaks to [[Sulk]] twice, reveals their true first name and discovers:
+- [[Quén Aiano|Camille]] speaks to [[Sulk]] twice, reveals their true first name and discovers:
 	- Information about [[Changelings#The Father|The Father]] and the [[Changelings]]
 - [[Cordelia Elysian|Cordelia]]:
 	- Speaks to [[Julian Devorak]] about their arranged marriage
@@ -110,7 +110,7 @@
 - First week-long downtime!
 - Encountered [[warforged]] at the mine we were charged with guarding, witnessed a factory where the mithril was being taken
 - KAYA LORE DROP!!! SHE MIGHT NOT BE FROM [[ELDORIA|ELDORIA]]??
-- [[Vallen The Immortal|Vallen]] gives his will to [[Camille Xotli|Camille]], and in return they give him theirs 😊
+- [[Vallen The Immortal|Vallen]] gives his will to [[Quén Aiano|Camille]], and in return they give him theirs 😊
 	- Vallen also considers experimenting with the Orb to reverse his vampirism
 - [[Cordelia Elysian|Cordelia]] is comforted by Vallen
 - WE DREAM OF VALLEN MAYBE DYING??

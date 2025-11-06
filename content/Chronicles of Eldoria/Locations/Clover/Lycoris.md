@@ -4,16 +4,16 @@ banner-x: 48
 banner-y: 1
 banner-fade: -50
 ---
-- [[Camille Xotli|Camille's]] hometown
+- [[Quén Aiano|Camille's]] hometown
 - Site of the battle that occurred during [[Session 17]] 
 	- Burned down during the battle
 	- Was also the dispersion point for a LOT of [[Warforged]]
 
 # Locations
-- **Asphodel's Meadow**
+- **Xotli Family Inn**
 	- A local inn run by the Xotli family
-	- Named after [[Asphodel Xotli]]
+	- Named after [[Camille's Sister]], although the name currently remains unknown
 	- Had a small farm in the back (for cows and cheese!)
-- Camille's Grave
-	- Located in the woods behind Asphodel's Meadow
-	- Hasn't been visited by Quén since they left home
+- [[Camille Xotli (Original)|Camille's]] Grave
+	- Located in the woods behind the Xotli family inn
+	- Hasn't been visited by [[Quén Aiano|Quén]] since they left home

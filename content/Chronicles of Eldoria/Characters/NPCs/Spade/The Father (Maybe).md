@@ -6,7 +6,7 @@
 - [[Changelings]]
 
 # Known Information
-- Kind of an asshole (didn't let [[Camille Xotli|Camille]] talk during his speech)
+- Kind of an asshole (didn't let [[Characters/The Party/Quén Aiano|Camille]] talk during his speech)
 - As revealed by [[Sulk]] in [[Session 14]], the Father is:
 	- Thousands of years old (whereas mortal creatures only live to 400)
 	- The head of an organization, the members of which can receive magic from him (with those higher-up on the ladder receiving more/powerful magic)

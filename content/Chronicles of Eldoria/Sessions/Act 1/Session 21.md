@@ -4,7 +4,7 @@
 ---
 
 # Picking back up in [[South Haran]]
-- [[Camille Xotli|Camille]] asks [[Cal Corvo|Cal]] and [[Kaya Avarice|Kaya]] to join them in getting rooms for the night, leaving [[Cordelia Elysian|Cordelia]] alone with [[Julian Devorak|Julian]] and [[Vallen The Immortal|Vallen]] (LMAO)
+- [[Characters/The Party/Quén Aiano|Camille]] asks [[Cal Corvo|Cal]] and [[Kaya Avarice|Kaya]] to join them in getting rooms for the night, leaving [[Cordelia Elysian|Cordelia]] alone with [[Julian Devorak|Julian]] and [[Vallen The Immortal|Vallen]] (LMAO)
     - Kaya speculates that there is scheming afoot (she’s correct)
     - Cordelia is sitting BETWEEN Julian and Vallen
 - CCK DISCUSS THE LOGISTICS OF ROOMS
@@ -100,7 +100,7 @@
 	- THEY HUG!!! YAYYYYYY
 - Vallen sits in the cuck chair and starts reading
 	- Quén pulls out a SECOND book (a second book has hit the building 💀💀💀)
-	- They mumble about not knowing what kinds of books he likes, and that they learned about these (*20,000 Leagues in The Sky* and *Juju's Unusual Journey*) because they were left behind by patrons at [[Asphodel's Meadow|their old inn]]
+	- They mumble about not knowing what kinds of books he likes, and that they learned about these (*20,000 Leagues in The Sky* and *Juju's Unusual Journey*) because they were left behind by patrons at [[Xotli Family Inn|their old inn]]
 	- Vallen takes both books :] the homies stay winning
 - Quén's ass does NOT stop talking 😭 pack it up king we're done here
 	- They apologize for their rambling, saying that Vallen made them feel very seen and they feel weird/aren't sure what to do with themselves

@@ -3,13 +3,13 @@
 - Can only be used if one has a key
 
 # Individuals in the possession of keys
-- [[The Party]] (held by [[Camille Xotli]])
+- [[The Party]] (held by [[Characters/The Party/Quén Aiano]])
 	- Currently has 3 charges per day
 - [[Alexios]]
 
 # Door Locations
 - [[Clover Capital|The Capital]] (First-floor garrison closet)
 - [[Foo Bar]] (Near the basement)
-- [[Lycoris]] (In the burned-down [[Asphodel's Meadow]])
+- [[Lycoris]] (In the burned-down [[Xotli Family Inn]])
 - [[Wigson]] (In [[Balthazar|Balthazar's]] home)
 	- SEND HIM A WARNING BEFORE USING THIS DOOR!

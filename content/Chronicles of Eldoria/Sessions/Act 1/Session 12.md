@@ -3,7 +3,7 @@
 ---
 
 - We agree to go to [[Mossley]] (by using Foo’s Key to travel to [[Clover Capital|the Capital]], then to Mossley via the ferry)
-- [[Camille Xotli|Camille]] goes to retrieve a commission from [[Durgen Coalbeard|Durgen]] while the party gets ready to leave
+- [[Characters/The Party/Quén Aiano|Camille]] goes to retrieve a commission from [[Durgen Coalbeard|Durgen]] while the party gets ready to leave
 - Camille [[Foo's doors|uses the key on the bar door]], and the party teleports to the Garrison in the Capital
 
 # Arriving in the Capital

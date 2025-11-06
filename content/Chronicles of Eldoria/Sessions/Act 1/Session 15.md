@@ -5,7 +5,7 @@
 
 - NOTE: ALL DAMAGE THE PARTY DEALS (IF POSSIBLE) IS NONLETHAL
 - ROUND 1
-    - [[Camille Xotli|Camille]]
+    - [[Characters/The Party/Quén Aiano|Camille]]
         - Presses a small metal object into Kaya’s hand and asks her to hold onto it
         - Casts <span style="color:rgb(197, 124, 22)">Warding Bond</span> on her
     - [[Vallen The Immortal|Vallen]]

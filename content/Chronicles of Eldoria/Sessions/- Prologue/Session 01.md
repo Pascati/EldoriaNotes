@@ -15,7 +15,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 	- [[Foo|Gnomish barkeep!]] Gives homie a beer
 	- I get 9 silver back from getting a room
 	- Apparently [[Nicholas Powers]] isn't super popular with most people 🤔
-	- [[Camille Xotli|Camille]] gets excited to see him!! Homie's a fan
+	- [[Characters/The Party/Quén Aiano|Camille]] gets excited to see him!! Homie's a fan
 		- Hovers around him telling stories in the corner
 - [[Kaya Avarice|Kaya]]
 	- Knows a little about [[Nicholas Powers|Nicholas]], here to do some snooping 👀
@@ -78,7 +78,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 - **Burt asks the party what their names are**
 	- [[Cordelia Elysian|"Cordelia Elysian"]]
 	- [[Kaya Avarice|"Kaya"]]
-	- ***[[Camille Xotli|"Camille Aiano"]]***
+	- ***[[Characters/The Party/Quén Aiano|"Camille Aiano"]]***
 - Camille DEX save
 	- The wind pushes their back and they NARROWLY avoid an arrow
 - BURT ADMITS TO WANTING TO KILL US, LIKE THE BITCH HE IS

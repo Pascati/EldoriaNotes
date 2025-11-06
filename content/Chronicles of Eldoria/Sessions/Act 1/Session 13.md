@@ -19,7 +19,7 @@
 - The Map
     - The map was torn into pieces. Although <span style="color:rgb(197, 124, 22)">Mending</span> was cast on it, at least half the map is missing
     - The parts that are missing contain the red sigils which indicate exact enemy locations and information
-    - [[Camille Xotli|Camille]] will walk around the boat and cast <span style="color:rgb(197, 124, 22)">Mending</span> on the parts of the map that we _do_ have to see if we can locate the missing pieces (and see who has them/where they are)
+    - [[Characters/The Party/Quén Aiano|Camille]] will walk around the boat and cast <span style="color:rgb(197, 124, 22)">Mending</span> on the parts of the map that we _do_ have to see if we can locate the missing pieces (and see who has them/where they are)
 - The Encrypted Book
     - Written in a cipher that is a combination of both Dwarvish and Infernal
     - Obtained during an infiltration mission in Diamond

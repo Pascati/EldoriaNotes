@@ -12,7 +12,7 @@
     - [[Cordelia Elysian|Cordelia]] (NAT 20)
     - [[Cal Corvo|Cal]] (16)
     - [[Kaya Avarice|Kaya]] (12)
-    - [[Camille Xotli|Camille]] (3)
+    - [[Characters/The Party/Quén Aiano|Camille]] (3)
 
 ## Cordelia's Downtime
 - She's been processing everything that's been happening

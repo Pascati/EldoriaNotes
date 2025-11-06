@@ -14,7 +14,7 @@
     - The gang (starting off) is roughly 30 ft. away from Dagen
     - The vampires and warforged are fighting each other, and have created a “parting of the sea” situation where they give Dagen (and by extension, us) a wide berth
 - ROUND 1
-    - [[Camille Xotli|Camille]]
+    - [[Characters/The Party/Quén Aiano|Camille]]
         - Casts <span style="color:rgb(197, 124, 22)">Daylight</span> on a gold coin
         - Dagen CASTS _<span style="color:rgb(197, 124, 22)">COUNTERSPELL</span>!!! FUCK THIS STUPID BAKA LIFE_ 😭😭😭
         - Izzie realizes he could’ve used a Channel Divinity instead.

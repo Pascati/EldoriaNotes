@@ -1,0 +1,4 @@
+- Inn local to [[Lycoris]], which was run by the [[Xotli family]]
+	- Originally named after [[Camille's Sister]] following her passing
+- After it was burned down in [[Session 17]], it was revealed that one of [[Foo's doors]] was hidden somewhere in the house
+	- [[Characters/The Party/Quén Aiano|Camille]] was fully unaware of the door until after the building burned down (was it always there?)

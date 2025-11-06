@@ -12,7 +12,7 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 - *Camille gets inspiration* because Izzie brought snacks :]
 
 # In the Aftermath of [[The Keeper|V]]
-- [[Camille Xotli|Camille]] comments on how [[Cordelia Elysian|Cordelia]] didn't seem to like [[The Keeper|V]] very much
+- [[Characters/The Party/Quén Aiano|Camille]] comments on how [[Cordelia Elysian|Cordelia]] didn't seem to like [[The Keeper|V]] very much
 	- Cordelia: That just happens sometimes
 	- Cordelia says that it's been a long day, and that it's not everyday that a man in the woods gives you a quest
 	- We all agree that it was fucking CRAZY that the "Man in the woods" turned out to be the damn KEEPER

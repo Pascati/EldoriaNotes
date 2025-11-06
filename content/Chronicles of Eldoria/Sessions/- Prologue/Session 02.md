@@ -21,7 +21,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 	- Everyone benefits from a Long Rest (i.e. no Exhaustion levels!)
 - STORY INITIATIVE
 	- [[Cordelia Elysian|Cordelia]]: 16
-	- [[Camille Xotli|Camille]]: 9
+	- [[Characters/The Party/Quén Aiano|Camille]]: 9
 	- [[Kaya Avarice|Kaya]]: 3
 
 ## Cordelia Wakes Up

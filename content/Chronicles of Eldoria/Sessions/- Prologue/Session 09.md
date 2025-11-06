@@ -7,7 +7,7 @@
     - He can probably make it to NorthPass and back within a couple hours (by the time we get to the gates of [[Holden]])
     - Vallen takes off and it looks like that scene from Twilight 💀
 - We continue towards Holden!
-    - [[Camille Xotli|Camille’s]] like “we should come up with a plan!!”
+    - [[Characters/The Party/Quén Aiano|Camille’s]] like “we should come up with a plan!!”
     - **THE TASK AT HAND:**
         - Infiltrate the [[Dagen's Masquerade|masquerade ball/banquet]] (we have invitations!!) **(The invitations are listed under “Clover Ambassadors”)**
         - Gather as much information as possible

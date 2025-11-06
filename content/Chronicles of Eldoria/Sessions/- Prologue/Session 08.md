@@ -12,7 +12,7 @@ banner-y: 55
 
 # On The Road Again
 ## Cal and Camille Talk
-- [[Cal Corvo|Cal]] asks [[Camille Xotli|Camille]] what they noticed in a previous town! He noticed that _they_ noticed something, and wants to know what the deal is to see if he can help
+- [[Cal Corvo|Cal]] asks [[Characters/The Party/Quén Aiano|Camille]] what they noticed in a previous town! He noticed that _they_ noticed something, and wants to know what the deal is to see if he can help
 - They agree that they got off on the wrong foot, and start over and reintroduce themselves!! friendship is real and true to me :]
 - What’s a happy memory Cal has?
     - His parents - on his fourteenth birthday - decided that Cal was old enough to go into the big city with the merchants

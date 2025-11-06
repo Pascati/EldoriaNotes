@@ -11,7 +11,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 	- [[Cordelia Elysian|Cordelia]]: 24
 	- [[Kaya Avarice|Kaya]]: 6
 	- [[Cal Corvo|Cal]]: 19
-	- [[Camille Xotli|Camille]]: 13
+	- [[Characters/The Party/Quén Aiano|Camille]]: 13
 - Everyone (except for Kaya) notice blood tracks from the body towards the window
 	- The window appears to have been *broken outwards* -- there is glass outside, but not inside
 	- This means the vampire went outside

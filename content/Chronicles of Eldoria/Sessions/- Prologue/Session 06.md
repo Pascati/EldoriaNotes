@@ -2,7 +2,7 @@
 
 ---
 # The Interrogation
-- [[Camille Xotli|Camille]]:
+- [[Characters/The Party/Quén Aiano|Camille]]:
 	- Drops the fifth sunstone 30 ft away from the trapped vampire (so he’s just within the light)
 	- Suggests that the vampire answers [[Kaya Avarice|Kaya's]] questions otherwise they will bring the vial of “no vampire bitey” closer (smells bad 🤢)
 	- [[Vallen The Immortal|Vallen]] has to move out of its range bcs it’s STINKY AS FUCK!!!

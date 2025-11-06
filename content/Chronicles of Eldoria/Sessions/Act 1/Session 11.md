@@ -11,7 +11,7 @@
     - NVM MY NVM!! WE STAY WINNING!!!
 - We make our way to the mess hall for breakfast
     - [[Foo|Foo]] SERVES US BREAKFAST 🤩
-    - Note: [[Camille Xotli|Camille]] doesn’t drink coffee (and doesn’t drink a ton) -- homie’s rawdogging life
+    - Note: [[Characters/The Party/Quén Aiano|Camille]] doesn’t drink coffee (and doesn’t drink a ton) -- homie’s rawdogging life
 - [[The Keeper]] stops by our table
     - He’ll get us our 1,000 GP each bonus once we leave
     - We can leave from the Garrison using [[Foo]]’s Key (he will meet us there)

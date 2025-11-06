@@ -1,5 +1,5 @@
 # The Father
-- Worshipped by all changelings (except for [[Camille Xotli|Camille]], ig)
+- Worshipped by all changelings (except for [[Characters/The Party/Quén Aiano|Camille]], ig)
 - An ancient being, thousands of years old (all mortal creatures have a *max lifespan of 400 years*)
 - According to [[Dox]], is located in the [[Spade Kingdom]]
 - Could either be Asmodeus or linked to the Cult of Asmodeus
