@@ -12,9 +12,10 @@ aliases:
 	- COVERED in burn scars (from the battle during [[Session 17]]. Most notably, one starts on his left cheek and trails down his neck.
 
 ## Factions/Affiliations
+- Family
+	- [[Constance Devorak]] (Father)
 - [[Clover Capital]]
 - [[Clover Military]] (Former? Defected from station)
-- [[Constance Devorak]]
 - [[The Party]] (Current)
 
 # Known Information
