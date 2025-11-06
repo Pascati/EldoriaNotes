@@ -4,6 +4,10 @@
 - [[Cordelia Elysian|Cordelia's]] father
 
 ## Factions/Affiliations
+- Family
+	- [[Cordelia Elysian]] (Daughter)
+	- [[Lawrence Elysian]] (Son)
+	- [[Cordelia's Mother|???]] (Wife)
 - [[Clover Capital]] (Main Residence)
 - [[Clover Military]]
 - [[Earth Faction]] (Leader)

@@ -14,6 +14,7 @@
 
 # Known Information
 - [[Camille Xotli (Original)|Camille's]] biological mother, and [[Quén Aiano|Quén's]] adopted mother
+- Believes that [[Camille Xotli (Original)|Camille]] is still alive and well, and that [[Quén Aiano|Quén]] was the one who died
 - Former proprietor of [[Xotli Family Inn|the Xotli family inn]]
 
 # Appearances

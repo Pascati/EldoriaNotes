@@ -4,7 +4,6 @@ aliases:
   - Delia
   - Cordelia's
 ---
-
 # Character Profile
 ![[Cordelia Elysian.png|360]]
 - She/her
@@ -13,6 +12,10 @@ aliases:
 - 21 years old
 
 ## Factions/Affiliations
+- Family
+	- [[Arthur Elysian]] (Father)
+	- [[Cordelia's Mother|???]] (Mother)
+	- [[Lawrence Elysian]] (Brother)
 - [[The Party]]
 - [[Clover Capital]] (Hometown; Former Residence)
 	- [[Earth Faction]]
@@ -21,10 +24,6 @@ aliases:
 # Known Information
 - Has had the [[Tarot Cards]] since her 11th birthday
 	- There was more lore about specifically how she acquired the cards, but I haven't gotten to porting over those notes yet 😔
-- Family members
-	- Mother (???)
-	- [[Arthur Elysian|Father (Captain Arthur Elysian)]]
-	- Brother (Lawson Elysian)
 - Also knows the bakers (Island and his pregnant sister)
 
 ## History

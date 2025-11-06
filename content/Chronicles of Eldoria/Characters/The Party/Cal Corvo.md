@@ -3,7 +3,6 @@ aliases:
   - Cal
   - Cal's
 ---
-
 # Character Profile
 - He/Him
 - Human
@@ -57,3 +56,4 @@ aliases:
 
 # Appearances
 - Introduced during [[Session 03]] (at the general store)
+- Literally every session after that until he leaves us or dies

@@ -3,7 +3,6 @@ aliases:
   - Kaya
   - Kaya's
 ---
-
 # Character Profile
 ![[Kaya Avarice.png|360]]
 - She/Her

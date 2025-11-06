@@ -2,7 +2,6 @@
 aliases:
   - Julian
 ---
-
 # Character Profile
 ![[Julian.jpg|240]]
 - Journeyman in the [[Clover Military]], but his father is a Captain
@@ -25,4 +24,5 @@ aliases:
 - [[Session 09]] (At the Pink Pony Inn & masquerade)
 - [[Session 10]]
 - [[Session 19]] (cliffhanger encountered in [[Lycoris]])
-- [[Session 20]]
+- [[Session 20]] (Joined [[The Party]])
+- Probably will keep showing up in every session afterwards until he dies or leaves us

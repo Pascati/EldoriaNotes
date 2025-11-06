@@ -2,7 +2,6 @@
 aliases:
   - Vallen
 ---
-
 # Character Profile
 ![[Vallen The Immortal.png|336]]
 - Rogue (Paladin Operative), Level 7
@@ -10,6 +9,10 @@ aliases:
 - 330 years old
 - BISEXUAL KING
 ## Factions/Affiliations
+- Family
+	- [[Safiyah]] (Wife)
+	- ??? (Son)
+	- SO many descendants 💀
 - [[Clover Military]]
 - [[Diamond Military]] (former)
 
