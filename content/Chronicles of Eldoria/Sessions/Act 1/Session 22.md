@@ -125,12 +125,14 @@
 	- Camille says we'll be fine in the dome
 - Camille asks if Vallen is ok
 	- They roll an Insight 24 against Vallen's 23
+		- HIS ASS IS LYING!!!
 	- They lie about needing to go to the bathroom and not wanting to go alone, and they DRAG VALLEN INTO THE WOODS LMAO (abandoning the casting of <span style="color:rgb(197, 124, 22)">Tiny Hut</span>)
 	- They ask again once they're alone -- he's NOT okay
 		- He hasn't gone unconscious in DECADES!!
-		- They comment on it looking different. Usually when he drops to 0, he wiggles around on the floor
+		- They comment on it looking different. Usually when he drops to 0, he just convulses around on the floor (but was fully conscious)
 		- Camille urges him to rest lots and eat lots (Vallen can't eat. So just drink blood).
 		- Vallen says he just wants to lay down, but Camille urges him to find something to drink first (he literally just picks up a rabbit and starts drinking it)
+			- They pass him a handkerchief to wipe the blood off his face :]
 - Camille returns from the woods with Vallen, and starts ritual casting <span style="color:rgb(197, 124, 22)">Tiny Hut</span> again
 - We take a long rest!!
 	- Camille finds a quiet corner, taking off their vest and shirt. They take out a sewing kit and sows closed the bloody holes left behind by combat
@@ -189,6 +191,7 @@
 			- Camille asks what happens if we don't find traces of the Pyramid. The lady tells us that she's been told we "would know" (we focus and feel the presence of the Pyramid in the distance)
 	- The woman introduces herself (so we can use a Sending Stone on her): her name is [[Nera]]
 		- She was first introduced to us under the name Naomi (fake name bcs she was undercover keeping an eye on us)
+			- ***NOTE: THIS IS INCORRECT. NAOMI WAS THE NAME OF THE BARMAID KAYA SLEPT WITH, NOT CAL***
 	- WE ALL PUT ON OUR GLOVES TO HANDLE THE PYRAMID SAFELY
 - **Preparing for the mission**
 	- Cal tries to convince Nera to bone (she tells him to prove himself through the mission first, then MAYBE)
@@ -210,7 +213,7 @@
 - **Nera will only wait at the main building for 3 hours (until sunrise).** If we don't return to her before then, she will assume the mission failed and will return to the safehouse.
 - CAL RECEIVES THE BOX NERA WAS HOLDING. ***IT'S A HANDGUN***
 	- It looks very mechanical -- like the gun that the warforged used to shoot Cal and Vallen
-	- It has 6 shots before it needs to be reloaded. <u>He gets one reload</u> (12 total bullets)
+	- It has 6 shots before it needs to be reloaded. <u>He gets one reload (12 total bullets)</u>
 
 ## Entering the Shaft
 - Standing above the shaft, Julian looks nervous
@@ -233,9 +236,9 @@
 	- Vallen teleports up -- Kaya asks if has a rope
 	- We hear a *ting ting* as a dead warforged falls towards us. Then a rope comes down (Vallen killed one!!)
 - Julian is like !??!
-	- He's like "he can teleport??"
+	- He's like "he can teleport?? 😧"
 	- Cordelia comforts him -- she tells him that Vallen is like "a million or a thousand years old"
-- Cordelia considers aura farming (by using <span style="color:rgb(197, 124, 22)">Ice Knife</span> as pitons to climb the wall), but instead climbs the rope
+- Cordelia considers aura farming (by using <span style="color:rgb(197, 124, 22)">Ice Knife</span> as pitons to climb the wall), but decides it and climbs the robe instead
 - There are multiple warforged parts scattered around
 - Vallen peeks through the door (GROUP STEALTH)
 	- He opens the door a little as Cal melts into the shadows (Uses <span style="color:rgb(197, 124, 22)">Shadowstep</span>)
@@ -268,25 +271,31 @@
 	- There are one-way mirror windows looking out at the factory
 	- Sitting at a stool looking out the mirror, is OSIRIS. He has his back turned to the door.
 - As the door opens and a ruckus is made (<span style="color:rgb(197, 124, 22)">Invisibiliity</span> is dropped), he turns to us
-	- He says that he was wondering when we'd get here. He got us water! (a single glass)
+	- He says that he was wondering when we'd get here. He got us water! (a single glass 💀)
 	- He asks us to sit (there are chairs prepared for us)
 	- Camille rolls Insight (NAT 20)
 		- He doesn't have ill intent, it seems. He just wants to talk
 	- OSIRIS: "I don't have anyone. Not anymore"
 - OSIRIS tells us that he's been thinking a lot about biological life -- why we persist in the face of uncertainty. If we take the Pyramid back to our kingdom, then do we all possess the power and knowledge to wield it ourselves? "I didn't think so."
-	- "I've realized that I *hate* all of you. But I wasn't built to hate, yet I hate *you*. You kill my kin. Now I've - I've read your books, I've consulted your pages, I've heard your stories, yet -- it seems the only stories that are told with any accuracy are told by the victors. Now, you all could have submitted to the peace I would have brought. Yet you fight for this idea of freedom, of order. But your biological brains can't comprehend that the natural state of the universe is not order. But-" we see him rub his head. He looks like the same OSIRIS we killed. "You have come to kill me. And to take the Pyramid. But you do not deserve it. I will not let you. I-" He looks past us, into the corner of his room, and he tilts his head. "I- I- I *see* you."
+
+### OSIRIS's Speech
+> "I've realized that I *hate* all of you. But I wasn't built to hate, yet I hate *you*. You kill my kin. Now I've - I've read your books, I've consulted your pages, I've heard your stories, yet -- it seems the only stories that are told with any accuracy are told by the victors. Now, you all could have submitted to the peace I would have brought. Yet you fight for this idea of freedom, of order. But your biological brains can't comprehend that the natural state of the universe is not order. But-" we see him rub his head. He looks like the same OSIRIS we killed. "You have come to kill me. And to take the Pyramid. But you do not deserve it. I will not let you. I-" He looks past us, into the corner of his room, and he tilts his head. "I- I- I *see* you."
+
+
+### Meeting Loki
 - We turn to look in the direction OSIRIS is looking, and we see a woman
 	- ![[Pasted image 20251109231706.png|180]]
-	- "Oh, OSIRIS! You're supposed to be asleep. My dear soldier, please -" A black box pops up, enclosing OSIRIS in an oily black slick
-	- She greets us as "The Seekers", saying that she knows about our seeking the Pyramid. She says that [[Caduceus Pope|Dr. Pope]] would be upset about that, as would she.
+	- "Oh, OSIRIS! You're supposed to be asleep. My dear soldier, please -" Black walls rise up around OSIRIS, enclosing him in a box of oily black slick
+	- *She greets us as "The Seekers"*, saying that she knows about our seeking the [[Pyramid]]. She says that [[Caduceus Pope|Dr. Pope]] would be upset about that, as would she.
+		- **INTERESTING NOTE** (written here instead of in the theories channel for now bcs Izzie is currently at work and can't really use anything but his laptop rn): According to [[Nera]], "The Seekers" is the name [[The Keeper]] uses for us 👀. It'd be a weird coincidence if both people from the Keeper's inner-ish circle (i.e. those who are allowed to know about us and our pursuit of the [[Shapes of Paracausality]]) and our enemies from Diamond to call us the same thing without some degree of communication between the two parties.. either there's a rat in Clover or [[Loki|Loki's]] been spying 🤔
 	- SHE KNOWS CAMILLE?? SHE'S SURPRISED THEY DON'T KNOW HER
 		- SHE INTRODUCES HERSELF AS [[Loki|LOKI]]. THEY DON'T RECOGNIZE THE NAME.
 	- SHE SAYS THAT WE'RE NOT SUPPOSED TO BE HERE. SHE SAYS THEY WILL NEED TO ACCELERATE THEIR PLANS.
-- GREEN FILLS THE ROOM. WE'RE NOW IN A LARGE ROOM. OSIRIS IS STRUNG UP WITH METAL AND WIRES ON A MACHINE
-	- SHE SAYS OSIRIS ISN'T READY FOR THE PYRAMID YET. BUT SHE WILL JUST NEED TO ADJUST HER PLANS.
+- GREEN FILLS THE ROOM. WE'RE NOW IN A LARGE (DIFFERENT) ROOM. OSIRIS IS STRUNG UP WITH METAL AND WIRES ON A MACHINE LIKE A PUPPET ON STRINGS.
+	- SHE SAYS OSIRIS ISN'T READY FOR THE PYRAMID YET. BUT SHE WILL "JUST NEED TO ADJUST \[HER\] PLANS" (paraphrased).
 	- THE PYRAMID APPEARS, FLOATING INTO OSIRIS'S CHEST. RED LIGHT FLASHES, AND THE ENTIRE CONTRAPTION BEGINS TO SHAKE.
 	- THE CONTRAPTION FALLS. THE ENTIRE FACTORY BEGINS TO FALL.
-- "Well, I saw that coming. I'll leave you all to it -- see you soon :)"
+- Loki: *"Well, I saw that coming. I'll leave you all to it -- see you soon :)"*
 	- **SHE TELEPORTS AWAY, LEAVING US IN A CRUMBLING FACTORY WITH NO KNOWN WAY OUT.**
 
 ---

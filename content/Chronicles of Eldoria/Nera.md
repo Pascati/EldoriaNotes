@@ -1,2 +1,0 @@
-- first introduced as Naomi
-- the lady cal boned

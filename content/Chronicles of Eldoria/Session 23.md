@@ -6,7 +6,7 @@ draft: "true"
 
 ---
 
-NOTES GO HERE
+- **Personal Izzie note:** If an hour <u>HASN'T</u> passed since the start of the mission (when we started sneaking), they should get a +1d8 to initiative rolls due to their casting of <span style="color:rgb(197, 124, 22)">Enhanced Ability+</span>
 
 ---
 

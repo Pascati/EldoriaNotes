@@ -140,4 +140,13 @@
 - We unlock a fast-travel point in Balthazar's house!!
 
 ## [[Session 22]]
+- We wrap up combat with the warforged, then camp right outside of [[Iron Forge]]
+	- Vallen is shaken from falling unconscious, since that has never happened before
+- In the Iron Forge safehouse, we meet up with the team of special ops waiting for us -- [[Nera]], the woman Cal slept with on the boat, is leading the pack
+- We infiltrate the warforged factory in search of the [[Pyramid]], and discover that the warforged are using stolen mithril to fabricate new warforged at alarming speeds
+- We encounter [[OSIRIS]] in his quarters (where we assume the Pyramid is), where he's expecting us
+	- In the middle of his speech, a god named [[Loki]] appears, trapping OSIRIS and forcing the Pyramid into his chest
+- OSIRIS falls into the depths of the factory, which begins crumbling around us as Loki teleports away
+
+## [[Session 23]]
 ¯\\\_(ツ)\_\/¯
