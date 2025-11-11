@@ -1,7 +1,6 @@
 ---
 draft: "true"
 ---
-
 # Character Profile
 
 

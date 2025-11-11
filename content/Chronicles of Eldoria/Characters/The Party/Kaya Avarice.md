@@ -10,6 +10,9 @@ aliases:
 - Monk
 
 ## Factions/Affiliations
+- Family
+	- [[Genlan Avarice]] (Adopted Father)
+	- ??? (Adopted Mother)
 - [[The Party]]
 - [[Clover Capital]] (Hometown; Former Residence)
 	- [[Water Faction]] (Former; Faction Traitor)
