@@ -1,8 +1,0 @@
-- One of the [[Shapes of Paracausality]]
-- The Yin to the [[Pyramid]]'s Yang
-	- Wants to *nourish and preserve life*
-- Anyone who touches it - other than [[The Keeper]] - is made a *host to alien life*
-	- So far, this life has been fuzzy pink moss! (Appears on the body part that touched it?)
-	- Of the party, only [[Cordelia Elysian|Cordelia]] and [[Characters/The Party/Quén Aiano|Camille]] have been in contact with it (as of [[Session 17]])
-- Currently in [[The Keeper]]'s possession (briefly teleported into [[Characters/The Party/Quén Aiano|Camille's]] bag due to a fatal injury they suffered)
-- Was originally "asleep", but was likely awoken when [[Characters/The Party/Quén Aiano|Camille]] took fatal damage in [[Session 17|the battle of Lycoris]]

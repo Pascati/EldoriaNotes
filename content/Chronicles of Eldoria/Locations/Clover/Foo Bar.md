@@ -1,5 +1,0 @@
-- Run by [[Foo]]
-- Located in [[Hillford]]
-- Currently has some funky dimensional stuff going on with its doors due to Foo creating fast-travel doors for us?
-- [[The Party|The party]] has permanent rooms of residence here!
-- There's a secret basement (can be found through a trapdoor hatch in the kitchen) in which Foo conducts experiments and tinkers on stuff for [[The Keeper]]

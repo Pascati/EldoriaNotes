@@ -1,2 +1,0 @@
-- THE DEVIL. FROM THE *BIBLE*
-- AKA the "Father of Lies"

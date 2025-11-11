@@ -1,2 +1,0 @@
-- Sub-faction of the [[Clover Military]]
-- Led by [[Cordelia Elysian]]'s father, [[Arthur Elysian]]

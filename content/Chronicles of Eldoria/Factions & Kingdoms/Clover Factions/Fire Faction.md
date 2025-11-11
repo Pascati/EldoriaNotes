@@ -1,2 +1,0 @@
-- Sub-faction of the [[Clover Military]]
-- Led by [[Fire Faction leader]]

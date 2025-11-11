@@ -1,3 +1,0 @@
-- Where new types of [[Warforged]] (including at least one that could cast magic and *copy magic/class abilities*) were first encountered
-- As of [[Session 20]], the organic residents (i.e. folks who aren't Warforged) appear to be respectful of the Warforged (giving them plenty of berth, allowing them to function in the city, etc.) but don't appear to be friendly towards them
-	- This was made apparent when the party entered a random bar and locals turned around to check if we were Warforged
