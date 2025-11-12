@@ -1,0 +1,511 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 09.md" class="internal-link" style="float:left">← Session 9</a> <a href="Session 11.md" class="internal-link" style="float:right">Session 11 →</a> </div></body></html>
+
+---
+
+- We roll for initiative. these dice are kicking our ASSES
+    - CJ lets us reroll like 3 times -- thank u god 🙏
+- The [[warforged]] and [[vampires]] are TEARING into each other
+    - There are 30 vampires
+    - There are roughly 50-ish warforged
+- As they begin to fight, [[Dagen]] begins to walk down the steps
+
+# Combat Begins
+- Setting the Scene
+    - The gang (starting off) is roughly 30 ft. away from Dagen
+    - The vampires and warforged are fighting each other, and have created a “parting of the sea” situation where they give Dagen (and by extension, us) a wide berth
+- ROUND 1
+    - [[Characters/The Party/Quén Aiano|Camille]]
+        - Casts <span style="color:rgb(197, 124, 22)">Daylight</span> on a gold coin
+        - Dagen CASTS _<span style="color:rgb(197, 124, 22)">COUNTERSPELL</span>!!! FUCK THIS STUPID BAKA LIFE_ 😭😭😭
+        - Izzie realizes he could’ve used a Channel Divinity instead.
+    - [[Vallen The Immortal|Vallen]]
+        - ROLLS A NAT 20 TO HIT!! KING SHIT
+        - SMITES DAGEN!! REAL AS FUCK
+        - Misses his second attack
+    - [[Cal Corvo|Cal]]
+        - Tosses Kaya her Bag of Holding
+        - Hits with one attack for **10 points of dmg** to Dagen
+    - **In the background, Cordelia pulls 6 cards (each represents one person in the group -- except for the one extra that kinda just fell out)**
+    - **_THE MAP RN_**
+        - The star is Dagen
+        - The white dots are the warforged/vampires fighting around us
+        - There’s also a long table behind us ![[Session 10 Battle.png|500]]
+	- [[Kaya Avarice|Kaya]]
+        - Makes two attacks (24 and 9), and one hits
+        - **7 points of dmg to Dagen**
+    - How the gang is feeling:
+        - Kaya is LOCKED in!!!
+        - Cal is feeling GOOD
+        - Cordelia is fucking PETRIFIED and CONFUSED
+        - Camille is thrown off their rhythm -- so much is happening and they’ve never been <span style="color:rgb(197, 124, 22)">Counterspelled</span> before
+    - Dagen
+        - First attack
+            - Forces Cal to make a **CON save**
+            - Forces Kaya to make a **DEX save**
+            - Cal takes **15 pts of damage** as he’s thrown at Kaya, and hits the ground as she dodges out of the way
+        - Second attack
+            - Forces Cordelia to make a **WIS save**
+            - SHE ALMOST GOT FUCKING. CHARMED INTO FIGHTING US!!! SHE SAVES WITH A 21 THOUGH HUZZAH
+    - Cordelia
+        - Casts <span style="color:rgb(197, 124, 22)">Hold Person</span> on Dagen -- he saves :(
+        - Cordelia’s stomach DROPS and she uses a bonus action to pull one of her six cards: she pulls **The Devil**
+            - It glows a bright red, and shoots into Dagen’s chest
+            - He looks up at her and looks _terrified_ (mechanically, he’s frightened)
+- ROUND 2
+    - Camille
+        - Calls out to [[Lathander]] as they use their <span style="color:rgb(197, 124, 22)">Channel Divinity: Turn Undead</span>
+            - Lathander’s symbols in Cal’s pocket and Vallen’s necklace glow
+            - ALL THE VAMPIRES EXCEPT FOR Dagen FLEE!!! WE STAY WINNING
+            - ALL 50 WARFORGED START CHASING THE VAMPIRES LMAO
+            - After a few seconds, we hear screams and fighting coming from the party upstairs
+        - Casts <span style="color:rgb(197, 124, 22)">Spiritual Weapon</span> and summons a mace that they THROW at Dagen
+            - Deals **22 radiant damage** (rolled 11 damage, doubled bcs he’s vulnerable)
+    - Vallen
+        - Misses his attack :(
+        - Teleports to the side a little!!
+    - Cal
+        - Takes out two silver spears from Kaya’s bag of holding
+        - Misses both his attacks 😔
+    - Kaya
+        - Grabs a silver spear from her bag (bonus action)
+        - Runs up and tries to stab Dagen!! Deals **32 damage** to Dagen (rolled a 16, but double damage bcs it’s silver)
+            - The spear pokes out his backside
+            - Dagen grabs the spear and pulls himself further
+        - Second attack PUNCHES HIS ASS. He LETS her hit him (she rolled a 12) I GET SCARED!!!!
+    - Dagen
+        - First Attack
+            - Forces Kaya to make a **STR saving throw**
+            - She gets a 26, he rolls a 30 (FUCK THIS STUPID BAKA LIFE)
+            - Makes a Bite attack against her, **DEALS 16 DMG THAT CAN’T BE REGENERATED UNTIL A LONG REST!!!!!**
+            - KAYA’S GRAPPLED!!
+        - Second Attack
+            - Throws Vallen at Camille
+            - Camille takes **16 dmg**
+    - Cordelia
+        - Rolls a 21 to hit with <span style="color:rgb(197, 124, 22)">Melf’s Acid Arrow</span>, deals **10 acid dmg**
+        - Pulls another card as a bonus action: **The Star**
+            - Kaya makes a **DEX save**
+            - **The card glows with a BRIGHT LIGHT, shoots a radiant BEAM DIRECTLY AT Dagen!!!!!**
+            - Kaya manages to shift out of the way (but is still grappled)
+            - Kaya takes **7 radiant dmg**, Dagen takes **30 radiant dmg**
+        - Dagen’s _frightened_ condition drops
+- ROUND 3
+    - Camille
+        - Moves 30 ft. towards Kaya (involuntarily teleports), heals her with _[Cure Wounds]_ **7 HP** (it was more but she can’t heal higher rn)
+        - Attacks with <span style="color:rgb(197, 124, 22)">Spiritual Weapon</span>, misses
+        - Purposefully takes an AoO by moving 10 ft away from Dragon
+            - Dagen uses a **legendary action** to vampire bampf away from Kaya’s spear and appears in front of Camille
+    - Vallen
+        - Stands up, attacks Dagen
+        - Deals **38 pts of dmg**
+    - Cal
+        - Both attacks hit!! (DOUBLE 27S TO HIT)
+        - Deals **17 dmg**
+    - Kaya
+        - Bonus action grabs her spear
+        - JABS HIS ASS (24 to hit!!)
+        - Deals **20 dmg** (originally 10, doubled bcs silver)
+    - **KAYA GETS A “HOW DO YOU WANNA DO THIS”!!!!!!!**
+        - SPEARS HIM THROUGH THE CHEST
+        - Dagen BURSTS INTO ASHES
+
+# Post-Combat
+- As the ashes of Dagen drift to the floor, his soul darts through the ceiling
+- Vallen informs us that we should either find Dagen’s resting place or burn the entire building to the ground -- he’s regenerating rn
+- [[Caduceus Pope|Dr. Pope]] turns to the party and says he’s going back to Diamond to “prepare the armies”
+    - Vallen turns to Cal and says that we should take him with us, regardless of whether or not he wants to come with us
+    - Cal just fuckin CLOCKS him and he goes unconscious as fuck
+- Camille throws some rope down to tie Dr. Pope up
+    - They run upstairs, Cordelia runs behind them
+    - Cal and Vallen stay behind to tie up Dr. Pope
+- Kaya’s SO worried about being a vampire
+    - IS SHE A VAMPIRE???? SHE’S ASKING VALLEN
+    - It’s ok she’s chill everything’s fine and good she’s not a vampire -- he didn’t infect her
+
+## Upstairs
+- Camille and Cordelia make their way upstairs -- they see **piles of ash on the ground** on the stairs leading up to the party
+    - The guard that we knocked out earlier is no longer there
+    - The door leading out of the stairs is GONE!! just a fuckin hole
+- We see few guests helping each other up, it looks like the vampires and warforged LEFT THE FUCKING BUILDING
+- Everyone else joins the party -- Camille says we should go upstairs
+    - Vallen suggests that we just burn the building down
+    - THE GANG STARTS FIGHTING ABT WHETHER OR NOT WE SHOULD OR SHOULDN’T BURN THE PLACE DOWN
+    - Cordelia and Vallen are BEEFING!! HE TELLS HER TO FIND HER BOYFRIEND!!! GOD DAMN
+- Camille runs upstairs while the gang is arguing -- Cordelia gives Vallen a STERN fuckin look and follows after
+    - There’s NOBODY upstairs
+- It’s very castle-esque upstairs: red and white with gold accents, ornate as FUCK. It’s dead silent though, where all the people at
+    - There are some doors open upstairs, leading to guest bedrooms
+    - There’s a big double door at the end of the hallway, which looks like the master bedroom
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> on Kaya to get the blood off her
+
+# We Finally Kill Dagen
+- Camille opens the door to the master bedroom
+    - It’s a bigass room!! lots of room for “activities” (this is a reference that I don’t get)
+    - Vallen farts (IT’S CANON. CORDELIA GIVES HIM THE CRAZIEST SIDE-EYE)
+    - There’s a MASSIVE bed in there
+    - Nobody in there
+- Everyone looks around!!
+    - Cal rolls a NAT 20 TO INVESTIGATE!!! Kaya also rolls to investigate
+        - It looks like people left in a hurry
+        - Scattered around the room, they find **50 GP**
+    - Camille rolls a 22 on insight to determine where a vampire might keep their shit
+        - Realizes that there’s something odd with the bed
+        - At the same time, Cal realizes that the bed can be _moved_ (thank u nat 20)
+- We move the bed!! Behind it is a door
+    - We open the door 😎
+    - The room behind it is very similar to the one we’re currently in, and it **contains two CLOSED coffins**
+- The gang asks Vallen to stab the fuck outta one of the coffins
+    - Cal and Vallen stab both coffins at the same time!!
+    - There’s the sound of crunching bones inside the coffin that Cal stabs
+    - The one Vallen strikes is _silent_
+- Cal retracts his spear and opens up the coffin he stabbed: **he sees a half-regenerated Dagen**
+    - It looks like a corpse that just melted into the coffin -- there’s lots of meat, ligaments, and fucked up bits. He’s missing one eye and the other is missing its eyelid
+    - His one good eye slides over to look at Cal, but Dagen doesn’t appear to be able to move
+    - CAL SHOVES AN ACTIVATED SUN STONE INTO Dagen’S EMPTY EYE SOCKET AND KILLS THE FUCK OUTTA HIM!!!
+- Dagen’s half-regenerated corpse withers and dusts away
+- The gang debates whether or not we should look for Dagen’s wife
+    - If he turned her, then she will wither away eventually (same thing with all the vampires he turned) within the next few days or a week or two
+    - We decide not to worry about her rn
+- Camille suggests that we search the rest of the mansion/castle in the meantime for additional information, especially if there’s further plans, connections to other vampire groups, or the [[Changelings]]
+- Camille tries to barehanded grab Dagen’s ashes
+    - Cordelia is like “wtf no” and puts Dagen’s ashes in a little vial (she keeps it!)
+
+# The Aftermath
+
+- The gang decides to go back to the basement to collect what information we can (schematics, shadow boxes, etc.etc.)
+- Camille is STRUGGLING to pronounce hors d'oeuvres (they wanna grab some on the way back down to the scary basement)
+- We need to report back to [[Clover Capital|the Capital]] -- Vallen hands Camille a sending stone to let the Keeper know that we’re done
+    - **Message to [[The Keeper]]:** Good news: Dagen's dead. Bad news: Diamond has LOTS of machine-like soldiers ready to attack, but we have the scientist who made them. Capital soon.
+    - **Response message:** We’ve received news, come to the capital IMMEDIATELY. Bring the scientist and Vallen.
+- We debate on how to get to the Capital
+    - [[NorthPass]] has ferries!! so we can be back in the Capital pretty soon
+- The party splits up: Vallen goes to prepare the carriage (gets the pink slip from Camille), Camille and Cordelia run to the basement to gather stuff, and Kaya and Cal start looting
+    - Cordelia and Camille
+        - We grab the schematics!! There’s not a ton of stuff that Camille understands in there
+        - When Camille grabs the paper for the pyramid, they VERY QUICKLY hear the distant screams of bloody murder and feel an absolute sense of dread
+        - Cordelia supervises Camille shoving shit into their pockets
+        - We get **five shadow boxes**
+    - Kaya and Cal
+        - Kaya steals a nice blanket (it’s like a bajillion thread count) (she’s also wearing it like a cape)
+- As we leave the building, the town is _dead_ -- nobody’s out and about
+    - All the carriages that the nobles brought with them are GONE
+    - [[Julian Devorak|CORDELIA’S BOO]] IS GONE!! ☹️
+    - Vallen pulls the carriage up!
+- We throw Dr. Pope on the fuckin FLOOR (of the carriage)
+- As we leave, a little plume of smoke comes up from Dagen’s mansion
+    - CAL SET THE DAMN BUILDING ON FIRE!!!
+
+# Traveling Back to the Capital
+- CARRIAGE ARRANGEMENTS
+    - Vallen and Camille sit up at the front of the carriage
+    - Everyone else is SNOOZING
+    - Dr. Pope is on the floor
+- As we’re leaving, Vallen asks Camille why they called out to Lathander earlier
+    - He hates the undead, we were fighting vampires, and Lathander _could_ be their god (since they still don’t know who blessed them), so it was worth a shot
+    - Camille asks if Vallen worships Lathander despite his hate of the undead -- he does! Because his dad worshipped Lathander 🥺
+    - Camille asks what Vallen’s dad was like: he was an incredible man, took great care of himself and his mother
+    - Camille reminisces and says that their brother was much the same -- he took good care of them when they were younger
+    - When Vallen asks Camille what their brother’s name was, they say that they’re not ready to say it yet
+    - Camille falls asleep on Vallen’s shoulder and drools all over him
+
+## WE GET ATTACKED
+- As we're asleep, Vallen wakes Camille up and lets them know that he thinks we’re being followed
+    - An unmarked carriage pulls up and slams into us!!!
+    - THERE’S A GUY ON THE ROOF!! ANOTHER ONE SKITTERS AROUND THE OTHER SIDE OF THE CARRIAGE AND TRIES TO OPEN THE WINDOW
+    - **Enemies so far: Roof Guy and The Skitterer**
+- The Skitterer pulls the window down, grabs Dr. Pope, and begins trying to pull him out
+    - KAYA KICKS HIM
+    - CORDELIA CASTS <span style="color:rgb(197, 124, 22)">HOLD PERSON</span> ON DR. POPE SO HE CAN’T TRY TO ESCAPE (he’s still unconscious so the spell automatically succeeds)
+- Camille casts Spirit Guardians so that all enemies within a 15 ft. radius of them take damage (immediately take **19 points of radiant**)
+- Cordelia has to make a **DEX save** as a dagger DIGS into her arm (ROOF GUY STABBED HER)
+    - Concentration Check: successful! But she has a knife sticking out of her arm :(
+    - Roof Guy tries to push Dr. Pope out of the carriage
+- Cal tries to shove Roof Guy -- Roof Guy falls underneath the other carriage and gets RUN THE FUCK OVER!!!
+- Kaya casts <span style="color:rgb(197, 124, 22)">Mold Earth</span> to try and trip up the wheels of the carriage following us
+    - BIGASS CHICAGO-STYLE POTHOLE!!
+    - It pops up right behind the horses but in front of the wheels. THE CARRIAGE FLIPS THE FUCK OVER!!!
+- Cal grabs The Skitterer as he’s about to dip (without Dr. Pope), and he takes another **12 dmg** from Spirit Guardians
+- [[Mysterious Vampire|SOME BITCH]] CASTS TIME STOP
+    - THE CARRIAGE IS FROZEN IN PLACE
+    - THEY TAKE DR. POPE WITH THEM! THE HOLD PERSON SHATTERS!!!
+    - THIS IS SO FUCKED UP AND EVIL
+    - **MIGHT BE DAGEN’S WIFE :((**
+	    - Future Izzie Note: after reviewing the notes, I have reason to believe the [[Mysterious Vampire]] might be Balthazar's "dead" pupil 👀
+    - **SHE CASTS TIME STOP MULTIPLE TIMES! WE’RE STUCK FOR _SEVERAL MINUTES_**
+- As Time Stop wears off, Vallen pulls the carriage to a stop
+    - Cordelia recaps to the gang what happened and passes out as she realizes there’s a knife in her arm
+    - Camille casts Cure Wounds on Cordelia for 12 HP
+- Vallen suggests that we just kill the guy after we question him. Camille reasons that we might as well let the Keeper decide what to do with him, since we don’t have Pope anymore
+    - Camille breathes a sigh of relief when Vallen agrees
+- Camille casts Zone of Truth -- The Skitterer fails
+    - What’s your name? [[Garrett]]
+    - Does he work for the person who kidnapped Dr. Pope? Yes
+    - Does he know who the person is? No, but **_she_ is from Diamond**
+    - Does he know what they want with Dr. Pope? **He’s the only one who can stop the [[warforged]]**
+    - Where is she taking Dr. Pope? Back to his lab in Diamond
+    - Where in Diamond is the lab? In the north (the north part of Diamond)
+- Camille asks Garrett if he has a family and if he wants to go back to them: yes and yes
+    - If he wants to survive, they suggest that he give us more information
+    - Where in the north is the lab? In a town called **[[Iron Forge]]**, but he doesn’t know exactly where in the town it is
+    - Does he want war? Yes
+    - How come? Clover deserves the war
+    - How come? They’re evil people
+- Camille tells Garrett what Dr. Pope’s plan was: to kill everyone and let vampires (not Garrett) rule the world
+    - Garrett seems more willing to work with us -- but **if he gets too far from his boss, a spell will kill him**
+- Garrett:
+    - Doesn’t think that the lady is [[Dagen's Wife]]
+    - Was a part of the Solaris platoon of [[Diamond Military]], and specializes in special ops
+- Garrett’s skin starts to pale and his cheeks sink -- he’s dying
+    - Camille cuts his bonds and tells him to go. They don’t want any more people to die tonight
+    - Garrett throws a sending stone on the ground, tells us “I was never here”, and sprints into the night
+    - Camille picks up the sending stone
+- We get back on the road
+    - Cal gives Camille Lathander’s necklace that we got from the dungeon
+    - Cal looks at the schematics:
+        - Flying machines to block out the sun
+        - **I MISSED THE SECOND PART I’M SORRY**
+- Kaya reaches over to touch the drawing of the upside-down triangle (The Pyramid)
+    - She hears much the same of what Camille heard and feels what they felt when they first touched it
+
+# Pulling up to [[NorthPass]]
+- Blonde elven lady approaches Vallen AND PUTS A HAND ON HIS LEG?? and greets him like an old friend
+    - This is the mother of the child we saved!! Her name is Elizabeth
+    - Her husband is currently gone (he left this morning to the Capital)
+    - There’s still a ferry left bound for the Capital!! It leaves in 15 mins
+- Camille hands Elizabeth 10 GP and goes to load the cart on the Ferry while Vallen makes travel arrangements for us
+- Apparently the ferry’s filling up FAST!! Lots of people from the party are there **(Cordelia audible gulp sound)**
+- Who’s been on a boat before?
+    - Cordelia and Cal ✔️
+    - Kaya and Camille 🚫
+    - BOTH KAYA AND CAMILLE ROLL NAT 1S ON THEIR CONSTITUTION SAVES!! FUCK THIS STUPID BAKA LIFE
+
+## Cordelia Dating Sim: Start!
+- The gang changes into regular clothes again (Cordelia is wearing a cloak now!!)
+- We see other people (also in regular clothes and maskless) that were at the party 👀
+- About 2 hours in, Kaya and Camille are NO LONGER SEASICK!! HUZZAHHH
+- Cordelia Perception (23)
+    - As she goes through the ship’s front area, she sees people mingling, drinking, and tables
+    - SHE SEES A FAMILIAR HEAD OF BLONDE HAIR!!!! MEET CUTE x2????
+    - THE BLONDIE IS ON THE RIGHT SIDE OF THE BOAT. VALLEN IS ON THE LEFT SIDE!!! **SHE HAS TO CHOOSE 😭😭😭💀😭☹️😭☹️💀💥💥💥**
+        - Cordelia rn: ![[bruh.png|180]]
+    - CORDELIA GOES RIGHT TOWARDS [[Julian Devorak|JULIAN]]!!!
+- The gang pulls up (looking for Cordelia) AND SEES HER WITH HIM
+- Cordelia pulls up next to Julian robotically as hell (but she’s trying to make it seem casual and like she’s just looking out over the horizon)
+    - Julian looks around and looks in her direction
+    - Julian: Are you also looking for someone?
+    - Cordelia: \*wringing her hands\* I don’t… know…
+    - Julian: You don’t know? Well, we’re all looking for something. You heading to the Capital, then?
+    - Cordelia: Yeah. I feel like I always end up back there.
+    - Julian: Always. But, I have a duty to do. What are you going to [[Clover Capital|the Capital]] for?
+    - Cordelia: I… run a _flower_ shop.
+        - DECEPTION CRIT FAIL!! JULIAN ROLLS A 19. YOU CAN’T MAKE THIS SHIT UP!!!!!
+    - Julian: Flower shops… How long have you run flower shops in the Capital? Also, where’s it at? I would love to come by and buy flowers
+    - Cordelia: 👁️👁️ …. oh no…..
+    - Cordelia: You know…. A couple of years? _So what about you? What are you going back for?_
+    - Julian: I’m going back to do my duty. My father’s very adamant I get my rank up
+    - Cordelia: So what rank are you right now?
+    - Julian: I’m a, uh, I’m a Journeyman, but my father’s a Captain. I’m trying to get to Sentinel before the end of the year, start of the new.
+    - Cordelia: That’s impressive. You must have a… wife???
+    - Julian: No, no wife. I am engaged though. Though I _am_ questioning it, that isn’t something a stranger should know.
+    - Cordelia: I suppose not. You know, I’ve been there.
+    - Julian: Arranged marriages, am I right?
+    - C: For the longest time, I just lived with the idea that it was never something for me. I had my books - _my flowers_. And that was enough. That was always enough. And this news gets dropped on you, and…
+    - J: I know! And she’s already running away
+    - C: She ran?
+    - J: She ran. Her father is looking for her, obviously, but last anyone knows she left the Capital. She could be in Diamond, for all I know
+    - C: Could be. Why do you think she ran?
+    - J: Oh, I would. I would, for sure. Capital isn’t meant for people like… It’s not meant for everybody. It’s not meant for me, that’s for sure. If I could leave, I would.
+    - C: What would you do?
+    - J: I don’t know. I would like a little house in the mountains.
+    - C: Yeah…
+    - J: But, where’s your, uh, “flower” shop at? I’ll come visit.
+    - C: Uh…
+    - J: Best of luck. \*Turns around and begins to walk away\*
+- The gang approaches Cordelia to console her
+    - Vallen is leaned back on the railing, looking directly at Cordelia
+    - **IT’S GIVING “VALLEN DISAPPROVES”**
+- Camille checks the vibes (Insight 23)
+    - Cordelia is deciding between choices. Vallen is observing the situation (IN A NEUTRAL WAY)
+    - As Cordelia meets Vallen’s eyes, he gives her a nod and turns around
+
+# Arriving in [[Clover Capital|The Capital]]
+- Since Julian is there, there are probably other Guardians from the military
+    - Cordelia realizes that they’re probably looking for her 😟
+- Camille pulls Vallen to the side
+    - They’re worried about [[Poppy Xotli|their mother]] -- she lives on the border of Diamond and Clover, and if war breaks out, she will be among the first to be affected
+    - Would [[The Keeper]] be ok with Camille housing their mother? For a pay cut maybe?
+        - Vallen says that the Keeper would probably be willing to do it for free, but Camille should ask after the Council disbands
+    - Camille asks Vallen to make sure their mom (“A woman that looks like me”) doesn’t die if he ever comes across her. Vallen’s leaving the group after this, but he doesn’t seem against the idea
+    - At the mention of Vallen leaving the party, they say that they really value their time with him and that he was one of the first real friends they’ve ever made. They express that they hope their (as in Camille and Vallen’s) paths cross again
+    - As they leave to unload the carriage, Vallen calls out Camille’s name. In response, they very quietly go “That’s not my name”. Vallen says he will keep that in mind
+- Group Perception
+    - As soon as the ship docks, we all see that the town is in a PANIC!! The military in the capital is on ALERT
+    - One of the guards steps out, asking for the entire party BY NAME!!
+        - JULIAN HEARS CORDELIA’S NAME AND 👁️👁️ STARTS LOOKING AROUND
+        - Vallen raises his hand and points us out to the guards
+        - The guards say that the Keeper’s ordered us to go to the Garrison, and they’re here to escort us
+- The town is BUSTLING!!
+    - We aren’t stopped at any check points AT. ALL!!
+
+## The Garrison
+- Large, imposing stone building, decorated in Clover’s symbols
+- The guards lead us up the stairs _PAST_ [[Captain Purah|Captain Purah’s]] office, towards a **_MAGIC ELEVATOR!!!!_**
+    - **From the outside looking in, we’re entering the Keeper’s Tower: the tallest building in the capital**
+- The guards leave us at the door, and we walk into the top floor of the Keeper’s Tower!!
+- **The Keeper’s Office:**
+    - An entire half side of the room is covered in glass, giving the Keeper a south/east side view of the Capital/Kingdom
+    - On the right side of the room, there’s a huge wooden desk with a massive chair + couches and chairs reminiscent of the Oval Office
+    - On the left side (where the windows are _not_) of the room is a very long war table
+- Who’s in the room:
+    - Captain Purah (talking to some folks near the Keeper’s desk)
+    - [[Ozwin|A fancy gentleman]] (dressed like what you would normally see at a fancy party) **_(OMG HIIIIIII I LOVE MEN) (HIS NAME IS OZ)_**
+![[Ozwin.jpg|240]]
+- Captain Purah waves us over, asks us to sit
+    - She says she will need our expertise on upcoming matters
+    - The Keeper is down in [[Ozwin|Oz’s]] office
+    - Camille shakes Oz’s hand, learns that:
+        - He’s a Captain who handles the military side of affairs (while Captain Purah handles the civilian side of things)
+        - He’s the one who ordered our outfits for the masquerade!!
+- Oz asks where Dr. Pope is -- Camille lets them know that we were attacked and that someone from Diamond cast Time Stop
+- Cordelia asks if we’re going to war: Oz responds affirmatively
+    - She also asks for her father: he’s in the Capital for sure, likely in the Tower somewhere a few floors down
+    - **[[Arthur Elysian|CAPTAIN ARTHUR]] IS GONNA BE IN THE BIG MEETING. HE’S ALSO UP FOR PROMOTION? THIS HAPPENED LIKE A WEEK AGO AFTER HE RETURNED FROM THE GOLD COAST**
+- Kaya asks if her father - [[Genlan Avarice]] - will be at the meeting
+    - Oz asks if he’s a Legionary or Captain (he’s a Captain)
+    - **KAYA’S DAD WILL ALSO BE THERE**
+- The [[Fire Faction leader|Fire Faction leader]] will also be at the meeting!
+- **CORDELIA IS CRASHING OUT. HER DAD WILL BE THERE!! HE’S GONNA BE SO MAD!!!**
+
+# Meeting with the Keeper
+- The Keeper walks in -- we stand up to greet him
+    - He says we’re in a bit of a hurry so we will have to skip pleasantries
+    - **HE HAS AN ENTOURAGE AND _BOTH CORDELIA AND KAYA’S FATHERS ARE THERE_**
+        - [[Genlan Avarice|Kaya’s dad]]: [[Water Faction]] Leader
+        - [[Arthur Elysian|Cordelia’s dad]]: [[Earth Faction]] Leader
+        - [[Fire Faction leader]]: [[Fire Faction]] Leader
+- We all sit down
+    - Vallen on the Keeper’s right-hand side, Purah next to him, and Oz on his left-hand side
+    - The Keeper asks us “what the hell happened”
+        - Kaya informs him that we were supposed to go to Dagen’s party and investigate/get rid of him
+        - **THE KEEPER DIDN’T KNOW ABOUT THIS?!?!? OZ SIGNED OFF ON IT BUT DIDN’T TELL HIM**
+    - Camille hands over all the schematics to the Keeper
+        - The Keeper now knows about Diamond’s plans to attack, and about the warforged
+        - He opens up a secret passage in a bookcase, and **PULLS OUT THE ORB????**
+            - We feel at peace, seeing the orb
+- Perception check as the [[Orb]] is pulled out
+    - **The Keeper’s holding the Orb with his _bare hands_**
+    - He also grabbed the paper with the drawing of the Pyramid on it
+- WE RECAP WITH THE KEEPER
+    - The Curator (The Keeper has no record of the Curator in any of his archives)
+        - The Curator can sense when we’re close to the Pyramid or close to someone who’s touched the Pyramid recently
+    - Dr. Pope
+        - He was tasked with researching alternative methods to win the war
+        - Cal’s come across him a couple of times
+        - The Keeper reads Cal’s mind and learns that he gave Dr. Pope the Pyramid (not that he knew what it was at the time)
+- The Keeper asks: whose trust lies with Clover, and whose lies with Diamond?
+    - Kaya: “If no one there is there to experience peace, then there is no peace at all. I’m with Clover.”
+    - Cordelia: Dead silent, staring off into the distance. At this moment, she locks eyes with her dad. “I have, and always will stand with Clover”
+    - Camille: They’re allied with Clover because that’s where their family lives, but they question whether or not Clover has been taking Diamond’s resources like Garrett claimed
+        - Diamond has a lot of resources compared to Clover, despite Clover’s size. Diamond holds a lot of agricultural resources that Clover needs to continue
+        - Yes Clover _has_ been taking Diamond’s resources, but Clover and Diamond were once in an alliance. Diamond broke that alliance, so Clover stopped providing them with protections, and that’s how we got here today.
+    - Cal: “Sounds like propaganda to me. Whoever side you chooses, the other side will always pay the price. I don’t stand with Clover -- I don’t stand with _anyone_. But I stand against Diamond”
+        - This is the answer the Keeper was looking for -- sacrifices must be made in order to keep this kingdom where it needs to be.
+- The Keeper doesn’t understand why the Orb chose us, but he doesn’t think that it was coincidence that we all walked into Hillford’s bar at the same time, or that it was a coincidence that Cal headed to Hillford when he needed to go in the opposite direction
+- **We need to be inducted (into the government??).** We’ll get passes, special privileges, etc.etc.
+    - **We will officially be Ambassadors of Clover**
+    - **_Clover needs the Pyramid_. If Clover has the Pyramid, then Diamond will not.**
+    - **We need to retrieve the Pyramid and deliver it to the Keeper**
+- Camille asks the Keeper if he can keep their mother safe. The answer is yes
+    - Border towns will be evacuated, others will be heavily guarded
+    - Camille’s mother will be brought to the Capital
+- The Keeper needs to discuss the kingdom’s next steps with the Faction Leaders and Vallen
+    - Detailed reports on what’s happening in the Kingdom
+    - Locking down valuable resources ([[Mithril]], Adamantium, etc.)
+- The Keeper will meet us downstairs, and we will stay in the Capital for a day (we have rooms somewhere in the Tower)
+- Kaya asks for updates on the [[warforged]]
+    - Only received reports of 5 warforged running around
+    - They could be used as scouts?
+    - “We don’t know a damn thing”. But we will be informed if the Keeper learns anything else
+- As we leave, the Keeper says “Vallen, we need to talk” _THEN THE DOORS CLOSE_
+
+# Post Meeting With the Keeper
+- We go down two levels via the elevator
+    - Cordelia held her breath for the ENTIRE meeting -- she feels nauseous
+- The ENTIRE floor is a living area.. omg….
+- Camille goes to a private room to message their mother
+- Kaya and Cordelia flops on the couches
+    - Cordelia: I give it fifteen minutes before my father comes down here and kills me
+- Cal goes SNOOPIN AROUND!!
+    - We have a little kitchen and shit 👀
+
+## KAYA MEETS HER DAD AGAIN?? FUCK THIS GUY BTW 💥💥💥
+- [[Genlan Avarice|Kaya’s father]] ENTERS THE ROOM!! Kaya stares him the fuck down as she lays under her blanket
+- His hands are on his HIPS!!
+    - Dad: What do I even say.
+    - Kaya: Whatever you want.
+    - D: You know your mother’s worried sick.
+    - K: That’s a fucking joke and you know it.
+    - D: Your friend misses you, you know. (paraphrased)
+    - K: You have no _fucking_ right to say anything about her. But…
+    - D: I came down here to tell you specifically that I don’t give a shit what you do.
+    - K: You’ve made that abundantly clear my entire life. What’s more to say?
+    - D: Good luck.
+- KAYA’S DAD TURNS AROUND AND WALKS OUT. OH MY GOD. FUCK THIS GUY!!!!
+- Kaya asks Cordelia if she wants her to defend her when Captain Arthur walks in -- because according to Kaya, Cordelia kinda left her to the sharks
+    - Cordelia didn't think it was her place to interject
+
+## VALLEN RETURNS! HUZZAH!!
+- VALLEN ENTERS!!!
+- Cordelia asks if he got in trouble (no). But he’s got a new assignment!!
+    - **IT’S MAINTAINING OUR WELLBEING!! _VALLEN’S STAYING!!!!!!_**
+- Vallen and Cal leaves to get food
+
+## Cordelia’s Dad Enters
+- [[Arthur Elysian|Cordelia’s dad]] RUNS up to Cordelia and hugs her 🥺
+    - HE THOUGHT SHE WAS DEAD!!! (she thought she could’ve died a couple of times)
+- CORDELIA CHEWS OUT HER DAD!! SHE SAYS THAT ARTHUR SHOULD’VE KNOWN BETTER THAN TO LEAVE HER MOTHER ALONE
+    - HE HASN’T SEEN HER IN A WEEK. Maybe she’s off to stay with her own mother??
+- [[Lawrence Elysian|Law(?)]] was supposed to be watching [[Cordelia's Mother|her mom]] as well
+    - He also knew that Cordelia left, kinda. She told him that she was going out but nothing more
+- **_CORDELIA IS ALSO PISSED ABOUT THE ARRANGED MARRIAGE_**
+    - The dad is cowering like a kicked dog omg… He says he’s sorry, and Cordelia says that she is too
+- CORDELIA BASICALLY CALLS US HER FOUND FAMILY 🥺🥺🥺WAHHHHH
+    - SHE FEELS A CONNECTION WITH US THAT SHE HASN’T REALLY FELT WITH EVEN HER OWN FAMILY
+    - She also mentions a “Lenore”? And one other person but I had to go back and add this so I forgot :(
+- Captain Arthur says that she’s grown and changed a lot, and asks if she’s learned some cool new spells (yeah… 😏)
+- Captain Arthur apologizes for getting too wrapped up in work, and didn’t see how he messed up until now
+    - He asks if Julian is cool after Cordelia mentions that she met him -- he kinda is, but she’d prefer to make that decision on her own
+    - **_THE WEDDING IS ON HOLD!!!_ FOR NOW**
+    - Cordelia’s mom signed some contracts which she _took with her_, so Captain Arthur can’t fully undo the marriage. But the wedding is still on hold
+- Captain Arthur says that Cordelia should visit if she ever finds herself in the Capital again!!
+    - He’s home more often, and her mother isn’t home anymore
+- Cordelia looks to the side and sees Cal and Vallen eating some meat sticks
+- Cordelia thanks her dad for coming to see her and for the apology, but she needs some privacy and rest
+    - **Cordelia’s dad hands her a sending stone**
+- As Captain Arthur leaves, he passes Cal and Vallen, eyeing them up in a “please don’t let her die” kinda way before he leaves
+
+## WE GET SO MANY GIFTS!!!
+- The Keeper walks in. He’s SO tired oh good god
+    - Cal is eating a chicken leg -- as he finishes it and the Keeper walks in, he just DROPS IT? ON THE FLOOR?? WHAT’S BRO’S PROBLEM 😭
+    - Some kinda magic creature disintegrates the refuse
+- The Keeper hands Kaya a plate of food (the kitchen isn’t staffed rn so he just kinda grabbed some shit)
+    - Asks where Camille is (they’re talking to their mother)
+- HE HAS A GIFT FOR US!! HANDS CORDELIA A SENDING STONE
+    - It looks like 2 stones stacked up on top of each other -- it looks like there are two spools of wire are wrapped around it
+    - IT’S LITERALLY A PROTOTYPE. **_IT HAS AN UNLIMITED NUMBER OF USES! AND IT HAS A 50 WORD LIMIT!!!_**
+- _WE ALSO GET 1,000 GOLD!!!!!_
+    - We’ll be getting it tmrw though :(
+- There’s another gift!! Staff will come in, make us food, and we’ll be left alone for the night
+    - We will discuss our next steps tomorrow morning
+- Cal asks if there’s an armory he can check out (not in this floor)
+- The gang fetches Camille (their floor is littered with half-written messages to their mother, and their mirror is covered by a cloak)
+- WE GO DOWNSTAIRS TO GET FOOD AND [[Foo|FOO’S]] THERE!!!
+- The “it’s time to travel” thing is kicking in!! **Foo hands us a key**. It looks a little technological, and it goes to the door of Foo’s bar
+    - **We can use the key on virtually any door**, and Foo says that we can visit and he’ll make us breakfast anytime!!!
+    - By opening a dimensional portal, Foo’s been getting LOTS more visitors -- the bar is basically a pocket dimension now
+- Foo might call upon us to break up a bar fight or two
+- Foo makes us dinner!!
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 09.md" class="internal-link" style="float:left">← Session 9</a> <a href="Session 11.md" class="internal-link" style="float:right">Session 11 →</a> </div></body></html>

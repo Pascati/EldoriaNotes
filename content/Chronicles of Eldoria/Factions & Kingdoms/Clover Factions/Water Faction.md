@@ -1,0 +1,4 @@
+- Sub-faction of the [[Clover Military]]
+- Led by [[Kaya Avarice|Kaya's]] father [[Genlan Avarice]]
+- [[Kaya Avarice|Kaya's]] original faction
+	- It is very rare for someone to leave or change factions, iirc

@@ -1,0 +1,4 @@
+> *"**Many believe the world to be flat and at some point it drops off into a void much like the night sky. It is firmly believed that The Fog has always been there as all recorded history claims it to be there. The Fog looks just like the clouds in the sky, its been recorded to spark with a red and purple electricity when one gets close enough. All grounding methods have been tried and tested but nothing has stopped the electricity in the Fog.**"*
+
+
+- A mysterious fog which surrounds [[Eldoria]], and occasionally shines with flashes of red and purple electricity (which is an effect closely related to the [[Pyramid]])

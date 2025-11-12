@@ -1,0 +1,5 @@
+- First introduced in [[Session 17]], where [[The Curator]] informed us that:
+	- The Cube is like the "tapestry"/box which is intended to contain both the [[Pyramid]] and the [[Orb]]
+	- It is hiding *outside of our reality* in an <u>extradimensional space/pocket dimension</u>
+		- It was hidden away so the gods and people can *restore/reset the world* in case one of the shapes goes out of control
+	- When housing the Pyramid and the Orb, it can be used to ***shape reality***

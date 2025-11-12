@@ -1,0 +1,494 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 16.md" class="internal-link" style="float:left">← Session 16</a> <a href="Session 18.md" class="internal-link" style="float:right">Session 18 →</a> </div></body></html>
+
+---
+# Traveling to [[Oswiigo]]
+- We set up camp and have a long rest!
+    - [[Characters/The Party/Quén Aiano|Camille]] rolls a nat 1 to (stealthily) cry themeslf to sleep 💀
+- Camille asks what our plan is for when we find [[OSIRIS]]
+    - [[Kaya Avarice|Kaya]] said she was falling [[Vallen The Immortal|Vallen]] (going to [[Oakheart]] + just rolling with the punches as things were happening)
+    - Camille reveals their suspicion that OSIRIS is planning on re-entering Clover through [[Lycoris|their bridge hometown]], and that he might be up to more shenanigans
+- We agree to keep moving, and start walking to [[Oswiigo]]
+
+## [[Cordelia]] Speaks to Vallen
+- As we’re walking to [[South Haran]], [[Cordelia Elysian|Cordelia]] hangs at the back of the group and asks Vallen if they can talk
+- She reveals that she learned some things at the church in [[Fjord]], and asks if Vallen’s seen someone else who used he [[Tarot cards]]
+    - Yes, it was a woman that he didn’ t know very well roughly 100-ish years ago
+- Cordelia says she was just curious (about the cards or the person?)
+    - She responds by saying she just has a lot to think about, and it’s something she can’t really work through via conversation
+- She also reveals that she’s learned that there’s one other person out there with the tarot cards, and that she’d like to talk to them
+- Vallen reveals that the previous tarot-user he met was a human
+- Vallen recommends that Cordelia speaks with [[the Keeper]] about her cards, since he’s basically a master of magic
+
+## Still Traveling
+- The gang talks a little -- has anyone been to [[Oswiigo]] before?
+    - Literally nobody has (except for Vallen. He says it’s more of a town people pass through, since it’s basically a trading post)
+    - Vallen says there’s probably a merchant’s guild in the city, so we can do a shopping trip
+- SHOPPING TRIP SO FAR:
+    - Diamonds for Revivify (worth 300 GP)
+    - Obsidian (for Kaya)
+
+## Arriving in Oswiigo
+- It’s a very open town
+    - There are two roads going into the town
+    - There are lots of shops open but merchants don’t appear to be paying much attention
+- **WHAT WE BUY**
+    - All of us lose 25 GP
+    - Camille gets 2 diamonds worth 300 GP
+    - Kaya gets a piece of obsidian
+    - Cordelia gets 10 bags of sand (5 GP)
+- Camille suggests that Cordelia contact [[Finnigan Seamus|the Captain]], since we forgot to tell him where we were going
+    - Cordelia has a bit of a flashback when [[Julian Devorak]] is mentioned, and she and Vallen agree that Camille should probably hold onto the Sending Phone
+- Camille messages the Captain
+    - Camille: Tells the Captain that we’re on OSIRIS’s trail, and that we suspect he’s trying to re-enter Clover
+    - Captain: Hello again, we are on our way to the next area of interest for the warforged enemies, who is OSIRIS?
+    - Camille: Oh! OSIRIS is the [[Warforged]] commander, I believe? He showed up during the big battle and asked us a lot of questions and he answered a lot of ours, but he seems to be an intelligence-gathering agent. Uh… Yeah
+    - Captain: And you’re just relaying this? Please meet us just north of [[Lycoris]]
+- Camille tells the gang that Lycoris is their hometown, and that they’re worried that their neighbors and cows are going to be affected
+
+# Heading Towards [[South Haran]]/[[Lycoris]]
+
+## The gang talks to each other
+- As we walk, we hear a storm rumbling on the horizon in the direction that we’re heading
+    - We’re passing through a wooded area
+- Camille is dead quiet the entire walk
+    - Vallen catches up to them and asks if they’re ok
+    - Camille tries to lie, Vallen rolls a NAT 20 against their 6 Deception. He says that they don’t have to talk about it, but they can’t be mad at him for lying if they do the same (THE WOMAN WAS TOO STUNNED TO SPEAK)
+    - Camille confesses that they’re _not_ doing well, but they will be eventually. They met their god - who said that their brother was meant to die - their mother might be talking to a fake version of them in [[Clover Capital|the Capital]], and they’re heading to their hometown, where all their neighbors might be dead.
+    - Vallen tells them that it’s better to hope for the best rather than expect the worst and spend all their time sulking
+    - Camille opens their mouth to say something serious, then [[Cal Corvo|Cal]] bursts into the conversation and asks them how they do magic
+- We veer into a group conversation on how magic and the gods work
+    - [[The Raven Queen|The Raven Queen's]] goal is to make Cal’s life interesting so that - when she takes his soul when he passes - she will be able to replay his story like a movie
+    - If Cal spends the rest of his life sitting at home, she will probably end up letting him go
+- Vallen asks if we have rain gear (👍) and asks Camille if they were about to tell him something
+- Camille tells Cal that spells usually require intent, components, magical words, and special movements. Since he seems to have all that, the scythe probably isn’t a spell -- it’s something that *happens* to him
+- While everyone else is talking, Cordelia quietly pulls out a book and starts reading
+
+## Arriving in [[South Haran]]
+- The town appears to be busy, despite the oncoming rain
+- Camille says they can cast <span style="color:rgb(197, 124, 22)">Locate Object</span> on OSIRIS (specifically on his loincloth 💀 he doesn’t wear enough for them to cast it on anything else), and we can circle the town to see if he’s there. If not, then we can move onto Lycoris
+- No one is guarding the city, so we can just waltz right in
+- All the busy bodies we just saw were LITERALLY [[WARFORGED|WARFORGED]]. OH FUCK
+    - We see a bunch of people that _aren’t_ Warforged, but they’re standing out of the way
+- There are warforged of different kinds -- some are moving large boxes, and smaller warforged are holding swords and weapons. There are **_hundreds_**, they move around like ants
+    ![[Warforged1.png|240]] ![[Warforged2.png|248]]
+- Camille casts <span style="color:rgb(197, 124, 22)">Locate Object</span> on OSIRIS’s loincloth (HE’S ABOUT 950 FT. AND GETTING CLOSER?)
+- We argue over what to do
+    - Vallen says we should try to blend into the crowd and stay put
+    - There’s a moment where Cordelia explodes at Vallen and says that he’s being a dick today. Camille tries to ask her if she’s ok, because it seems to have come out of nowhere, but she just turns away without responding.
+- WE ROLL FOR PERFORMANCE TO BLEND IN. IT WORKS.
+- Camille sees OSIRIS on the hill. Beside him is another warforged, and they appear to be conversing. The other warforged is wearing a cloak. They’re walking in tandem and talking
+    - ![[Mage Warforged.png|240]]
+    - OSIRIS doesn’t appear to be looking for us
+    - They’re around 200-ish feet away at this point, but they’re walking towards where the other warforged are
+- Vallen tells us that he was right and that all we had to do is play it cool
+    - Camille says their horns are very tall and recognizable. Vallen directs them to stand in the back, so they stand behind him.
+- As OSIRIS arrives, all the warforged turn to look at him despite him not saying anything. He makes a gesture, and all the warforged pick up their belongings and begin to move
+- We follow at a distance (sneakily, succeeding in sneaking). **As we crest over the hill, we see the ENTIRE army from [[Mossley]] (not the exact same army, but it’s the same size as the one from Mossley)**
+- Camille sends a message to the Captain
+    - Camille: Hi captain, we're in Haran now. OSIRIS and another warforged wearing a cloak appear to be directing the other warforged, and they just picked up their belongings and are starting to move. They have an army the same size as the one in Mossley. What are your orders?
+    - Captain: Get out of there as soon as possible. Come back to Clover.
+- As Camille reads out the message, OSIRIS reaches the army.
+    - They IMMEDIATELY form ranks from being a little hodgepodge group
+- We all hear the same thing, but Cal is the only one who knows where it’s coming from
+    - About 20 feet in front of us, we see two individuals (dressed in [[Diamond military]] garb). One of them says:
+        - “Yes, about two weeks ago we scouted the [[Mithril]] mines”
+        - “Then yes, the plan is in effect.” (Speaks into a stone)
+    - Camille IMMEDIATELY informs [[Finnigan Seamus|the Captain]]
+    - Cal suggests that he change his clothes to go undercover and find out information
+        - Camille is worried that he’ll get recognized, since he was pretty famous
+        - **NOTE:** the higher you are in the [[Diamond military]], the more likely your face is to be covered (since Diamond is a complete democracy, as opposed to the militarized Clover)
+    - Anyone who rolled higher than an 18 on perception realizes:
+        - These guys are wearing really wide silver shoulder pads, blue robes, and the diamond insignia etched into the back of them
+        - As we approach, we see a field of dark blue mixed in with the warforged (less than 100, but more than 80)
+        - Cal can tell they’re not officers. He sees a few captains in the mix, but their faces are covered
+    - Camille just relays everything to the Captain
+- Vallen suggests that we get out of there -- we all agree
+- As we begin turning to leave, we hear the thunderous marching begin
+- This entire time, Cordelia’s been watching in abject horror. She breaks her silence though, and she says that - if she has enough time - she can learn a lightning spell
+    - Vallen says we need to find her a library
+
+# OUTRUNNING THE ARMY
+- As we leave, we can still feel the thunderous marching of the warforged behind us
+- Camille’s pocket buzzes
+    - Captain: Change of plans! There’s a whole army here! Retreat quickly and stay safe!
+- We realize that we’re outpacing the _reinforcements_, NOT the original army
+- We need to start moving (finding a door is unlikely and would take an unknown amount of time)
+    - The warforged army might take a day to reach [[Clover Capital|the Capital]]
+- **If we don’t move quickly, then we’ll end up sandwiched between the original army and the reinforcements**
+    - We will still need to pass through [[Lycoris]]
+- We spend an hour, 45 minutes walking
+- We arrive at a very large stone bridge.
+    - There’s still some rain (which appears to be rolling in from the north, so we’ve outpaced the storm a little)
+    - Vallen says it’s a long bridge, so we should run across
+    - There are some scuff marks on the stone (like a large army has passed through here earlier)
+- We’ve outpaced the reinforcement army thanks to Camille’s Hastened Voyage ability
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span>
+    - She sees a little life force magic in everyone -- even in Vallen, although his is a little different because he’s undead
+- We start to hear the marching again
+    - Everyone starts BOOKING it
+    - As we get halfway, Camille’s pocket buzzes again
+        - *“Why are you running? Do you not want to participate?” - OSIRIS*
+        - “No thanks!”
+    - WE START BOOKING IT EVEN MORE. Camille runs behind Cordelia just in case something comes up behind us
+    - THE MARCHING BEHIND US GETS FASTER???
+    - THE RAIN IS COMING DOWN HARDER
+- As we begin to reach the end of the bridge, we see figures there
+    - Everyone sees the [[Clover military]]. Specifically people that were on the ship with us -- they’re battered and broken, but still alive
+    - CORDELIA SEES [[Julian Devorak|JULIAN]]!!!!!
+        - He has cuts all over his face -- he doesn’t seem to be paying attention to us running up
+        - He motions us over (we follow)
+
+# WAR BREAKS OUT
+- IT’S POURING RAIN
+- The only person we personally recognize (around us) is Julian. As we approach, Julian asks Cordelia where she’s been
+    - She’s out of breath, and unable to respond in length
+- WARFORGED BEGIN TO RUN ACROSS THE BRIDGE
+- FIGHTING BREAKS OUT
+- THERE ARE FALLEN WARFORGED AND CLOVER SOLDIERS. THE WARFORGED ARE FIGHTING BACK
+- We roll DEX saves
+    - CAMILLE ROLLS THE LOWEST. They have to roll a perception check (nat 1)
+    - There’s a cloaked figure which casts some kind of firebolt at us
+    - THER’ES S AHOLE IN CAMILLE’S CHEST??!?!!??
+    - THEY FALL TO THE GROUND
+    - THE REST OF THE PARTY SEES CAMILLE’S BAG BEGIN TO GLOW. THE HOLE CLOSES UP.
+    - VALLEN PICKS UPCAMILLE FOOTBALL CARRY STYLE AND STARTS RUNNING
+- JULIAN SUMMONS TWO BATTLEAXES AND SLICES THE WARFORGED CLEAN IN HALF
+- ON VALLEN’S SHOULDER, CAMILLE SEES THE ARMY CROSS THE BRIDGE.
+- WE’RE ENTERING CAMILLE’S HOMETOWN
+- There are dead Clover military and warforged all around us
+- Julian is in front of Vallen (still carrying Camille)
+- CJ PULLS OUT THE COMBAT DM SCREEN
+- In the space between Julian and Vallen (still carrying Camille), we see a **_TEAR IN SPACE OPEN?!?!?!_**
+    - THROUGH THE RIFT WE SEE THE CLOAKED WARFORGED AND OSIRIS
+    - THEY WANT US SO BAD?!?!!? LEAVE US ALONE FREAKS 👎👎👎👎👎👎
+- Julian swings a battleax at OSIRIS
+    - OSIRIS GRABS IT, SWINGS JULIAN AROUND, AND THE CLOAKED WARFORGED OPENS A PORTAL BENEATH HIS FEET AND OSIRIS DROPS HIM IN
+    - JULIAN IS GONE 😭😭😭😭😭😭
+- OSIRIS ASKS WHERE WE THINK WE’RE GOING
+    - VALLEN SETS CAMILLE DOWN
+    - As we’re talking to OSIRIS, the warforged fighting around us splits like the red sea
+    - Camille asks why OSIRIS wants us so bad -- he tells them to check their bag
+        - THE [[Orb|ORB]] IS IN CAMILLE’S BAG!?!?!?!?!? HELLO?????
+        - THEY DON’T WANT TO HAND IT OVER. OSIRIS SAYS HE HAS NO CHOICE
+
+# COMBAT!!!
+- Cal, Kaya, and Vallen get a surprise round
+- **INITIATIVE ORDER:** Cal, OSIRIS, Vallen, Kaya, Camille, Cordelia
+- SURPRISE ROUND
+    - Kaya
+        - Hits twice for 19 damage
+    - Cal
+        - Hits once for 9 damage
+    - Vallen
+        - ???
+- ROUND 1
+    - Cal
+        - Cal DEALS 46 DAMAGE TO OSIRIS?? SLAY
+    - OSIRIS
+        - Blasts Cal with energy for 18 damage
+        - As Cal gets hit with this blast of fire, he stumbles back and holds his hand up. OSIRIS goes up in flames for 15 fire damage as he casts <span style="color:rgb(197, 124, 22)">Hellish Rebuke</span>
+    - Vallen
+        - Bamphs next to the mage warforged that was standing next to OSIRIS
+        - Hits her right in the stomach with his swords, smiting her and dealing some damage
+    - Kaya
+        - Attacks OSIRIS
+        - DEALS SOME DAMAGE I MISSED IT. Her knuckle magic items are charged up tho
+    - Camille
+        - FULLY TOUCHES THE ORB AS THEY TRY TO SNEAKILY TRANSFER THE ORB TO CORDELIA’S BAG (rolls an 18 slight of hand)
+        - OSIRIS DOESN’T NOTICE!!!!
+        - Uses their bonus action to pull out their mace, and runs to the side of the battlefield (away from Cordelia) as if they’re trying to escape
+        - CJ ASKS FOR CAMILLE’S PASSIVE INVESTIGATION?? THEY DON’T NOTICE ANYTHING
+    - Cordelia
+        - She’s having a moment -- for a moment she stares at the spot where Julian used to be, and now she’s just looking around in horror and awe at what’s happening to her
+        - Reaches into her bag, pulls out the tarot deck, and pulls a card
+        - PULLS THE DEVIL?? FROM THE BIBLE???
+            - The card burns away 😰
+            - The mage warforged next to OSIRIS looks at her and backs up a little (she’s _Frightened_ of Cordelia now)
+        - She notices a smooth presence in her bag
+        - Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> with her action, deals 13 fire damage to the mage warforged
+    - Mage Warforged
+        - Her left hand begins to glow a purple-ish color, and stars begin to float off of it
+        - She turns around and smacks Vallen, and he bamphs behind Cordelia
+        - SHE TRIGGERED HIS TELEPORT ABILITY FOR HIM???
+- ROUND 2
+    - Cal
+        - Makes eye contact with everyone as Vallen’s ability is triggered
+        - Moves to attack the mage warforged instead (OSIRIS’s AoO misses)
+        - Attacks twice (15 hits, 13 does not), deals 13 points of damage
+    - OSIRIS
+        - Turns towards Camille and starts running STRAIGHT for them
+        - SHOULDER-CHECKS CAMILLE?? RUDE
+        - THEY BOUNCE OFF THE MOVING WARFORGED
+        - AS THEY BOUNCE OFF HE FUCKING DECKS THEM FOR 39 POINTS OF DAMAGE
+    - Vallen
+        - Camille locks eyes with Vallen -- his eyes are red and his fangs get a little longer
+        - GRABS OSIRIS BY THE SHOULDERS AND TELEPORTS/THROWS HIM INTO THE MAGE WARFORGED
+        - guys I get shy…. HE CARES ABOUT CAMILLE 🥺
+    - Kaya
+        - ROLLS A 14 AND 15 AND NAT 20 TO HIT ON OSIRIS
+        - Deals a total of 31 points of damage
+        - When she hit, there are dents in his armor 👀
+    - Camille
+        - They tell Vallen to protect Cordelia, and they ask him to trust them (he nods in response)
+        - They use their action to cast <span style="color:rgb(197, 124, 22)">False Life</span> on themself, and run to the opposite side of the arena from Cordelia
+    - Cordelia
+        - Pulls a card: The World
+            - Cal and Kaya roll DEX saves (21 and NAT 20 respectively) -- because they both rolled over 20, they’ll have the choice to “latch on” to something later
+            - The card glows purple, and disappears into a bunch of stars. The stars slowly, then quickly, collapse in on themselves and A BLACK HOLE FORMS DIRECTLY IN FRONT OF HER
+            - SHE DOESN’T FEEL HERSELF BE PULLED INTO IT, BUT BOTH OSIRIS AND THE MAGE ARE PULLED INTO IT
+            - Cal and Kaya choose to latch onto the warforged as they’re pulled towards the black hole (they move 30 ft. towards the hole)
+            - When the warforged reach the black hole (Cal and Kaya let go right before they do), the black hole collapses in on itself and deals 22 damage to both of them
+    - Mage Warforged
+        - Succeeds in removing the _Frightened_ Condition
+        - She looks at Cordelia, and her hand begins to glow purple again. SHE SLAPS CORDELIA FOR 7 DAMAGE??
+        - SHE COPIES CORDELIA’S ABILITY AND CREATES A BLACK HOLE
+            - Everyone has to roll DEX saves except for Camille and Cordelia (since she’s within 5 ft of the hole)
+            - THE MAGE WARFORGED CLAPS HER HANDS TOGETHER AND COLLAPSES THE HOLE HERSELF
+            - Cordelia takes 14 points of damage
+- ROUND 3
+    - Cal
+        - Moves out of the range of the mage warforged, and gets punched in the back
+            - A purplish aura begins to form, and SHE ACCIDENTALLY CASTS ELDRITCH BLAST ON HERSELF
+            - SHE BLASTS HER OWN ARM OFF?? LMAO. GET GOT BITCH
+        - Attacks OSIRIS and uses <span style="color:rgb(197, 124, 22)">Second Wind</span> to give himself 5 TOTAL ATTACKS
+            - Deals a total of 42 damage
+            - HE LOBS OFF OSIRIS’S RIGHT ARM?? SLAY
+    - OSIRIS
+        - Looks between Cal and Camille, and chooses to attack Cal
+        - Kicks Cal, forces him to move back 5 ft
+        - BLASTS CAL FOR 33 POINTS OF DAMAGE
+        - **_CAL’S DOWN_**
+    - Vallen
+        - HE LOOKS EVEN MORE PISSED OFF!!!
+        - Rushes OSIRIS by teleporting multiple times up to him
+        - No sword in hand, PUNCHES OSIRIS ONCE
+            - We hear the beginnings of the normal hammer crash, but instead it’s a thundercrack
+            - Instead of the radiant energy, it’s a red energy that bursts through OSIRIS
+            - OSIRIS is knocked 15 ft. away
+    - Kaya
+        - Casts <span style="color:rgb(197, 124, 22)">Erupting Earth</span> (AOE which forces a DEX save of 14 or higher, deals 3d12 bludgeoning dmg on a success and half as much on a failure)
+        - OSIRIS FAILS HIS SAVE AND TAKES 25 DMG
+    - Camille
+        - Casts a 3rd level <span style="color:rgb(197, 124, 22)">Healing Word</span> on Cal, giving him 16 HP.
+        - Uses their <span style="color:rgb(197, 124, 22)">Channel Divinity</span> to move Cordelia away from the Mage Warforged
+    - Cordelia
+        - FULLY locked in, blank expression
+        - Pulls another card: Justice
+            - It fades away, and as it does it releases gold sparkles as it dissipates
+            - Nothing happens immediately
+        - Casts <span style="color:rgb(197, 124, 22)">Firebolt</span> on the mage warforged
+            - Deals a total of 29 fire damage to the mage warforged
+            - The mage warforged looks like SHIT. Her chestplate begins to rot, as she dealt an additional 1d8 of necrotic thanks to the Justice card
+    - Mage Warforged
+        - Her hand glows, and she holds it out towards Cordelia. A portal opens and Julian falls out, singed and battered
+        - Cordelia rolls for Perception (23). He’s half-burnt, his armor’s missing, and he’s BREATHING. HE’S ALIVE!!! BUT PASSED OUT
+- ROUND 4
+    - Cal
+        - **_CAL’S BACK UP!!!_**
+        - While he was semi-unconscious, he felt someone stroking his hair, and as if his head was resting on someone's lap
+        - Uses <span style="color:rgb(197, 124, 22)">Second Wind</span> as a bonus action to heal a little more
+        - He looks at OSIRIS, taps his weapons together, and tells him “Round two, motherfucker!”
+        - **_A SCYTHE APPEARS IN HIS HAND!!!!!_**
+            - GETS A HOW DO YOU WANNA DO THIS!!!!!!!!!!
+            - HE’S SLAYING
+            - SWINGS, KNOCKING OSIRIS BACK, AND FOLLOWS THROUGH ON THE SWING AND _THROWS_ THE SCYTHE, **SLICING HIM IN HALF**
+            - THE SCYTHE FLIES BACK AND LANDS IN HIS HAND
+        - THE FEMALE WARFORGED SCREAMS “NO”, AND USES A REACTION
+            - SHE SUMMONS A MATCHING SCYTHE. OH MY GOD.
+            - SHE RUSHES CAL
+            - THE SCYTHE REACHES CAL’S NECK, BUT BEFORE IT MAKES CONTACT IT DISAPPEARS IN A POOF. THE MAGE WARFORGED STILL FOLLOWS THROUGH IN THE MOTION THOUGH
+    - OSIRIS
+        - **DEAD**
+    - Vallen
+        - Stands up straight. A small portal opens, he reaches through, and tears out a piece of her neck.
+        - THE MAGE WRAFORGED IS DEAD
+
+# Post-Combat
+- As combat ends, Cordelia’s <span style="color:rgb(197, 124, 22)">Detect Magic</span> activates, and she sees the magic from both sides of OSIRIS merge, then fly into the air
+- Cordelia’s bag begins to glow with a blue glow
+    - She opens her bag an sees the Orb, puts the pieces together that Camille put it there
+    - It’s covered in swirling runes, and parts of it begin to glow, starting from the bottom of the orb to the top of it
+    - This blue energy washes over the Orb, washing over the bag and onto the ground around 50 ft.
+    - **We’re all healed to full HP!!**
+- Cordelia drops to her knees and checks if Julian’s ok
+    - He wakes up, dazed and confused -- he sees Cordelia, mentions the letter, and asks where he is
+        - As they’re talking, the last of the warforged run past us towards Clover
+    - With her passive perception, she sees that Julian is _terrified_
+- Cordelia snaps to lock herself back in, and as she raises it she notices small bits of moss on her hand?? It’s darker pink, rather than green moss
+    - It’s on the back of her hand, with cute little sprouts coming off of it
+    - With her <span style="color:rgb(197, 124, 22)">Detect Magic</span>, she realizes that the color of its magic is the same as the orb
+- Cordelia talks to Julian, tells him that she needs to regroup with her friends
+    - He’s still really hurt
+    - She props him up and help him walk over to the rest of the group
+- While Cordelia’s talking to Julian, Camille checks in with Vallen
+    - His eyes are turning back to normal, and his fangs recede
+    - This hasn’t happened to him in a while, but Camille says that they’re glad he’s still with us
+    - As they clap him on the shoulder, they notice they _also_ have pink moss on their arm, but it goes up farther than Cordelia’s does
+- Perception check
+    - We all notice that the sounds of fighting have stopped
+    - There are Clover soldiers grouping up -- many are severely injured
+    - **The warforged are dispersing through the woods**
+- Camille helps to heal some people, and they notice - in the distance - the topography of where their inn used to be
+    - The building is destroyed beyond repair
+    - There is a [[Foo's doors|singular, stone door that looks exactly like the ones Foo had]] -- they’ve *never noticed it before*
+- Cordelia makes it clear that we need to speak to the Keeper as soon as possible. Camille says she can use the sending phone to contact him, and they start digging through the rubble of their home
+    - They also communicate that the door is there, and that they never saw it before.
+- While Camille is digging, Kaya comes up and offers to help if they’re looking for anything specific. They don’t know what they’re looking for either
+    - All they find are tankards and rubble, nothing interesting or substantial
+    - After a while they imagine the blueprint of the house, and walk to the spot where their room (the one which they shared with their brother) used to be. They sit down in the middle of it and face the place where the window used to be.
+- Cordelia messages the Keeper
+    - The Keeper asked if we’re in Lycoris -- Cordelia responds affirmatively
+    - A small, floating orb (REALLY small) floats by, then expands into a portal which [[the Keeper ]]walks through
+- The Keeper asks where the Orb is
+    - Cordelia shows him it in his bag LMAO
+    - The Keeper lifts his hand, and the orb floats towards him
+- Cordelia asks the Keeper what the moss is
+    - His reaction is _not_ positive
+    - Cordelia also shows him the moss on Camille’s arm
+- The Keeper tells us to return to the Capital
+    - As we respond affirmatively, he walks through another gate and teleports away
+- Cordelia suggests that we sit and process what happened, but after a few seconds Camille says that if they think about things any longer it “won’t be good”
+- Vallen returns, says that he dropped Julian off at the medbay
+    - He and Cordelia offer Camille some condolences, but they brush them off
+- Camille opens the door to the Capital
+
+# Back to the Capital
+- We walk through to the Garrison, and we faintly hear the storm in the distance
+- We make our way up to the Keeper’s office!
+    - As we walk, it’s **dead silent.**
+    - We are lifted by the magic elevator towards the Keeper’s office -- looking outside, it’s nighttime.
+    - Cordelia looks out the windows passing by us and sees the city at night, nothing terribly out of the ordinary. The storm is looming in the horizon
+- Recap: we all look like shit 💀 covered in blood and burns
+- As we arrive at the top floor, we see two guards standing guard around the Keeper’s door
+    - Cordelia breezes past them and pushes the door open. She’s on a warpath and wants ANSWERS
+    - She’s pretty mad that th Keeper just showed up, took the Orb, and left without much explanation
+- As Cordelia walks up, [[Ozwin|Ozwin’s]] office door opens
+    - He greets us, and calls Vallen into his office
+    - Vallen wanders over to Ozwin’s office, and the door clicks behind him
+- It is oddly quiet in the Keeper’s office. He’s sitting at his desk, with the orb floating gently over his hand. He’s staring at it thoughtfully (pondering his orb)
+    - As Cordelia opens the door, he greets us by saying “welcome back”
+    - He sets the Orb down on a little holder
+- We recap with the Keeper
+    - We went to Diamond in pursuit of OSIRIS (affirmative)
+    - Cordelia informs him that OSIRIS’s original body was destroyed, but his “soul” was able to escape
+    - He knows roughly what happened during the battle (the appearance of the Orb)
+    - The Keeper has studied the Orb and Pyramid as much as he has been able to. What he knows is that the Orb promotes biological life, while the Pyramid despises biological life
+        - Cordelia and Camille have become vessels to life that isn’t of this world
+        - The Keeper somehow dispels the moss with some purple light??
+        - The moss can be removed with <span style="color:rgb(197, 124, 22)">Remove Curse</span> or <span style="color:rgb(197, 124, 22)">Lesser Restoration</span>
+- The Keeper was not around when the [[changelings]] arrived, but he returned to deal with the issue
+    - He doesn’t know where they are specifically, but they no longer look like us and didn’t speak with our families
+    - The changelings (when they looked like us) didn’t travel together, and dispersed outside of the Capital (this was odd, because we always travel as a group)
+    - All they seemed to do was walk around, go into shops, and attempted our mannerisms
+    - The Keeper found it odd that there wasn’t a Vallen changeling, but Cal’s was in a suit
+- The Keeper keeps track of Vallen’s “mood” (mostly to check if he’s going to desert), but the effect wore off during the battle
+    - Cordelia kicks Camille to keep them from saying anything, and they both manage to redirect and tell him that there was a mage warforged that was able to copy our magic (including Cordelia’s tarot) -- very similar to the Keeper’s magic
+    - The Keeper is Not happy about this
+- We’re able to take the same rooms that we were last time
+    - Camille asks about [[Poppy Xotli|their mother]] -- she’s staying IN OUR ROOMS??? SCARY
+    - Cordelia’s mother is back in town, and her brother is still alive and well in the Capital
+    - Cordelia’s father missed a day of work, and came back as if nothing happened. He claims that he temporarily visited the Gold Coast, and he was questioned
+- More Lore Drops
+    - The were changelings on the boat, and the one who died while we were fighting them had an amulet decorated with the symbol of Asmodeus (the devil. from the bible.)
+- The Keeper requests that we return to [[Hillford]] to protect the mithril mine there, and that we should stay there for a little while
+    - He also requests that we leave sometime tomorrow
+    - Vallen will be sent down to us within 10-20 mins
+- **ALSO WE WILL EACH GET 1,000 GP UPON RETURNING TO HILLFORD**
+- Camille’s mother will be moved a few floors below us (thank god)
+- Camille requests that we take a detour (back to their hometown) on the way to Hillford
+    - The gang responds affirmatively!!
+
+## Winding down for the night
+- Kaya and Camille sit on the couch and stare into the middle distance
+- Cordelia goes to the library in the Garrison, looking for books about her tarot cards
+    - Cal follows a little after to look for books on the Raven Queen -- he asks Cordelia for some advice on where to start (she suggests he starts at “R”)
+    - Cal is pulling books off the shelves, and he exclaims “WHERE ARE THE PICTURES? THESE ARE ALL FILLED WITH WORDS!!”
+    - Cal admits that he can read sometimes, and as Cordelia promises to look for books on the Raven Queen, he leaves with a bunch of random books in his arms
+- Cordelia continues looking, and finds herself in a sequestered little corner. As she goes in deeper, the books get older and older
+    - She finds a single, very moderately thick book named **_The Magic of Tarot Cards and Their Exploits_**. There’s no author.
+    - Cordelia takes it back to her room
+- Camille gives Kaya the blanket from their room, and Kaya pulls out the really nice blanket from her bag and puts it on them 🥺🥺🥺
+- Cordelia plops herself down across from the pair, and opens the book
+    - ALL THE PAGES ARE EMPTY
+    - She casts <span style="color:rgb(197, 124, 22)">Detect Magic</span> on the book, and sees that it contains the same magic as a singular one of her cards has
+    - Investigation (21) reveals that each page has a certain amount of magic on it. She can’t figure out how to get the words to come out - if there even _are_ words.
+        - If the whole book was considered a singular tarot card, then the magic is divided evenly between its pages (so if the book was 100 pages long, then each page would hold 1/100th of the magic of a singular card)
+    - She holds up her cards side-by-side with the book
+        - On the very first page, she sees a name begin to form: **_“By [[Balthazar]]”_**
+        - She flips the page, and nothing else appears
+- Vallen knocks on the door, and pokes his head in
+    - He comments on how quiet we are, and asks where Cal is (reading in his room)
+    - Cordelia offers for him to take a look at her book, and as he approaches he stutter-steps through space and accidentally teleports in front of Cordelia
+        - It might be connected to what happened to him on the battlefield?
+        - That’s for us to figure out in the morning though
+        - Camille informs him that we didn’t tell the Keeper what happened to him on the battlefield
+- Cordelia turns in for the night, and Vallen flops on the couch and begins to flip through her book
+- Camille sits burritoed up on the couch for a while,
+
+## CAL IS IN THE SHADOWFELL?????
+- Cal, in his room, is struggling to read. So he tries something new
+    - “Hey Raven Queen? I died today. And you weren’t there in time. If you won’t keep up your end of the deal, why should I keep up with mine? Holler at ya boi”
+    - He turns around, and as he blinks, he sees a dark decrepit staircase
+        - **_HE’S IN THE SHADOWFELL???_**
+- He’s in tattered pants, and he’s shirtless. There’s some fog in the distance
+- There’s a woman’s voice behind him: “A promise?”
+    - Cal turns around, and in front of him sits [[The Raven Queen]]. She sits on a stump, leaning against a vine
+    - “A promise? My end of the bargain… What’s my end of the bargain, Cal Corvo? To keep your friends safe, is that not what you wished?”
+- The Raven Queen asks him if he’s fully integrated himself with the idea of being her warlock
+    - He says he’s been trying to do that for days
+- She asks him why she chose him
+    - Because in about a year’s time - give or take a few months - he will be met with a very interesting choice. Far from a land you have traveled before.
+    - She decided to help his friends (she even mentions that Kaya didn’t take a SINGLE hit and that Camille didn’t die), and only really needed to intervene when OSIRIS was about to kill Camille
+- The Raven Queen admits that Cal’s not the most interesting person she has her eye on
+    - He will meet a few, and he _has_ met one so far
+    - “You will see him again eventually”
+- She admits that the Curator has something planned for him after this, and she wants him to know what the cost of her help truly is
+    - He already signed the contract -- he didn’t even look it over
+    - **Cal will be trapped in the Shadowfell for all of eternity in exchange for keeping his friends safe.**
+    - IF CAL SAID NO, KAYA AND CAMILLE WOULD BE DEAD. SHE TWISTED FATE FOR HIM!!!
+- She tells him to “make your choice wisely”, and as he blinks he’s back in his room
+- CAL GOES TO SLEEP WITH A BIG SMILE ON HIS FACE???
+
+# We go to sleep
+- Cal and Cordelia are in their beds, and Kaya and Camille are still leaned up against each other on the couch
+- We open our eyes in the dream, and we find ourselves in familiar green fields, the crumbled ruins of a church/castle to the side
+- The Curator is sitting at a table inside the ruins. The table is set with a tablecloth, and he gestures for us to come in
+    - As we walk in, coffee, pancakes, and wine appear on the table (what Cordelia said she wanted for breakfast)
+    - He decided to take us from what would’ve been a nightmare (I LOVE THIS GUY!!! 🥺🥺🥺)
+    - He offers us more food, and Cal asks for more eggs (he gets them and sheds a single tear)
+- The Curator says that he wants to go over the shapes - the [[Shapes of Paracausality]] - with us
+    - We had a run-in with the [[Orb]] recently. Those who touch it will be hosts to life
+    - The same thing happens when one touches the [[Pyramid]] -- it destroys life.
+    - The Shapes are like Yin and Yang
+    - He says it’s time for us to **learn about the tapestry, which contains the yin and yang/Shapes**
+    - The Shapes are opposites of each other, but the most important part that most people don’t consider is the **tapestry which contains the shapes. The [[Cube]].**
+- The Cube is outside of our reality, hiding somewhere
+    - The Curator can’t tell us where it is
+    - **The Cube’s purpose is to house the Orb and Pyramid, and to use them to shape reality**
+    - Using the Orb by itself would create an unstoppable force of life. Never-ending, always going, forever evolving life.
+    - The Orb is the source of life, and the Pyramid is the source of death
+    - **The Cube is hidden away so the gods and people can restore/reset the world in case one of the other shapes gets out of control**
+        - **It is in an extradimensional place, a pocket dimension of sorts. It sort of exists in our universe, but isn’t accessible.**
+        - **Our purpose is to return the Shapes to the Curator**
+- **The reason why the Shapes have appeared in our reality is because a great Cataclysm is about to occur**
+    - He wants to prevent [[The Cataclysm]]
+- Camille rolls for Insight
+    - He has no ill intent, and they realize that all he wants is neutrality
+- The Curator warns us that our job isn’t done
+    - The Pyramid is still in play, and so is the Orb
+    - The Curator appreciates the fact that the Orb was given to the Keeper, since he’s one of the people the Curator trusts
+- The Curator won’t be able to do this again for a while, and with the Pyramid in play we will have more dreams than usual
+    - BUT the Orb has awoken too, so it can also give us dreams
+- What caused the Orb to awaken?
+    - The Curator doesn’t know -- just as he acts of his own volition, so do the Shapes
+    - The Pyramid wants to scare us into putting ourselves in its path, while the Orb wants to promote us to its path. They both have their reasons
+    - Because the Orb has free will, it chose to appear to Camille when it did. Whether or not it will be able to do that again is another story.
+- What happens to the Curator when we’re not with him?
+    - He sits and ponders
+    - He also created this pocket universe for us -- our consciousnesses are transferred here, while our bodies still get sleep
+    - The visions/dreams are _actual_ dreams though
+- We all scarf down!!
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 16.md" class="internal-link" style="float:left">← Session 16</a> <a href="Session 18.md" class="internal-link" style="float:right">Session 18 →</a> </div></body></html>
