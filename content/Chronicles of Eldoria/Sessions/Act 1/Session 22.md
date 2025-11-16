@@ -284,7 +284,7 @@
 
 ### Meeting Loki
 - We turn to look in the direction OSIRIS is looking, and we see a woman
-	- ![[Pasted image 20251109231706.png|180]]
+	- ![[Loki.png|180]]
 	- "Oh, OSIRIS! You're supposed to be asleep. My dear soldier, please -" Black walls rise up around OSIRIS, enclosing him in a box of oily black slick
 	- *She greets us as "The Seekers"*, saying that she knows about our seeking the [[Pyramid]]. She says that [[Caduceus Pope|Dr. Pope]] would be upset about that, as would she.
 		- **INTERESTING NOTE** (written here instead of in the theories channel for now bcs Izzie is currently at work and can't really use anything but his laptop rn): According to [[Nera]], "The Seekers" is the name [[The Keeper]] uses for us 👀. It'd be a weird coincidence if both people from the Keeper's inner-ish circle (i.e. those who are allowed to know about us and our pursuit of the [[Shapes of Paracausality]]) and our enemies from Diamond to call us the same thing without some degree of communication between the two parties.. either there's a rat in Clover or [[Loki|Loki's]] been spying 🤔

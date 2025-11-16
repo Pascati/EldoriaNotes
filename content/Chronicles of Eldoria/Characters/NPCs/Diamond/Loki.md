@@ -1,5 +1,5 @@
 # Character Profile
-![[Pasted image 20251109231706.png|240]]
+![[Loki.png|240]]
 
 
 ## Factions/Affiliations
