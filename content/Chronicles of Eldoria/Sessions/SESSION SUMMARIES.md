@@ -149,7 +149,14 @@
 - OSIRIS falls into the depths of the factory, which begins crumbling around us as Loki teleports away
 
 ## [[Session 23]]
-¯\\\_(ツ)\_\/¯
+- Pros: We escape from the crumbling factory with no injuries and no deaths! Huzzah!!
+- Cons: A significant residential portion of [[Iron Forge]] crumbles, killing and injuring many as the underground factory can no longer sustain the city's weight. Less huzzah.
+- The party debriefs with [[The Keeper]] about what went wrong
+	- The Keeper is brought up to speed about what happened to the [[Pyramid]] and [[OSIRIS]]
+	- [[Julian Devorak|Julian's]] abandoning his post/joining the party is questioned, and [[Cordelia Elysian|Cordelia]] attempts to cover for him by omitting the parts where Julian discussed potentially committing treason and why he abandoned his post (i.e. his [[Dreams & Visions|dreams]]) from her story
+		- The Keeper chooses to read Vallen's mind to get the full story
+- The party is officially dubbed as "The Seekers"!
+- ***WE LEVEL UP TO LEVEL 7!!***
 
 ## [[Session 24]]
 ¯\\\_(ツ)\_\/¯

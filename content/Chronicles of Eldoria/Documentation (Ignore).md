@@ -96,3 +96,31 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
 ```
+
+# Style Settings Plugin
+> [!INFO] In case of a reset, copy-paste the below settings into the style settings plugin!
+
+```
+{
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-pink",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-simple-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-simple-rainbow-title-toggle": true,
+  "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
+  "anuppuccin-theme-settings@@anp-rainbow-subfolder-color-toggle": true,
+  "anuppuccin-theme-settings@@anp-colorful-frame": false,
+  "anuppuccin-theme-settings@@anp-canvas-dark-bg": false,
+  "anuppuccin-theme-settings@@anp-list-toggle": false,
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": false,
+  "anuppuccin-theme-settings@@anp-speech-bubble": false,
+  "anuppuccin-theme-settings@@anp-h1-color-custom": "anp-h1-lavender",
+  "anuppuccin-theme-settings@@anp-h2-color-custom": "anp-h2-blue",
+  "anuppuccin-theme-settings@@anp-h3-color-custom": "anp-h3-sky",
+  "anuppuccin-theme-settings@@anp-h5-color-custom": "anp-h5-green",
+  "anuppuccin-theme-settings@@anp-header-margin-value": 12,
+  "anuppuccin-theme-settings@@anp-header-divider-color-toggle": true,
+  "anuppuccin-theme-settings@@bold-weight": "700",
+  "anuppuccin-theme-settings@@anp-italic-custom": "anp-italic-blue",
+  "anuppuccin-theme-settings@@anp-decoration-toggle": true
+}
+```

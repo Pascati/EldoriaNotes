@@ -1,3 +1,9 @@
+---
+aliases:
+  - Seekers
+  - The Seekers
+---
+Also known as **The Seekers** (as dubbed by [[The Keeper|V]] in [[Session 23]])
 # Members
 - [[Cal Corvo]] (Alive | PC)
 - [[Quén Aiano]] (Alive | PC)

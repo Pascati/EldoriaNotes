@@ -241,9 +241,75 @@
 	- The card transforms into a ball of fire (fireball), riding on the wind as it hits the sea of warforged surging towards us.
 - The ground where we stood on the original side of the canyon collapses, and we feel the floor begin to shake
 
-# FREEDOM!!!
-- 
+# The City Crumbles
+- We open the big oak doors to see that nearly *every single home* - rather *the entire town* is collapsing around us
+	- As we walk out, the townsfolk see us walking out and run past us, holding bags and the hands of their children.
+	- Behind us, the entire factory building collapses behind us.
+- Camille mentions that we were supposed to meet [[Nera]], but says that we should help the people in this town first
+	- Cal agrees
+- Cal and Cordelia see Nera run up to us
+	- She asks us what happened to us
+	- Cordelia tells her that nothing good happened, Camille tells her that "they expected us"
+	- Nera says that her team/people will take care of evacuating the townsfolk, and that we should go with her
+		- Cordelia looks around to see if anyone's ACTUALLY helping the townsfolk
+		- As opposed to the small team of 4 that we saw the previous night, she sees at least 12 people - *all wearing the Clover insignia* - helping townsfolk escape in the immediate area
 
+## In the Safehouse
+- We run up to the safehouse, and Nera takes us inside
+	- Roughly half of the building has shifted down a little, so there is a foot-tall gap in the roof and the floor inside/stairs leading up to the door are shifted to the side
+- Inside, the same four people from last night are rushing around
+	- Most are hurriedly writing down plans and maps, and another is putting things in chests
+- We briefly tell Nera what happened (OSIRIS knew we were coming, "someone else showed up", and the [[Pyramid]] is now INSIDE OSIRIS)
+	- She tells us that we will debrief with [[The Keeper]]
+- Nera walks a little ways away, before tearing a tapestry off the wall. Behind it is one of [[Foo's doors]].
+	- She says that she heard that we have a key to use on this door -- we do 
+	- She tells us to meet The Keeper in [[Clover Capital|the Capital]] (we can have our meetings elsewhere, but that's her preference), and as we leave, wishes us luck
+
+# Returning to the Capital
+- Passing through the door, we arrive at the Barracks
+	- Things seem calm on the surface, but we can feel the tension in the air (the vibes are off)
+- Simon the desk clerk sees us, waving and gesturing for us to go towards the stairs
+- Taking the elevator up to The Keeper's office, we debrief a little
+	- Camille says that it's good that we're all alive -- Cordelia is still collecting her thoughts, saying that so much happened within just a minute
+	- Camille asks the gang if they recognized [[Loki|the woman in green]]. There's not a clear answer.
+- Reaching the Keeper's quarters, we see [[Ozwin]] standing outside, jotting something down in a notebook. He's immersed in his writing and doesn't notice us yet
+	- Kaya tries to sneak up on him to peek over his shoulder. He notices Kaya without even looking up 😭
+	- He mentions that reports from [[Iron Forge]] say that we put on "quite the show"
+	- Camille theorizes that OSIRIS might not have known exactly what happened, but that someone told him
+		- We tell Ozwin about [[Loki]]
+		- Cordelia mentions that Loki is well-known as the God of Lies. Camille is like "👁️👁️ she's the god of what now ."
+- Ozwin tells us that he won't be debriefing with us - it'll be with The Keeper - as much as he would like to be the one to do it
+	- Camille's like "damn that sucks. we like you tho :] "
+	- Cordelia tells him to keep up the good work as she passes
+	- Cal pats him on the back just a LITTLE too hard as he passes
+	- Kaya considers patting him on the back even harder, but decides against it
+
+## Speaking to the Keeper
+- Walking into V's office, we see him pondering the [[Orb]] and working away on paperwork. Documents are scattered all over his desk.
+- V already knows about the fact that Iron Forge is "half the city it was yesterday". He wants to hear our story first
+	- Camille offers to let him read their mind, even though V is initially like "yeah I can read minds but that's intrusive"
+- V asks why Julian's here -- and asks about our full story from when we left the Capital
+	- In the interest of protecting her fiancée, Cordelia tells V the whole story EXCEPT FOR:
+		- Julian's doubts about Clover
+		- Julian's having dreams and visions
+	- Cordelia talks for like half an hour telling V our story (SHE INSISTS THAT WE DIDN'T START *ANY* FIRES) (despite the fact that she LITERALLY CAST <span style="color:rgb(197, 124, 22)">FIREBALL</span>)
+- We cap off our recap by telling V that the [[Pyramid]] has been integrated into OSIRIS's chest, and that he's somewhere deep underground now
+- The Keeper asks if Julian truly left his post because he was worried for Cordelia's health
+	- She lies and says yes, and that he IS in fact her fiancée (Deception 16)
+- The Keeper says that if we will lie about our story, then he won't tell us the full truth about the Orb or why he's pondering it so hard
+	- **CJ SAYS "FUNGUSSY"**
+	- V asks us why should we have reason to distrust him -- he appeals to Camille, saying that they have a good memory and that they should tell him when he's lied to them (they and Cordelia make a History check, but neither can remember a time when he's lied to them)
+- THE KEEPER ASKS IF WE LIKE THE NAME "THE SEEKERS"
+	- Camille mentions that Loki
+- V says that he will let us have our drinks -- we shouldn't worry about the fate of Diamond or Clover immediately, and we should head home, shop, and/or rest
+- V says that Vallen will be sent to us after he keeps him behind to read his mind to get the *true story*
+	- Camille begins to protest, but V doesn't feel comfortable reading their mind
+	- Camille tries to look at Vallen to see if he's ok with this, and he seems chill. Just Very Very tired.
+- The rest of the day passes as we go about resting and doing our own thing (we can tell CJ what we do between sessions)
+
+***WE LEVEL UP TO LEVEL 7!!!***
+
+> Next session will start at [[Foo Bar]] the following morning
 
 ---
 
