@@ -1,0 +1,351 @@
+<html><body><div style="display: block; width: 100%"> <a href="Session 23.md" class="internal-link" style="float:left">← Session 23</a> <a href="Session 25.md" class="internal-link" style="float:right">Session 25 →</a> </div></body></html>
+
+---
+
+- We get paid for the last job!! 2k for the whole party, which can either be split or funneled into party funds (to be spent on adventuring materials and supplies)
+
+# Session Begins
+- We wake up after taking a short rest/nap! It's the afternoon, and we're in [[Foo Bar]] sitting at our regular table
+- [[Quén Aiano|Camille]] tells the gang that they're going to the library for the rest of the day
+	- [[Cordelia Elysian|Cordelia]] wants to come!!
+- [[Vallen The Immortal|Vallen]] says that he has business back in [[Clover Capital|the Capital]]
+	- We're like ??? and he's like "y'all invited [[The Keeper]] and [[Ozwin]] to drink tonight, so I have a few... chores to do."
+	- Camille hands him the key, and he begrudgingly leaves to go to the Capital
+- [[Julian Devorak|Julian]] comes down from his nap, and is still pretty groggy
+	- Cordelia urges him to go back to bed, but he wants to go to the library with her!!
+- Camille asks [[Kaya Avarice|Kaya]] and [[Cal Corvo|Cal]] what their plans are, since we technically got the day off
+	- Kaya's considering going SHOPPINGGGG
+- At the mention of money, Julian is like "we got money??"
+	- Camille hesitantly asks how much money he has, if he's comfortable with sharing
+	- JULIAN HAS NO MONEY!
+	- Camille slides him 10 GP (get yourself something nice king)
+	- JULIAN IS EXCITED TO GET COFFEE
+- [[Foo]] comes by, delivers Julian coffee, and asks if we want any food
+	- Camille and Kaya ask for sandwiches
+- Cal walks away to a different spot in the tavern
+- WE TALK ABOUT SHOPPING
+	- Camille invites Julian to come with, and he mentions needing to head to Durgen's
+	- WE FORGOT ABOUT [[Durgen Coalbeard|DURGEN]]. [[Changelings|THE CHANGELINGS!!!]]
+
+# Shopping Session!
+## At Durgen's
+- WE BURST IN. DURGEN'S OKAY!! Just surprised since we didn't really knock or anything
+- His guards left for coffee all at the same time?? damn 💀 irresponsible as hell
+	- INSIGHT CHECK: (Camille rolls a 29) He's not lying about the guards and genuinely doesn't have hard feelings about what happened
+- Cordelia and Camille apologize for basically doxxing him, he's chill about it 😎
+- Durgen asks if Vallen ever told us about his adventures with him (no -- he's a very private man)
+	- Durgen first met Vallen ~50 years ago, and at the time he said he was turned into a vampire 330 years prior. Which means Vallen was turned into a vampire 380 years ago, so he's 410 now.
+		- NAT 20 WISDOM CHECK: VALLEN SHOULD BE DEAD AS OF 10 YEARS AGO
+	- Durgen was 216 when he first met Vallen!
+- Julian rolls up!
+	- He looks like he's about to strike a deal with Durgen, so Cordelia gives him a bag of 300 GP
+	- He asks Durgen for a new suit of armor -- something that doesn't have the Clover insignia on it, ideally
+- Camille asks Julian to use the melty metal ability again (that he originally used to melt the insignia off)
+	- Julian can't do it on command... curious.......
+	- Camille mentions that it's strange -- and Julian's like ???
+	- Julian doesn't realize that he was the one behind the massive column of fire that erupted when Cordelia went down -- when Camille tries to explain that Julian clearly has a connection to fire (went to hell, got burned as hell, has fire powers, etc.), he gets the thousand-yard stare again
+
+### Cordelia Haggles
+- What armor options does Julian have?
+	- Mithril armor
+		- Costs 4.5k 💀
+		- That's a no-go
+	- Mithril-infused armor
+		- 25% of all harmful spells would be deflected and straight-up don't affect him
+		- For 3,000 GP! Cheaper than the other option since it's less work for him
+- Cordelia tries to bargain down the price
+	- She reasons that the armor will be used to fight off a "great evil" (and also she has a WINNING smile), so she asks for 2.1k
+	- Durgen counters, saying that 2.1k is pretty low
+	- Kaya cuts in, saying that she can bring it to 2.5k-2.6k
+	- Durgen says he can do 2.7k, mentioning the wand that Cordelia purchased from him
+- JULIAN SLAMS THE 10 GP HE GOT FROM CAMILLE ON THE COUNTER
+- How the money is split up
+	- 1k from the party funds (i.e. our payment for our last job)
+	- 1k from Cordelia's stash
+	- The rest from Kaya and Julian's 10 GP
+- Camille asks about how the town's development is going
+	- Folks are moving in!! We're getting a **tattoo parlor** (run by [[Unknown Saltspark|Quiv's brother]])
+	- [[Reema]] moved into the old stables, and will be running it from here on out!!
+- Camille asks for:
+	- A magical shortbow
+	- An extra 50 GP platinum ring
+		- Durgen actually has an extra one since his ring set makes sets of 6 and Camille only ordered 5 last time! He gives it to them for free :]
+		- Camille asks for a design to be added to it, and that they'll come back to him later with a drawing -- until then, they ask him to hold onto the ring
+- Julian heads out early
+- On the way out of the backsmith's, we see him -- Camille calls out and lets him know we're planning on heading to the apothecary's and then to the magic shop
+	- Julian's like "OK 😀👍" and says that he's going to the coffee shop
+	- Camille's like ??? there isn't a coffee shop in this town????
+	- Julian CHANGES DIRECTION and starts heading to the tavern instead 💀
+
+# Going to the Apothecary's
+- We walk in and nobody's here??
+- Cordelia and Kaya ring the bell on the counter, and the shopkeep pops up from the floor!! She was taking a nap
+- The shopkeep keeps talking to the plants -- KAYA WANTS TO TALK TO THEM TOO
+	- She tries to listen.... can't hear shit
+	- BUT SHE PRETENDS LIKE SHE HEARD THEM!! The shopkeep Fully Believes her
+- WE'RE HERE FOR POTIONS
+	- The shopkeep offers us a crate of *Potions of Greater Healing (12 potions total)* for half the price (1.2k)
+	- We pay for it with the remaining party funds and 100 GP from both Kaya and Cordelia respectively!
+- Kaya asks for the shopkeep's name: she's [[Irene Mossgrove]]!
+- IRENE SELLS US FANTASY WEED (FAY'S DREAM)
+	- THIS SHIT IS LITERALLY ILLEGAL DRUGS OMG. FANTASY WEED FTW!!!
+	- We each get one cigarette for free!! Next time we come back though, we'll have to pay 25 GP for each joint
+- Kaya picks up a <span style="color:rgb(197, 124, 22)">Potion of Growth</span>!
+- CORDELIA BUYS APHRODESIACS FOR 200 GP
+
+## Back at the Tavern
+- Cal is shooting the shit with Foo!!
+	- He gets 3 beers to share with him :]
+- Cal talks to Julian, privately asking him for help setting up a surprise for Kaya
+	- Cal asks him to show her the darts and bar games once we get together for dinner tn
+- The rest of the gang rolls up!!
+- Kaya goes off to order drinks for us (ale and wine for the table, plus a glass of milk for Camille)
+	- When Foo delivers the drinks, he asks about the milk. Camille says they were homesick and miss the cows they used to have (before they all died)
+- While we're chatting, a few people walk in carrying bags and shit!
+	- THEY'RE A TRAVELING BAND
+	- The members are:
+		- One is a tall elf. One side of her head is shaved and the other has long, pitched black hair. SHE'S ALSO A PRETTY WOMAN WEARING A LEATHER CORP TOP!!!
+		- Obvious human
+		- There's a tall orc with blue skin. He has drumsticks sticking out of his pocket
+- **WE RECOGNIZE THE TALL ORC WITH BLUE SKIN. *IT'S THE [[Blue Man|BLUE MAN]].***
+- Camille theorizes that the original blue man that we met was disguised as THIS blue man
+- Kaya suggests that we go to help because she's GAY
+	- Cordelia says that she might get a better understanding from a distance, but Camille agrees to go help with her
+	- Camille casts <span style="color:rgb(197, 124, 22)">Guidance</span> on Kaya
+- Camille asks Foo if he has any setting up tasks that don't require heavy lifting, and he says yes!! They have a drum kit that they can help to set up
+	- Camille's seen one-man bands before, but nothing this big
+- **What is their band name and what are their individual names?**
+	- They're *Arrowsmith*
+	- Elf: Audrie
+	- Human: Arnold
+	- Blue orc: Agheed
+- Cal asks if we're going to be listening to "rock" music today, and says that - before we listen - he'd prefer to smoke first
+	- Cordelia says that Kaya has a joint for him 💀
+- Kaya offers to help Audrie
+	- SHE HAS HEART EYES OMG
+	- She hands Kaya her guitar, saying that she needs to carry it to the stage
+- Camille goes over to help Agheed
+	- Agheed says that he has a bunch of boxes in the caravan that he needs
+	- Camille asks if they've met before -- Agheed says they have not (Insight 16: sounds truthful)
+	- Agheed asks if they're a groupie. They don't know what that is 💀 and he REFUSES to explain
+	- He asks them to bring in two hi-hats
+		- Inside the caravan, they find the hi-hats and don't see anything obviously suspicious
+- After we're done helping set up, Foo asks us to help pass out fliers because he forgot to advertise the show
+	- If we help out, we get 50 GP each!!
+
+## Advertising the Show
+- We go out and spread the word!! THE WHOLE TOWN NOW KNOWS ABOUT IT
+
+# PARTYYYY
+- A few folks start filing in when the [[Foo's doors|stone door]] swings open!!
+	- In walks Vallen and a random stranger and [[Ozwin|Oz]]!
+	- THE KEEPER LOOKS FINEEE
+	- ![[Pasted image 20251130223357.png|180]]
+	- *VALLEN IS WEARING CIVILIAN CLOTHES 🗣️📢‼️*
+	- Oz is wearing normal clothes
+- We wave Vallen over and chat a bit!!
+	- We fill him in on what he missed out
+	- Camille asks what his "friend's" name is to try and give [[The Keeper|V]] an entry into the conversation
+	- V DOESN'T HAVE A NAME YET. HE ASKS WHERE CAL IS TO GET A FAKE NAME FROM HIM
+- **CAL BURSTS IN!!**
+	- HE'S WEARING MASCARA, AN OLD-ASS TOUR T-SHIRT FROM THE ARROWSMITHS, TORN JEANS, AND WEARING HIS HAIR LIKE THE LEAD SINGER
+	- HE'S SO REAL TO ME!!!
+	- V waves Cal over (Cal doesn't know who he is yet) and asks him for a fake name, before saying he needs a drink
+- As Cal leaves the door open, more and more people start filing in!! The bar is starting to get PACKED
+	- Btw we got paid for our work
+- V takes a sip of beer and RELAXES
+	- He hasn't drank in a WHILE (Camille says he's gonna get messed up tonight)
+	- Camille apologizes to Ozwin for how insufferable we're about to be, and he says it's fine. He's going to get DRUNK tonight
+- CORDELIA DOES A SHOT
+	- SHE LIKES IT AND WANTS TO DO ANOTHER
+- V wants to TALK
+	- Camille is like people talk about gossip when they hang out?? V is SO into the idea
+	- We're also the people who ppl would probably gossip about so like.. lmao
+	- **V'S GOSSIP**
+		- [[Captain Purah|PURAH]] HAS BEEN SLEEPING WITH ONE OF THE WATER FACTION LEADERS
+		- Camille reaches over and holds Kaya's hand. SHE DIDN'T KNOW ABOUT THIS??!?
+		- *SHE JUST LEARNS THAT HER PARENTS HAVE BEEN DIVORCED FOR 3 YEARS FOR LIKE 3 YEARS*
+	- V asks where Kaya's from originally after she says she doesn't give a shit about what happens to her adopted father
+		- She's like 🤷‍♂️
+		- SHE ASKS ABOUT [[Alexios|ALEXIOS]]
+			- Vallen (behind V) is like 😬🙅‍♂️ so we redirect and just say that Alexios is Foo's friend
+- WE DO ANOTHER SET OF SHOTS
+	- CORDELIA WANTS TO DO ANOTHER SHOT!! JULIAN JOINS HER. LITERALLY EVERYONE IN THE GROUP DOES A SHOT INSTEAD OF CAMILLE (sipping on wine)
+- Julian successfuly lures Kaya over to the dartboard!
+- Cal gets <span style="color:rgb(197, 124, 22)">Guidanced</span> by Camille, and DISGUISES HIMSELF AS KAYA
+	- HE FLIRTS WITH AUDRIE. OH MY GOD.
+	- LITERALLY DOES THE THING WHERE HE SAYS "MY FRIEND THINKS YOU'RE CUTE", POINTS TO AN EMPTY SPACE, AND THEN RUNS TO STAND IN THAT EMPTY SPOT
+	- HE TELLS HER THAT HE (Kaya) IS GOING TO BE DRINKING WITH FRIENDS LATER, AND ENCOURAGES HER TO COME OVER AND GET TO KNOW EACH OTHER BETTER
+- Arrowsmith starts to play!!
+	- *The guitar looks steampunk-ish, and has a cord leading to a box which appears to be amplifying its sound!!*
+- **Vallen tells us a story!!**
+	- A few years after he met Durgen - while Durgen was still in the middle of his adventuring era - he met an individual (that we apparently know??)
+	- **They had to rescue a royal's child from the first layer of hell, Avernus**
+	- The guy that they were with got two swords THAT HE TURNED INTO GUNS. [[Nicholas Powers|NICHOLAS POWERS]]
+		- Cordelia convinces Vallen that Nicholas Powers is actually Nick Bottom
+	- *This was roughly 30 years ago*
+		- Nick is apparently in his hundreds??
+- Camille asks Vallen how old he is
+	- He is informed that he's, in fact, 410 years old and he realizes that he should be dead by now
+- V HAS MORE GOSSIP
+	- When Camille mentions that there should be some kind of rock that records stuff and can replay it, V says that he has an invention that might be able to do that!! He doesn't know how to use it yet though
+	- He also has a gun that can fire REALLY fast that was debuted in [[Holden]] a long time ago
+- V used to be an adventurer!!
+	- He mentions adventuring and going to the Underdark once!!
+	- HE GIVES US A LITTLE HINT THAT OUR NEXT MISSION IS TO GO TO THE UNDERDARK
+- V walks away to get more drinks, and the gang talks to Oz more!!
+- THE LADY IN THE BAND IS LOOKING AT KAYA. WHEN SHE REALIZES SHE GIVES HER THE BIGGEST DAMN WINK!!!
+- Oz offers to send us to the beach as a "mission" 😉
+- Camille asks Oz about his personal life (and if he has hobbies)
+	- He can play the guitar and the flute(?) and composes his own music!!
+	- His favorite composer is Amodeus Wolfgang, but he can't remember the guy's first name
+		- The guy is long-dead, but people reprise his music a lot
+	- There's another composer that he likes, but he can't remember his name :( also long-dead tho
+	- He's from [[Hage]]
+	- He's from 57, and went to the beach at 19-20 (it's south of his hometown)
+	- He joined the military, became a commander really quick, so he received a lot of responsibilities real quick. When Balthazar was the Keeper, he was the head of military at the time. When V came into power, Oz was kept
+		- Usually people are swapped out when the title of Keeper changes hands
+- OZ HAD AN EX-PARTNER
+	- HE THINKS HE'S STILL IN THE CAPITAL
+	- CAMILLE TAKES A STAB IN THE DARK AND ASKS IF HIS EX IS [[Quivern Saltspark|QUIV]]. IT IS?!?!?!?!?
+	- OH MY GOD
+	- NOW OZ KNOWS THAT HIS EX IS IN THIS TOWN
+- V comes back and is drunk as SHIT
+	- After a little shenanigans, he goes to sit down in a chair against the wall behind us (next to Julian, who is slumped over)
+- Vallen makes a quip about how - being a paladin - he thought that Julian would be able to hold his liquor more
+- CORDELIA CHALLENGES THE PARTY TO A DRINK-OFF
+	- SJE AND VALLEN START COMPETING TAKING SHOTS!!!
+	- Con save: flat 19 (success)
+	- Cal is invited to join in!!
+- Vallen stares into the distance for a second, then says that he needs to get some air
+	- Camille tells Cordelia that she should go with him 😏
+- Camille tells Oz that they'll try to keep Quiv away from him -- not because either of them are bad people, but because that'd probably be an uncomfortable situation
+
+## Cordelia and Vallen Talk
+- Vallen pulls out a cigarette out, lights it, and starts smoking
+	- Cordelia asks for one, and when she takes a puff, she coughs
+	- Vallen says that this happens a lot to most first-time smokers, and she's doing a lot of things for the first time tonight
+- Vallen makes reference to how Cordelia has a lot going on for her -- she's engaged, has a party, etc.
+	- She says that she's not sure if she wants to get engaged, and Vallen says that she should
+	- Cordelia counters, and says that she feels like she hasn't done enough with her life yet. She wants to be free and read what she wants
+		- Vallen advises her to cut things off then, and not string Julian along
+		- Cordelia waffles, saying that she doesn't know. Vallen says that if she wasn't going to do it two months ago, why would she do it now?
+- Vallen takes another puff from his cig
+- CORDELIA GOES IN FOR THE KISS. VALLEN BACKS UP!!!
+	- Vallen: "Delia... I can't do that. If you haven't noticed my track record, I outlive every. single. person. I met my ex-husband when he was in his 20s. I met my wife when she was in her 20s. I met my other girlfriends when they were in their 20s. I outlive every. single. one of them. And no, I will not turn them into the monster that I am."
+	- Vallen: "You are very kind, but I cannot do that to you. Besides, I should be dead as of 10 years ago. And yes, I already knew that -- but I wasn't going to tell anybody, but then you did the maths."
+	- Cordelia apologizes for putting him in that position
+		- Vallen tells her that - after all the comments she's made - he's known
+- Cordelia excuses herself, saying that she should go. Instead of going back into the tavern, she wanders into the night.
+- Vallen lingers for a while, smoking (and trying to enjoy) his cigarette, before he heads back inside
+
+## Back Inside
+- Julian WAKES UP
+	- He wants to find Cordelia!! He knows she went outside, but isn't told that she went outside with Vallen
+	- He goes to find Cordelia! (him as he stands up -->🧍‍♂️)
+- Vallen walks back inside, BEELINES it to the bar, and avoids eye contact with the gang
+	- Camille goes over to talk to him (**NOTE: IZZIE COULDN'T TAKE THOROUGH NOTES BUT I THINK I GOT EVERYTHING??**)
+	- THEY TALK ABOUT RELATIONSHIPS
+	- Vallen tells Camille that he doesn't really "do" relationships anymore -- everyone who he gets into a relationship with dies
+		- Camille says that he might not have to see THEM die, since they don't know how long Changelings live
+		- Camille says that that'd be a sad life to live, and that - even though people are destined to pass at some point - it'd be better to have the time and memories spent with loved ones rather than an empty life spent wondering about what could have been
+	- Vallen says that he wants to die before the party, but Camille says they don't want that to happen
+		- Something something Camille says that if everyone in the party dies at the same time, then nobody will be left behind to be sad :]
+	- They ask if he has romantic or friendly feelings for Cordelia
+		- He doesn't know her well enough for that yet! But he definitely likes her :]
+	- Vallen mentions something about OSIRIS, and Camille's like "I'll uh -- NEVERMIND we should go dancing 😀!"
+
+## Outside, with Cordelia and Julian
+- Cordelia is sitting on a stone ledge, overlooking the water. Julian walks up!
+	- He asks her what happened, mentioning that he passed out.
+- Cordelia asks Julian how old he is
+	- He says he "sees \[her\] point"
+	- Cordelia apologizes, saying that it's an inappropriate time. Julian says that he understands, and that he "kinda saw it coming, for the both of us"
+	- Julian mentions that their parents put them together, and that they don't ACTUALLY know each other
+- Cordelia says that they have a long ways to go in terms of their adventure
+	- She thinks that the last thing she wants is for there to be animosity between them -- she DOES still have love for him in her heart
+- *Julian says he's 24*. Cordelia responds with telling him that she's 21
+	- Julian says that they should make an effort to learn about each other, and MAYBE they can come back to this topic
+- They basically mutually friendzone each other 💀
+- Julian: "So... Vallen? I didn't know you were into older men."
+	- Cordelia says that she doesn't really know what she wants, and that having the freedom to figure out what she wants would be good for her
+- Julian says that he's not going to leave the party, since he literally committed treason/abandoned his post for this. Also Cordelia bought him armor
+	- Cordelia says that she'd like him to stay too!!
+
+## BACK INSIDE X2
+- Cordelia returns inside with Julian!!
+	- They see Vallen jamming with Camille
+- Julian is VERY drunk, and says that he's going to get a room and lay down
+	- He calls to Foo, and goes off
+- The band is wrapping up
+	- Audrie thanks the crowd for coming, and beelines it to Kaya
+	- A: "You were very confident, earlier 👀"
+	- SHE ASKS IF KAYA HAS WINE
+		- KAYA DOESN'T REALLY HAVE WINE
+		- FOO PASSES BY WITH A BOTTLE. SHE REACHES OUT AND GRAB IT WITHOUT LOOKING
+	- SHE ASKS IF KAYA HAS A ROOM. OMG!!!!!
+	- LESBIAN. PUSSY. VAGINA. WOMEN.
+- Cal feels a hand on his shoulder
+	- It's some woman :/
+	- All she says is "Cal. It is good to see you again."
+		- NVM IT'S NOT SOME WOMAN!!! LET'S GO
+		- Cal is like "sorry have we met??"
+	- She asks him if he's drunk
+	- She leans in, and just whispers [[The Raven Queen|"Raven Queen"]]
+	- SHE TELLS HIM THAT SHE'LL TAKE HIM TO HIS ROOM
+- Camille bids Vallen goodnight, telling him that they're going to write a letter to their mother
+	- Once alone, they cast <span style="color:rgb(197, 124, 22)">Sending</span> on an unknown recipient
+	- **The message doesn't go through**
+		- *It's implied out of character that this is because the spell must target a creature that the caster is familiar with, and OSIRIS might be a completely new person rn* 
+- Oz has V slung over his shoulder, and they return to the Capital through the stone door
+- As Cordelia walks to her room, she stops by the table Vallen is sitting at
+	- She greets him, and tells him that "I did it"
+	- SHE TAKES OFF HER ENGAGEMENT RING AND PUTS IT IN HER BAG
+	- She apologizes again, saying that she used the wrong wording. She never actually said relationship, she said *experience*
+		- SHE TAKES OUT A LETTER FROM HER BAG, SLIDING IT OVER TO HIM.
+		- "So really, that's the only regret I have."
+- Cal puts together the pieces...
+	- He can only fuck one woman. The girl on the boat. The girl in the town (who gave him the gun). The Raven Queen. The person who gave him the orders to go down into the factory ***WAS THE RAVEN QUEEN***
+
+# We Dream
+- We all fall asleep after our night of fun!!
+- We look around, and it appears to be some kind of dark cathedral (imagine a dark Catholic church). Everything is black, very gothic.
+	- The roof appears to be torn away, and stars speckle the sky. Nebulas glimmer in the distance
+- **Julian is there as well (so all of us are here)**
+- We're standing on a platform. There are a set of stairs, and are curtains hanging down from nothing (since the ceiling was blown off)
+	- In the middle, above the stairs, is a throne.
+	- **On that throne is the figure from Camille's dream**
+		- HE'S SITTING PUSSY OUT. STILL WEARING THE MIRROR-LIKE MASK. WHITE HAIR FLOWS DOWN BEHIND HIM, THE SAME COLORED WHITE HAIR FROM A CHANGELING
+	- The rubble and little rocks around us float
+	- He leans forward
+- "Seekers... Fitting name, unfortunately. Welcome to my domain. You can speak freely, by the way."
+	- He forced our astral projections to his realm so we can talk to him
+	- Camille asks why, especially with everyone else. He responds "Because it's *fun*, Camille."
+- He admits that we're annoyingly good at what we do - partially because of the Curator.
+	- He says that maybe - just maybe - our destiny crosses HIS path
+	- He says he has a favor to ask us, and when Kaya grumbles about it, he says that she will love it
+- **He asks us to kill OSIRIS**
+	- He's not associated with [[Loki]], saying that she's stepped out of line and needs to be punished
+	- Dr. Pope and his toys are annoying him. They are thousands, and are more of a hurdle. We are only five people, and are more of a gnat.
+	- **He wants us to bring the Pyramid to him after we kill OSIRIS**
+- HE ADMITS TO BEING THE FATHER
+- He says that if we bring him the Pyramid, *nobody from our kingdom will die*
+- When he asks if the mission is clear, Cal OBJECTS
+	- He clarifies that - if our kingdom is spared - will the other kingdoms be affected? The answer is yes.
+	- Cal says that everyone has the right to live, and Cordelia agrees.
+	- The Father says that this is HIS world, and that we are a *pestilence* on it
+- Kaya asks about race stuff
+	- The Father clarifies that tieflings are half devils. So one came from hell, fucked someone, and left.
+- The Father says that humans were the first pest to be put on "my world"
+	- "Not yours, *my* world"
+	- He does not care for humans, and doesn't want them there
+- The Father addresses [[Quén Aiano|Quén]] by their true name, and for the first time they speak up
+	- They ask him not to call them by that name (their true name)
+	- They say that they don't believe they're a changeling, which is when The Father reveals that Quén is a ***true changeling*** -- which are essentially creatures who can turn into other races, take their abilities, etc. (like a <span style="color:rgb(197, 124, 22)">True Polymorph</span> spell)
+- Cal is like "well we tried to kill OSIRIS before, but he just came back"
+	- The Father reveals that Dr. Pope connected OSIRIS's soul to the Pyramid, so if we kill him with the Pyramid inside of him, we can kill him for good.
+	- Also The Father is like "You have a warforged head, don't you? Just listen."
+
+---
+
+<html><body><div style="display: block; width: 100%"> <a href="Session 23.md" class="internal-link" style="float:left">← Session 23</a> <a href="Session 25.md" class="internal-link" style="float:right">Session 25 →</a> </div></body></html>
