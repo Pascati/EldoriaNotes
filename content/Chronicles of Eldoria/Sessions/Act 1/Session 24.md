@@ -198,7 +198,7 @@
 - Oz offers to send us to the beach as a "mission" 😉
 - Camille asks Oz about his personal life (and if he has hobbies)
 	- He can play the guitar and the flute(?) and composes his own music!!
-	- His favorite composer is Amodeus Wolfgang, but he can't remember the guy's first name
+	- His favorite composer is [[Amadeus Wolfgang]], but he can't remember the guy's first name
 		- The guy is long-dead, but people reprise his music a lot
 	- There's another composer that he likes, but he can't remember his name :( also long-dead tho
 	- He's from [[Hage]]
