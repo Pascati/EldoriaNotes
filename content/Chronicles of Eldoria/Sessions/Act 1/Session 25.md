@@ -60,7 +60,7 @@
 	- He encourages the party to seek out the Keeper and learn about our mission
 	- Cordelia chooses to place her faith in him ("Cool, calm, and collected (said through gritted teeth)")
 
-# Camille's Perspective
+# Quén's Perspective
 - Camille becomes fully cognizant running through the woods, pushing their way through bramble and branches and using the instincts they gathered as a child to follow footpaths left behind by wild animals
 - Vallen catches up, and asks them where they're going and if they plan to come back
 	- They ask him to leave them alone, gripping the tree next to them with white knuckles, and when he says that he won't, they teleport away
@@ -106,6 +106,7 @@
 # Back to Quén
 - They're still running, but find a spot where they can hide. Vallen is nowhere to be seen
 - THEY CURSE AT VALLEN
+- **WILL UPDATE LATER I PROMMY**
 
 # Back to the Party
 - Julian finally comes back downstairs!
