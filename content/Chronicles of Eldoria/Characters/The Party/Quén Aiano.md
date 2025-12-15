@@ -6,7 +6,7 @@ aliases:
   - Quén's
 ---
 # Character Profile
-![[Unknown Person.png|240]]
+![[Quen_2.2.png|300]]
 - They/Them
 	- They/He (technically) since they adopted the name "Camille", but who's keeping track ¯\\\_(ツ)\_/¯
 - Changeling (disguised as a Tiefling)

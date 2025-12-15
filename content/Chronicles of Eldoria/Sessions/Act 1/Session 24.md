@@ -140,7 +140,7 @@
 - A few folks start filing in when the [[Foo's doors|stone door]] swings open!!
 	- In walks Vallen and a random stranger and [[Ozwin|Oz]]!
 	- THE KEEPER LOOKS FINEEE
-	- ![[Pasted image 20251130223357.png|180]]
+	- ![[V's Disguise.png|180]]
 	- *VALLEN IS WEARING CIVILIAN CLOTHES 🗣️📢‼️*
 	- Oz is wearing normal clothes
 - We wave Vallen over and chat a bit!!

@@ -230,8 +230,8 @@
 		- *“I kill but cannot die, I eat but cannot be satiated, I’m alive but dead, I’m loved but cannot show love, I’m loyal but a deserter, I am young but old. Who am I?”
 			- Cordelia looks at Camille and whispers <u>"Vallen"</u>
 		- *“Vallen is a killer, Vallen is a soldier, Vallen is not who he says he is, Vallen should be your enemy.” “Ask him about the house fire at the T’pesh manor” “Ask him about his time with Dr. Pope…” “Ask him about Asmodeus. Ask him who he really is”*
-	- Vallen is shaking. He tells us the T'pesh  manor is an accident
-		- Cordelia remembers that the T'pesh  family - the entire linage - died roughly 50 years ago. It was raining.
+	- Vallen is shaking. He tells us the T'pesh manor is an accident
+		- Cordelia remembers that the T'pesh family - the entire linage - died roughly 50 years ago. It was raining.
 		- SHE SAYS THAT THERE WERE CHILDREN IN THAT BUILDING
 - Vallen says that he will answer any question we ask
 	- Camille asks him to change shape to ease our minds, and he says he can't because he's not a Changeling
@@ -312,7 +312,6 @@
 	- He's offended
 	- Camille is like "I remember you read, I literally gave you books"
 	- Vallen's like "yeah I read them both twice 🥺"
-- 
 
 ---
 
