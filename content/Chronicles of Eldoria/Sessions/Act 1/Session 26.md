@@ -59,7 +59,7 @@
 		- "You can always plant some somewhere else. That feels like the theme of this journey"
 
 ## A warforged shows up
-- As Cordelia  talking, they see a warforged walking normally - in the same way a person would walk - just striding past the dome
+- As Cordelia talking, they see a warforged walking normally - in the same way a person would walk - just striding past the dome
 	- It's looking around? and sees the weirdly smooth rock (the <span style="color:rgb(197, 124, 22)">Tiny Hut</span>) and is like ???
 	- Cal sees the warforged!
 - Most warforged are dragging themselves along, and their eyes are red. *This one's eyes are blue-tinged* and he wears travelers clothes + a satchel
@@ -138,6 +138,7 @@
 
 ### Quén Aiano
 - They find themself sitting in a pew in a very familiar church. They sense a presence sitting to their left -- the last time, the Father was sitting to their left. This time, they see the same deep blue and the presence of their god
+- Avandra died bcs the father jumped into her realm and that fucked her up severely. "Dissected her magic" according to CJ
 
 # Morning Comes
 - When Quén comes back to, it's "morning" and the rest of the party is waking up

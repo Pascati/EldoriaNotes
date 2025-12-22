@@ -6,10 +6,13 @@
 	- Are there ways to get inspiration *OTHER* than bringing food:
 		- When someone *does something really cool*, EVERYONE who sees it gets a point of inspiration
 		- When someone *gives an inspirational speech* - and if the DM thinks the speech is good enough - the speech-giver and everyone who hears the speech gets a point of inspiration
-- **Critical Hits:** Upon rolling a critical hit, one can choose to either double the number of damage dice they roll OR double the number they roll.
 - **Guidance:** In order for <span style="color:rgb(197, 124, 22)">Guidance</span> to apply to an ability check or attack roll, the person casting <span style="color:rgb(197, 124, 22)">Guidance</span> must be informed of the roll beforehand and say that they’re casting the spell BEFORE the roll is made, not in the moment while it’s being made or after.
 	- Assumedly this also applies to any other spells or abilities that take an <u>action</u> or longer to cast/activate
+
+# Combat
+- **Critical Hits:** Upon rolling a critical hit, a creature deals maximum theoretical damage, then rolls their damage as normal (e.g. if a )
 - **Death Saving Throws:** The DM rolls each player’s saving throws in secret, so even the players themselves don’t know the state of their character as they die (ooooh mystery 👀).
+- **Momentum:** For every 15 feet of movement, a creature may deal 1d4 damage (this only applies to <span style="color:rgb(197, 124, 22)">Hasted</span> creatures or creatures whose movement is otherwise enhanced). Additionally, for every 15 feet of movement, the attacking creature's AC decreases by 1.
 
 # (Magic) Items
 - **Healing Potions:** Drinking a potion takes a <u>bonus action</u>.
