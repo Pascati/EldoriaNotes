@@ -173,7 +173,7 @@
 
 # We Escape
 - We are dead silent as we walk through the interdimensional corridor
-- Vallen and Cordelia ask where Quen went during their banishment -- they were in the chapel where they always meet with their goddess, but she wasn't there
+- Vallen and Cordelia ask where Quén went during their banishment -- they were in the chapel where they always meet with their goddess, but she wasn't there
 	- Cordelia theorizes that they prayed to Lathander, which is why <span style="color:rgb(197, 124, 22)">The Sun</span> card was pulled. They didn't though: they prayed to Avandra and Camille
 	- Julian: Lathander is quiet. He was not there. That Sun was *you*
 - Quén messages [[The Keeper|V]] to let him know that we're back and have news for him. He instructs us to meet him upstairs immediately
