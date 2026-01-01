@@ -213,7 +213,7 @@
 - **What the party requests from V**
 	- Cal requests that modifications are made to the battlefield to increase our advantage
 		- The Earth Faction has been learning earthbending! Kaya offers to help, and Quén hypes up her abilities
-	- Quén suggests using the <span style="color:rgb(197, 124, 22)">Daylight</span> spell to give us
+	- Quén suggests using the <span style="color:rgb(197, 124, 22)">Daylight</span> spell to give us an advantage
 		- This isn't possible, BUT apparently V has plans related to this that he can't share??
 - V says that - as much as he wants to be a friend to us - he still has a kingdom to run, so he has to put his foot down on a few things. He will still do what he can to be sure that our requests are met
 - [[Ozwin]] is in the barracks, rallying the troops. We probably won't see him until tomorrow, but 
