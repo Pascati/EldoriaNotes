@@ -101,8 +101,10 @@
 	- As she approaches, she hears sobbing -- the kind of weeping that gets you dry heaving on your hands and knees.
 	- There are pillows and towels shoved under the crack of the door to 
 - Kaya knocks on the door
-> [!INFO] NOTES HERE
-
+- **SUMMARY OF WHAT HAPPENS:**
+	- Kaya reassures Quén that she and the party loves them, and that even though they have to leave for Balthazar's soon -- they can take as much time as they need to prepare and recover
+	- Quén gives Kaya a very tight hug, and tells her that as much as they want to fall apart, the stakes are too high and they simply can't afford that right now.
+	
 ## Cordelia goes to see Balthazar
 - Cordelia walks in and sees a LaZBoy (chair)
 	- Balthazar isn't in Cordelia's line of sight, but she hears an "oh!" as BALTHAZAR IS NAKED :(
@@ -201,6 +203,7 @@
 	- He doesn't think that's a good idea -- Kaya tells him to give it time. Julian admits that we'll be on a boat anyways, so there will probably be time.
 
 # Departing for Spade
+## Balthazar prepares us
 - Balthazar tells us that we won't be trekking through the mountains -- he won't do that to us
 	- He tells us that there is a town further north that he can probably get us close to (if he teleports us). However, **he doesn't recommend that we interact with the locals.**
 	- Balthazar warns us that the books we read from - saying that the people in Spade are barbarians - are wrong. They are in fact, civilized, but *they're also changelings **who are under the control of the Father***
@@ -213,6 +216,8 @@
 	- Quén messages Loki, asking them where they are. THE FUCKING FORGOT 💀
 - Balthazar says that he will meet us later on the shore.
 - **SIDE NOTE:** Quén's ears - previously slightly pointed, in the same way that a half-elf's are - are now fully pointed and closer to their head, just like Vallen's :( 🥺🥺😭😭😭
+
+## 
 
 ---
 
