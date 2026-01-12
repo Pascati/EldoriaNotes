@@ -3,7 +3,6 @@
 
 ---
 
-
 - The party returns to Hillford and goes to bed!!
 # Day 3 Preparations
 - We wake up at Foo's bar!
@@ -16,8 +15,8 @@
 - [[Quén Aiano|Quén]] is still in bed, thinking about the night before
 	- They spied a little on [[Poppy Xotli|their mother]]!! She looks alive and well, just bored -- looking outside a bay window at the field where the big battle will take place
 	- They leave a few letters - some written a long time ago, others recent - with one in particular telling her that they're "going on a trip to help the military with some stuff" and not to worry about them, because they're "in good hands"
-	- They roll out of bed and join Kaya on her trip to [[the Capital]], receiving a sandwich and the same message as she did from Foo.
-- [[Cal]] looks for [[Vallen The Immortal|Vallen]], but Vallen didn't return to Hillford with us -- he remained in the Capital with [[The Keeper|V]]
+	- They roll out of bed and join Kaya on her trip to [[Clover Capital|the Capital]], receiving a sandwich and the same message as she did from Foo.
+- [[Cal Corvo|Cal]] looks for [[Vallen The Immortal|Vallen]], but Vallen didn't return to Hillford with us -- he remained in the Capital with [[The Keeper|V]]
 	- Instead, he stays at the bar to drink
 	- ROLLS FOR SURVIVAL TO UNDERSTAND THE LAYOUT OF THE BATTLEFIELD (12: he "does just fine")
 
@@ -115,7 +114,7 @@
 	- Dodges out of the way and uses her movement to get out of OSIRIS's range (doesn't incur an AoO because of Mobile)
 - OSIRIS
 	- Kaya sees him turn, and - almost as if he moves space itself - teleports in front of her.
-	- She looks down and sees the spear go through her stomach -- *she takes 70 points of damage *AND GOES DOWN***
+	- She looks down and sees the spear go through her stomach -- *she takes 70 points of damage **AND GOES DOWN***
 	- He raises his hand, the grass around her dying and green energy flowing from the dying flora into her body. She is pulled to her feet and is *healed for 10 HP*
 		- *"Again."*
 - Cordelia
