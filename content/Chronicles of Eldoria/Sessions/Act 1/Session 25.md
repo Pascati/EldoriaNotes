@@ -218,9 +218,9 @@
 - There are pews, an altar at the end of the room, and no symbols or statues of ANY gods. It's Barren
 - Kaya and Cal see - on the altar - a stone tablet with writing inscribed on it
 	- It's covered in runic symbols, not necessarily a language
-	- At the top of the tablet is inscribed with the text **Soulmara** (as Cal can read it)
-		- Cordelia has seen the word ONCE in history. The context of it is a book of a fictional place (like a children's book). She remembers one of the characters in the book saying *"Oh, I'm from Soulmara"*
-- Camille asks if Soulmara is the place we're in now
+	- At the top of the tablet is inscribed with the text **Solmara** (as Cal can read it)
+		- Cordelia has seen the word ONCE in history. The context of it is a book of a fictional place (like a children's book). She remembers one of the characters in the book saying *"Oh, I'm from Solmara"*
+- Camille asks if Solmara is the place we're in now
 - Camille's eyes land on Vallen, and they see he has a thousand-yard stare
 	- They tap his shoulder, and say that it looks like he recognizes the name -- he does. *He heard Dr. Pope say it*, but he *doesn't remember where or when.*
 

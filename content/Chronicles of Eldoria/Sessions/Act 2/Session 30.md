@@ -57,7 +57,7 @@
 
 ### Quén arrives at Foo Bar
 - Quén arrives at the bar, sitting next to Foo.
-	- They fill Foo in on the sparse details of what happened (V is dead, mostly everyone in the Capital has been teleported to Soulmara, OSIRIS was defeated, and we are set to travel to Soulmara)
+	- They fill Foo in on the sparse details of what happened (V is dead, mostly everyone in the Capital has been teleported to Solmara, OSIRIS was defeated, and we are set to travel to Solmara)
 - There's some talk about Julian (Izzie is filling this in after the fact). Quén is still very bitter, telling Foo that Julian made a stupid deal. Foo is more sympathetic, saying that Julian made a deal to protect the people he loves. Quén tells him that he basically killed everyone, slams their drink, and walks upstairs.
 
 ## Kaya Time
@@ -85,9 +85,9 @@
 - Foo lets Kaya know that everyone in Hillford is still around!!
 - Foo drops that THE ENTIRETY OF HILLFORD IS BEING PREPPED FOR INTERPLANAR TRAVEL???
 	- He says that he still needs to get the walls set up downstairs
-- **FOO'S BEEN TO SOULMARA BEFORE???**
-	- HE HAS A RAMEN RECIPE FROM SOULMARA
-- **FOO'S BEEN PREPPING "THIS PLACE" SO THAT - WHEN WE'RE IN SOULMARA - WE'LL HAVE A HOME :((((**
+- **FOO'S BEEN TO SOLMARA BEFORE???**
+	- HE HAS A RAMEN RECIPE FROM SOLMARA
+- **FOO'S BEEN PREPPING "THIS PLACE" SO THAT - WHEN WE'RE IN SOLMARA - WE'LL HAVE A HOME :((((**
 	- I LOVE THIS MAN SM 🥺😭💥💥💥
 - There's talk about us potentially wanting Julian dead -- Kaya is one of the few people in the party that doesn't fully hate him
 	- *Foo asks Kaya if she knows how much Julian remembers. She doesn't.*
@@ -155,8 +155,8 @@
 - Quén receives a message from Ozwin, saying that he's rounded up the survivors left in the Capital. *There are 15 people left*
 - As Cordelia is meditating on a rock outside of Balthazar's house, Balthazar approaches her and tells her that they need to talk. (Julian is chopping wood nearby. He's also shirtless <- This is for Lily btw)
 	- He tells her that it is time for us to go to Spade
-	- He will join us! With a ship of all the people Ozwin has found. *He won't be joining us on Soulmara though*
-		- This is because he doesn't want [[The Father]] to kill us if he encounters us on the way to Soulmara
+	- He will join us! With a ship of all the people Ozwin has found. *He won't be joining us on Solmara though*
+		- This is because he doesn't want [[The Father]] to kill us if he encounters us on the way to Solmara
 		- We will leave in the morning!
 	- **When Cordelia is ready for him to teach her more, he will ask her HIMSELF for her to return!!!**
 	- ***"When the time comes, make the right decision."***
@@ -216,8 +216,76 @@
 	- Quén messages Loki, asking them where they are. THE FUCKING FORGOT 💀
 - Balthazar says that he will meet us later on the shore.
 - **SIDE NOTE:** Quén's ears - previously slightly pointed, in the same way that a half-elf's are - are now fully pointed and closer to their head, just like Vallen's :( 🥺🥺😭😭😭
+- BALTHAZAR TELEPORTS US TO SPADE
 
-## 
+## In Spade
+- We find ourselves in a barn. The wind outside is WINDY!!!
+	- It's VERY decrepit. There's hay all over the floor, and there are cracks in the walls
+	- The windows are frozen, foggy, and not maintained
+	- **COLD**
+		- We put on our winter clothes!
+	- The door is latched, but from the inside
+- Kaya peeks her head outside, and sees a silhouette approaching us
+	- The party argues about what to do about it, but before we're able to 
+	- There's a single knock, then silence.
+	- Quén peeks outside through the cracks, and sees a changeling wearing regular farmer's clothes (short sleeves!)
+- The farmer tells us that he's not supposed to talk to us, but he's also supposed to give us directions
+	- Quén says that we're also not supposed to talk to him. The farmer responds by saying that we shouldn't.
+- Points in a northwestern direction
+	- We all roll for insight: Kaya, Cordelia, and Quén sense no ill will. Cal senses that he is terrified -- he's not sure of what though (us, Balthazar, or the Father?)
+	- Quén leaves an extra meal at the farmer's feet, and walks in the direction that he points
+- As we walk, we approach a small town. Lined up on either side of the main road are men, women, and children, all pointing in the same direction.
+	- Insight: we can tell that they are all *terrified of us*.
+- According to the map, we are **FAR NORTHEAST** (on the world map, it's the settlement in the top left, closest to the shore)
+- We walk for several hours.
+	- Every time we come across people going about their business and doing chores/running errands, they stop what they're doing and point.
+	- Cal picks up the pace, and the rest of the party follows suit
+
+# Arriving at the coast
+- As we arrive at the coast, we see a sight that we've seen in visions before. Black sand, frozen water, and fog in the distance. A familiar figure floats above the water, hands clasped behind his back. It's The Father.
+	- *"Witness."*
+		- Upon hearing this, we put our hands to our sides. **We cannot move.**
+- The Father teleports in front of us.
+> [!INFO] THE FATHER'S MONOLOGUE GOES HERE
+- As we are released, Quén goes over and helps Cordelia up. She is *exhausted*.
+- As this happens, a ship pulls around the corner from a hiding place. About five minutes later, it docks. Balthazar disembarks with Loki!
+	- Quén is PISSED at Balthazar, saying that he is late AGAIN. Balthazar says that he arrived on time.
+	- **The ship is big enough to be a man o war**
+- Balthazar's like ✌️🫥, rips a portal open in space-time, and teleports away
+- We board the ship! Loki explains some stuff
+> [!INFO] LOKI'S LORE GOES HERE
+- NICK BOTTOM SHOWS UP
+	- He doesn't know Quén
+	- He's also drunk as shit
+- Quén addresses the crew, 
+- We hear another familiar voice! It's [[Finnigan Seamus]]
+	- MY KINGGGG
+	- He can sail the ship for us!
+	- He doesn't want to get caught up in the armada of changeling ships, so he says that we will set sail a little slower than the other ships
+	- He advises that we go downstairs in the hold and do nothing
+		- Quén asks if there's ANYTHING they can do (cooking, cleaning, etc.), and the Captain is like "sure?"
+		- Cordelia's like girl.. slow down. Quén responds by saying that if they sit or lay down, they will never be able to get back up. Cordelia acquiesces
+- There's a bar downstairs! **FOO'S THERE!!**
+	- 
+
+# We sail into the unknown
+- Four days pass. As we sail, the weather gets warmer.
+	- The fog - and all of Eldoria - fades away in the distance as we approach a very unfamiliar new world.
+- In the middle of the fourth day, we see land. It's an island, with a few ships at port.
+- The captain comes down to the hold where we are. He tells us that we have some supplies, but we don't have enough to travel for another four days. We will have to stop here to restock and meet the locals.
+	- Quén asks if we have the same currency as the people here. The captain says probably not, and we will have to use the bartering system.
+- As we approach port, we realize that the island is actually pretty big! It'd probably take about a day to cross it (roughly the size of Diamond)
+
+## Arriving in port
+- As we disembark, we see many types of people that we've never seen before. A man with a bird's head and a bird's wings (an aarakocra!!)
+- A tiefling runs up to us -- he has a crate in his hands
+	- He asks if he's in the right place. Cal says yes, and the man hands him the crate. Quén tries to clear things up and tells him that we accidentally parked in the wrong place.
+- The tiefling (Kade) asks where we're from -- Cal says Springfield
+- Kade asks what the name of our ship is. Quén tells him that they're calling it "The Eldoria"
+	- He's like WOAHHH wtf?? 🤨 you can't say that
+- WHAT WE LEARN FROM KADE:
+	- Eldoria is a scary story that people tell their children. It is filled with savages and barbarians who have killed TONS of people, similar to the orc kingdoms
+- In exchange for some guns, rations and a map of the world, Kade joins our crew! He wants to reach the Capital for personal reasons.
 
 ---
 

@@ -281,9 +281,9 @@
 	- Balthazar pulls out a jar from his cloak, showing us a purple spark jumping around and hitting its glass walls. He tells us that "one of these" tried to hit him earlier.
 	- He condescendingly explains that - if the Pyramid destroys all life and the Orb creates life - what happens when the two collide? (*they move living creatures somewhere else*)
 - **BALTHAZAR CONFIRMS THAT VALLEN IS ALIVE!!!**
-	- *EVERYONE WHO GOT HIT WITH A SPARK WAS SCATTERD ACROSS [[SOULMARA]]*
+	- *EVERYONE WHO GOT HIT WITH A SPARK WAS SCATTERD ACROSS [[SOLMARA]]*
 - The teenager from earlier is sitting, rocking back and forth. **Kaya gives him her spare sandwich from Foo**
-- Balthazar tells us that - according to The Father's speech - he plans to break his kingdom free go to Soulmara -- that is, The Father plans to break through the [[Fog]], starting in Spade.
+- Balthazar tells us that - according to The Father's speech - he plans to break his kingdom free go to Solmara -- that is, The Father plans to break through the [[Fog]], starting in Spade.
 	- Balthazar advises us to regroup and, once we're ready, use [[Foo's doors|the key]] to travel to his house. He will also provide us with a boat.
 
 ---
