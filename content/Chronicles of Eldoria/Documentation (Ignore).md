@@ -11,7 +11,9 @@
 >	cd quartz
 >	npx quartz sync
 - If Github asks for a password:
-	- Refer to this thread (create a new token in github developer settings): https://github.com/orgs/community/discussions/29193
+	- Refer to this thread/article (create a new token in github developer settings):
+		- https://github.com/orgs/community/discussions/29193
+		- [Managing Your Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 	- Regenerate PAT (personal access token) through Github -> Settings -> Developer Settings -> Personal Access Tokens (classic)
 		- Consider creating a permanent token if this issue comes up again
 		- See [.gitconfig] file (C:\Users\Phant) for authorization logs

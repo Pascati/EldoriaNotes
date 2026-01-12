@@ -31,7 +31,7 @@
 
 ## Arriving at the Battlefield
 - V is standing at a wooden table on the edge of the battlefield, wearing battle attire:
-	- ![[Pasted image 20251231204905.png|240]]
+	- ![[V in armor.png|240]]
 	- IZZIE'S GONNA BUST!!!!! (don't tell anyone tho)
 	- V hasn't acknowledged them yet -- he's still drawing up plans
 - We greet V, and he gets RIGHT down to business: he wants Kaya to turn the entire plain into an elevated battlefield
@@ -132,7 +132,7 @@
 - Quén
 	- Goes to cast <span style="color:rgb(197, 124, 22)">Guardian of Faith</span>, knowing that they do not have the energy (spell slots) to do so. They take 15 points of damage, and as they tear their hand upwards through the air a misty guardian appears  in front of Cordelia
 		- The guardian's shield is initially blank, but a symbol gradually manifests on its surface:
-		- ![[Pasted image 20251231220021.png|180]]
+		- ![[Mystery Symbol.png|180]]
 		- They also *feel their fingertips begin to die* as they pull upon magic that they simply do not have.
 	- They swing their arm around in the same motion, tearing their radiant sword across OSIRIS's chest for another 11 damage
 - Cal
