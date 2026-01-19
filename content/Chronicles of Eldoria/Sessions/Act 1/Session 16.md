@@ -65,7 +65,7 @@
     - She doesn’t, but she _can_ research gods once we find a library
 
 ## Discussing our next steps
-- Cordelia suggests that we contact [[the Keeper]] to keep him updated on our movements
+- Cordelia suggests that we contact [[The Keeper]] to keep him updated on our movements
 - Should we go north and pursue OSIRIS, or return to the Capital?
     - Camille says that we _can_ return to [[Clover Capital|the Capital]], but they would prefer to continue going after OSIRIS
 - Camille suggests that they can cast <span style="color:rgb(197, 124, 22)">Sending</span> on OSIRIS

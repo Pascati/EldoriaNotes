@@ -178,7 +178,7 @@
 	- Camille and Cordelia says we can vouch for him
 	- She asks about the melted Clover crest -- we tell her why it's there (melted it off upon entering Diamond)
 - **We go over the mission**
-	- Us, (***The Seekers***, as [[the Keeper]] calls us) are the only ones allowed to touch and handle [[Pyramid]]
+	- Us, (***The Seekers***, as [[The Keeper]] calls us) are the only ones allowed to touch and handle [[Pyramid]]
 	- The map is of the warforged factory. <u>It is underground</u>
 	- The lady is BAFFLED by how dumb we are. She asks Vallen why he's friends with us
 		- Camille says that - if it's any consolation - Vallen didn't get to choose us. He's kinda stuck with us (HE SAYS THAT WE'RE GREAT THOUGH. *FRIENDSHIP WINS!!!*)

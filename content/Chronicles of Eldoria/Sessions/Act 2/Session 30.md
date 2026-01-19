@@ -266,7 +266,7 @@
 		- Quén asks if there's ANYTHING they can do (cooking, cleaning, etc.), and the Captain is like "sure?"
 		- Cordelia's like girl.. slow down. Quén responds by saying that if they sit or lay down, they will never be able to get back up. Cordelia acquiesces
 - There's a bar downstairs! **FOO'S THERE!!**
-	- 
+	- *Foo and Cal drink a bit (Izzie missed the details)*
 
 # We sail into the unknown
 - Four days pass. As we sail, the weather gets warmer.
@@ -278,14 +278,15 @@
 
 ## Arriving in port
 - As we disembark, we see many types of people that we've never seen before. A man with a bird's head and a bird's wings (an aarakocra!!)
-- A tiefling runs up to us -- he has a crate in his hands
+- [[Kade|A tiefling]] runs up to us -- he has a crate in his hands
+	- ![[Kade.png|240]]
 	- He asks if he's in the right place. Cal says yes, and the man hands him the crate. Quén tries to clear things up and tells him that we accidentally parked in the wrong place.
-- The tiefling (Kade) asks where we're from -- Cal says Springfield
+- [[Kade|The tiefling (Kade)]] asks where we're from -- Cal says Springfield
 - Kade asks what the name of our ship is. Quén tells him that they're calling it "The Eldoria"
 	- He's like WOAHHH wtf?? 🤨 you can't say that
 - WHAT WE LEARN FROM KADE:
 	- Eldoria is a scary story that people tell their children. It is filled with savages and barbarians who have killed TONS of people, similar to the orc kingdoms
-- In exchange for some guns, rations and a map of the world, Kade joins our crew! He wants to reach the Capital for personal reasons.
+- In exchange for some guns, rations and a map of the world, Kade joins our crew! He wants to reach the [[Solmaran Capital]] for personal reasons.
 
 ---
 

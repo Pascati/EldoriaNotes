@@ -17,7 +17,7 @@
     - She responds by saying she just has a lot to think about, and it’s something she can’t really work through via conversation
 - She also reveals that she’s learned that there’s one other person out there with the tarot cards, and that she’d like to talk to them
 - Vallen reveals that the previous tarot-user he met was a human
-- Vallen recommends that Cordelia speaks with [[the Keeper]] about her cards, since he’s basically a master of magic
+- Vallen recommends that Cordelia speaks with [[The Keeper]] about her cards, since he’s basically a master of magic
 
 ## Still Traveling
 - The gang talks a little -- has anyone been to [[Oswiigo]] before?
@@ -338,7 +338,7 @@
     - After a while they imagine the blueprint of the house, and walk to the spot where their room (the one which they shared with their brother) used to be. They sit down in the middle of it and face the place where the window used to be.
 - Cordelia messages the Keeper
     - The Keeper asked if we’re in Lycoris -- Cordelia responds affirmatively
-    - A small, floating orb (REALLY small) floats by, then expands into a portal which [[the Keeper ]]walks through
+    - A small, floating orb (REALLY small) floats by, then expands into a portal which [[The Keeper]]walks through
 - The Keeper asks where the Orb is
     - Cordelia shows him it in his bag LMAO
     - The Keeper lifts his hand, and the orb floats towards him

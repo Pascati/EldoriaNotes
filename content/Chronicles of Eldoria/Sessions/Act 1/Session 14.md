@@ -48,7 +48,7 @@
     - Cal temporarily leaves to put on his clothes
 - Vallen shares what he and Kaya learned:
     - The Father is in Spade, is thousands of years old, and Changelings used to rule the continent
-    - The general consensus is that we should tell [[the Keeper]], but NOT the Captain (he’s already had a long-ass day)
+    - The general consensus is that we should tell [[The Keeper]], but NOT the Captain (he’s already had a long-ass day)
 - The gang goes back to the bar to drink again LMAO
 
 # Drinking Again

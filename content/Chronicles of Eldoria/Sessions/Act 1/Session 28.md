@@ -151,7 +151,7 @@
 - Cal makes his way to the lower city
 - He sees a taller elf woman corralling some children in front of the orphanage he's looking for
 	- There's a small elf child, looking up and around at the people passing by. The group she's looking for is roughly 30-40 feet away, and she's looking in the opposite direction
-- Cal walks over to the child and holds out his hand. As he does so, *he sees a familiar face. **[[ERIN THORNE]] WALKS UP AND KNEELS DOWN IN FRONT OF HER***
+- Cal walks over to the child and holds out his hand. As he does so, *he sees a familiar face. **[[Erin Thorne]] WALKS UP AND KNEELS DOWN IN FRONT OF HER***
 	- Erin tells her that he is here to help, and that Cal is an *expert* at finding people and can help
 	- *"I am always watching, Corvo. **Especially** when you are not."*
 	- Erin takes the girl's hand, and passes her onto Cal.

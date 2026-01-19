@@ -52,7 +52,7 @@ share_updated: 2025-07-06T19:22:02-05:00
 - Anyways [[Investigator Teasley|Teasley]] knows our deal (sans the vision stuff) -- so we technically report to her since we're contracted into the military now
 - **What we tell [[Investigator Teasley|Teasley]]:**
 	- A vampire escaped from a nearby town, we're here to investigate it
-	- The [[blue man]] who witnessed us
+	- The [[Blue Man]] who witnessed us
 		- Camille shows her the picture LMAO
 		- SHE'S BAFFLED THAT WE JUST LEFT A DEAD BODY ON THE STREET
 - DID [[Vallen The Immortal|VALLEN]] AND [[Investigator Teasley|TEASLEY]] FUCK???
