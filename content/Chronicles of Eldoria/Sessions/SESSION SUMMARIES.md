@@ -158,3 +158,16 @@
 
 ## [[Session 24]]
 ¯\\\_(ツ)\_\/¯
+
+> [!INFO] IT'S BEEN WEEKS AND I'VE BEEN TOO BUSY TO UPDATE THIS 💀
+
+# Act 2
+---
+## [[Session 30]]
+- Everyone does what they can to cope with the aftermath of V's death and the disappearance of virtually everyone we've ever known and loved
+	- IT'S OK THOUGH BECAUSE EVERYONE IN [[Hillford|HILLFORD]] IS FINE!! The walls [[Foo]] built protected everyone 🤩
+- The gang hangs out at [[Balthazar|Balthazar's]] house for a week-ish, learning about our new abilities!
+	- Kaya recaps with Julian... I love friendship
+
+## [[Session 31]]
+¯\\\_(ツ)\_\/¯
