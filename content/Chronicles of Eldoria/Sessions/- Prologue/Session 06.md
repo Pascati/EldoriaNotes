@@ -4,7 +4,7 @@
 # The Interrogation
 - [[Characters/The Party/Quén Aiano|Camille]]:
 	- Drops the fifth sunstone 30 ft away from the trapped vampire (so he’s just within the light)
-	- Suggests that the vampire answers [[Kaya Avarice|Kaya's]] questions otherwise they will bring the vial of “no vampire bitey” closer (smells bad 🤢)
+	- Suggests that the vampire answers [[Kaya|Kaya's]] questions otherwise they will bring the vial of “no vampire bitey” closer (smells bad 🤢)
 	- [[Vallen The Immortal|Vallen]] has to move out of its range bcs it’s STINKY AS FUCK!!!
 	- [[Cordelia Elysian|Cordelia]] casts <span style="color:rgb(197, 124, 22)">Prestidigitation</span> and shoves a small ball of fire into the vampire’s face (it doesn’t rlly do anything 😔)
 	- Casts [Zone of Truth]

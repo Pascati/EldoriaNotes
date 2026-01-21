@@ -18,7 +18,7 @@
         - Deals a total of 16 damage
     - [[Cordelia Elysian|Cordelia]]
         - Casts <span style="color:rgb(197, 124, 22)">Firebolt</span>, deals 10 fire damage
-    - [[Kaya Avarice|Kaya]]
+    - [[Kaya|Kaya]]
         - Attacks three times (twice as an action and once as a bonus action)
         - Deals a total of 23 damage
 - ROUND 2

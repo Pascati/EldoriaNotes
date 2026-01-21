@@ -54,3 +54,5 @@ aliases:
 - [[Session 06]]
 - [[Session 07]]
 - And literally every other session until he either leaves or dies, probably 💀
+	- Nvm he disappeared in [[Session 29]] :(
+- [[Session 31]] (Spoke in a <span style="color:rgb(197, 124, 22)">Sending</span> communication)

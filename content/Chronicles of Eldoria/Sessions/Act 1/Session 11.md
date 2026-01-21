@@ -57,7 +57,7 @@
 - On the way to the bakery, Cal is giving out gold coins to EVERY homeless person we pass by
 - Camille starts veering off from the group, going towards a VERY high-end jewelry shop
     - Everyone convinces Camille to not go inside (there are probably cheaper places to get diamonds, such as the magic shop back in Hillford)
-    - There’s a homeless man in front of the shop (Cal gives him a GP! [[Kaya Avarice|Kaya]] gives two extra 😎)
+    - There’s a homeless man in front of the shop (Cal gives him a GP! [[Kaya|Kaya]] gives two extra 😎)
 
 ## The Bakery
 - The bakery is run by siblings (one is a dude and one is a HEAVILY pregnant lady!! They both have tan complexions and pink hair)
@@ -76,7 +76,7 @@
 - WE GET PASTRIES ON THE HOUSE!!! HUZZAH
     - Cal and Camille are PUMPED about getting fruity little tarts and danishes (Cal gets pigs in a blanket too)
     - Camille gets a cheese danish
-    - [[Kaya Avarice|Kaya]] requests a blueberry muffin
+    - [[Kaya|Kaya]] requests a blueberry muffin
     - Cordelia gets a moonberry tart
 - Island ALMOST suggests that Cordelia takes us to the university, but that might be a bad idea
     - Classes haven’t started yet so we probably won’t be allowed there

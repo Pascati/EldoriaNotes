@@ -49,7 +49,7 @@
 
 # Session Begins
 - We discuss who to speak to first
-    - [[Kaya Avarice|Kaya]] theorizes that the knife could’ve been _gifted_ to a Journeyman, but also acknowledges that it’s not super likely
+    - [[Kaya|Kaya]] theorizes that the knife could’ve been _gifted_ to a Journeyman, but also acknowledges that it’s not super likely
 - It’s currently 8 AM, we have 4 hours until the Captain announces the murder
 - We decide to invite the list of people the Captain gave us to breakfast (+ the Captain himself) and interrogate them there
     - The Captain agrees to our plan, and is off to order the list of people to join us at breakfast -- it should only take 10-ish minutes
@@ -74,7 +74,7 @@
         - Before she leaves, she puts the decoder down on a small table
 - **THE PARTY SPLITS UP!!!**
     - Cordelia and Camille go to investigate the rooms of the people on the suspect list while they’re away
-    - [[Kaya Avarice|Kaya]] and [[Cal Corvo|Cal]] stay behind to ask after alibis and look for potential motives
+    - [[Kaya|Kaya]] and [[Cal Corvo|Cal]] stay behind to ask after alibis and look for potential motives
 
 ## Kaya and Cal: Breakfast
 - Jokes are slung about Kaya’s night with [[Naomi|the barmaid]]

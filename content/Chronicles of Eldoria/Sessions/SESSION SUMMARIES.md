@@ -1,7 +1,7 @@
 # Prologue
 ---
 ## [[Session 01]]
-- Character introductions ([[Quén Aiano|Camille]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]])
+- Character introductions ([[Quén Aiano|Camille]], [[Kaya|Kaya]], [[Cordelia Elysian|Cordelia]])
 - Investigating [[The Ritual]] and the missing children
 - Interrogating and killing [[Burt Maclyn|"Burt"]]
 - Cordelia has the first [[Dreams & Visions|dream/vision]]!
@@ -135,7 +135,7 @@
 - Balthazar spills some tea about the party, specifically regarding:
 	- The nature and use of [[Cordelia Elysian|Cordelia's]] [[Tarot Cards]]
 	- Cal's brand
-	- [[Kaya Avarice|Kaya's]] origins (similar to those of [[Alexios]])
+	- [[Kaya|Kaya's]] origins (similar to those of [[Alexios]])
 	- Camille's "interesting form"
 - We unlock a fast-travel point in Balthazar's house!!
 
@@ -157,9 +157,37 @@
 - ***WE LEVEL UP TO LEVEL 7!!***
 
 ## [[Session 24]]
+- Downtime and shopping session (spent in [[Hillford]])!
+- The band *Arrowsmith* performs at [[Foo Bar]]
+	- The [[Blue Man]] appears as one of the band members, and the party concludes that when we first encountered him, his appearance/identity was stolen
+- THE GANG PARTIES AND DRINKS WITH [[The Keeper|V]], [[Ozwin|OZ]], AND [[Vallen The Immortal|VALLEN]]!!
+	- It's revealed that [[Ozwin|Oz]] and [[Quivern Saltspark|Quivern]] are ex-husbands 💀
+- [[Cordelia Elysian|CORDELIA]] DRAMA OCCURS WITH VALLEN AND [[Julian Devorak|JULIAN]]
+- [[Dreams & Visions|The party's dreams]] are infiltrated by [[The Father]], who:
+	- Taunts us
+	- Demands that we kill [[OSIRIS]] and deliver the [[Pyramid]] to him, or else he will kill everyone in Clover
+	- Reveals [[Quén Aiano|Camille's]] true name and the fact that *they are a True Changeling*
+
+## [[Session 25]]
+- [[Kaya]] and [[Cal Corvo|Cal]] both score big time (Cal severely fumbles the bag 😔)
+- [[Quén Aiano|Camille]] runs into the woods, terrified of what the party will think of them now that their identity has been revealed
+	- [[Vallen The Immortal|Vallen]] follows and attempts to comfort them (he fumbles the bag and only makes them angry 😭)
+- The party heads into the [[Underdark]]!! There, the party:
+	- Encounters ruins of an ancient civilization
+	- Accidentally removes a barrier that unleashes a horde of zombie-like warforged
+	- CRAZY VALLEN LORE IS DROPPED (THE PARTY QUESTIONS HIM AND TEMPORARILY LOSES FAITH BUT WE MANAGE TO KEEP IT TOGETHER)
+
+## [[Session 26]]
 ¯\\\_(ツ)\_\/¯
 
-> [!INFO] IT'S BEEN WEEKS AND I'VE BEEN TOO BUSY TO UPDATE THIS 💀
+## [[Session 27]]
+¯\\\_(ツ)\_\/¯
+
+## [[Session 28]]
+¯\\\_(ツ)\_\/¯
+
+## [[Session 29]]
+¯\\\_(ツ)\_\/¯
 
 # Act 2
 ---
@@ -170,4 +198,7 @@
 	- Kaya recaps with Julian... I love friendship
 
 ## [[Session 31]]
+¯\\\_(ツ)\_\/¯
+
+## [[Session 32]]
 ¯\\\_(ツ)\_\/¯

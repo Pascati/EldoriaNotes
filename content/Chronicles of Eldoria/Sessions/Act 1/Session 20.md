@@ -50,7 +50,7 @@
 			- CAMILLE IS LIKE ?? WTF DO YOU KNOW HOW GODS WORK HOW CAN YOU SAY FOR CERTAIN
 - We all spout secrets
 	- Cal pissed himself until he was 14
-	- [[Kaya Avarice|Kaya's]] best friend abandoned her
+	- [[Kaya|Kaya's]] best friend abandoned her
 	- Camille refuses to share anything
 - Julian asks if he can join us again
 	- Camille asks Cordelia if she's okay with this -- they'll back her up. She says that she fears she doesn't have a choice, and that this is fate

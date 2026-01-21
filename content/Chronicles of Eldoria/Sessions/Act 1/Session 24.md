@@ -13,7 +13,7 @@
 	- Camille hands him the key, and he begrudgingly leaves to go to the Capital
 - [[Julian Devorak|Julian]] comes down from his nap, and is still pretty groggy
 	- Cordelia urges him to go back to bed, but he wants to go to the library with her!!
-- Camille asks [[Kaya Avarice|Kaya]] and [[Cal Corvo|Cal]] what their plans are, since we technically got the day off
+- Camille asks [[Kaya|Kaya]] and [[Cal Corvo|Cal]] what their plans are, since we technically got the day off
 	- Kaya's considering going SHOPPINGGGG
 - At the mention of money, Julian is like "we got money??"
 	- Camille hesitantly asks how much money he has, if he's comfortable with sharing

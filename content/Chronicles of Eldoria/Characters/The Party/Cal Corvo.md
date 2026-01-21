@@ -9,13 +9,14 @@ aliases:
 - Fighter
 - Apparently looks like John Wick
 - OG DESCRIPTION FROM [[Session 03|Session 03]]:
-	-  An older gentleman!
+	- An older gentleman!
 	- He doesn't look particularly anything -- fairly average
 	- Regular tunic, lots of browns and greys
 	- Beard
 	- Relatively well-built, the kinda build that you'd have from working on the farm
 	- Looks to be mid-30s
 - Formerly called "The Crow" during his time with [[Seven Lieutenants|The Seven]]
+- Currently [[Cal's Contract|under contract]] with [[The Raven Queen]] and [[The Outsider]]
 
 ## Factions/Affiliations
 - [[The Party]] (Current)

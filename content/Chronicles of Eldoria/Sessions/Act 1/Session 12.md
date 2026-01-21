@@ -29,7 +29,7 @@
 - There’s a military person checking people docking the boat (like a fantasy TSA)
     - We all introduce ourselves -- the person recognizes our names and says that [[Ozwin]] informed them of our arrival
     - [[Cal Corvo|Cal]] announces himself with his full name LOUDLY. We all look around to see if anyone recognizes his name in a sus way
-        - [[Kaya Avarice|Kaya]] notices that a civilian perks his head up, closes his book, and casually books it
+        - [[Kaya|Kaya]] notices that a civilian perks his head up, closes his book, and casually books it
         - Kaya does NOT say shit about this
     - The ship should leave in about an hour-ish
         - Apparently there’s something that needs to be taken care of before we leave?? But we get no info about it

@@ -22,7 +22,7 @@ share_updated: 2025-06-09T17:47:12-05:00
 - STORY INITIATIVE
 	- [[Cordelia Elysian|Cordelia]]: 16
 	- [[Characters/The Party/Quén Aiano|Camille]]: 9
-	- [[Kaya Avarice|Kaya]]: 3
+	- [[Kaya|Kaya]]: 3
 
 ## Cordelia Wakes Up
 - Cordelia wakes up in a cold sweat

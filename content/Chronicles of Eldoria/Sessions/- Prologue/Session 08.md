@@ -27,7 +27,7 @@ banner-y: 55
     - We also know that these are NOT fey woods
 - Cal grabs the reins (he can drive!! huzzah) and BOOKS it towards the scream
     - We pull up to a stop in front of the forest -- it sounds like MULTIPLE people are screaming. Men, women, children. And it’s the screams of people _dying_
-- Cal and Camille BOOK it into the woods ([[Cordelia Elysian|Cordelia]] and [[Kaya Avarice|Kaya]] follow after)
+- Cal and Camille BOOK it into the woods ([[Cordelia Elysian|Cordelia]] and [[Kaya|Kaya]] follow after)
 - We see a few dead bodies, surrounded by the ruins of the temple. There are individuals shrouded in darkness - as if they’re in the shade, but the shade is moving with them (like they themselves are shadows) - one of whom stabs into a man wearing commoner’s clothes. (also another guy dies at the same time. double death)
     - There’s a little boy behind where the double-death occurred, and one of the shadows closer to us (20 ft. closer than the commoner who died) has its back towards us and starts walking towards the boy
 - GROUP STEALTH

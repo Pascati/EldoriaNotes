@@ -10,7 +10,7 @@
 - [[Balthazar]] (Known by him)
 
 # Known Information
-- Was first encountered in [[Session 18]], when he asked after [[Kaya Avarice|Kaya]]
+- Was first encountered in [[Session 18]], when he asked after [[Kaya|Kaya]]
 	- He heavily implied that Kaya is not from the continent of [[Eldoria]] (said that "these kingdoms" are not "her kingdom")
 	- Seemed to know more about Kaya than he was willing to let on -- the vibe was almost like a proud older family member? Like a "you've grown so much and gotten so strong" kinda vibe
 - Has a multi-dimensional key that can be used on [[Foo's doors]] (like ours!), but it wasn't given to him by [[Foo]] himself

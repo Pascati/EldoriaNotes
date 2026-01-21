@@ -5,7 +5,7 @@
 - We set up camp and have a long rest!
     - [[Characters/The Party/Quén Aiano|Camille]] rolls a nat 1 to (stealthily) cry themeslf to sleep 💀
 - Camille asks what our plan is for when we find [[OSIRIS]]
-    - [[Kaya Avarice|Kaya]] said she was falling [[Vallen The Immortal|Vallen]] (going to [[Oakheart]] + just rolling with the punches as things were happening)
+    - [[Kaya|Kaya]] said she was falling [[Vallen The Immortal|Vallen]] (going to [[Oakheart]] + just rolling with the punches as things were happening)
     - Camille reveals their suspicion that OSIRIS is planning on re-entering Clover through [[Lycoris|their bridge hometown]], and that he might be up to more shenanigans
 - We agree to keep moving, and start walking to [[Oswiigo]]
 

@@ -17,7 +17,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 	- Apparently [[Nicholas Powers]] isn't super popular with most people 🤔
 	- [[Characters/The Party/Quén Aiano|Camille]] gets excited to see him!! Homie's a fan
 		- Hovers around him telling stories in the corner
-- [[Kaya Avarice|Kaya]]
+- [[Kaya|Kaya]]
 	- Knows a little about [[Nicholas Powers|Nicholas]], here to do some snooping 👀
 	- Sees a few folks around [[Nicholas Powers|Nicholas]], including my character!!
 - [[Cordelia Elysian|Lily's character]]
@@ -77,7 +77,7 @@ share_updated: 2025-06-01T22:55:50-05:00
 - We stealthin!!
 - **Burt asks the party what their names are**
 	- [[Cordelia Elysian|"Cordelia Elysian"]]
-	- [[Kaya Avarice|"Kaya"]]
+	- [[Kaya|"Kaya"]]
 	- ***[[Characters/The Party/Quén Aiano|"Camille Aiano"]]***
 - Camille DEX save
 	- The wind pushes their back and they NARROWLY avoid an arrow

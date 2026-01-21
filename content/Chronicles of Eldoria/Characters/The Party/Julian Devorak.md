@@ -5,11 +5,12 @@ aliases:
 # Character Profile
 ![[Julian.jpg|240]]
 - Journeyman in the [[Clover Military]], but his father is a Captain
-- [[Cordelia Elysian]]'s fiancée (through an arranged marriage organized by Cordelia's mother and Julian's father, I think)
+- [[Cordelia Elysian]]'s ex-fiancée (through an arranged marriage organized by [[Cordelia's Mother|Cordelia's mother]] and [[Constance Devorak|Julian's father]])
 - Appearance/Descriptors:
 	- HAS AN IRISH ACCENT
 	- Exactly 6'0"
 	- COVERED in burn scars (from the battle during [[Session 17]]. Most notably, one starts on his left cheek and trails down his neck.
+	- Missing his left arm (chopped off by [[The Father]] during [[Session 29]])
 
 ## Factions/Affiliations
 - Family

@@ -30,7 +30,7 @@
         - The star is Dagen
         - The white dots are the warforged/vampires fighting around us
         - There’s also a long table behind us ![[Session 10 Battle.png|500]]
-	- [[Kaya Avarice|Kaya]]
+	- [[Kaya|Kaya]]
         - Makes two attacks (24 and 9), and one hits
         - **7 points of dmg to Dagen**
     - How the gang is feeling:

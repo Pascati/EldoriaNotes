@@ -1,0 +1,2 @@
+- City in Diamond
+- Now has a MASSIVE CRATER IN IT from when [[OSIRIS]] got implanted with the [[Pyramid]] by [[Loki]] in [[Session 22]] -- the crater exists in what once was a large residential area.

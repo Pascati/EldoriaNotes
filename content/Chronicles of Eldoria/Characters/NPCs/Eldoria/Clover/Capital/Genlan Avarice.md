@@ -7,7 +7,7 @@
 - [[Water Faction]] (Leader)
 
 # Known Information
-- [[Kaya Avarice|Kaya's]] adopted father
+- [[Kaya|Kaya's]] adopted father
 - A raging ASSHOLE
 
 # Appearances

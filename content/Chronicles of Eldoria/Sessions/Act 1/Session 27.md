@@ -8,7 +8,7 @@
 - [[Vallen The Immortal|Vallen]] (NAT 20 --> 36)
 - [[Cal Corvo|Cal]] (27)
 - [[OSIRIS]]
-- [[Kaya Avarice|Kaya]] (17)
+- [[Kaya|Kaya]] (17)
 - [[Julian Devorak|Julian]] (12)
 - [[Quén Aiano|Quén]] (8)
 - [[Cordelia Elysian|Cordelia]] (4)

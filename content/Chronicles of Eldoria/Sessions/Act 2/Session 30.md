@@ -127,6 +127,9 @@
 			- *Kaya ends by saying that - when the time comes - she hopes she will be strong enough to save both.* RIGHT ANSWER!!!
 		- Balthazar tells her that if he is to teach her 
 	- **QUÉN**
+		- Quén is snappy and <u>angry</u>, questioning Balthazar before he can question them -- they ask why he wasn't around to save V
+			- When his answer doesn't satisfy them they nearly storm out
+			- They're stopped in their tracks when Balthazar asks if they want more information (on a topic Izzie cannot remember). They begrudgingly stay behind, claiming that more knowledge likely won't help them change their fate, but it might help the rest of the party. (TL;DR: they stay behind for the party's sake)
 		- ***BALTHAZAR DROPS THAT QUÉN IS NOW A MINOR GOD??????***
 	- **CAL**
 		- Balthazar turns to Cal. *"Why the fuck are you here."*

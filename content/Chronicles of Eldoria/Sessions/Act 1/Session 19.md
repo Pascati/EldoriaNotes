@@ -15,7 +15,7 @@
 	- There's a little small talk -- they agree that it's not a good idea that we keep leaving Vallen to do our work 💀
 	- Camille suggests that the party split our time at the mine into shifts, so we can each keep him company while we guard the mine
 	- Cordelia agrees, but still follows them to the mine
-- [[Kaya Avarice|Kaya]] wakes up!!
+- [[Kaya|Kaya]] wakes up!!
 	- Is HARROWED by the dream from last night. She's so tired of these damn dreams 😭
 	- She drags her ass downstairs and asks Foo for a coffee
 - [[Cal Corvo|Cal]] wakes up and makes a BEELINE for the bar

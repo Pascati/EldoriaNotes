@@ -3,7 +3,7 @@
 
 ---
 
-- Quén asks Kade if they can cast <span style="color:rgb(197, 124, 22)">Zone of Truth</span> on him, to make sure that he isn't dangerous -- they emphasize that we as a group have been burned before
+- [[Quén Aiano|Quén]] asks [[Kade]] if they can cast <span style="color:rgb(197, 124, 22)">Zone of Truth</span> on him, to make sure that he isn't dangerous -- they emphasize that we as a group have been burned before
 	- He agrees :D!
 	- *"Are you a violent person?"* No (actually, sometimes)
 	- *"Is someone pursuing you?"* Yes
@@ -11,34 +11,34 @@
 	- *"Will they reach us within the day?"* No
 	- *"Are you a changeling?"* No
 		- When Quén is asked if they're a changeling, they reveal that they, in fact, are. Kade tells us that **Changelings aren't real.**
-- Kade tells us about Eldoria
+- Kade tells us about what Solmarans think of Eldoria
 	- We CAN'T tell anyone about Eldoria
-	- The people in Eldoria violent, and for that they were sealed behind the fog so they couldn't escape
-	- A few have made it through the fog before, but once one gets through they can never go back (MY THEORIES!!!)
+	- **The people in Eldoria violent, and for that they were sealed behind the fog so they couldn't escape**
+	- A few have made it through the fog before, but once one gets through they can never go back <u>(MY THEORIES!!!)</u>
 - Kade is like "Oh docking fees cost 1k gold?? What if we just leave?"
 	- We grab the crates from the dock, pull up the plank, and sail away (nobody chases us!)
 
 # Setting Sail
 - We sail for a few hours
-	- Julian - who hasn't responded to anything Kade has said so far - is cleaning/doing chores on deck
+	- [[Julian Devorak|Julian]] - who hasn't responded to anything Kade has said so far - is cleaning/doing chores on deck
 	- Kade is chilling on the side of the deck
 - We're sailing towards a small port town near [[Langston]] (top right continent)
 - Kade's whole thing is guns
-- Kade is hungry, so Quén takes him to see Foo
-	- The party joins in! As we walk, Cal whispers to Kade that his guns are cool and passes him an egg (I LOVE FRIENDSHIP)
+- Kade is hungry, so Quén takes him to see [[Foo]]
+	- The party joins in! As we walk, [[Cal Corvo|Cal]] whispers to Kade that his guns are cool and passes him an egg (I LOVE FRIENDSHIP)
 - What Kade tells us about Solmara
 	- Avoid the southern elves!! They're really racist towards everyone who isn't an elf
 	- Gnomes are great cooks!!
 		- Quén is like "oh Foo is a gnome!" and Kade is like "I knew a Foo! He made the best ramen ever"
 		- Ramen is a southern elf delicacy
-		- THE FOO KADE KNEW AND THE ONE WE KNOW IS THE SAME GUY
+		- *THE FOO KADE KNEW AND THE ONE WE KNOW IS THE SAME GUY*
 
 ## Chilling with Kade and Foo
 - Below deck, Foo has set up the mess hall to look and feel like the old bar 🥺
 - Kade is BAFFLED that Foo is alive (he thought he was dead!!)
 	- The last time Kade had ramen was when he was 10, and that was 18 years ago (he's roughly 28 now!)
 - CON SAVE WHEN WE EAT RAMEN??
-	- CON SAVE FAIL: Quén and Kaya audibly go "mmmmm"
+	- CON SAVE FAIL: Quén and [[Kaya|Kaya]] audibly go "mmmmm"
 - Foo implies that he's not from this plane of existence
 - Quén tells Kade about The Father (the one who opened the fog)
 	- There are tons of changelings out in the world now!!
@@ -46,10 +46,10 @@
 - Kade asks Kaya if she's always been green
 	- Apparently green tieflings are very uncommon! There are purple, red, and yellow tieflings
 	- Kaya almost asks Kade about her parents, but stops herself
-- Quén says that they will try to contact Vallen, and asks the party if there's anyone else they would like to contact (no, at least not yet)
+- Quén says that they will try to contact [[Vallen The Immortal|Vallen]], and asks the party if there's anyone else they would like to contact (no, at least not yet)
 	- When given Vallen's description, Kade comments on how red eyes is an uncommon trait
 - Kade says he will sleep on deck, to which Quén responds that it's bad for his back and that they will get him a pillow.
-- Cordelia leaves to rest
+- [[Cordelia Elysian|Cordelia]] leaves to rest
 
 ## Cal speaks to Nicholas Powers
 - Cal looks around the bar, looking for [[Nicholas Powers]]

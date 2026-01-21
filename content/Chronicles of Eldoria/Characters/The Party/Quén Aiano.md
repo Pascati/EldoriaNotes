@@ -11,7 +11,7 @@ aliases:
 	- They/He (technically) since they adopted the name "Camille", but who's keeping track ¯\\\_(ツ)\_/¯
 - Changeling (disguised as a Tiefling)
 - Cleric (Travel Domain)
-- Currently traveling under the name **Camille Xotli**, which originally belonged [[Camille Xotli (Original)|their older brother]]
+- Up until the reveal of their true form in [[Session 26]], they traveled under the appearance and identity of **Camille Xotli**, both of which originally belonged to their - now deceased - [[Camille Xotli (Original)|adopted brother]]
 
 ## Factions/Affiliations
 - Family
@@ -25,8 +25,12 @@ aliases:
 - [[Avandra]] (Worshipped God)
 
 # Known Information
-- Has Infernal racial abilities and <u>minor</u> shapeshifting capabilities, but attempting to shapeshift results in a KILLER migraine and them taking actual damage
+- **PRIOR TO REVEALING TRUE FORM:** Had Infernal racial abilities and <u>minor</u> shapeshifting capabilities, but attempting to shapeshift results in a KILLER migraine and them taking actual damage
 - Claims to be in their mid-20s (first instance is them claiming to be 26 in [[Session 02]]), but they don't actually know how old they are
+
+## Quén's Divinity
+- Upon [[Avandra|Avandra's]] passing in [[Session 26]], it was revealed that Quén was bestowed with the remnants of her divinity
+- In [[Session 30]], [[Balthazar]] reveals that *Quén is now a minor deity*
 
 ## History
 - At an undetermined point in the past, [[Camille Xotli (Original)|their brother]] passed away and was buried in the woods behind [[Xotli Family Inn|the Xotli family inn]]

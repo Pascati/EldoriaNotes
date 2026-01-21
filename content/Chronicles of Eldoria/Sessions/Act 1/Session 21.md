@@ -4,7 +4,7 @@
 ---
 
 # Picking back up in [[South Haran]]
-- [[Characters/The Party/Quén Aiano|Camille]] asks [[Cal Corvo|Cal]] and [[Kaya Avarice|Kaya]] to join them in getting rooms for the night, leaving [[Cordelia Elysian|Cordelia]] alone with [[Julian Devorak|Julian]] and [[Vallen The Immortal|Vallen]] (LMAO)
+- [[Characters/The Party/Quén Aiano|Camille]] asks [[Cal Corvo|Cal]] and [[Kaya|Kaya]] to join them in getting rooms for the night, leaving [[Cordelia Elysian|Cordelia]] alone with [[Julian Devorak|Julian]] and [[Vallen The Immortal|Vallen]] (LMAO)
     - Kaya speculates that there is scheming afoot (she’s correct)
     - Cordelia is sitting BETWEEN Julian and Vallen
 - CCK DISCUSS THE LOGISTICS OF ROOMS

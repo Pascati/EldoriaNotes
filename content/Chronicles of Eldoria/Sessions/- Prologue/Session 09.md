@@ -60,7 +60,7 @@
 - What are our aliases!
     - Cal: Jack Mehoff (LIKE JACK ME OFF)
     - Cordelia: Mariella Wright
-    - [[Kaya Avarice|Kaya]]: Andraea Applebottom
+    - [[Kaya|Kaya]]: Andraea Applebottom
     - Camille: Quén Aiano
     - Vallen: Elliott (NO LAST NAME BCS HE’S LAME)
 - CORDELIA HAS A WHOLE-ASS BACKSTORY FOR HER NAME!!! I’M EATING THIS SHIT UP 🗣️📢‼️

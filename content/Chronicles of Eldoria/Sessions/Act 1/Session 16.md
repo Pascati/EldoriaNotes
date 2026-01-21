@@ -29,7 +29,7 @@
     - We fill in Vallen, let him know what we saw and that we think we saw OSIRIS
 
 ## Cordelia learns(?) how to hunt
-- Camille gathers stuff from the region to make breakfast, and suggests that Vallen can teach Cordelia how to hunt (she STRUGGLES to pick up the spear [[Kaya Avarice|Kaya]] offers her)
+- Camille gathers stuff from the region to make breakfast, and suggests that Vallen can teach Cordelia how to hunt (she STRUGGLES to pick up the spear [[Kaya|Kaya]] offers her)
     - Vallen suggests that Cordelia wait until they get back to Clover, she’s like 🙅‍♀️
     - Roughly 30 minutes away from camp, Vallen teaches Cordelia how to hold and throw a spear
 - Vallen suggests that they find a small animal, and Cordelia is NOT down to hurt an animal that way

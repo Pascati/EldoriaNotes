@@ -27,7 +27,7 @@
 		- They suggest that it might not be a good idea to bring the carriage with us
 	- Cordelia knows that there are fey in this forest specifically
 - Cal suggests we “Hansel and Gretel” this shit
-	- We ponder tying our ropes together, but **[[Kaya Avarice|Kaya]] ends up casting [Mold Earth] to make markers every so often**
+	- We ponder tying our ropes together, but **[[Kaya|Kaya]] ends up casting [Mold Earth] to make markers every so often**
 - Camille suggests casting <span style="color:rgb(197, 124, 22)">Sending</span> on [[Vallen The Immortal|Vallen]]
 	- Cordelia says that we should probably just give it the ol’ second try (Camille agrees)
 	- Cal suggests just cutting the whole forest down as a backup backup plan

@@ -11,7 +11,7 @@
 - **Story Initiative:**
     - [[Cordelia Elysian|Cordelia]] (NAT 20)
     - [[Cal Corvo|Cal]] (16)
-    - [[Kaya Avarice|Kaya]] (12)
+    - [[Kaya|Kaya]] (12)
     - [[Characters/The Party/Quén Aiano|Camille]] (3)
 
 ## Cordelia's Downtime

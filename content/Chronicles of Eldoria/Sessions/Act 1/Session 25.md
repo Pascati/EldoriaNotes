@@ -60,7 +60,7 @@
 	- He encourages the party to seek out the Keeper and learn about our mission
 	- Cordelia chooses to place her faith in him ("Cool, calm, and collected (said through gritted teeth)")
 
-# Quén's Perspective
+# Camille's Perspective
 - Camille becomes fully cognizant running through the woods, pushing their way through bramble and branches and using the instincts they gathered as a child to follow footpaths left behind by wild animals
 - Vallen catches up, and asks them where they're going and if they plan to come back
 	- They ask him to leave them alone, gripping the tree next to them with white knuckles, and when he says that he won't, they teleport away
@@ -134,7 +134,7 @@
 - NOTES LATER
 
 # Back to the Party
-- Cordelia and Camille walk back to Foo bar - hand in hand - and see Kaya and Cal *lighting up a  joint* with Julian nearby
+- Cordelia and Camille walk back to Foo bar - hand in hand - and see Kaya and Cal *lighting up a joint* with Julian nearby
 - Cordelia asks Julian what's going on with him
 	- He's like "Do you hate me? 🥺" (because of what Cal said earlier)
 - Cordelia leaves Camille with the rest of the party, quietly tells them to "be nice to him >:( ", and leaves to look for Vallen

@@ -7,7 +7,7 @@
 > [!INFO] Initiative for the warforged has been rerolled, but the party's initiative stays the same
 
 - **Round 2 (ctd.)**
-	- [[Kaya Avarice|Kaya]]
+	- [[Kaya|Kaya]]
 		- Runs up to Warforged Assassin A, deals 24 damage with 2 hits
 		- Warforged Assassin 1 looks *bad*
 	- [[Cordelia Elysian|Cordelia]]

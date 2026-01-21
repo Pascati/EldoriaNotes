@@ -8,6 +8,8 @@ aliases:
 - She/Her
 - Tiefling
 - Monk
+- **Birth Name: Meril Erin Solmara** 
+	- Translates directly to *"Rose of Solmara"*, with each word being derived from Elvish, Dwarvish, and Common (Human) respectively
 
 ## Factions/Affiliations
 - Family

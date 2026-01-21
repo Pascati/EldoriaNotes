@@ -20,7 +20,7 @@ Jon (AKA [[Cal Corvo|Cal]]) joins the party!! YIPEE :D
 	- The guards were NOT paying attention
 - The gang sings travel songs!! (and by the gang, I mean Kaya and Camille)
 	- Camille sings "99 bottles of beer on the wall"
-	- [[Kaya Avarice|Kaya]] plays her pan flute (it is NOT good 💀)
+	- [[Kaya|Kaya]] plays her pan flute (it is NOT good 💀)
 
 # Returning to [[Hillford]]
 - The guards drop us off and go off to do their own thing

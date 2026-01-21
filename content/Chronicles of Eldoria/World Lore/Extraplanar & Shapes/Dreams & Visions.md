@@ -114,7 +114,7 @@ banner-radius: 15
 - The night before joining the Party, he had a dream where he was trapped in a desert (a long, never-ending beach) where he traveled and wandered for days
 
 ## Dream 12
-- Technically 4 separate dreams had by [[Cal Corvo|Cal]], [[Kaya Avarice|Kaya]], [[Cordelia Elysian|Cordelia]], and [[Characters/The Party/Quén Aiano|Camille]] during [[Session 20]]
+- Technically 4 separate dreams had by [[Cal Corvo|Cal]], [[Kaya|Kaya]], [[Cordelia Elysian|Cordelia]], and [[Characters/The Party/Quén Aiano|Camille]] during [[Session 20]]
 ### Cal's Dream
 - Cal's soul (rather than his consciousness) is somehow transported directly to the [[Shadowfell]]
 - Cal receives his [[Cal's Contract|contract]] from [[The Raven Queen]], along with a method by which he can summon his contract at any time
@@ -141,6 +141,5 @@ banner-radius: 15
 		- The gods are simply toying with them, and that they CAN bring their brother back but choose not to
 		- That the [[Asmodeus|God of Lies]] is able to grant them the power to bring their brother back, and "awaits \[their\] next move"
 
-
-# Theories
-- The armored figure we see in dreams sent by the [[Pyramid]] appears to be [[OSIRIS]]
+# List of Dreams (Not Yet Summarized)
+- [[Session 24#We Dream]]

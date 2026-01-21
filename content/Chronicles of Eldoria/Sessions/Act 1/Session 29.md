@@ -7,7 +7,7 @@
 # Day 3 Preparations
 - We wake up at Foo's bar!
 	- We've come to expect [[Dreams & Visions|dreams/visions]], but we've received none -- those with a 10+ passive insight realize that *we haven't had a dream since [[Iron Forge]], AKA when [[OSIRIS]] ascended with the [[Pyramid]]*
-- [[Kaya Avarice|Kaya]] heads down first, getting some stuff from [[Foo]] for the road
+- [[Kaya|Kaya]] heads down first, getting some stuff from [[Foo]] for the road
 	- She gets a flask of "pocket wine" for the road and a sandwich!! (+1 sandwich because Foo KNOWS she'll run into someone who needs it) (he knows us so well 🥰)
 	- As Foo hands her the sandwiches, he says *"I look forward to seeing you later... After the battle."*
 		- IZZIE NOTE: THIS SOUNDS FLIRTATIOUS WITHOUT CONTEXT, BUT HE'S BEING COOL AND NORMAL

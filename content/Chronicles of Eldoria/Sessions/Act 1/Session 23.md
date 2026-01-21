@@ -23,7 +23,7 @@
 	- [[Cordelia Elysian|Cordelia]]: 13
 	- [[Quén Aiano|Camille]]: 18
 	- [[Cal Corvo|Cal]]: 9
-	- [[Kaya Avarice|Kaya]]: 18
+	- [[Kaya|Kaya]]: 18
 	- [[Vallen The Immortal|Vallen]]: 18
 	- [[Julian Devorak|Julian]]: 9
 - **INITIATIVE ORDER:** Vallen, Kaya, Camille, Cordelia, Cal, Julian

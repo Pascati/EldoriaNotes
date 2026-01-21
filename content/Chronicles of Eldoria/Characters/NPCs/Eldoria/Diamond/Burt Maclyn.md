@@ -13,7 +13,7 @@
 		- His benefactor was in Diamond
 - Suspected that the [[Orb|"key-orb"]] was in the [[Clover Capital]]
 - It was heavily implied that Burt was an *infernal being* of some kind
-	- [[Kaya Avarice]] signed a verbal contract with him to kill him as quickly as possible once he shared what he knew
+	- [[Kaya]] signed a verbal contract with him to kill him as quickly as possible once he shared what he knew
 - Attempted to use [[The Party]] as sacrifices to either summon the [[Orb]] or open the door
 - First encountered in [[Hillford]]
 
