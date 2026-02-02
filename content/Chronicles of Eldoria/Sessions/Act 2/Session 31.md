@@ -234,7 +234,7 @@
 		- Quén asks why Kade is so willing to help us -- he says that we'll find out soon enough (their response to that: "ominous")
 - [[Alexios|ALEXIOS]] WALKS THROUGH THE DOOR!!!
 	- He greets Kaya!!
-	- Kade learns that we met Alexios back in Eldora
+	- Kade learns that we met Alexios back in Eldoria
 - Kade excuses himself to his room and leaves
 
 ### What Alexios tells us
@@ -242,7 +242,7 @@
 	- He gets up and leaves through the door that Kade left through. We follow him.
 - The door leads to a cavernous room: the sewers. It's lit up by torches, with a big table. Alexios leans against the wall and gestures for us to sit.
 	- As we sit, a few people - some cloaked - walk into the room and lean against the walls like Alexios does
-- A woman - tiefling woman with greyish skin - sits at the head of the table
+- A woman - tiefling woman with blue skin - sits at the head of the table
 	- Alexios is waved over by the woman. He walks over, pulling out a gold needle and holding it out, gesturing for Kaya's hand.
 	- When the needle pricks Kaya's finger, her blood - usually red - is gold
 - The woman asks Kaya what her name is. She tells her it's a beautiful name. She tells Kaya that The King's Hand is the bar's name, but it's also *the name of the organization she works for*
