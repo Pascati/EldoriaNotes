@@ -1,5 +1,5 @@
 ---
-banner: "![[Images/Story_Wuthering_Heights_Basement_Center_5_BG.png]]"
+banner: Images/Banners/Story_Wuthering_Heights_Basement_Center_5_BG.png
 banner-fade: -30
 banner-x: 50
 banner-y: 26
@@ -143,3 +143,4 @@ banner-radius: 15
 
 # List of Dreams (Not Yet Summarized)
 - [[Session 24#We Dream]]
+- [[Session 32#We Dream]]

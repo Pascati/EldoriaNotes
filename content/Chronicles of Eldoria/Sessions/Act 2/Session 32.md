@@ -17,16 +17,16 @@
 		- Nobody knows what it says, since it was lost to time
 		- It was foretold that ***"The rose would bloom again in Solmara upon the transfiguration of Eldoria."***
 - Aratish asks us if we have questions
-	- Cordelia and Quén look at Kaya and scootch closer to each other
+	- [[Cordelia Elysian|Cordelia]] and [[Quén Aiano|Quén]] look at Kaya and scootch closer to each other
 	- Kaya asks: "What happened... to me?"
 		- *"The prophecy has been around for generations... I'm going to rip off the bandage. your father is dead. He was killed about... twenty years ago. Upon his death, a false king has taken his place. So to protect you - and to keep the prophecy alive this generation - we asked... we pulled strings to get you to Eldoria. Away from magic, away from detection, not even <span style="color:rgb(197, 124, 22)">Sending</span> or any ninth-level spells you can cast can penetrate the fog. So it is a wonder that you are here, currently."*
 - Aratish tells us that her agents have seen new faces around
-	- She learns from us that The Father is still around and that changelings have been released
+	- She learns from us that [[The Father]] is still around and that changelings have been released
 - "Well before modern recording of civilization, the kingdoms were ruled by someone named [[Amadeus Wolfgang|Amadeus]]. Amadeus was a changeling. He loved music - from what the records show - and... when... the wars happened, he was locked away in Eldoria. We thought he was dead"
 - Aratish asks Cordelia what her name is (she introduces herself as "Delia Elysian")
 	- She learns that The Father used Cordelia and her cards to part the Fog, and doesn't blame her at all
 - Aratish tells Kaya that she has to speak with the Emissaries, even 
-- CORDELIA AND QUÉN GO SHOOTERS FOR KAYA
+- **CORDELIA AND QUÉN GO SHOOTERS FOR KAYA**
 	- Kaya tells her mom that she hopes that the prophecy was worth it to both of them - because she practically spent her entire life begging for a family that cared about her - 
 	- Aratish says that she will never apologize for what she has done, because Kaya is currently sitting in front of her 
 	- Aratish says that Kaya does not know her, but she will come to know her. She admits that she abandoned her daughter in an unknown world 
@@ -64,8 +64,8 @@
 - Aratish takes us back to the sewers, back to the room we were originally in, then turns to an offshoot of that room. There's a circular table - the center hollowed out, like a donut - surrounded by chairs. We're told that it's *her war room*.
 	- She shows us one of **Foo's doors** that connects to this room!!
 - Aratish tells us that she has a newer recruit helping her out with something, and tells us that "he's got a lot to say". She asks us to talk to her in the morning about 
-	- Quén asks what the new recruit's name is. **IT'S VALLEN!!!!!** 💥💥💥💥💥💥💥
-	- Cordelia borderline comes
+	- Quén asks what the new recruit's name is. **IT'S [[Vallen The Immortal|VALLEN]]!!!!!** 💥💥💥💥💥💥💥
+	- Cordelia borderline comes :(
 
 # KAYA FINALLY TALKS TO HER MOM!!!!!!
 - As Aratish turns to leave, Kaya reaches out and asks her if they can talk to her before turning in for the night. Aratish says that she'd love that 🥺💕
@@ -88,7 +88,7 @@
 - Kaya asks what her father was like!!
 	- He was handsome
 	- He always seemed to know what to say (Kaya says that she definitely didn't get that from him 💀)
-	- Kaya asks what his name was: **Salvir**
+	- Kaya asks what his name was: **[[Salvir Solmara|Salvir]]**
 	- At first, Aratish's marriage to Salvir was an arranged marriage
 		- This was his kingdom first, while hers was much farther away
 		- He was her best friend :((((((
@@ -122,8 +122,8 @@
 		- What takes Eldorians wizards mere years to accomplish (i.e. learning to cast <span style="color:rgb(197, 124, 22)">Fireball</span>) takes Solmaran wizards *decades*
 
 ## While Kaya talks to her mother...
-### Cal Tinkers
-- Cal goes off to explore!! He's looking to do some tinkering
+### Cal tinkers
+- [[Cal Corvo|Cal]] goes off to explore!! He's looking to do some tinkering
 	- As he leaves the room, there's a guard standing near the door.
 	- The guard is like ?? where are you going???
 	- Cal asks to be taken to a workshop and the guard is like o-ok??
@@ -158,7 +158,7 @@
 		- They're like? Kaya the princess???
 		- CAL ROLLS LIKE SHIT ON DECEPTION BUT CJ ROLLS A NAT 1 FOR INSIGHT
 
-### f
+### Quén seethes at Kade
 - Quén turns to Cordelia, telling her that they are going to speak to Kade. She's like "do you want to bitch at him together?". Quén agrees.
 - They come across Alexios, who's like "🤷‍♂️ okay" when they tell him they're looking for Kade
 	- He peeks his head through the door into the inn
@@ -166,12 +166,12 @@
 > [!INFO] CORINTHIA NOTES HERE
 - Quén apologizes to Alexios if he heard anything they said, and they return back downstairs
 
-- Quén messages Captain Seamus
+- Quén messages [[Finnigan Seamus|Captain Seamus]]
 	- "Hey Captain Seamus, as anyone... come to the boat?"
 	- They hear a "hey!" behind them AND IT'S THE CAPTAIN WITH A BEER IN HIS HAND
 	- He hasn't had a drink since we left Eldoria (because he's the captain)
 - Captain Seamus says that "someone from downstairs" came to get them from the ship
-- Cordelia asks where Julian is
+- Cordelia asks where [[Julian Devorak|Julian]] is
 	- Quén sends Julian a simple message, and receives a simple answer in response:
 		- *"Where are you."*
 		- *"Drink."*
@@ -182,16 +182,16 @@
 - Kaya is like Cal I need a drink. come with me. Also soldiers, don't listen to Cal. You can stand.
 	- Kaya's like? what have you been up to?? and Cal is like "tinkering :)"
 - As Kaya enters the bar, a few people recognize her and make room for her to sit
-	- Foo pops up with drinks as she's about to leave to get her a drink!!
+	- [[Foo]] pops up with drinks as she's about to leave to get her a drink!!
 		- Foo got a part-time job tonight to help serve drinks :D
-		- Cordelia tells Foo that he just generally reminds her of her father?? In response, Foo says that she needs a drink and hands her some wine
+		- Cordelia tells Foo that he just generally reminds her of [[Arthur Elysian|her father]]?? In response, Foo says that she needs a drink and hands her some wine
 - Cal tries to do a party trick: he tries to light his drink on fire, swallow it, and blow the smoke out
 	- He chokes and spills his drink
 	- Quén wipes it up for him!
 - As we drink, Quén asks Kaya how her conversation with her mother went
 	- Kaya pauses, and tells them that she will eventually learn to forgive her mother. She thinks she's lovely though!
-	- Quén comments on how 
-- Nicholas Powers walks up and sits next to Cal. He's already drunk 😭
+	- Quén comments on how *(Izzie never finished this sentence?? It's been 2 weeks so I have NO idea what this was supposed to say 😭)*
+- [[Nicholas Powers]] walks up and sits next to Cal. He's already drunk 😭
 	- He says that this is where he heard the cool kids are sitting
 	- NICK MANAGES TO FIGURE OUT THAT CAL'S NAME IS ACTUALLY CAL CORVEAU AND NOT JACK MEOFF
 - Nick wanders off to find Julian
@@ -201,7 +201,8 @@
 # Quén talks to Kaya
 - We have individual rooms at the inn!
 - Quén sends a text to Vallen
-	- 
+	- Message sent: *Valllen I hope your'e okay :( I miss yuo*
+	- Response: *<3*
 - Quén pulls Kaya aside, asking her if they can talk. She agrees!
 	- They head to Kaya's room!
 	-  KAYA'S ROOM IS SO LAVISH!! It's a normal inn room with a bunch of improvements and pillows/blankets 
@@ -220,9 +221,9 @@
 
 # We Dream
 - We find ourselves in a familiar meadow, with the ruins of a church where they usually are.
-	- As we walk into the ruins, we see a familiar table with pancakes on them. The Curator isn't currently present, though.
+	- As we walk into the ruins, we see a familiar table with pancakes on them. [[The Curator]] isn't currently present, though.
 - A white light flies in from all angles of the crumbled church, coalescing into the form of The Curator.
-- The Curator greets us, starting with Quén. They comment on how they look different, but still feel like the same person (I LOVE FRIENDSHIP!!)
+- The Curator greets us, starting with Quén. They comment on how they look different, but still feel like the same person (I LOVE FRIENDSHIP 😭!!!)
 	- He also comments on how cool the name "The Seekers" is!!!
 - The Curator has come to us with a warning: **a piece of one of the shapes nearby, and The Father is in Langston looking for it.**
 - The Curator says that it's about time he talks to us about the [[Cube]]
