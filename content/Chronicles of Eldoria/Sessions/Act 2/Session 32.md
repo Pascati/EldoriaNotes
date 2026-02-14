@@ -4,10 +4,10 @@
 ---
 
 # Speaking to Kaya's Mother
-- We're still sitting at the table in the sewers - Kaya's mother sits at one end, Kaya sits at the other, her friends surrounding us - Alexios is leaning against the wall, near Kaya's mother. Kade isn't in the room.
+- We're still sitting at the table in the sewers - [[Aratish Solmara|Kaya's mother]] sits at one end, [[Kaya]] sits at the other, her friends surrounding us - [[Alexios]] is leaning against the wall, near Kaya's mother. [[Kade]] isn't in the room.
 	- There are also a few guards in the room
 		- They're wearing thieves' guild-esque armor, but there's an emblem of the Langston's griffin on their chest
-- Kaya's mother introduces herself as *Aratish Solmara*, and *she is the Queen of Solmara*
+- Kaya's mother introduces herself as [[Aratish Solmara]], and *she is the Queen of Solmara*
 	- She says that she knows we probably have questions, but 
 	- She received word from Kade that he made contact with a ship of Eldorians on his way back to the city, so <u>she wanted to make contact as soon as possible</u>
 	- Her agents all over the kingdoms made sure that we got exactly what we needed to get here
@@ -47,7 +47,6 @@
 	- We ascend some steep stairs. There's daylight at the top.
 - We walk into a church-like space, all white and gold and intricate layers of copper wiring around everything. It is *tranquil*.
 	- There are three people sitting and meditating backs to us and facing the window, with a HUGE bay window behind them that overlooks the city behind them (we're about 3 stories high now)
-	- 
 - As we approach, Aratish stops about 5 feet behind one of them.
 	- The person stands up, turning to us. They're wearing a cloth mask that wraps around his head, obscuring his whole head. He wears pure white robes with gold embroidery
 - Aratish puts a hand on Kaya's shoulder, telling her that she hasn't spoken to the Emissaries since she's been gone.

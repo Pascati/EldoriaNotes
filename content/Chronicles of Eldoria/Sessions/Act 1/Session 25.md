@@ -299,7 +299,7 @@
 	- We kinda recognize the area we're in -- compared to a map of the overworld, we'd be between where the paths split between Hillford, the Capital, and SouthPass
 - Camille sends V a picture and message of the Warforged
 	- Also Cal asks to send V a dick pic. Camille reluctantly obliges.
-	- ![[Pasted image 20251207233844.png|500]]
+	- ![[V gets a dick pic.png|500]]
 - Camille messages Foo, asking him to send the letter they left behind to their mother. They also let him know that we're deep deep DEEP underground and won't be back for a long time
 	- Vallen pulls the letter out of his bag, and Camille takes it back
 	- Foo messages back, telling us that it's dark outside and that we should go to bed. He also tells them to check Vallen's bag

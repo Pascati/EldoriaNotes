@@ -19,3 +19,5 @@
 # Appearances
 - [[Session 18]]
 - [[Session 21]] (Mentioned by name)
+- [[Session 31]]
+- [[Session 32]]
