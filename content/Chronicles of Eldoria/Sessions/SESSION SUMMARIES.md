@@ -198,10 +198,25 @@
 	- Kaya recaps with Julian... I love friendship
 
 ## [[Session 31]]
-¯\\\_(ツ)\_\/¯
+- The party questions [[Kade]] and learns a little more about Solmara!
+- Lots of conversations happen:
+	- [[Nicholas Powers]] learns what [[Cal Corvo|Cal's]] real name is
+	- [[Julian Devorak|JULIAN]] FINALLY TALKS AND APOLOGIZES TO [[Cordelia Elysian|CORDELIA]]
+- We learn that [[Vallen The Immortal|Vallen]] is alive!!
+- The party sails through Ashborne and arrives in [[Langston]]
+- We re-encounter [[Alexios]], and meet [[Aratish Solmara|a woman]] who:
+	- INTRODUCES HERSELF AS KAYA'S MOM
+	- TELLS US WHAT KAYA'S BIRTH NAME IS
+	- ***KAYA'S THE PRINCESS OF THE WORLD!!!***
 
 ## [[Session 32]]
-¯\\\_(ツ)\_\/¯
+- Crazy lore dump from Kaya's mom, AKA [[Aratish Solmara]]
+- We meet with the Emissaries, who show Kaya visions of a hellish contract and a black and gold crown
+- Kaya has a heart-to-heart with her mom 💕 and while she does that...
+	- Cal tinkers and gets a deal to make custom guns for members of the King's Hand
+	- Quén and Cordelia kinda get mad at Kade
+- KAYA AND QUÉN HAVE A HEART-TO-HEART :(((
+- We have a dream and see [[The Curator]] for the first time in a long time!!
 
 ## [[Session 33]]
 ¯\\\_(ツ)\_\/¯

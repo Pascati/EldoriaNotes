@@ -1,3 +1,8 @@
+---
+aliases:
+  - Aratish
+---
+
 # Character Profile
 ![[Aratish Solmara.png|360]]
 - The rightful queen of Solmara
