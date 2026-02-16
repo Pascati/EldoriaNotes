@@ -179,13 +179,27 @@
 	- "Salvir Solmara", AKA the False King:
 	- ![[False King.png|240]]
 	- Mysterious Guard:
-	- ![[Mysterious Royal Guard.png|240]]
+	- ![[Thraxxus.png|240]]
 	- Mysterious Woman:
-	- ![[Mysterious Woman.png|240]]
-> [!INFO] KING'S SPEECH GOES HERE
+	- ![[Siren.png|240]]
+- **NOTE: ALL THE FOLLOWING ARE EXERPTS TAKEN DIRECTLY FROM CJ'S NOTES**
+> [!INFO] THE KING'S SPEECH
+> “My loyal subjects, I am here to address you all and say… welcome!”
+  He looks around the crowd and eyes most of them
+  “I’m sure you all have heard the rumors of people from all walks of life magically appearing in our streets… and I’m here to tell you.. this is true…”
+  “Do not be afraid! These new citizens are being processed in an orderly fashion as our kingdom is one of acceptance and unity. After all we ALL are from different backgrounds and cultures, it would be an honest shame to turn these new faces away regardless of where they are from!”
+  “Many of you have concerns about the words they speak and the place they come from. Well let me be the one to finally give you a straight answer, they ARE from Eldoria…”
+  The crowd breaks into murmurs and gasps.
+  “Calm down calm down, as you know our first priority is to save these people and to bring them into our refined society, we do properly vet them and help them assimilate into our society… there have been a few instances where they cannot be assimilated in the proper from and those who cannot abide by our laws are thrust back into the wilderness so they may return as a proper individual.”
+  The murmurs turn into agreeableness.
+  “We have a very special guest here today, one who has pledged his allegiance to myself and the city! He hails from the town of Sandbank! And he is here to help with our new Elodrian visitors! Let me introduce, Erin Thorne!”
 - When the False King mentions that the "mysterious people" are from Eldoria, Cal and Quén look around the room: checking for anyone who might be unsurprised by the "Eldorian" announcement
 	- They see a few people who aren't particularly surprised, and take note
 > [!INFO] KING'S SPEECH CNTD.
+>The crowd applauds.
+>"And let me put your minds to rest… we are still actively looking for the crown, which was stolen from us many moons ago. And when we find the crown, all will Eldorians will finally be rid of their violent nature!”
+>The crowd cheers.
+>“Please, there is food and music and many people here to converse and celebrate with. Help yourselves as I meet with my esteemed VIP guests for donations to the fund of our campaign to find the crown! Be merry! Be blessed! And most of all, be Solmarians!”
 
 ## The Gala Continues
 - Cordelia looks around for Cal, and spots him moving towards the front of the crowd -- quickly
@@ -237,7 +251,7 @@
 - *"Now, everyone speak where you came from. In order, please."*
 	- It goes down the line, until the line reaches Vallen. Quén can feel Vallen's heart POUNDING
 	- VALLEN MANAGES TO LIE AGAINST THE ZONE OF TRUTH!!!
-	- The man next to Vallen says that he's an informant for the Bloodhunters, saying that he's there to kill the False King
+	- The man next to Vallen says: *"“Sean Weitzman, informant for The Blood Hunters, loyal to their cause, and here to kill the False King after collecting information”.*
 - The False King calls for "Thraxxus"
 	- The tall guard pulls the man's chair - effortlessly - towards the king
 	- The False King is PISSED. He mentions that the man has family in the city, and tells him that he dishonors them.
