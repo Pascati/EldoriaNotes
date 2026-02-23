@@ -161,7 +161,7 @@
 	- Cordelia grabs his arm, and whispers "Vallen"
 		- He shushes her and reminds her that his name is currently "Elliott"
 	- Vallen asks if everyone else is here (yes) and asks if we're all alright (yes)
-	- He can't stay for long -- he has a meeting later
+	- He can't stay for long -- he has a meeting later2
 		- *He will meet us at the King's Hand after the gala*
 		- Cordelia says that we were told that we should try and eavesdrop on his conversation (he assumes that Quén will want to <span style="color:rgb(197, 124, 22)">Scry</span> on him)
 	- He advises us to watch, observe, and have fun
