@@ -6,7 +6,7 @@ draft: "true"
 
 ---
 
-NOTES GO HERE
+NOTES HERE
 
 ---
 
