@@ -26,7 +26,7 @@
 
 # Talking about Erin Thorne
 - Cordelia, Kaya, and Quén caution Cal against going after Erin Thorne immediately
-	- The logic is that 
+	- The logic is that [idk man, Izzie didn't finish this sentence]
 - Vallen questions why Thorne wants the Shapes and Eldorians so bad
 	- Kaya reminds us that Eldorians have the Blood of Paracausality
 - Cordelia says that we probably should take the time explore Solmara

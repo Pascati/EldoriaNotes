@@ -70,7 +70,7 @@
 - The moment Vallen addresses us again, Quén tackles him in a tight hug
 	- They missed him so much :((
 	- He hugs them back and rubs comforting circles into their back :((((
-	- Vallen's shirt rn: ![[Pasted image 20260222203123.png|360]]
+	- Vallen's shirt rn: ![[cried into pillow.png|360]]
 - Vallen asks Cal to recap everything that happened since he disappeared
 - Vallen remembers a really bright flash of white light, and he found himself in the dead of night
 	- He was in the middle of the street in Langston, and immediately met with MANY people trying to capture him (Langston guards)
