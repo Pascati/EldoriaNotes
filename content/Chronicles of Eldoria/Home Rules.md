@@ -10,7 +10,8 @@
 	- Assumedly this also applies to any other spells or abilities that take an <u>action</u> or longer to cast/activate
 
 # Combat
-- **Critical Hits:** Upon rolling a critical hit, a creature deals maximum theoretical damage, then rolls their damage as normal (e.g. if a )
+- **Critical Hits:** Upon rolling a critical hit, a creature deals maximum theoretical damage, then rolls their damage as normal.
+- **Critical Fails:** If a creature rolls a Natural 1 on a saving throw for an effect that deals damage, they automatically take double damage.
 - **Death Saving Throws:** The DM rolls each player’s saving throws in secret, so even the players themselves don’t know the state of their character as they die (ooooh mystery 👀).
 - **Momentum:** For every 15 feet of movement, a creature may deal 1d4 damage (this only applies to <span style="color:rgb(197, 124, 22)">Hasted</span> creatures or creatures whose movement is otherwise enhanced). Additionally, for every 15 feet of movement, the attacking creature's AC decreases by 1.
 
