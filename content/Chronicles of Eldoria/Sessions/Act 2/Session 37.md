@@ -177,8 +177,8 @@
 - Cal shares that the Diamond army has always aimed to make itself stronger, either by incorporating vampires or machinery.
 - Vallen tells us that the story is that **Ihys is dead, and has been since the beginning of time**
 	- Apparently, there were two cosmic beings: one embodying the concept of good (Iyes) and the other the concept of evil (Asmodeus)
-	- Iyes made the Material Plane, after which Asmodeus killed her
-	- As punishment for killing Ihys, Asmodeus was Nessus (the ninth level of hell)
+	- Iyhs made the Material Plane, after which Asmodeus killed her
+	- As punishment for killing Ihys, Asmodeus was sent to Nessus (the ninth level of hell)
 		- The other gods decided to send Asmodeus to Nessus
 		- Asmodeus can also *not leave Nessus*
 - Quén theorizes that the Father wants to reverse Asmodeus's imprisonment
@@ -189,7 +189,7 @@
 - **We theorize about ways to tell each other apart and how to tell Changelings apart from us**
 	- We agree to have a "call and response" type deal to check if we're Changelings:
 		- *"Are you goonalooning"*
-		- *"My changes of an Eiffel tower are slim but not none."*
+		- *"My chances of an Eiffel tower are slim but not none."*
 	- We need to figure out what Changelings/True Changelings are weak to (kinda like how Vallen's allergic to garlic)
 	- False Cal was wearing a ring like Cal's, but *the insignia was wrong*
 		- Almost as if it was misinterpreted because it was viewed from a distance.... 🤔 (looking at you, Blue Man 🫵👁️👁️)
