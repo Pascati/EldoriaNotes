@@ -170,38 +170,51 @@
 
 >[!INFO] Lily helped take notes for this!! thank up pookie <3
 - Quén tells Kade they are worried about the forces we are facing
-- They want to know essentially that Kade will stick with us, and not go switch sides so to speak
-- Kade says "Does it matter, because if I fuck up you can just kill me..."
-- Quén says he is impulsive, yet reliable--but tends to work towards his own goals so what guarantees do we have that he wont fuck around
-- He essentially says "Well there won't be any tomfoolery" and can't guarantee what he'll do. Then he brings up JULIAN what a fucking ASSHOLE
-- CALLS JULIAN A TOOL??
-- Quén essentially tells him if someone pulls up offering him a deal or money or bitches to REJECT
-- Kade says "I've betrayed my family before, but I realized the bad that came from that"
-- Kaya says "This is a trial run we can always merk his ass, he has useful skills."
-- Vallen is being a sexy ass guard dog, not a dry seat in the house bae
-- Kade pulls out a gun, and hands it to Cal in a moment of trust
-- Kade is like "It's cool I'll take a knife"
-- Vallen gets up from his chair, he hasn't said a word the whole time
+	- They want to know essentially that Kade will stick with us, and not go switch sides so to speak
+	- Kade says *"Does it matter? Because if I fuck up you can just kill me..."*
+- Quén says he is impulsive, but reliable. However, he tends to work towards his own goals so what guarantees do we have that he wont fuck around?
+	- He essentially says "Well there won't be any tomfoolery" and can't guarantee what he'll do. Then he brings up JULIAN what a fucking ASSHOLE
+	- CALLS JULIAN A TOOL??
+- Quén essentially tells him if someone pulls up offering him a deal or money or bitches to REJECT THEM!!
+	- Kade says *"I've betrayed my family before, but I realized the bad that came from that"*
+		- Quén is like ???, to which Kade responds that the family he was referring to was the Thieves' Guild -- he saw some shit that he didn't agree with, and acted against it
+- Kaya says *"This is a trial run. We can always merk his ass, he has useful skills."*
+	- Vallen is being a sexy ass guard dog, not a dry seat in the house bae (Izzie note: bruh I fear that Cordelia's seat is the only one that's soaked 💀)
+- Kade says that there isn't much he can do in the moment to show us that we can trust him, but what he CAN do is this: he pulls out his gun, flipping it around so the handle is facing away from him and handing it to Cal
+	- Cal immediately says that the gun is his now and tucks it into his shirt 💀
+	- Quén questions what Kade will be able to do without his gun -- especially considering that he's not a magic user and his main specialty is "gun"
+		- In response, Kade says that he can simply take a knife
+		- Cal pretends to give him a dagger, taking one out and flipping it fancily (like an 8/10 on the cool scale). The moment Kade takes it and tucks it in his pocket, though, Cal uses his Pact Blade ability and summons it back to his hand 😭 STOP BULLYING THIS MAN!!!
+			- In Lily's words: *"Cal takes his knife back he's genuinely a fucking cuck"*
+		- Quén takes out their silver dagger and hands it to Kade instead
+			- Kade's like 🤨 and Quén's like "yeah we fought vampires at some point". Kade gives a pointed look at Vallen.
+- Quén calls for Vallen to come to their side of the table
+	- Vallen gets up from his chair, completely silent. He hasn't said a word the whole time (BIG guard dog energy... love this guy. my king my goat.)
+	- Quén asks for Vallen's original signet ring, and swaps it with the new one they had Durgen make for him MONTHS ago (with a new insignia on it)
+	- They give Kade Vallen's original ring, and tell him to keep it on him -- it'll help them to keep him safe
 - Quén gives him a ring (swaps the original ring Vallen had with the new one they had Durgen make MONTHS ago - with a new insignia on it - and gives Vallen's original ring to Kade)
-- Cal gives him a knife
-	- Cal takes his knife back he's genuinely a fucking cuck
-- Quén gives him a silver knife
 - Kade has NO idea what we're doing
-- We start explaining robots to king 
-- Kaya asked how he got with the thieves guild, he lowkey just spawned in bruh..
-- Quen has main character syndrome..
+	- We start explaining robots to king
+	- Kaya asked how he got with the thieves guild, he lowkey just spawned in bruh..
+		- He doesn't explain how he joined the Thieves Guild, but after the whole deal with them he went to a place that he thought was safe -- turns out that was the King's Hand  💀 and that's how he met Kaya's mom LMAO
+		- It basically was Aratish being like "who are you" and Kade being like "I'm Kade 👋😎"
+- Quén has main character syndrome..
+	- Izzie Note: kinda true (sorry gang 😔) but I also have NO CLUE what this is referring to 💀
 - Sidenote, Cordelia has a fat ahh booty
+	- This was discussed during Quén and Cordelia's conversation earlier, during which Cordelia spoke about how she's been eating a lot more and that weight is going straight to her lower back. idk what this has to do with the current conversation though 💀
 - Kade is chill with us now. We all seem to have a chill relationship with him now.
-- Quen pauses, then backs down. Admits they haven't been the most friendly.
-- Kade doesn't GAF 
-- ONE MORE THING
-- Tells Kade, if we find the shapes DO NOT TOUCH UR HANDS WILL MELT BABE
-	- It's ok bcs he has gloves!!
+- Quén pauses, then backs down. Admits they haven't been the most friendly.
+	- Kade doesn't GAF 
+- ONE MORE THING!!
+- Quén tells Kade: if we find the shapes DO NOT TOUCH UR HANDS WILL MELT BABE
+	- It's ok bcs he has gloves!! (lead-lined gloves, to be exact) (apparently he handles dangerous magic items on the reg?? ok king)
 - Land Hoe!
-- Vallen leans down to tell Quen he doesn't like Kade, jealousy is so fucking sexy
+- Vallen leans down to tell Quén he doesn't like Kade, jealousy is so fucking sexy (<-- Lily's words, not mine)
+	- Quén squeezes Vallen's arm, and says that they don't fully trust him either. But they trust Vallen to keep an eye on him and make sure no funny business goes on.
+	- I LOVE FRIENDSHIPPPPP <333
 
 # Pulling up to Braldurak
-- In the distance (on the , we see *mountains*
+- In the distance, we see *mountains*
 	- The mountains appear snowy and cold, but the land at lower altitudes are covered in greenery
 	- It appears to be the latter half of summer, so it's mainly snowy caps (rather than snowy mountains)
 		- We remember: it's the middle of summer right now, but when we left Eldoria it was in the middle of autumn
@@ -222,6 +235,7 @@
 - We speak with Captain Seamus
 	- The waters get choppy near the island, so he will be sending smaller ships to dock
 	- The additional Eldorians coming with us will set up camp as close to the mountains as possible
+	- **He hands Quén a flare gun**, and tells them to use it if we run into trouble
 - Quén takes off their veil and puts it over Vallen, to ensure that the sun doesn't hit his face
 	- Looking at their face, Kaya sees a pattern of freckles that looks EXTREMELY familiar
 	- Quén has Kaya's freckles now :] 💕
@@ -323,8 +337,13 @@
 - Vallen: *"Is my wife even real?"*
 
 
-> [!INFO] Quén spent some time on the ship thinking about what Changelings (specifically True Changelings) might be vulnerable/weak to (Izzie used his guaranteed Nat 20 from the egg hunt on this roll)
+# POST-SESSION STUFF
 
+> [!INFO] Quén spent some time on the ship thinking about what Changelings (specifically True Changelings) might be vulnerable/weak to (Izzie used his guaranteed Nat 20 from the egg hunt on this roll)
+- **WHAT QUÉN LEARNS:**
+	- At some point, their mind warps and they hear *a woman's voice* tell them that *the **ONLY** weakness* that <u>Changelings</u> AND <u>True Changelings</u> have is **Axio Steel**
+	- Showing a disguised <u>standard Changeling</u> their true form (e.g. via a magical mirror that has <span style="color:rgb(197, 124, 22)">Truesight</span>) for a prolonged period of time will cause them to subconsciously shift into their true form
+- Quén learned all of this during the several-day travel downtime, but due to everything happening they've kept it to themself
 
 ---
 
