@@ -138,6 +138,193 @@
 - We manage to capture Cal and give him a bath!!
 
 # The final day of travel
+## Cordelia checks us for the Father's magic
+### The Party
+- On the final day before we reach Braldurak, Cordelia compiles her research
+- Sitting at our table at the bar, we hear the Captain above cry out *"Land ho!"*
+- Quén asks if there's anything we need to do before we arrive in Braldurak, because we'll be facing a lot of warforged
+	- Cordelia says that she summoned us all here so she can analyze us (specifically for abnormal magic signatures, looking for the Father's)
+- Cordelia casts <span style="color:rgb(197, 124, 22)">Detect Magic</span> and looks at the party! She can see traces of the Weave, and how it wraps around each of us in our own unique arcane signatures
+	- She can see traces of Cal's pact with the Raven Queen/the Outsider
+		- It doesn't seem to originate from the core of his person -- rather, it drapes around him
+		- It's mostly black with green/red bits (similar to a black fire with green/red sparks)
+		- It looks almost like a white fire (with black outlines) in some spots
+	- Kaya is surrounded by a multicolored swath of all the colors of the Clover Kingdom -- although there are multiple colors, green is the most prominent one
+	- Vallen's magic doesn't have a color, but it has a gravitational presence to it and a space-like look
+	- Quén is surrounded by *two types of magic*
+		- She sees their innate magic, as well as some celestial magic (tied to the fact that they are now a minor god)
+	- Overall, **she sees no abnormalities other than the ones we already know about**
+		- She also *didn't detect the Father's magic on anyone else on the ship*
+		- Captain Seamus is fine, but she hasn't had a chance to check Ozwin and Kade
+- We conclude that **the Father is not currently watching them (through Quén)**
+	- Quén theorizes that the Father checks in every so often, but doesn't watch them all the time
+	- Vallen theorizes that the Father has agents that keep an eye on us from time to time
+
+### Ozwin
+- Vallen goes to fetch Ozwin, and sits him down at our table
+- Cordelia looks at Ozwin using <span style="color:rgb(197, 124, 22)">Detect Magic</span>, and sees:
+	- A very uniform magic, with slight fluctuations at the edges -- nothing out of the oridinary!
+
+### Kade
+- Quén summons Kade via sending stone
+
+>[!INFO] Lily helped take notes for this!! thank up pookie <3
+- Quén tells Kade they are worried about the forces we are facing
+- They want to know essentially that Kade will stick with us, and not go switch sides so to speak
+- Kade says "Does it matter, because if I fuck up you can just kill me..."
+- Quén says he is impulsive, yet reliable--but tends to work towards his own goals so what guarantees do we have that he wont fuck around
+- He essentially says "Well there won't be any tomfoolery" and can't guarantee what he'll do. Then he brings up JULIAN what a fucking ASSHOLE
+- CALLS JULIAN A TOOL??
+- Quén essentially tells him if someone pulls up offering him a deal or money or bitches to REJECT
+- Kade says "I've betrayed my family before, but I realized the bad that came from that"
+- Kaya says "This is a trial run we can always merk his ass, he has useful skills."
+- Vallen is being a sexy ass guard dog, not a dry seat in the house bae
+- Kade pulls out a gun, and hands it to Cal in a moment of trust
+- Kade is like "It's cool I'll take a knife"
+- Vallen gets up from his chair, he hasn't said a word the whole time
+- Quén gives him a ring (swaps the original ring Vallen had with the new one they had Durgen make MONTHS ago - with a new insignia on it - and gives Vallen's original ring to Kade)
+- Cal gives him a knife
+	- Cal takes his knife back he's genuinely a fucking cuck
+- Quén gives him a silver knife
+- Kade has NO idea what we're doing
+- We start explaining robots to king 
+- Kaya asked how he got with the thieves guild, he lowkey just spawned in bruh..
+- Quen has main character syndrome..
+- Sidenote, Cordelia has a fat ahh booty
+- Kade is chill with us now. We all seem to have a chill relationship with him now.
+- Quen pauses, then backs down. Admits they haven't been the most friendly.
+- Kade doesn't GAF 
+- ONE MORE THING
+- Tells Kade, if we find the shapes DO NOT TOUCH UR HANDS WILL MELT BABE
+	- It's ok bcs he has gloves!!
+- Land Hoe!
+- Vallen leans down to tell Quen he doesn't like Kade, jealousy is so fucking sexy
+
+# Pulling up to Braldurak
+- In the distance (on the , we see *mountains*
+	- The mountains appear snowy and cold, but the land at lower altitudes are covered in greenery
+	- It appears to be the latter half of summer, so it's mainly snowy caps (rather than snowy mountains)
+		- We remember: it's the middle of summer right now, but when we left Eldoria it was in the middle of autumn
+- **We're CONFUSED about the fact that the seasons are different**
+	- Kade is like "yeah so u know how the world is round" and Quén is like **WHAT**
+		- Kade explains that the world is round
+	- Kade says that we can teach him about magic and he can teach us about science!!
+		- We agree on *weekly lessons*
+	- Kade explains that the main regions are: Braldurak, Langston, Umbravael, and Silvanour
+		- At the very top of the globe is the northern hemisphere, and the south part is the southern hemisphere
+		- When the seasons are warm in the southern hemisphere, then it's cold in the northern hemisphere, and vice versa
+	- Kade explains:
+		- That telescopes exist, and that they're used at night
+		- The sun is a star (not a planet)
+		- There are other planets
+	- Quén messages Balthazar, asking if the sun is a place that we can travel to
+		- *“You can’t breathe when you pass the sky”*
+- We speak with Captain Seamus
+	- The waters get choppy near the island, so he will be sending smaller ships to dock
+	- The additional Eldorians coming with us will set up camp as close to the mountains as possible
+- Quén takes off their veil and puts it over Vallen, to ensure that the sun doesn't hit his face
+	- Looking at their face, Kaya sees a pattern of freckles that looks EXTREMELY familiar
+	- Quén has Kaya's freckles now :] 💕
+
+# Arriving on Braldurak's Island
+- It is **dead quiet.**
+- Around us is mostly wilderness, but we see traces of other ships departing and landing
+	- In the distance, we see a larger ship tilted over (as in a shipwreck)
+- Kaya asks Kade if anyone lives here
+	- He tells her that this island specifically used to be a populated city, then some wars happened
+	- People come here from time to time to collect extra ores (if needed) -- there is *mithril* and *adamantine* here
+		- Quén 
+- As we talk, we hear laughter in the distance
+	- We decide to sneak up to the noise and check it out!
+
+# Approaching the noise
+- Passing through pine trees, we approach a clearing. In which is a bonfire
+- Quén listens closely, trying to determine what the figures are saying
+	- *"That's fucking hilarious!"* *"Yeah, and that happened YESTERDAY."* *"And they were roommates?"*
+	- The voices sound **inherently mechanical**
+- We manage to convince Kade to speak to the warforged on our behalf (Cordelia specifically says that Quén might like him more)
+	- Quén pats Kade's shoulder and casts <span style="color:rgb(197, 124, 22)">Guidance</span> on him
+	- As Kade approaches, the warforged pull out their weapons
+- Cal follows behind Kade, **disguised as Caduceus Pope**
+	- The moment the warforged see him, they *START SPRINTING AWAY*
+- We briefly debate whether or not we should follow them
+	- Quén is worried that the warforged will warn the other warforged, but Vallen counters and says that they will lead us to their hideout
+- Vallen sighs beleaguered and teleports us in front of the warforged, who stop as soon as they see Cal (disguised as Dr. Pope)
+	- As soon as we teleport, Kaya summons pits on either side of the warforged to ensure that they don't run
+
+## Speaking with the warforged
+- The warforged ask if we're with the Father or Dr. Pope
+	- NO!!!
+- WE DETERMINE:
+	- The warforged all have blue eyes!
+	- The warforged are not fans of Dr. Pope
+	- FAFO is here and leading the warforged!
+		- Quén messages him, saying that we're on the island and would like to see him (and that Kaya still has the statue that he gave her) -- his response is *“I will be there soon”*
+- The warforged are named:
+	- Glaive (the main talker)
+	- Chain
+	- Hammer
+	- Shield
+- Quén compliments their names, saying that they're "very powerful"
+	- Apparently the warforged chose their own names!
+
+### Meeting FAFO
+- A group of warforged approach us, led by FAFO! (who now has a purple eye)
+	- The other warforged appear to cower behind FAFO, who is currently holding 
+- We catch up a little with FAFO!
+	- Apparently he was teleported away
+	- When we killed OSIRIS, the warforged "became aware"
+	- FAFO is in possession of pieces from BOTH the shapes
+- Quén asks FAFO if he's willing to part with the pieces of the shapes that he's in possession of
+	- He answers their question with another question: are we willing to follow him? (the answer is yes)
+
+# Arriving in Parallax Reach
+- We approach a gate made of metal and wood, with lights sparking with *purple electricity*
+	- FAFO knocks on the gate, which creaks open
+- As we enter the city, we see shops and rows and rows of hundreds of houses!
+	- Further into the city, we see a large house that might arguably belong to a mayor or yarl. FAFO keeps walking towards it
+	- As we walk, we pass by groups of warforged that wave at us! FAFO waves back :]
+- **WHAT WE LEARN:**
+	- FAFO ended up in Umbravael, where people thought he was a magically animated suit of armor
+	- For the first week or so after OSIRIS was defeated, the warforged were able to maintain a hivemind. During that time, they were able to agree to meet on this particular island (since a few warforged have already landed there).
+- FAFO coughs as we walk and talk -- he apologizes for it
+	- Cal determines that machines don't cough. He doesn't have lungs to cough with! He determines that it's likely a habit of FAFO's mind -- *muscle memory*
+- Approaching the hall, we see a bunch of warforged bustling about. There's a chair that's slightly elevated
+	- As FAFO approaches it, he sets down his walking stick and picks up a cane
+	- He asks us to come with him, and he takes us to a side room (in which he sits down and sighs)
+		- There is a chair, a bed, and a wall covered in tubes and such (filled with purple light) that appear to convene in one central spot
+- FAFO welcomes us to **Parallax Reach**, and says that the city is **Axiomara (i.e. the "Land of Order and Balance", in Latin)**
+- We agree to swap questions!
+	- Quén asks if the shapes are inside FAFO, since one of his eyes is now purple
+		- FAFO goes and opens the metal furnace-like structure in the wall (from which )
+		- They found the Orb several months ago, and the piece of the Pyramid just a week ago
+		- FAFO reveals that he somehow underwent the Keeper's Trial, and is both a Keeper and can handle the shapes without being injured
+- As we speak, there's a muffled sound from Cal's bag (the warforged head - the one from which we heard OSIRIS's voice - laughs)
+	- FAFO politely asks for the head, and after Cal hands it over, he crushes it in his hands (Cal is surprised and upset about this)
+- FAFO walks over to another furnace-like structure in the wall. As he opens it, we see **OSIRIS's head, cut vertically in half**
+	- FAFO reveals that **he was the *ORIGINAL OSIRIS* that we met on the mountain**, who was interested in biological lifeforms
+		- In other words, *FAFO was the prototype of OSIRIS*
+	- After meeting us, he reset his memory, after which we met him as FAFO-1
+		- FAFO stands for "Fuck Around and Find Out"
+	- The OSIRIS head mocks us, and in response Quén closes the safe door (FAFO locks it)
+	- **If OSIRIS dies, so does FAFO**
+- Quén warns FAFO about Dr. Pope working with the False King (who he seems to know about??) and the fact that he seems to be allied with an extremely powerful sorceress ([[Siren]])
+	- FAFO muses concealing the entirety of Parallax Reach using his abilities as a Keeper. HOWEVER! Because he's sending out signals to the other warforged who haven't made it here yet, concealing the city will prevent them from reaching it
+- **Dr. Pope is older than we realize**
+	- ***DR. POPE WAS THE ONE WHO TURNED VALLEN INTO A VAMPIRE***
+	- VALLEN IS BAFFLED!!
+	- *THE FATHER* IS LIKELY INVOLVED WITH THIS
+- FAFO asks us if we plan on taking the Shapes
+	- The party as a whole is on the fence -- we request some time to talk and think it over
+	- FAFO acquiesces, and departs to give us some privacy
+- Kade is BAFFLED by how crazy this shit is
+	- Cordelia says this is maybe in the top 5 of the craziest things that happened to us
+	- He says he needs time to process this
+- Vallen: *"Is my wife even real?"*
+
+
+> [!INFO] Quén spent some time on the ship thinking about what Changelings (specifically True Changelings) might be vulnerable/weak to (Izzie used his guaranteed Nat 20 from the egg hunt on this roll)
+
 
 ---
 
