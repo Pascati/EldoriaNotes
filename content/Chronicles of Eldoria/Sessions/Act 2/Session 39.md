@@ -44,6 +44,11 @@
 
 	WE WAKE UP
 
+>[!INFO] I CAN'T REMEMBER WHERE THIS HAPPENED, BUT IMPORTANT NOTE:
+- The Father, while talking to Cordelia, said *"There will be trials and tribulations... and losses."*
+	- When he said "trials", he looked at Kaya
+	- When he said "losses", he looked at Cal
+
 ## The Aftermath
 - Cal theorizes, saying that Dr. Pope might be the "Father Time" that the Father mentioned
 - Vallen leaves to inform FAFO of what is going to happen
