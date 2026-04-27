@@ -179,7 +179,7 @@
 	- Kade says *"I've betrayed my family before, but I realized the bad that came from that"*
 		- Quén is like ???, to which Kade responds that the family he was referring to was the Thieves' Guild -- he saw some shit that he didn't agree with, and acted against it
 - Kaya says *"This is a trial run. We can always merk his ass, he has useful skills."*
-	- Vallen is being a sexy ass guard dog, not a dry seat in the house bae (Izzie note: bruh I fear that Cordelia's seat is the only one that's soaked 💀)
+	- Vallen is being a sexy ass guard dog, not a dry seat in the house bae
 - Kade says that there isn't much he can do in the moment to show us that we can trust him, but what he CAN do is this: he pulls out his gun, flipping it around so the handle is facing away from him and handing it to Cal
 	- Cal immediately says that the gun is his now and tucks it into his shirt 💀
 	- Quén questions what Kade will be able to do without his gun -- especially considering that he's not a magic user and his main specialty is "gun"
