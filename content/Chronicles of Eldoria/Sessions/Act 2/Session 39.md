@@ -36,9 +36,9 @@
 	- Cal asks if he can take the deal. Quén and Cal have a strength battle. Quén wins. Takes the deal. They receive the pieces of the orb. He tells Cordelia her cards are made of Ihys.
 		- He initially says that the cards are made from her skin, and when the party balks at the idea she says that it's "metaphorical" (whatever that means 💀)
 	- The Father begins to tell the information that will help them in "the coming hours." 
-	- There will be a boat with Thraxxis And Erin Thorne
+	- There will be a boat with Thraxxus And Erin Thorne
 	- Cal tries to swing, and he falls.
-	- He tells Kaya she is a "World Shaper, and that she shouldn't tell Thraxxis
+	- He tells Kaya she is a "World Shaper, and that she shouldn't tell Thraxxus
 		- It's implied that she shouldn't tell him because of Trahxxis's title as the "World Breaker", and that the title of "World Breaker" means something
 	- He then essentially dips
 
@@ -176,6 +176,90 @@
 	- They request that the rest of the gang don't tell Vallen about their deal with the Father -- at least not yet
 	- The gang questions how we'll tell Vallen about the shapes WITHOUT telling him about the deal
 	- Kaya agrees to not tell him *today*, but they should tell him tomorrow
+> [!INFO] SIDE NOTE: QUÉN GETS A GUN FROM FAFO!!!
+# Preparing for Thraxxus and Erin Thorne
+- We head down to the beach!
+	- A storm brews on the horizon -- lightning strikes and rain falls. In the distance, about a mile out, is the outline of a ship
+	- The beach isn't the sandy type: it's closer to a coast, with grass and rocks rather than sand. Water sloshes over the rocks as it surges with the storm
+	- It is currently in the late afternoon
+- Our ship is out of the way (so the enemy will choose either to chase us or head to Parallax Reach) but isn't entirely hidden. The enemy most likely sees us 💀
+- Cal pulls out his periscope (used in the fight against False Cal) and tries to look at the enemy ship
+	- Quén uses their cleric ability to give Cal a +1d8
+	- He sees someone in the crow's nest, seeming to hold a periscope
+- Cal requests that we get some cover, and Kaya pulls up a smokescreen
+	- Cal tells a short story about some lizardfolk he fought that didn't need to breathe all the time, and were able to conceal themselves in the earth to ambush his party. He suggests that we do the same thing with a handful of warforged.
+	- **We're able to hide 2 warforged before the smokescreen clears**
+- Cal looks back at the ship, and notices:
+	- Two figures standing at the front of the ship (one smaller than the other)
+	- People busy running around the ship
+	- Where their canons would normally be - the holes are boarded up. So they're unable to engage in long-range combat at the moment
+- **What is our game plan?**
+	- Draw them into conversation (lure them into a false sense of security)
+	- Get as much information as possible
+	- Draw them away from the town with the Shapes we have, and escape as best as possible (we might lose in a 1x1 combat)
+		- We have firepower on our ship, while they don't
+- Quén radios the Captain, requesting that he prepare the canons in case we need to use them
+- **Who will do the talking??**
+	- Kaya??? It IS her family after all
+	- Quén assures her that - even though she's afraid that Thraxxus might immediately attack her - she will not be dying on their watch
+- Quén casts <span style="color:rgb(197, 124, 22)">Death Ward</span> on Kaya
+
+# Thraxxus Arrives
+- The enemy ship approaches, and eventually slows to a stop
+- PARTY PERCEPTION
+	- Kaya sees two individuals standing at the front of the ship, one of which is Erin Thorne. His arms are crossed, looking out at you. He nods at Cal in greeting.
+	- Someone FLIES off the enemy ship and lands on the shore
+		- The earth comes up to meet him as he crashes down
+		- *"Prepare for my arrival, worm."*
+- *"Merril. I heard you were alive, so I came looking."*
+	- Kaya sighs, saying that it'd be a pleasure to meet him (but she'd be lying)
+	- He's like "so you DO know who I am"
+	- Kaya's like "I don't wanna give you that satisfaction"
+	- *"I am her on accordance of the Father's empire. This is an unauthorized gathering of unauthorized individuals. Eldorians and warforged. Eldorians will come with us... and the warforged will die."*
+		- Kaya: I don't think that's going to be the case
+		- Thraxxus: Good... I don't want you to resist. I'm not here to save you. I'm not here to spread the greatness of the Father's empire. I'm here because I enjoy this.
+- Fire ignites in Thraxxus's hand
+	- *See, to me, there's no greater pleasure than feeling the warmth of my fist drenched in blood.*
+	- The fire begins to rise from his hand, revealing a flaming sword.
+- Thraxxus looks directly at Kaya.
+	- ***World-shaper. This is your end.***
+
+# COMBAT BEGINS
+- **WE ROLL FOR INITIATIVE**
+	- Cal: 26
+	- Quén: 21
+	- Kaya: 18
+	- Cordelia: 17
+
+## Round 1
+- Cal
+	- *"All right nippledick, are we doing this or not?"*
+	- Thraxxus tells him to step aside, and forces Cal to roll a DEX saving throw
+	- Thraxxus just BACKHANDS Cal, dealing 15 points of damage to him
+		- Kaya's smile DROPS
+		- Cal goes FLYING. A green portal opens behind him, and as he passes through it, the portal closes and he disappears
+- Quén
+	- Tells Kaya that we need to get out of here ASAP, and that they will try to buy us some time
+	- They reach their hand out, and as it descends they snap their fingers, casting <span style="color:rgb(197, 124, 22)">Banishment</span> on Thraxxus
+		- Thraxxus, seeing Quén casting a spell, goes from standing still to SPRINTING AT FULL SPEED
+		- The moment before he reaches them, they snap, and he dissipates into mist
+- Cordelia
+	- Pulls the <span style="color:rgb(197, 124, 22)">Justice</span> card
+		- Her next attack deals extra necrotic damage
+	- We get the ship going, and as we do Quén feels the <span style="color:rgb(197, 124, 22)">Banishment</span> wear off
+		- We hear a guttural YELL in the distance
+		- As we do, we see Thraxxus LAUNCH himself off of the shore. Fire erupts from his hands as he basically jetpacks towards us
+		- He lands in the water right behind the ship, and as he disappears he rises once again in a column of water
+- Kaya
+	- In the back of her head, she hears a voice she cannot place: *You don't command with the tide. You MOVE with it.*
+	- She holds out her hand, and as she does, Thraxxus's column of water dissipates and he falls into the water
+		- *So... you started listening.*
+	- After he disappears from sight, we see Thraxxus jump towards his own ship, which **begins to turn towards us**
+
+## Round 2
+- Cal
+	- He teleports onto Erin Thorne's ship, and finds himself face-to-face with Erin Thorne
+	- He's also held at spearpoint by like, 6 different people
 
 ---
 
