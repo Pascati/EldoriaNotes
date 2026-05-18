@@ -14,7 +14,7 @@ aliases:
 	- Regular tunic, lots of browns and greys
 	- Beard
 	- Relatively well-built, the kinda build that you'd have from working on the farm
-	- Looks to be mid-30s
+	- Looks to be mid-30s (specifically 35)
 - Formerly called "The Crow" during his time with [[Seven Lieutenants|The Seven]]
 - Currently [[Cal's Contract|under contract]] with [[The Raven Queen]] and [[The Outsider]]
 

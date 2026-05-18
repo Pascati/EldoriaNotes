@@ -32,14 +32,14 @@
 	- He says "Oh, Vallen.. His story is fascinating."
 	- He then essentially goes "If you take my deal, I will sweeten the pot and provide you the information about what is to come." I.E. Delia's cards, Kaya's backstory, and whatever shit Cal has going on.
 	- Delia asks if Quén is the only one able to make the deal. 
-	- Quén goes to take his hand, so does Cal. Delia stops Quén's hand and says "I've learned myself before, I'll do it again." 
+	- Quén goes to take his hand, so does Cal. Delia stops Quén's hand and says "I've learned myself before, I'll do it again."
 	- Cal asks if he can take the deal. Quén and Cal have a strength battle. Quén wins. Takes the deal. They receive the pieces of the orb. He tells Cordelia her cards are made of Ihys.
 		- He initially says that the cards are made from her skin, and when the party balks at the idea she says that it's "metaphorical" (whatever that means 💀)
 	- The Father begins to tell the information that will help them in "the coming hours." 
 	- There will be a boat with Thraxxus And Erin Thorne
 	- Cal tries to swing, and he falls.
 	- He tells Kaya she is a "World Shaper, and that she shouldn't tell Thraxxus
-		- It's implied that she shouldn't tell him because of Trahxxis's title as the "World Breaker", and that the title of "World Breaker" means something
+		- It's implied that she shouldn't tell him because of Thraxxus's title as the "World Breaker", and that the title of "World Breaker" means something
 	- He then essentially dips
 
 	WE WAKE UP
@@ -149,7 +149,7 @@
 - CORDLEIA CALLS MYSTRA A CUNT!!!
 - MYSTRA DISAPPEARS
 - Cordelia attempts to call upon Balthazar, requesting that they speak immediately
-	- Balthazar is initially like "No" (word for word) but then Cordelia tells hi that she called Mystra a cunt to her face
+	- Balthazar is initially like "No" (word for word) but then Cordelia tells him that she called Mystra a cunt to her face
 	- Balthazar: *"I'm starting to like you."* *"But I'd apologize if I were you."*
 - Cordelia gets another message from Vallen
 	- *"So.... you coming?"*
@@ -220,7 +220,7 @@
 	- Kaya sighs, saying that it'd be a pleasure to meet him (but she'd be lying)
 	- He's like "so you DO know who I am"
 	- Kaya's like "I don't wanna give you that satisfaction"
-	- *"I am her on accordance of the Father's empire. This is an unauthorized gathering of unauthorized individuals. Eldorians and warforged. Eldorians will come with us... and the warforged will die."*
+	- *"I am here on accordance of the Father's empire. This is an unauthorized gathering of unauthorized individuals. Eldorians and warforged. Eldorians will come with us... and the warforged will die."*
 		- Kaya: I don't think that's going to be the case
 		- Thraxxus: Good... I don't want you to resist. I'm not here to save you. I'm not here to spread the greatness of the Father's empire. I'm here because I enjoy this.
 - Fire ignites in Thraxxus's hand
