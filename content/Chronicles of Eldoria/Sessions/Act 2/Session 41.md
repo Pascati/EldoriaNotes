@@ -5,7 +5,7 @@
 
 # 1 WEEK PASSES
 - It takes us one week to get to the island where we first met Kade
-	- We have an additional week before we get to Sylvanor
+	- We have an additional week before we get to Silvanour
 - **What does the gang do during this week?**
 	- NOTE: Cal is still unconscious from getting his ARM RIPPED OFF!!!
 
@@ -141,9 +141,8 @@
 	- The others point:
 		- To Langston
 		- Silvanour
-		- The large island right off of Eldoria
-		- Off the coast of the other island (bottom left)
-- 
+		- The large island right off of Eldoria (Nexus)
+		- Off the coast of Umbravael
 		- North of Braldurak
 
 (Subheader:)
@@ -165,7 +164,7 @@
 	- The island is called **Nexus**, and **it's where the Blood Hunters are**
 	- It's EXTREMELY RELIGIOUS and EVIL on that island -- anyone who goes there never comes back, and that includes the strongest Solmaran soldiers
 	- Nexus has ports around it that blocks trade routes to other locations
-	- *Kade shares an old tale about how there was a crown that was used to control/seal the Eldorians away I think???* 
+	- *Kade shares an old tale about how there was a crown that was used to control/seal the Eldorians away I think???* (false history)
 	- South Nexus is super dangerous (filled with dragons AND monsters), but the elves of Silvanour have a back-entrance there that they've been using
 		- Any hope of entering Nexus would be through there
 - Kade explains to us what dragons are LMAO (we didn't have any in Eldoria): *"Super big ole' lizard dudes who breathe fire, ice, and necrotic things."*
