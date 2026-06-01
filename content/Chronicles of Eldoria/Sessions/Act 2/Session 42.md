@@ -112,7 +112,7 @@ IT'S THE CAMPAIGN'S 1 YEAR ANNIVERSARY
 
 ## Kaya's Downtime
 - Kaya receives a message back from her mother!!
-	- 
+	- We go over this when [[#The gang meets up with Ozwin]]
 
 ## Cordelia's Downtime
 - She goes to speak with Ozwin! She wants to speak with him about...
