@@ -2,13 +2,17 @@
 aliases:
   - Kaya
   - Kaya's
+  - Meril
+  - Meril Erin Solmara
+  - Meril Solmara
 ---
 # Character Profile
 ![[Kaya Avarice.png|360]]
 - She/Her
 - Tiefling
 - Monk
-- **Birth Name: Meril Erin Solmara** 
+- **Adopted Name:** Kaya Avarice
+- **Birth Name:** Meril Erin Solmara 
 	- Translates directly to *"Rose of Solmara"*, with each word being derived from Elvish, Dwarvish, and Common (Human) respectively
 
 ## Factions/Affiliations

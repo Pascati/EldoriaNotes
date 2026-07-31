@@ -71,7 +71,7 @@
     - Quén sympathizes with him :( that's rough buddy
 - **The following notes for this section are paraphrased from Corinthia's written notes (thank u girlie <3)**
 - Quén admits that they're on the verge of doing something they know is stupid, but claims that things might work out so long as they play their cards right
-	- Vallen presses the issue, and Quén confesses that they've been thinking about their conversation with [[The Father (Maybe)|the man from their dream]] -- specifically the part about praying to [[Asmodeus]]
+	- Vallen presses the issue, and Quén confesses that they've been thinking about their conversation with [[The Father|the man from their dream]] -- specifically the part about praying to [[Asmodeus]]
 	- They know it's dangerous (Asmodeus is literally called the "Father of Lies" 💀), but doing so could give them a chance at bringing [[Camille Xotli (Original)|their brother]] back
 		- They also mention that they know their brother wouldn't be happy being brought back this way, but they "have to try"
 	- Also they reason that if they can somehow read between the lines and see through Asmodeus's lies, they MIGHT be able to discern something about their past or what the [[Changelings]] are planning

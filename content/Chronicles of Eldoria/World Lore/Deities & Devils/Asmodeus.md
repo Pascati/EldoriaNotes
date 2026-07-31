@@ -1,2 +1,4 @@
 - THE DEVIL. FROM THE *BIBLE*
 - AKA the "Father of Lies"
+- Revealed in [[Session 48]] to be [[The Father]]
+- A MASSIVE ASSHOLE. FUCK THIS GUY!!!

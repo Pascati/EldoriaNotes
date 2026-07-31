@@ -1,6 +1,7 @@
 ---
 aliases:
   - the Captain
+  - Captain Seamus
 ---
 
 # Character Profile

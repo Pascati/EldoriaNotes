@@ -3,6 +3,7 @@
 - [[Tarot Cards|Tarot card]] user (the only one other than [[Cordelia Elysian]])
 - A man
 - Former Keeper of Clover ([[The Keeper|V's]] predecessor; retired roughly a decade prior to the start of the campaign)
+- **DECEASED** (learned during [[Session 43]])
 
 ## Factions/Affiliations
 - [[Clover Capital]] (Former Keeper)
@@ -24,3 +25,5 @@
 - [[Session 17]], [[Session 18]] (By name only)
 - [[Session 19]] (Location and basic info learned from [[The Keeper|V]])
 - [[Session 21]] (Met!)
+- A bunch of other sessions
+- [[Session 43]] ([[The Party|The Seekers]] learn of his death)

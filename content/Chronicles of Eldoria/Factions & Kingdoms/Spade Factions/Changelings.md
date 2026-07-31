@@ -15,4 +15,6 @@
 	- There are MANY changelings out there (thousands to millions)
 
 # Prominent Members
+- [[The Father]]
 - [[Dox]]
+- [[Quén Aiano]] (by virtue of being a changeling, not actually allied with them)

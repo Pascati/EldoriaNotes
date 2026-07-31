@@ -131,7 +131,7 @@
 - A blue light appears, and speaks to them in both a man and woman's voice
 - CAMILLE ASKS IF THERE'S AN AFTERLIFE. THEN THE TEMPLE GLITCHES??
 	- THEY'RE STILL IN THE TEMPLE, BUT IT'S DARK AND EVIL-LOOKING NOW
-	- [[The Father (Maybe)|THERE'S A WHITE MAN (😱)]] WITH A SMOOTH, FEATURELESS 
+	- [[The Father|THERE'S A WHITE MAN (😱)]] WITH A SMOOTH, FEATURELESS 
 - "My little Changeling... You are quite interesting, interesting indeed."
 - THINGS HAPPEN
 - QHWAT THE FUCK
@@ -189,10 +189,10 @@
 # Going to [[South Haran]]
 ## Traveling!
 - Julian walks next to Cordelia
-- Camille falls back to walk next to Vallen, and tells him that they think they met [[The Father (Maybe)]] in their dream
+- Camille falls back to walk next to Vallen, and tells him that they think they met [[The Father]] in their dream
 	- They share that:
 		- They were talking to [[Avandra|their god]], before 
-		- [[The Father (Maybe)]]
+		- [[The Father]]
 - Cal switches places with Camille, and asks them to review the contract
 	- Investigation: 11
 		- *"The Raven Queen in allegiance with The Outsider gives his abilities for vengeance and justice."*
@@ -275,7 +275,7 @@
 	- KAYA DECLARES THAT WE WILL DO WHATEVER WE NEED TO TO EARN HIS TRUST. THEN SHE GOES TO FIND HIM SOME RAW MEAT/BLOOD IN THE KITCHEN!!!
 - We talk about Vallen's connection to Divinity ([[Lathander]] and [[Kanchelsis]] specifically)
 	- Lathander's basically disowned Vallen, and doesn't respond to Camille's prayer
-	- Camille still theorizes that Kanchelsis is giving Vallen his smiting ability and now powers -- even though [[Kanchelsis]] technically isn't a god, divinity can be circumvented, as [[The Father (Maybe)|The Father]] has shown
+	- Camille still theorizes that Kanchelsis is giving Vallen his smiting ability and now powers -- even though [[Kanchelsis]] technically isn't a god, divinity can be circumvented, as [[The Father|The Father]] has shown
 	- Cordelia suggests that another god holds Vallen's soul - Lathander or Kanchelsis or not - but she thinks that she can speak for everyone when she says that we prefer the Vallen that has traveled with us all this time -- regardless of whether or not he aligns himself with the Keeper or the party
 		- Vallen admits to speaking in anger when he said he trusts the Keeper more
 - Cordelia tells Vallen that he's as much a part of the group as the rest of us, so he has a say on what we do with Julian

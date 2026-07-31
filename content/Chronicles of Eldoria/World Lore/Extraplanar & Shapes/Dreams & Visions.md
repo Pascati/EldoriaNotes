@@ -134,7 +134,7 @@ banner-radius: 15
 ### Camille's Dream
 - Camille finds themself in the same ruined temple where they first met [[Avandra|their god]], and speaks to her briefly about how they feel bitter about their brother's death - despite understanding logically that there's a reason for everything - and asks if they can bring him back one day and if there's an afterlife.
 	- Notably, when Avandra speaks, she has both a man's and a woman's voice
-- Upon asking about the existence of an afterlife, their surroundings seem to *glitch* and Avandra is replaced with a [[The Father (Maybe)|pale figure]]
+- Upon asking about the existence of an afterlife, their surroundings seem to *glitch* and Avandra is replaced with a [[The Father|pale figure]]
 	- The figure is able to silence Camille at will
 	- The figure claims:
 		- That divinity is easy to bypass once one understands the fundamentals

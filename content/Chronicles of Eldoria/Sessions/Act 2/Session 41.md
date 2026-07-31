@@ -137,22 +137,22 @@
 		- Moving the crystal away from the table makes the lights dim down
 		- We realize that the lights likely correspond to places in Solmara, and pull out a map of the world
 - We all realize - at the same time - that we need to rotate the crystal in a certain direction. As we do, the lights fall on the map in a particular manner
-	- One shines hte brightest at the island we're currently at
+	- One shines the brightest at the island we're currently at
 	- The others point:
 		- To Langston
 		- Silvanour
 		- The large island right off of Eldoria (Nexus)
 		- Off the coast of Umbravael
 		- North of Braldurak
-
-(Subheader:)
-- Note down remaining locations of where beams land (where CJ has said)
-- We presume they are leading to the shapes; specifically one of them is in the underdark by by the statue of Amadeous
-- There are seven beams
-- Ozwin comes downstairs oiled up (need him)
-- He states that he's been doing more research, and they essentially told him to break his spirit that they already knew where one of the pieces was.'
-(Subheader:)
-- Quen asks Kade to come downstairs, they have an 
+		- Another off the coast of Braldurak
+	- There are **seven beams in total**
+	- We presume they are leading to the shapes; specifically one of them is in the Underdark by by the statue of Amadeus
+		- **Izzie Note:** This likely means that the *seventh and final beam points to Eldoria itself*.
+- Ozwin comes downstairs
+	- He states that he's been doing more research
+	- "they essentially told him to break his spirit that they already knew where one of the pieces was.'"
+		- **Izzie Note:** I handed off note-taking responsibility to someone else for this section, so I have no idea what this means :(
+- Quén asks Kade to come downstairs, they have an *\[notes cut off here\]*
 
 ### What Ozwin Finds
 - When he casts <span style="color:rgb(197, 124, 22)">Legend Lore</span>, Ozwin determines that Kaya's crystal is called the <span style="color:rgb(197, 124, 22)">"Crystal of Seeking"</span>
